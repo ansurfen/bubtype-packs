@@ -1,0 +1,314 @@
+{
+  "manifest": {
+    "id": "rant-workplace",
+    "title": "职场吐槽",
+    "version": "1.0.0",
+    "description": "加班、开会、KPI 与无效对齐：职场英语短句",
+    "lemmaCount": 60,
+    "source": "official",
+    "glossLang": "zh",
+    "lang": "en"
+  },
+  "items": [
+    {
+      "text": "Another meeting that could have been an email.",
+      "hint": "又是一场本可以发邮件的会议。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My calendar is a wall of back-to-back calls.",
+      "hint": "我的日程被一场接一场的会堵死了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The deadline moved up, but the scope did not shrink.",
+      "hint": "截止日期提前了，范围却一点没缩。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I fixed the bug, then someone renamed the file.",
+      "hint": "我修好了 bug，然后有人把文件改名了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Please stop tagging me on every Slack thread.",
+      "hint": "别再每个 Slack 线程都 @ 我了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We pivoted again before lunch.",
+      "hint": "午饭前我们又转向了一次。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My standup update is longer than the stand-up.",
+      "hint": "我的站会更新比站会本身还长。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The KPI looks green until you open the sheet.",
+      "hint": "KPI 看着是绿的，直到你打开表格。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I am not anti-process; I am anti-busywork.",
+      "hint": "我不是反对流程，我是反对无效忙碌。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Can we decide something without another workshop?",
+      "hint": "我们能不能不开工作坊就做个决定？",
+      "kind": "sentence"
+    },
+    {
+      "text": "The slide deck has thirty pages and one idea.",
+      "hint": "这份 PPT 三十页，却只有一个观点。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I already answered that in the last message.",
+      "hint": "我上一条消息已经回答过了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Remote work is fine until every chat becomes urgent.",
+      "hint": "远程挺好的，直到每条聊天都变紧急。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My manager wants ownership without authority.",
+      "hint": "老板要我背锅，却不给我权限。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The ticket says easy; the code says otherwise.",
+      "hint": "工单写着简单，代码不这么认为。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We shipped Friday and spent Monday on hotfixes.",
+      "hint": "周五上线，周一全在修线上。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I muted the channel and nothing exploded.",
+      "hint": "我静音了那个频道，世界也没塌。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Please read the doc before asking the same question.",
+      "hint": "提问前请先把文档读完。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The roadmap is a wishlist with dates.",
+      "hint": "所谓路线图，就是带日期的许愿清单。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I am offline for focus time, not for drama.",
+      "hint": "我离线是为了专注，不是为了演戏。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Another all-hands with no room for questions.",
+      "hint": "又一场不给人提问时间的全员会。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The feedback is vague, but the rating is low.",
+      "hint": "反馈很模糊，评分却很低。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We optimized for optics, not outcomes.",
+      "hint": "我们优化的是观感，不是结果。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My to-do list grows faster than my paycheck.",
+      "hint": "待办增长比工资快。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I CC everyone so nobody can claim they never saw it.",
+      "hint": "我抄送所有人，省得有人说没看见。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The design is approved until the demo.",
+      "hint": "设计已经过了，直到演示那天。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Please stop moving my deadlines in the chat.",
+      "hint": "别在聊天里偷偷改我的截止日期。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We need alignment, which means three more meetings.",
+      "hint": "需要对齐，也就是再说开三场会。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I documented it twice; people still ask me live.",
+      "hint": "我写了两遍文档，大家还是当面来问。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The urgency is fake; the overtime is real.",
+      "hint": "紧急是假的，加班是真的。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My laptop battery dies before the last call ends.",
+      "hint": "最后一场会还没完，电脑电先没了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We hired a consultant to tell us what we knew.",
+      "hint": "我们请了顾问，告诉我们已知的事。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The shared drive is a museum of old versions.",
+      "hint": "共享盘是旧版本博物馆。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I prefer clear no over soft maybe.",
+      "hint": "我宁愿要明确的不，也不要软绵绵的也许。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sprint goal changed mid-sprint. Again.",
+      "hint": "冲刺目标在半途又改了。又一次。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My calendar invite has no agenda and twelve people.",
+      "hint": "会议邀请没有议程，却有十二个人。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We celebrate busyness like it is a skill.",
+      "hint": "我们把忙碌当作成就来庆祝。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I archived the thread; the problem remained.",
+      "hint": "我归档了线程，问题还在。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Please ping with context, not just hey.",
+      "hint": "麻烦带上背景再 ping，别只发个 hey。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The promotion cycle is a mystery novel.",
+      "hint": "晋升周期像一本悬疑小说。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I reused last quarter slides with new dates.",
+      "hint": "我把上季度的幻灯片换了日期继续用。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The blocker is waiting on someone who is on leave.",
+      "hint": "卡点在等一个请假的人。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We measure everything except what matters.",
+      "hint": "我们什么都量，除了真正重要的。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My headphones are the only office perk I trust.",
+      "hint": "耳机是我唯一信得过的办公福利。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The policy PDF is longer than the product.",
+      "hint": "政策 PDF 比产品本身还长。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I said no, and somehow it became a follow-up.",
+      "hint": "我说了不，结果变成了跟进事项。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The quiet hours end when leadership types.",
+      "hint": "领导一打字，静音时段就结束了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We need headcount, not another brainstorm.",
+      "hint": "我们需要人手，不是又一场头脑风暴。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My best work happens between cancelled meetings.",
+      "hint": "我最好的工作，发生在被取消的会议之间。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Please stop calling everything a quick sync.",
+      "hint": "别什么都叫「快速同步」了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The OKR is ambitious; the resources are not.",
+      "hint": "OKR 很雄心，资源却跟不上。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I fixed production with a one-line change and a long night.",
+      "hint": "一行改动修好了生产，却耗掉一整夜。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The office snacks improved; the priorities did not.",
+      "hint": "零食变好了，优先级没有。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We talk about culture when retention drops.",
+      "hint": "留存一掉，我们就开始谈文化。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My status is busy, which somehow means available.",
+      "hint": "状态显示忙碌，大家却当我在线。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The launch date is firm until it is not.",
+      "hint": "上线日期很确定，直到它不确定。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I prefer async updates over performative presence.",
+      "hint": "我更喜欢异步更新，而不是表演式在线。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The ticket bounced between three teams and landed on me.",
+      "hint": "工单在三个团队间弹来弹去，最后落到我。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We need fewer tools and clearer owners.",
+      "hint": "我们需要更少工具、更清晰的负责人。",
+      "kind": "sentence"
+    },
+    {
+      "text": "End of day, and my inbox still thinks it is morning.",
+      "hint": "一天结束了，收件箱还以为是早上。",
+      "kind": "sentence"
+    }
+  ]
+}

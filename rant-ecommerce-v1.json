@@ -1,0 +1,314 @@
+{
+  "manifest": {
+    "id": "rant-ecommerce",
+    "title": "电商人吐槽",
+    "version": "1.0.0",
+    "description": "广告、退货、活动与平台费：电商运营英语短句",
+    "lemmaCount": 60,
+    "source": "official",
+    "glossLang": "zh",
+    "lang": "en"
+  },
+  "items": [
+    {
+      "text": "The ad spend is up; the conversion is on vacation.",
+      "hint": "广告花费上去了，转化去休假了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I optimized the listing and the algorithm ignored me.",
+      "hint": "我优化了详情页，算法无视了我。",
+      "kind": "sentence"
+    },
+    {
+      "text": "A one-star review arrived faster than the delivery.",
+      "hint": "一星评价比物流还快。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My bestseller is out of stock at the worst time.",
+      "hint": "爆款在最糟的时候断货了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The platform fee found a new way to surprise me.",
+      "hint": "平台费用又找到新方式惊吓我。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I replied to the buyer with kindness and a coupon.",
+      "hint": "我好声好气回了买家，还送了优惠券。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The return reason was does not match photo, again.",
+      "hint": "退货原因又是与图片不符。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My SKU list is longer than my sleep schedule.",
+      "hint": "SKU 列表比我的睡眠更长。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The promotion calendar is a trap with pretty banners.",
+      "hint": "大促日历是个带着漂亮 banner 的陷阱。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I restocked just in time for a policy change.",
+      "hint": "我补完货，政策就变了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The warehouse says shipped; the buyer says where.",
+      "hint": "仓库说已发货，买家说货呢。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My ad creative won clicks and lost margins.",
+      "hint": "素材赢了点击，输了毛利。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I A/B tested everything except my patience.",
+      "hint": "我 A/B 测了一切，除了耐心。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The chargeback came after a five-star honeymoon.",
+      "hint": "蜜月期五星过后，拒付来了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My supplier delayed and my campaign did not wait.",
+      "hint": "供应商延误了，活动档期不等我。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I priced to compete and forgot to profit.",
+      "hint": "我为竞争定了价，忘了盈利。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The customer wants custom packaging for a low-ticket item.",
+      "hint": "低客单商品，顾客却要定制包装。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My inventory is stuck in the wrong fulfillment center.",
+      "hint": "库存卡在了错误的履约仓。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I boosted the post and boosted my regrets.",
+      "hint": "我投流了帖子，也投流了后悔。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The size chart was clear; the dispute was not.",
+      "hint": "尺码表很清楚，纠纷不清楚。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My best traffic day crashed the checkout page.",
+      "hint": "流量最好的那天，结算页崩了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I live for same-day replies and die by midnight tickets.",
+      "hint": "我为当日回复而活，被午夜工单耗死。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The influencer deal bought exposure without orders.",
+      "hint": "达人合作买来了曝光，没有订单。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My competitor copied the photo and undercut the price.",
+      "hint": "竞品抄了图还压了价。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I updated the title for SEO and confused humans.",
+      "hint": "为了 SEO 改标题，把人搞懵了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The holiday surge needs staff I cannot find.",
+      "hint": "节日高峰需要我找不到的人手。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My packaging is eco-friendly; shipping damage is not.",
+      "hint": "包装很环保，运输损坏不环保。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I scaled ads and scaled the bad creative too.",
+      "hint": "放量广告的同时，也放量了烂素材。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The buyer wants a refund and to keep the item.",
+      "hint": "买家想退款还想留着商品。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My dashboard is green until I filter by profit.",
+      "hint": "看板一片绿，直到按利润筛选。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I negotiated MOQ and still over-ordered.",
+      "hint": "我谈完起订量，还是订多了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The category ban arrived without a useful reason.",
+      "hint": "类目限制来了，理由却没用。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My customer service script is nicer than I feel.",
+      "hint": "客服话术比我真实心情客气。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I launched a bundle and sold the wrong combination.",
+      "hint": "我上了套装，卖成了错误组合。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The tracking number exists in a parallel universe.",
+      "hint": "物流单号存在于平行宇宙。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I paid for placement and got a weekend of silence.",
+      "hint": "我买了资源位，换来一个安静周末。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My returns pile looks like a second warehouse.",
+      "hint": "退货堆得像第二个仓库。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I fixed the PDP and traffic went elsewhere.",
+      "hint": "我修好了详情页，流量去了别处。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The voucher ate the margin I planned carefully.",
+      "hint": "优惠券吃掉了我精打细算的毛利。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I trust metrics until the attribution model changes.",
+      "hint": "归因模型一变，我就不信数据了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My supplier quality slipped after the second order.",
+      "hint": "第二单之后，供应商质量就滑了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I scheduled posts and forgot the timezone.",
+      "hint": "我排了内容，却忘了时区。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The peak season fee arrived with peak season pain.",
+      "hint": "旺季附加费和旺季痛苦一起来。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I offered free shipping and paid for it myself.",
+      "hint": "我提供包邮，自己买单。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My brand story is strong; the algorithm wants short video.",
+      "hint": "品牌故事很强，算法只想要短视频。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I opened a new channel and inherited new problems.",
+      "hint": "我开了新渠道，继承了新问题。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sample looked perfect; the bulk did not.",
+      "hint": "样品完美，大货不完美。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I chased ranking and lost the plot on product.",
+      "hint": "我追排名，丢掉了产品主线。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My refund policy is clear until a VIP complains.",
+      "hint": "退款政策一直清晰，直到 VIP 投诉。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I restocked bestsellers and sat on the slow movers.",
+      "hint": "我补了爆款，慢销品还在压仓。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The live stream sold out the wrong colorway.",
+      "hint": "直播卖掉了错误色号。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I negotiated CPA and still paid for bots.",
+      "hint": "我谈了 CPA，还是给机器人付了钱。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My warehouse overtime invoice arrived before the sales report.",
+      "hint": "仓库加班账单比销售报告先到。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I A/B tested price and trained buyers to wait.",
+      "hint": "我测了价格，把买家训练得会等折扣。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The platform support ticket is a message in a bottle.",
+      "hint": "平台工单像漂流瓶。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I built a brand and still live by search ads.",
+      "hint": "我做了品牌，却还靠搜索广告活着。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My COD orders converted well and returned better.",
+      "hint": "货到付款转化好，退货更好。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I updated inventory sync and created a double-sell.",
+      "hint": "库存同步一更新，超卖就来了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The creative fatigue hit before my caffeine did.",
+      "hint": "素材疲劳比咖啡因来得更早。",
+      "kind": "sentence"
+    },
+    {
+      "text": "End of day, and the orders keep teaching me humility.",
+      "hint": "一天结束了，订单还在教我谦逊。",
+      "kind": "sentence"
+    }
+  ]
+}

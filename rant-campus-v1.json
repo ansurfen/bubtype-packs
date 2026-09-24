@@ -1,0 +1,314 @@
+{
+  "manifest": {
+    "id": "rant-campus",
+    "title": "校园吐槽",
+    "version": "1.0.0",
+    "description": "考试、小组作业、宿舍与选课：校园英语短句",
+    "lemmaCount": 60,
+    "source": "official",
+    "glossLang": "zh",
+    "lang": "en"
+  },
+  "items": [
+    {
+      "text": "The midterm is next week and the slides are incomplete.",
+      "hint": "下周期中，课件却还不完整。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Group projects are unpaid management training.",
+      "hint": "小组作业是无偿的管理培训。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I reserved a library seat and lost it in five minutes.",
+      "hint": "我占了图书馆座位，五分钟就没了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The cafeteria line is longer than my attention span.",
+      "hint": "食堂队伍比我的注意力还长。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My roommate treats midnight like lunchtime.",
+      "hint": "室友把午夜当午餐时间。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The professor said optional reading; the exam disagreed.",
+      "hint": "老师说选读，考试不这么认为。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I joined a club for fun and got a second calendar.",
+      "hint": "我为了好玩加入社团，结果多了一份日程。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The Wi-Fi dies right before I submit.",
+      "hint": "我要提交的前一秒 Wi-Fi 挂了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Office hours are when every student discovers questions.",
+      "hint": "答疑时间一到，所有人都突然有问题。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My GPA cares more than my sleep schedule.",
+      "hint": "GPA 比我的睡眠更在乎我。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The dorm dryer ate another sock.",
+      "hint": "宿舍烘干机又吃了一只袜子。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I printed the wrong PDF for the presentation.",
+      "hint": "演示时我打印错了 PDF。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campus map looks simple until you are late.",
+      "hint": "校地图看着简单，直到你快迟到。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Peer review means polite confusion in comments.",
+      "hint": "互评就是评论里客气的困惑。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The lecture is recorded, so attendance became optional guilt.",
+      "hint": "课录了，出勤变成可选的愧疚。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I bought the textbook I will never open again.",
+      "hint": "我买了本再也不会打开的教材。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The lab report template fights with my figures.",
+      "hint": "实验报告模板和我的图打架。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My scholarship email arrived after I panicked.",
+      "hint": "奖学金邮件在我慌完之后才到。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The internship portal crashed on deadline day.",
+      "hint": "实习系统在截止日期当天崩了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I studied the wrong chapter with perfect focus.",
+      "hint": "我全神贯注复习了错误的章节。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The bus to campus is late when it rains.",
+      "hint": "一下雨，去学校的公交就晚点。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My notes are complete; my understanding is not.",
+      "hint": "笔记齐全，理解却没有。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The group chat is active; the work is not.",
+      "hint": "群聊很活跃，活儿不活跃。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I need a quiet room and found a karaoke club instead.",
+      "hint": "我想找安静教室，却走进了卡拉 OK 社。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The final is cumulative, which means everything forever.",
+      "hint": "期末是累积考，意思是永远的一切。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I registered for classes and got a waiting-list lifestyle.",
+      "hint": "选课结果变成候补人生。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The coffee on campus is expensive and still weak.",
+      "hint": "学校咖啡又贵又淡。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My thesis outline has more versions than results.",
+      "hint": "论文大纲版本比结果还多。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The printer only jams for important forms.",
+      "hint": "打印机专挑重要表格卡纸。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I joined office hours and left with more homework.",
+      "hint": "去了答疑，带回了更多作业。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The syllabus says flexible; the rubric says strict.",
+      "hint": "大纲说灵活，评分细则说严格。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My backpack is a portable filing cabinet.",
+      "hint": "我的背包是便携文件柜。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The guest lecture was inspiring and ungraded, so empty.",
+      "hint": "嘉宾讲座很励志又不计分，所以很空。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I swapped night owl hours for morning exams.",
+      "hint": "我拿夜猫子作息去换早场考试。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campus app has five menus for one task.",
+      "hint": "校园 App 一个任务要五个菜单。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My elective became the hardest class by accident.",
+      "hint": "选修课意外成了最难的课。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The rain started exactly when class ended.",
+      "hint": "刚好一下课就下雨。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I need three signatures and found one office open.",
+      "hint": "我需要三个签字，只找到一个办公室开门。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The study group turned into a gossip group.",
+      "hint": "学习小组变成了八卦小组。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My presentation clicker died mid-sentence.",
+      "hint": "演示翻页笔讲到一半没电了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The dining hall calls it fusion; I call it mystery.",
+      "hint": "食堂叫融合菜，我叫神秘料理。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I booked a tutor and then understood the question too late.",
+      "hint": "约了家教，问题却理解得太晚。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The research survey needs fifty responses by tonight.",
+      "hint": "调研问卷今晚前要五十份回复。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My campus ID photo looks like a hostage photo.",
+      "hint": "校园卡照片像人质照。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The library fine is longer than the overdue days.",
+      "hint": "图书馆罚款天数比逾期还长。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I packed for a week and stayed for a day trip mindset.",
+      "hint": "我按一周收拾行李，却过着一日游心态。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The lecture hall AC makes summer feel like winter.",
+      "hint": "阶梯教室空调把夏天吹成冬天。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My graduation checklist has one more surprise form.",
+      "hint": "毕业清单总还有一张意外表格。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I came for knowledge and stayed for the free pizza.",
+      "hint": "我为知识而来，为免费披萨留下。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campus pigeon has better lunch plans than me.",
+      "hint": "校园鸽子的午餐计划比我强。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I refreshed the grade portal like it is a stock app.",
+      "hint": "我刷成绩系统像刷股票软件。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The roommate agreement failed at dish duty.",
+      "hint": "室友公约在洗碗环节破产了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My campus tour guide walked faster than my schedule.",
+      "hint": "校园导览走得比我的日程还快。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I need sleep, caffeine, and one more extension.",
+      "hint": "我需要睡眠、咖啡因，再加一次延期。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The alumni talk said hustle; my wallet said internship.",
+      "hint": "校友讲座谈拼搏，我的钱包谈实习。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I lost my umbrella to the campus weather gods again.",
+      "hint": "我的伞又献给了校园天气之神。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The class participation grade rewards the loudest take.",
+      "hint": "课堂参与分奖励声音最大的观点。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My planner is color-coded and still ignored.",
+      "hint": "计划本涂满颜色，依然被无视。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I studied abroad in the library basement this semester.",
+      "hint": "这学期我在图书馆地下室「留学」。",
+      "kind": "sentence"
+    },
+    {
+      "text": "End of term, and my brain filed for vacation.",
+      "hint": "学期末了，大脑申请放假。",
+      "kind": "sentence"
+    }
+  ]
+}

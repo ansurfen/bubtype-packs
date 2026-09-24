@@ -1,0 +1,314 @@
+{
+  "manifest": {
+    "id": "rant-invest",
+    "title": "投资吐槽",
+    "version": "1.0.0",
+    "description": "抄底、回撤、FOMO 与复盘：投资英语短句",
+    "lemmaCount": 60,
+    "source": "official",
+    "glossLang": "zh",
+    "lang": "en"
+  },
+  "items": [
+    {
+      "text": "I bought the dip and the dip kept dipping.",
+      "hint": "我抄底了，底却还在跌。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My portfolio is diversified across different shades of red.",
+      "hint": "我的组合分散在不同深浅的红色里。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The influencer called it easy money yesterday.",
+      "hint": "网红昨天还管这叫轻松赚钱。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I checked prices again and nothing useful changed.",
+      "hint": "我又看了一眼行情，没什么有用的变化。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Paper hands is what I call my past self.",
+      "hint": "纸手，说的就是过去的我。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The earnings call said strong; the chart said run.",
+      "hint": "业绩会说强劲，图表说快跑。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I set a stop-loss and watched it get hunted.",
+      "hint": "我设了止损，然后看着它被打掉。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My hot tip cooled down before I could act.",
+      "hint": "热门内幕还没等我动手就凉了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I confused volatility with opportunity again.",
+      "hint": "我又把波动当成了机会。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The index is fine; my stock picks are not.",
+      "hint": "指数没事，我的选股有事。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I dollar-cost averaged into a lesson.",
+      "hint": "定投进去的是一堂课。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My risk tolerance drops after every candle.",
+      "hint": "每根 K 线后，我的风险承受力都下降。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I read three theses and followed none of them.",
+      "hint": "我读了三篇逻辑，一条都没执行。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The FOMO hit harder than the fee schedule.",
+      "hint": "FOMO 比手续费表还狠。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I sold for peace of mind and bought regret.",
+      "hint": "我为安心卖出，买回了后悔。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My watchlist is longer than my conviction list.",
+      "hint": "观察名单比信念名单长。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The macro story changes every news cycle.",
+      "hint": "宏观故事每个新闻周期都变。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I hedged late and paid for the privilege.",
+      "hint": "我对冲晚了，还为晚付了学费。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Green days feel genius; red days feel educational.",
+      "hint": "绿的时候像天才，红的时候像上课。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I checked Twitter before the financials. Mistake.",
+      "hint": "我先看推特再看财报。失误。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My rebalance plan waited for a perfect entry forever.",
+      "hint": "再平衡计划永远在等完美入场点。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The dividend looked nice until I did the math.",
+      "hint": "股息看着不错，直到我算了一下。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I confuse busy trading with actual strategy.",
+      "hint": "我把忙碌交易当成了真正策略。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The bull case needs three miracles and good luck.",
+      "hint": "多头逻辑需要三个奇迹再加运气。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I muted price alerts and still refreshed the app.",
+      "hint": "我关了价格提醒，却还是刷新 App。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My long-term thesis lasted three weekends.",
+      "hint": "我的长期逻辑活了三个周末。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I bought quality and forgot about timing.",
+      "hint": "我买了优质标的，忘了时机。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The cash position feels smart until the rally starts.",
+      "hint": "持有现金在上涨开始前都很聪明。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I journaled the trade after the damage was done.",
+      "hint": "亏损发生后，我才写交易日志。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My leverage lesson was expensive and clear.",
+      "hint": "杠杆这一课又贵又清楚。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I followed smart money and arrived last.",
+      "hint": "我跟着聪明钱，结果到得最晚。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sector rotation spun me in circles.",
+      "hint": "板块轮动把我转晕了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I wanted alpha and got tracking error.",
+      "hint": "我想要超额收益，得到了跟踪误差。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My options expired with optimism intact.",
+      "hint": "期权到期了，乐观还在。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I average down until the story changes, then panic.",
+      "hint": "故事变之前我摊低成本，然后恐慌。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The conference keynote was bullish; my account was not.",
+      "hint": "大会演讲很看多，我的账户不。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I confuse a good company with a good entry.",
+      "hint": "我把好公司和好买点搞混了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My backtest ignored fees, spreads, and emotions.",
+      "hint": "回测忽略了费用、点差和情绪。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I waited for confirmation and missed the move.",
+      "hint": "我等确认信号，错过了行情。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The inflation trade worked until it did not.",
+      "hint": "抗通胀交易一直有效，直到失效。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I treat every bounce like a new bull market.",
+      "hint": "我把每次反弹都当新牛市。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My due diligence was a thread and a vibe.",
+      "hint": "我的尽调是一条帖子和一种感觉。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I rebalanced by selling winners too early.",
+      "hint": "我通过过早卖掉赢家来再平衡。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The overnight gap taught me about sleeping.",
+      "hint": "隔夜跳空教会我什么叫睡觉。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I wanted passive income and got active anxiety.",
+      "hint": "我想要被动收入，得到了主动焦虑。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My conviction position became a hope position.",
+      "hint": "信念仓位变成了希望仓位。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I charted support and watched it become resistance.",
+      "hint": "我画出支撑，看着它变成阻力。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The newsletter said unique insight, weekly.",
+      "hint": "通讯说这是独特见解，每周都说。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I taxed my gains with bad behavior fees.",
+      "hint": "我用糟糕行为给收益额外征了税。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My portfolio review is mostly scrolling and sighing.",
+      "hint": "组合复盘主要是滑动和叹气。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I learned compounding works both ways.",
+      "hint": "我学会了复利是双向的。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The safe asset was boring until everything else screamed.",
+      "hint": "安全资产一直很无聊，直到别处都在尖叫。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I set rules sober and broke them at open.",
+      "hint": "冷静时定规则，开盘时打破。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My edge was patience; I spent it on clicks.",
+      "hint": "我的优势是耐心，却花在了点击上。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I wanted a ten-bagger and collected ten lessons.",
+      "hint": "我想要十倍股，收集了十堂课。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The liquidity vanished when I needed an exit.",
+      "hint": "我要离场时，流动性消失了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I confuse narrative with numbers after two coffees.",
+      "hint": "两杯咖啡后，我把叙事和数字搞混。",
+      "kind": "sentence"
+    },
+    {
+      "text": "My long-only strategy became long and wrong.",
+      "hint": "我的只做多策略变成又长又错。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I closed the app for peace and opened it for fear.",
+      "hint": "我为平静关掉 App，又因恐惧打开。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Markets can stay irrational longer than my patience.",
+      "hint": "市场保持非理性的时间，比我的耐心更长。",
+      "kind": "sentence"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "source": "https://github.com/ansurfen/bubtype-wordbooks",
+  "updatedAt": "2026-09-24",
+  "books": [
+    {
+      "id": "oxford-3000-zh",
+      "title": "Oxford 3000",
+      "version": "1.1.0",
+      "lang": "en",
+      "glossLang": "zh",
+      "lemmaCount": 2979,
+      "description": "牛津核心词表 · 中文释义",
+      "asset": "oxford-3000-zh-v1.json"
+    },
+    {
+      "id": "oxford-5000-zh",
+      "title": "Oxford 5000",
+      "version": "1.1.0",
+      "lang": "en",
+      "glossLang": "zh",
+      "lemmaCount": 4954,
+      "description": "牛津拓展词表 · 中文释义",
+      "asset": "oxford-5000-zh-v1.json"
+    },
+    {
+      "id": "oxford-3000-en",
+      "title": "Oxford 3000",
+      "version": "1.1.0",
+      "lang": "en",
+      "glossLang": "en",
+      "lemmaCount": 2979,
+      "description": "Oxford 3000 · English glosses",
+      "asset": "oxford-3000-en-v1.json"
+    },
+    {
+      "id": "oxford-5000-en",
+      "title": "Oxford 5000",
+      "version": "1.1.0",
+      "lang": "en",
+      "glossLang": "en",
+      "lemmaCount": 4954,
+      "description": "Oxford 5000 · English glosses",
+      "asset": "oxford-5000-en-v1.json"
+    },
+    {
+      "id": "oxford-3000-ja",
+      "title": "Oxford 3000",
+      "version": "1.1.0",
+      "lang": "en",
+      "glossLang": "ja",
+      "lemmaCount": 2979,
+      "description": "Oxford 3000 · 日本語訳",
+      "asset": "oxford-3000-ja-v1.json"
+    },
+    {
+      "id": "oxford-5000-ja",
+      "title": "Oxford 5000",
+      "version": "1.1.0",
+      "lang": "en",
+      "glossLang": "ja",
+      "lemmaCount": 4954,
+      "description": "Oxford 5000 · 日本語訳",
+      "asset": "oxford-5000-ja-v1.json"
+    },
+    {
+      "id": "rant-workplace",
+      "title": "职场吐槽",
+      "version": "1.0.0",
+      "lang": "en",
+      "glossLang": "zh",
+      "lemmaCount": 60,
+      "description": "加班、开会、KPI 与无效对齐：职场英语短句",
+      "asset": "rant-workplace-v1.json"
+    },
+    {
+      "id": "rant-campus",
+      "title": "校园吐槽",
+      "version": "1.0.0",
+      "lang": "en",
+      "glossLang": "zh",
+      "lemmaCount": 60,
+      "description": "考试、小组作业、宿舍与选课：校园英语短句",
+      "asset": "rant-campus-v1.json"
+    },
+    {
+      "id": "rant-invest",
+      "title": "投资吐槽",
+      "version": "1.0.0",
+      "lang": "en",
+      "glossLang": "zh",
+      "lemmaCount": 60,
+      "description": "抄底、回撤、FOMO 与复盘：投资英语短句",
+      "asset": "rant-invest-v1.json"
+    },
+    {
+      "id": "rant-ecommerce",
+      "title": "电商人吐槽",
+      "version": "1.0.0",
+      "lang": "en",
+      "glossLang": "zh",
+      "lemmaCount": 60,
+      "description": "广告、退货、活动与平台费：电商运营英语短句",
+      "asset": "rant-ecommerce-v1.json"
+    }
+  ]
+}
