@@ -1,43 +1,43 @@
-# bubtype-wordbooks
+﻿# bubtype-packs
 
-BubType 官方词书订阅源（catalog + packs）。
+BubType 瀹樻柟璇嶄功璁㈤槄婧愶紙catalog + packs锛夈€?
 
-## 订阅地址
+## 璁㈤槄鍦板潃
 
-发布 Release 后，在 BubType「发现 → 订阅源」添加：
-
-```text
-https://github.com/ansurfen/bubtype-wordbooks/releases/latest/download/catalog.json
-```
-
-开发时也可直接用 raw（不推荐生产）：
+鍙戝竷 Release 鍚庯紝鍦?BubType銆屽彂鐜?鈫?璁㈤槄婧愩€嶆坊鍔狅細
 
 ```text
-https://raw.githubusercontent.com/ansurfen/bubtype-wordbooks/main/catalog.json
+https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 ```
 
-> `catalog.json` 里的 `asset` 若是相对路径，客户端会相对 **catalog 所在目录** 解析。  
-> 用 Release 时，请把 `catalog.json` 与各 `*-v1.json` **放在同一个 Release 资源列表里**。
+寮€鍙戞椂涔熷彲鐩存帴鐢?raw锛堜笉鎺ㄨ崘鐢熶骇锛夛細
 
-## 当前书单
+```text
+https://raw.githubusercontent.com/ansurfen/bubtype-packs/main/catalog.json
+```
 
-| id | 说明 |
+> `catalog.json` 閲岀殑 `asset` 鑻ユ槸鐩稿璺緞锛屽鎴风浼氱浉瀵?**catalog 鎵€鍦ㄧ洰褰?* 瑙ｆ瀽銆? 
+> 鐢?Release 鏃讹紝璇锋妸 `catalog.json` 涓庡悇 `*-v1.json` **鏀惧湪鍚屼竴涓?Release 璧勬簮鍒楄〃閲?*銆?
+
+## 褰撳墠涔﹀崟
+
+| id | 璇存槑 |
 |---|---|
-| `oxford-3000-{zh,en,ja}` | Oxford 3000 核心词（释义语言分轨） |
-| `oxford-5000-{zh,en,ja}` | Oxford 5000 拓展词 |
-| `rant-workplace` | 职场吐槽 · 英文短句 / 中文提示 |
-| `rant-campus` | 校园吐槽 |
-| `rant-invest` | 投资吐槽 |
-| `rant-ecommerce` | 电商人吐槽 |
+| `oxford-3000-{zh,en,ja}` | Oxford 3000 鏍稿績璇嶏紙閲婁箟璇█鍒嗚建锛?|
+| `oxford-5000-{zh,en,ja}` | Oxford 5000 鎷撳睍璇?|
+| `rant-workplace` | 鑱屽満鍚愭Ы 路 鑻辨枃鐭彞 / 涓枃鎻愮ず |
+| `rant-campus` | 鏍″洯鍚愭Ы |
+| `rant-invest` | 鎶曡祫鍚愭Ы |
+| `rant-ecommerce` | 鐢靛晢浜哄悙妲?|
 
-吐槽系列为 **BubType 原创例句**（可打字练习），不是抓取社交媒体。
+鍚愭Ы绯诲垪涓?**BubType 鍘熷垱渚嬪彞**锛堝彲鎵撳瓧缁冧範锛夛紝涓嶆槸鎶撳彇绀句氦濯掍綋銆?
 
-## 格式
+## 鏍煎紡
 
-- `catalog.json`：书单清单（Clash 式订阅入口）
-- `*-v1.json`：词书包（`manifest` + `items` 句子，或 Oxford 的 `lemmas`/`entries`）
+- `catalog.json`锛氫功鍗曟竻鍗曪紙Clash 寮忚闃呭叆鍙ｏ級
+- `*-v1.json`锛氳瘝涔﹀寘锛坄manifest` + `items` 鍙ュ瓙锛屾垨 Oxford 鐨?`lemmas`/`entries`锛?
 
 ## License
 
-- 吐槽句包：BubType original content
-- Oxford 词表：基于 Oxford 3000 / 5000 learner word lists；释义与例句整理自学习用途资源，若商用请自行核对 OUP 条款
+- 鍚愭Ы鍙ュ寘锛欱ubType original content
+- Oxford 璇嶈〃锛氬熀浜?Oxford 3000 / 5000 learner word lists锛涢噴涔変笌渚嬪彞鏁寸悊鑷涔犵敤閫旇祫婧愶紝鑻ュ晢鐢ㄨ鑷鏍稿 OUP 鏉℃
