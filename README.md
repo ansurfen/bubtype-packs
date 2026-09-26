@@ -1,43 +1,32 @@
-﻿# bubtype-packs
+﻿<p align="center">
+  <img src="assets/logo.png" width="96" alt="BubType logo" />
+</p>
 
-BubType 瀹樻柟璇嶄功璁㈤槄婧愶紙catalog + packs锛夈€?
+<h1 align="center">BubType Packs</h1>
 
-## 璁㈤槄鍦板潃
+<p align="center">
+  <a href="./docs/README.zh-CN.md">简体中文</a> ·
+  <a href="./docs/README.en.md">English</a> ·
+  <a href="./docs/README.zh-TW.md">繁體中文</a> ·
+  <a href="./docs/README.ja.md">日本語</a> ·
+  <a href="./docs/README.vi.md">Tiếng Việt</a> ·
+  <a href="./docs/README.id.md">Bahasa Indonesia</a>
+</p>
 
-鍙戝竷 Release 鍚庯紝鍦?BubType銆屽彂鐜?鈫?璁㈤槄婧愩€嶆坊鍔狅細
+<p align="center"><strong>官方桌面安装包与学习内容源。</strong></p>
 
-```text
-https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
-```
+<p align="center">
+  <a href="https://bubtype.com">官网</a> ·
+  <a href="https://github.com/ansurfen/bubtype-packs/releases">Releases</a> ·
+  <a href="./docs/README.zh-CN.md">完整说明</a> ·
+  <a href="./LICENSE">License</a>
+</p>
 
-寮€鍙戞椂涔熷彲鐩存帴鐢?raw锛堜笉鎺ㄨ崘鐢熶骇锛夛細
+---
 
-```text
-https://raw.githubusercontent.com/ansurfen/bubtype-packs/main/catalog.json
-```
+BubType Packs 承载两件事：
 
-> `catalog.json` 閲岀殑 `asset` 鑻ユ槸鐩稿璺緞锛屽鎴风浼氱浉瀵?**catalog 鎵€鍦ㄧ洰褰?* 瑙ｆ瀽銆? 
-> 鐢?Release 鏃讹紝璇锋妸 `catalog.json` 涓庡悇 `*-v1.json` **鏀惧湪鍚屼竴涓?Release 璧勬簮鍒楄〃閲?*銆?
+1. **桌面安装包**（Windows / macOS）— 在 [Releases](https://github.com/ansurfen/bubtype-packs/releases) 下载  
+2. **词书与句包订阅源** — 在 App「发现 → 订阅源」添加官方 catalog
 
-## 褰撳墠涔﹀崟
-
-| id | 璇存槑 |
-|---|---|
-| `oxford-3000-{zh,en,ja}` | Oxford 3000 鏍稿績璇嶏紙閲婁箟璇█鍒嗚建锛?|
-| `oxford-5000-{zh,en,ja}` | Oxford 5000 鎷撳睍璇?|
-| `rant-workplace` | 鑱屽満鍚愭Ы 路 鑻辨枃鐭彞 / 涓枃鎻愮ず |
-| `rant-campus` | 鏍″洯鍚愭Ы |
-| `rant-invest` | 鎶曡祫鍚愭Ы |
-| `rant-ecommerce` | 鐢靛晢浜哄悙妲?|
-
-鍚愭Ы绯诲垪涓?**BubType 鍘熷垱渚嬪彞**锛堝彲鎵撳瓧缁冧範锛夛紝涓嶆槸鎶撳彇绀句氦濯掍綋銆?
-
-## 鏍煎紡
-
-- `catalog.json`锛氫功鍗曟竻鍗曪紙Clash 寮忚闃呭叆鍙ｏ級
-- `*-v1.json`锛氳瘝涔﹀寘锛坄manifest` + `items` 鍙ュ瓙锛屾垨 Oxford 鐨?`lemmas`/`entries`锛?
-
-## License
-
-- 鍚愭Ы鍙ュ寘锛欱ubType original content
-- Oxford 璇嶈〃锛氬熀浜?Oxford 3000 / 5000 learner word lists锛涢噴涔変笌渚嬪彞鏁寸悊鑷涔犵敤閫旇祫婧愶紝鑻ュ晢鐢ㄨ鑷鏍稿 OUP 鏉℃
+完整说明（含书单、格式、许可边界）见 **[docs/README.zh-CN.md](./docs/README.zh-CN.md)**。其他语言请点上方切换。
