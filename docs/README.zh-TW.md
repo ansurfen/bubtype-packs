@@ -60,6 +60,12 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | `rant-campus` | 校園吐槽 |
 | `rant-invest` | 投資吐槽 |
 | `rant-ecommerce` | 電商人吐槽 |
+| `fr-core-a1-zh` | 法語 A1 核心 |
+| `fr-daily-a1-zh` | 法語日常 A1（詞+句） |
+| `zh-daily-a1` | 中文日常 A1（詞+句 / 拼音） |
+| `ja-daily-a1` | 日語日常 A1（詞+句 / 羅馬字） |
+| `ko-daily-a1-zh` | 韓語日常 A1（詞+句 / 羅馬音） |
+| `es-daily-a1-zh` | 西語日常 A1（詞+句） |
 
 吐槽系列為 **BubType 原創例句**，非抓取社群貼文。
 

@@ -1,0 +1,398 @@
+{
+  "manifest": {
+    "id": "fr-daily-a1-zh",
+    "title": "法语日常 A1",
+    "version": "1.0.0",
+    "lang": "fr",
+    "glossLang": "zh",
+    "source": "curated-a1",
+    "lemmaCount": 64,
+    "description": "法语入门词句 · 中文释义（配合核心词表）"
+  },
+  "items": [
+    {
+      "text": "bonjour",
+      "hint": "你好",
+      "kind": "phrase",
+      "spell": "bonjour"
+    },
+    {
+      "text": "merci",
+      "hint": "谢谢",
+      "kind": "phrase",
+      "spell": "merci"
+    },
+    {
+      "text": "de rien",
+      "hint": "不客气",
+      "kind": "phrase",
+      "spell": "de rien"
+    },
+    {
+      "text": "pardon",
+      "hint": "对不起",
+      "kind": "phrase",
+      "spell": "pardon"
+    },
+    {
+      "text": "s'il vous plaît",
+      "hint": "请",
+      "kind": "phrase",
+      "spell": "s'il vous plait"
+    },
+    {
+      "text": "oui",
+      "hint": "是",
+      "kind": "phrase",
+      "spell": "oui"
+    },
+    {
+      "text": "non",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "non"
+    },
+    {
+      "text": "au revoir",
+      "hint": "再见",
+      "kind": "phrase",
+      "spell": "au revoir"
+    },
+    {
+      "text": "bonsoir",
+      "hint": "晚上好",
+      "kind": "phrase",
+      "spell": "bonsoir"
+    },
+    {
+      "text": "bonne nuit",
+      "hint": "晚安",
+      "kind": "phrase",
+      "spell": "bonne nuit"
+    },
+    {
+      "text": "eau",
+      "hint": "水",
+      "kind": "phrase",
+      "spell": "eau"
+    },
+    {
+      "text": "café",
+      "hint": "咖啡",
+      "kind": "phrase",
+      "spell": "cafe"
+    },
+    {
+      "text": "pain",
+      "hint": "面包",
+      "kind": "phrase",
+      "spell": "pain"
+    },
+    {
+      "text": "ami",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "ami"
+    },
+    {
+      "text": "famille",
+      "hint": "家人",
+      "kind": "phrase",
+      "spell": "famille"
+    },
+    {
+      "text": "école",
+      "hint": "学校",
+      "kind": "phrase",
+      "spell": "ecole"
+    },
+    {
+      "text": "travail",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "travail"
+    },
+    {
+      "text": "maison",
+      "hint": "家",
+      "kind": "phrase",
+      "spell": "maison"
+    },
+    {
+      "text": "aujourd'hui",
+      "hint": "今天",
+      "kind": "phrase",
+      "spell": "aujourd'hui"
+    },
+    {
+      "text": "demain",
+      "hint": "明天",
+      "kind": "phrase",
+      "spell": "demain"
+    },
+    {
+      "text": "hier",
+      "hint": "昨天",
+      "kind": "phrase",
+      "spell": "hier"
+    },
+    {
+      "text": "temps",
+      "hint": "时间；天气",
+      "kind": "phrase",
+      "spell": "temps"
+    },
+    {
+      "text": "personne",
+      "hint": "人",
+      "kind": "phrase",
+      "spell": "personne"
+    },
+    {
+      "text": "nom",
+      "hint": "名字",
+      "kind": "phrase",
+      "spell": "nom"
+    },
+    {
+      "text": "France",
+      "hint": "法国",
+      "kind": "phrase",
+      "spell": "France"
+    },
+    {
+      "text": "Chine",
+      "hint": "中国",
+      "kind": "phrase",
+      "spell": "Chine"
+    },
+    {
+      "text": "anglais",
+      "hint": "英语",
+      "kind": "phrase",
+      "spell": "anglais"
+    },
+    {
+      "text": "français",
+      "hint": "法语",
+      "kind": "phrase",
+      "spell": "francais"
+    },
+    {
+      "text": "aimer",
+      "hint": "喜欢",
+      "kind": "phrase",
+      "spell": "aimer"
+    },
+    {
+      "text": "manger",
+      "hint": "吃",
+      "kind": "phrase",
+      "spell": "manger"
+    },
+    {
+      "text": "boire",
+      "hint": "喝",
+      "kind": "phrase",
+      "spell": "boire"
+    },
+    {
+      "text": "aller",
+      "hint": "去",
+      "kind": "phrase",
+      "spell": "aller"
+    },
+    {
+      "text": "venir",
+      "hint": "来",
+      "kind": "phrase",
+      "spell": "venir"
+    },
+    {
+      "text": "voir",
+      "hint": "看",
+      "kind": "phrase",
+      "spell": "voir"
+    },
+    {
+      "text": "écouter",
+      "hint": "听",
+      "kind": "phrase",
+      "spell": "ecouter"
+    },
+    {
+      "text": "parler",
+      "hint": "说",
+      "kind": "phrase",
+      "spell": "parler"
+    },
+    {
+      "text": "étudier",
+      "hint": "学习",
+      "kind": "phrase",
+      "spell": "etudier"
+    },
+    {
+      "text": "travailler",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "travailler"
+    },
+    {
+      "text": "toilettes",
+      "hint": "厕所",
+      "kind": "phrase",
+      "spell": "toilettes"
+    },
+    {
+      "text": "combien",
+      "hint": "多少",
+      "kind": "phrase",
+      "spell": "combien"
+    },
+    {
+      "text": "Il fait beau aujourd'hui",
+      "hint": "今天天气很好",
+      "kind": "sentence",
+      "spell": "Il fait beau aujourd'hui"
+    },
+    {
+      "text": "Je voudrais un café, s'il vous plaît",
+      "hint": "我想要一杯咖啡",
+      "kind": "sentence",
+      "spell": "Je voudrais un cafe, s'il vous plait"
+    },
+    {
+      "text": "Où est la gare ?",
+      "hint": "车站在哪里？",
+      "kind": "sentence",
+      "spell": "Ou est la gare ?"
+    },
+    {
+      "text": "Ouvrez la fenêtre, s'il vous plaît",
+      "hint": "请打开窗户",
+      "kind": "sentence",
+      "spell": "Ouvrez la fenetre, s'il vous plait"
+    },
+    {
+      "text": "Demain je vais au travail",
+      "hint": "明天去上班",
+      "kind": "sentence",
+      "spell": "Demain je vais au travail"
+    },
+    {
+      "text": "Ce livre est intéressant",
+      "hint": "这本书很有意思",
+      "kind": "sentence",
+      "spell": "Ce livre est interessant"
+    },
+    {
+      "text": "Parlez-vous français ?",
+      "hint": "你会说法语吗？",
+      "kind": "sentence",
+      "spell": "Parlez-vous francais ?"
+    },
+    {
+      "text": "Je ne comprends pas bien",
+      "hint": "我不太明白",
+      "kind": "sentence",
+      "spell": "Je ne comprends pas bien"
+    },
+    {
+      "text": "Répétez, s'il vous plaît",
+      "hint": "请再说一遍",
+      "kind": "sentence",
+      "spell": "Repetez, s'il vous plait"
+    },
+    {
+      "text": "Quelle heure est-il ?",
+      "hint": "现在几点了？",
+      "kind": "sentence",
+      "spell": "Quelle heure est-il ?"
+    },
+    {
+      "text": "J'aime la musique",
+      "hint": "我喜欢音乐",
+      "kind": "sentence",
+      "spell": "J'aime la musique"
+    },
+    {
+      "text": "Allons au parc ce week-end",
+      "hint": "周末去公园吧",
+      "kind": "sentence",
+      "spell": "Allons au parc ce week-end"
+    },
+    {
+      "text": "Tu as mangé ?",
+      "hint": "吃饭了吗？",
+      "kind": "sentence",
+      "spell": "Tu as mange ?"
+    },
+    {
+      "text": "C'est trop cher",
+      "hint": "太贵了",
+      "kind": "sentence",
+      "spell": "C'est trop cher"
+    },
+    {
+      "text": "Je peux essayer ?",
+      "hint": "我可以试试吗？",
+      "kind": "sentence",
+      "spell": "Je peux essayer ?"
+    },
+    {
+      "text": "Enchanté",
+      "hint": "见到你很高兴",
+      "kind": "sentence",
+      "spell": "Enchante"
+    },
+    {
+      "text": "Aidez-moi, s'il vous plaît",
+      "hint": "请帮帮我",
+      "kind": "sentence",
+      "spell": "Aidez-moi, s'il vous plait"
+    },
+    {
+      "text": "Je suis étudiant",
+      "hint": "我是学生",
+      "kind": "sentence",
+      "spell": "Je suis etudiant"
+    },
+    {
+      "text": "Comment vous appelez-vous ?",
+      "hint": "您叫什么名字？",
+      "kind": "sentence",
+      "spell": "Comment vous appelez-vous ?"
+    },
+    {
+      "text": "Parlez plus lentement, s'il vous plaît",
+      "hint": "请说慢一点",
+      "kind": "sentence",
+      "spell": "Parlez plus lentement, s'il vous plait"
+    },
+    {
+      "text": "Avez-vous un menu ?",
+      "hint": "有菜单吗？",
+      "kind": "sentence",
+      "spell": "Avez-vous un menu ?"
+    },
+    {
+      "text": "L'addition, s'il vous plaît",
+      "hint": "请结账",
+      "kind": "sentence",
+      "spell": "L'addition, s'il vous plait"
+    },
+    {
+      "text": "Prenez le métro",
+      "hint": "请坐地铁",
+      "kind": "sentence",
+      "spell": "Prenez le metro"
+    },
+    {
+      "text": "À demain",
+      "hint": "明天见",
+      "kind": "sentence",
+      "spell": "A demain"
+    }
+  ]
+}

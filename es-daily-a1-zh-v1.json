@@ -1,0 +1,398 @@
+{
+  "manifest": {
+    "id": "es-daily-a1-zh",
+    "title": "西语日常 A1",
+    "version": "1.0.0",
+    "lang": "es",
+    "glossLang": "zh",
+    "source": "curated-a1",
+    "lemmaCount": 64,
+    "description": "西班牙语入门词句 · 中文释义"
+  },
+  "items": [
+    {
+      "text": "hola",
+      "hint": "你好",
+      "kind": "phrase",
+      "spell": "hola"
+    },
+    {
+      "text": "gracias",
+      "hint": "谢谢",
+      "kind": "phrase",
+      "spell": "gracias"
+    },
+    {
+      "text": "de nada",
+      "hint": "不客气",
+      "kind": "phrase",
+      "spell": "de nada"
+    },
+    {
+      "text": "perdón",
+      "hint": "对不起",
+      "kind": "phrase",
+      "spell": "perdon"
+    },
+    {
+      "text": "por favor",
+      "hint": "请",
+      "kind": "phrase",
+      "spell": "por favor"
+    },
+    {
+      "text": "sí",
+      "hint": "是",
+      "kind": "phrase",
+      "spell": "si"
+    },
+    {
+      "text": "no",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "no"
+    },
+    {
+      "text": "adiós",
+      "hint": "再见",
+      "kind": "phrase",
+      "spell": "adios"
+    },
+    {
+      "text": "buenos días",
+      "hint": "早上好",
+      "kind": "phrase",
+      "spell": "buenos dias"
+    },
+    {
+      "text": "buenas noches",
+      "hint": "晚安",
+      "kind": "phrase",
+      "spell": "buenas noches"
+    },
+    {
+      "text": "agua",
+      "hint": "水",
+      "kind": "phrase",
+      "spell": "agua"
+    },
+    {
+      "text": "café",
+      "hint": "咖啡",
+      "kind": "phrase",
+      "spell": "cafe"
+    },
+    {
+      "text": "comida",
+      "hint": "食物",
+      "kind": "phrase",
+      "spell": "comida"
+    },
+    {
+      "text": "amigo",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "amigo"
+    },
+    {
+      "text": "familia",
+      "hint": "家人",
+      "kind": "phrase",
+      "spell": "familia"
+    },
+    {
+      "text": "escuela",
+      "hint": "学校",
+      "kind": "phrase",
+      "spell": "escuela"
+    },
+    {
+      "text": "trabajo",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "trabajo"
+    },
+    {
+      "text": "casa",
+      "hint": "家",
+      "kind": "phrase",
+      "spell": "casa"
+    },
+    {
+      "text": "hoy",
+      "hint": "今天",
+      "kind": "phrase",
+      "spell": "hoy"
+    },
+    {
+      "text": "mañana",
+      "hint": "明天；早上",
+      "kind": "phrase",
+      "spell": "manana"
+    },
+    {
+      "text": "ayer",
+      "hint": "昨天",
+      "kind": "phrase",
+      "spell": "ayer"
+    },
+    {
+      "text": "tiempo",
+      "hint": "时间；天气",
+      "kind": "phrase",
+      "spell": "tiempo"
+    },
+    {
+      "text": "persona",
+      "hint": "人",
+      "kind": "phrase",
+      "spell": "persona"
+    },
+    {
+      "text": "nombre",
+      "hint": "名字",
+      "kind": "phrase",
+      "spell": "nombre"
+    },
+    {
+      "text": "España",
+      "hint": "西班牙",
+      "kind": "phrase",
+      "spell": "Espana"
+    },
+    {
+      "text": "China",
+      "hint": "中国",
+      "kind": "phrase",
+      "spell": "China"
+    },
+    {
+      "text": "inglés",
+      "hint": "英语",
+      "kind": "phrase",
+      "spell": "ingles"
+    },
+    {
+      "text": "español",
+      "hint": "西班牙语",
+      "kind": "phrase",
+      "spell": "espanol"
+    },
+    {
+      "text": "gustar",
+      "hint": "喜欢",
+      "kind": "phrase",
+      "spell": "gustar"
+    },
+    {
+      "text": "comer",
+      "hint": "吃",
+      "kind": "phrase",
+      "spell": "comer"
+    },
+    {
+      "text": "beber",
+      "hint": "喝",
+      "kind": "phrase",
+      "spell": "beber"
+    },
+    {
+      "text": "ir",
+      "hint": "去",
+      "kind": "phrase",
+      "spell": "ir"
+    },
+    {
+      "text": "venir",
+      "hint": "来",
+      "kind": "phrase",
+      "spell": "venir"
+    },
+    {
+      "text": "ver",
+      "hint": "看",
+      "kind": "phrase",
+      "spell": "ver"
+    },
+    {
+      "text": "oír",
+      "hint": "听",
+      "kind": "phrase",
+      "spell": "oir"
+    },
+    {
+      "text": "hablar",
+      "hint": "说",
+      "kind": "phrase",
+      "spell": "hablar"
+    },
+    {
+      "text": "estudiar",
+      "hint": "学习",
+      "kind": "phrase",
+      "spell": "estudiar"
+    },
+    {
+      "text": "trabajar",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "trabajar"
+    },
+    {
+      "text": "baño",
+      "hint": "厕所；浴室",
+      "kind": "phrase",
+      "spell": "bano"
+    },
+    {
+      "text": "cuánto",
+      "hint": "多少",
+      "kind": "phrase",
+      "spell": "cuanto"
+    },
+    {
+      "text": "Hoy hace buen tiempo",
+      "hint": "今天天气很好",
+      "kind": "sentence",
+      "spell": "Hoy hace buen tiempo"
+    },
+    {
+      "text": "Quiero un café, por favor",
+      "hint": "我想要一杯咖啡",
+      "kind": "sentence",
+      "spell": "Quiero un cafe, por favor"
+    },
+    {
+      "text": "¿Dónde está la estación?",
+      "hint": "车站在哪里？",
+      "kind": "sentence",
+      "spell": "Donde esta la estacion?"
+    },
+    {
+      "text": "Abre la ventana, por favor",
+      "hint": "请打开窗户",
+      "kind": "sentence",
+      "spell": "Abre la ventana, por favor"
+    },
+    {
+      "text": "Mañana voy al trabajo",
+      "hint": "明天去上班",
+      "kind": "sentence",
+      "spell": "Manana voy al trabajo"
+    },
+    {
+      "text": "Este libro es interesante",
+      "hint": "这本书很有意思",
+      "kind": "sentence",
+      "spell": "Este libro es interesante"
+    },
+    {
+      "text": "¿Hablas español?",
+      "hint": "你会说西班牙语吗？",
+      "kind": "sentence",
+      "spell": "Hablas espanol?"
+    },
+    {
+      "text": "No entiendo bien",
+      "hint": "我不太明白",
+      "kind": "sentence",
+      "spell": "No entiendo bien"
+    },
+    {
+      "text": "Repite, por favor",
+      "hint": "请再说一遍",
+      "kind": "sentence",
+      "spell": "Repite, por favor"
+    },
+    {
+      "text": "¿Qué hora es?",
+      "hint": "现在几点了？",
+      "kind": "sentence",
+      "spell": "Que hora es?"
+    },
+    {
+      "text": "Me gusta la música",
+      "hint": "我喜欢音乐",
+      "kind": "sentence",
+      "spell": "Me gusta la musica"
+    },
+    {
+      "text": "Vamos al parque el fin de semana",
+      "hint": "周末去公园吧",
+      "kind": "sentence",
+      "spell": "Vamos al parque el fin de semana"
+    },
+    {
+      "text": "¿Ya comiste?",
+      "hint": "吃饭了吗？",
+      "kind": "sentence",
+      "spell": "Ya comiste?"
+    },
+    {
+      "text": "Es demasiado caro",
+      "hint": "太贵了",
+      "kind": "sentence",
+      "spell": "Es demasiado caro"
+    },
+    {
+      "text": "¿Puedo probarlo?",
+      "hint": "我可以试试吗？",
+      "kind": "sentence",
+      "spell": "Puedo probarlo?"
+    },
+    {
+      "text": "Mucho gusto",
+      "hint": "见到你很高兴",
+      "kind": "sentence",
+      "spell": "Mucho gusto"
+    },
+    {
+      "text": "Ayúdame, por favor",
+      "hint": "请帮帮我",
+      "kind": "sentence",
+      "spell": "Ayudame, por favor"
+    },
+    {
+      "text": "Soy estudiante",
+      "hint": "我是学生",
+      "kind": "sentence",
+      "spell": "Soy estudiante"
+    },
+    {
+      "text": "¿Cómo te llamas?",
+      "hint": "你叫什么名字？",
+      "kind": "sentence",
+      "spell": "Como te llamas?"
+    },
+    {
+      "text": "Habla más despacio, por favor",
+      "hint": "请说慢一点",
+      "kind": "sentence",
+      "spell": "Habla mas despacio, por favor"
+    },
+    {
+      "text": "¿Tienen menú?",
+      "hint": "有菜单吗？",
+      "kind": "sentence",
+      "spell": "Tienen menu?"
+    },
+    {
+      "text": "La cuenta, por favor",
+      "hint": "请结账",
+      "kind": "sentence",
+      "spell": "La cuenta, por favor"
+    },
+    {
+      "text": "Toma el metro",
+      "hint": "请坐地铁",
+      "kind": "sentence",
+      "spell": "Toma el metro"
+    },
+    {
+      "text": "Hasta mañana",
+      "hint": "明天见",
+      "kind": "sentence",
+      "spell": "Hasta manana"
+    }
+  ]
+}

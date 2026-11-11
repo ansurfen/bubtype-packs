@@ -57,6 +57,7 @@ Dùng **URL asset trên Release**. Khi phát hành, đặt `catalog.json` và c�
 | `oxford-3000-{zh,en,ja}` | Oxford 3000 |
 | `oxford-5000-{zh,en,ja}` | Oxford 5000 |
 | `rant-*` | Câu gốc BubType để luyện gõ |
+| `fr-*-a1-zh` / `zh|ja|ko|es-daily-a1*` | Gói A1 đa ngôn ngữ (từ + câu) |
 
 ## Cấu trúc
 

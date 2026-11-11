@@ -62,8 +62,14 @@ When publishing: put `catalog.json` and every `*-v1.json` in the **same Release 
 | `rant-campus` | Campus rants |
 | `rant-invest` | Investing rants |
 | `rant-ecommerce` | E-commerce rants |
+| `fr-core-a1-zh` | French A1 core |
+| `fr-daily-a1-zh` | French A1 daily (words + sentences) |
+| `zh-daily-a1` | Chinese A1 daily (words + sentences / pinyin) |
+| `ja-daily-a1` | Japanese A1 daily (words + sentences / romaji) |
+| `ko-daily-a1-zh` | Korean A1 daily (words + sentences / romaja) |
+| `es-daily-a1-zh` | Spanish A1 daily (words + sentences) |
 
-Rant packs are **BubType original sentences** for typing practice — not scraped social posts.
+Rant packs are **BubType original sentences** for typing practice — not scraped social posts. Multilingual daily packs include a `spell` field for script/spell practice and can be filtered by practice language on Discover.
 
 ## Layout
 

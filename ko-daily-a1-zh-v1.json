@@ -1,0 +1,398 @@
+{
+  "manifest": {
+    "id": "ko-daily-a1-zh",
+    "title": "韩语日常 A1",
+    "version": "1.0.0",
+    "lang": "ko",
+    "glossLang": "zh",
+    "source": "curated-a1",
+    "lemmaCount": 64,
+    "description": "韩语入门词句 · 中文释义（罗马音拼写）"
+  },
+  "items": [
+    {
+      "text": "안녕하세요",
+      "hint": "你好",
+      "kind": "phrase",
+      "spell": "annyeonghaseyo"
+    },
+    {
+      "text": "감사합니다",
+      "hint": "谢谢",
+      "kind": "phrase",
+      "spell": "gamsahamnida"
+    },
+    {
+      "text": "미안합니다",
+      "hint": "对不起",
+      "kind": "phrase",
+      "spell": "mianhamnida"
+    },
+    {
+      "text": "괜찮아요",
+      "hint": "没关系",
+      "kind": "phrase",
+      "spell": "gwaenchanayo"
+    },
+    {
+      "text": "네",
+      "hint": "是",
+      "kind": "phrase",
+      "spell": "ne"
+    },
+    {
+      "text": "아니요",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "aniyo"
+    },
+    {
+      "text": "주세요",
+      "hint": "请给我",
+      "kind": "phrase",
+      "spell": "juseyo"
+    },
+    {
+      "text": "얼마예요",
+      "hint": "多少钱？",
+      "kind": "phrase",
+      "spell": "eolmayeyo"
+    },
+    {
+      "text": "어디예요",
+      "hint": "在哪里？",
+      "kind": "phrase",
+      "spell": "eodiyeyo"
+    },
+    {
+      "text": "화장실",
+      "hint": "厕所",
+      "kind": "phrase",
+      "spell": "hwajangsil"
+    },
+    {
+      "text": "물",
+      "hint": "水",
+      "kind": "phrase",
+      "spell": "mul"
+    },
+    {
+      "text": "커피",
+      "hint": "咖啡",
+      "kind": "phrase",
+      "spell": "keopi"
+    },
+    {
+      "text": "밥",
+      "hint": "米饭；饭",
+      "kind": "phrase",
+      "spell": "bap"
+    },
+    {
+      "text": "친구",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "chingu"
+    },
+    {
+      "text": "가족",
+      "hint": "家人",
+      "kind": "phrase",
+      "spell": "gajok"
+    },
+    {
+      "text": "학교",
+      "hint": "学校",
+      "kind": "phrase",
+      "spell": "hakgyo"
+    },
+    {
+      "text": "회사",
+      "hint": "公司",
+      "kind": "phrase",
+      "spell": "hoesa"
+    },
+    {
+      "text": "집",
+      "hint": "家",
+      "kind": "phrase",
+      "spell": "jip"
+    },
+    {
+      "text": "오늘",
+      "hint": "今天",
+      "kind": "phrase",
+      "spell": "oneul"
+    },
+    {
+      "text": "내일",
+      "hint": "明天",
+      "kind": "phrase",
+      "spell": "naeil"
+    },
+    {
+      "text": "어제",
+      "hint": "昨天",
+      "kind": "phrase",
+      "spell": "eoje"
+    },
+    {
+      "text": "아침",
+      "hint": "早上",
+      "kind": "phrase",
+      "spell": "achim"
+    },
+    {
+      "text": "저녁",
+      "hint": "晚上；晚饭",
+      "kind": "phrase",
+      "spell": "jeonyeok"
+    },
+    {
+      "text": "시간",
+      "hint": "时间",
+      "kind": "phrase",
+      "spell": "sigan"
+    },
+    {
+      "text": "사람",
+      "hint": "人",
+      "kind": "phrase",
+      "spell": "saram"
+    },
+    {
+      "text": "이름",
+      "hint": "名字",
+      "kind": "phrase",
+      "spell": "ireum"
+    },
+    {
+      "text": "한국",
+      "hint": "韩国",
+      "kind": "phrase",
+      "spell": "hanguk"
+    },
+    {
+      "text": "중국",
+      "hint": "中国",
+      "kind": "phrase",
+      "spell": "jungguk"
+    },
+    {
+      "text": "영어",
+      "hint": "英语",
+      "kind": "phrase",
+      "spell": "yeongeo"
+    },
+    {
+      "text": "한국어",
+      "hint": "韩语",
+      "kind": "phrase",
+      "spell": "hangugeo"
+    },
+    {
+      "text": "좋아하다",
+      "hint": "喜欢",
+      "kind": "phrase",
+      "spell": "joahada"
+    },
+    {
+      "text": "먹다",
+      "hint": "吃",
+      "kind": "phrase",
+      "spell": "meokda"
+    },
+    {
+      "text": "마시다",
+      "hint": "喝",
+      "kind": "phrase",
+      "spell": "masida"
+    },
+    {
+      "text": "가다",
+      "hint": "去",
+      "kind": "phrase",
+      "spell": "gada"
+    },
+    {
+      "text": "오다",
+      "hint": "来",
+      "kind": "phrase",
+      "spell": "oda"
+    },
+    {
+      "text": "보다",
+      "hint": "看",
+      "kind": "phrase",
+      "spell": "boda"
+    },
+    {
+      "text": "듣다",
+      "hint": "听",
+      "kind": "phrase",
+      "spell": "deutda"
+    },
+    {
+      "text": "말하다",
+      "hint": "说",
+      "kind": "phrase",
+      "spell": "malhada"
+    },
+    {
+      "text": "공부하다",
+      "hint": "学习",
+      "kind": "phrase",
+      "spell": "gongbuhada"
+    },
+    {
+      "text": "일하다",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "ilhada"
+    },
+    {
+      "text": "오늘 날씨가 좋아요",
+      "hint": "今天天气很好",
+      "kind": "sentence",
+      "spell": "oneul nalssiga joayo"
+    },
+    {
+      "text": "커피 한 잔 주세요",
+      "hint": "请给我一杯咖啡",
+      "kind": "sentence",
+      "spell": "keopi han jan juseyo"
+    },
+    {
+      "text": "역이 어디에 있어요",
+      "hint": "车站在哪里？",
+      "kind": "sentence",
+      "spell": "yeogi eodie isseoyo"
+    },
+    {
+      "text": "창문을 열어 주세요",
+      "hint": "请打开窗户",
+      "kind": "sentence",
+      "spell": "changmuneul yeoreo juseyo"
+    },
+    {
+      "text": "내일 일해요",
+      "hint": "明天要上班",
+      "kind": "sentence",
+      "spell": "naeil ilhaeyo"
+    },
+    {
+      "text": "이 책이 재미있어요",
+      "hint": "这本书很有意思",
+      "kind": "sentence",
+      "spell": "i chaegi jaemiisseoyo"
+    },
+    {
+      "text": "한국어 할 수 있어요",
+      "hint": "你会说韩语吗？",
+      "kind": "sentence",
+      "spell": "hangugeo hal su isseoyo"
+    },
+    {
+      "text": "잘 모르겠어요",
+      "hint": "我不太明白",
+      "kind": "sentence",
+      "spell": "jal moreugesseoyo"
+    },
+    {
+      "text": "다시 말해 주세요",
+      "hint": "请再说一遍",
+      "kind": "sentence",
+      "spell": "dasi malhae juseyo"
+    },
+    {
+      "text": "지금 몇 시예요",
+      "hint": "现在几点了？",
+      "kind": "sentence",
+      "spell": "jigeum myeot siyeyo"
+    },
+    {
+      "text": "음악 듣는 걸 좋아해요",
+      "hint": "我喜欢听音乐",
+      "kind": "sentence",
+      "spell": "eumak deunneun geol joahaeyo"
+    },
+    {
+      "text": "주말에 공원에 가요",
+      "hint": "周末去公园",
+      "kind": "sentence",
+      "spell": "jumare gongwone gayo"
+    },
+    {
+      "text": "밥 먹었어요",
+      "hint": "吃饭了吗？／吃饭了",
+      "kind": "sentence",
+      "spell": "bap meogeosseoyo"
+    },
+    {
+      "text": "너무 비싸요",
+      "hint": "太贵了",
+      "kind": "sentence",
+      "spell": "neomu bissayo"
+    },
+    {
+      "text": "한번 입어봐도 돼요",
+      "hint": "我可以试试吗？",
+      "kind": "sentence",
+      "spell": "hanbeon ibeobwado dwaeyo"
+    },
+    {
+      "text": "만나서 반가워요",
+      "hint": "见到你很高兴",
+      "kind": "sentence",
+      "spell": "mannaseo bangawoyo"
+    },
+    {
+      "text": "도와주세요",
+      "hint": "请帮帮我",
+      "kind": "sentence",
+      "spell": "dowajuseyo"
+    },
+    {
+      "text": "저는 학생이에요",
+      "hint": "我是学生",
+      "kind": "sentence",
+      "spell": "jeoneun haksaengieyo"
+    },
+    {
+      "text": "이름이 뭐예요",
+      "hint": "你叫什么名字？",
+      "kind": "sentence",
+      "spell": "ireumi mwoyeyo"
+    },
+    {
+      "text": "천천히 말해 주세요",
+      "hint": "请说慢一点",
+      "kind": "sentence",
+      "spell": "cheoncheonhi malhae juseyo"
+    },
+    {
+      "text": "여기 메뉴 있어요",
+      "hint": "这里有菜单吗？",
+      "kind": "sentence",
+      "spell": "yeogi menyu isseoyo"
+    },
+    {
+      "text": "계산해 주세요",
+      "hint": "请结账",
+      "kind": "sentence",
+      "spell": "gyesanhae juseyo"
+    },
+    {
+      "text": "지하철을 타세요",
+      "hint": "请坐地铁",
+      "kind": "sentence",
+      "spell": "jihacheoreul taseyo"
+    },
+    {
+      "text": "내일 봐요",
+      "hint": "明天见",
+      "kind": "sentence",
+      "spell": "naeil bwayo"
+    }
+  ]
+}

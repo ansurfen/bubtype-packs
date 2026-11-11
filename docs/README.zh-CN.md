@@ -62,8 +62,14 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | `rant-campus` | 校园吐槽 |
 | `rant-invest` | 投资吐槽 |
 | `rant-ecommerce` | 电商人吐槽 |
+| `fr-core-a1-zh` | 法语 A1 核心 |
+| `fr-daily-a1-zh` | 法语日常 A1（词+句） |
+| `zh-daily-a1` | 中文日常 A1（词+句 / 拼音） |
+| `ja-daily-a1` | 日语日常 A1（词+句 / 罗马字） |
+| `ko-daily-a1-zh` | 韩语日常 A1（词+句 / 罗马音） |
+| `es-daily-a1-zh` | 西语日常 A1（词+句） |
 
-吐槽系列为 **BubType 原创例句**（可用于跟打练习），并非抓取社交媒体。
+吐槽系列为 **BubType 原创例句**（可用于跟打练习），并非抓取社交媒体。多语日常包带 `spell` 字段，可在原文 / 拼写模式间切换；可按练习语言筛选。
 
 ## 仓库结构
 

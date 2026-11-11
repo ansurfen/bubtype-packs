@@ -2,9 +2,9 @@
   "manifest": {
     "id": "rant-ecommerce",
     "title": "电商人吐槽",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "广告、退货、活动与平台费：电商运营英语短句",
-    "lemmaCount": 60,
+    "lemmaCount": 117,
     "source": "official",
     "glossLang": "zh",
     "lang": "en"
@@ -308,6 +308,291 @@
     {
       "text": "End of day, and the orders keep teaching me humility.",
       "hint": "一天结束了，订单还在教我谦逊。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campaign starts tomorrow, and the creatives are still missing.",
+      "hint": "活动明天开始，素材还没到。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The platform fee took a bigger bite than expected.",
+      "hint": "平台费比预想的咬得更狠。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We got traffic, but nobody brought a wallet.",
+      "hint": "有流量了，但没人带钱包。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The return rate is having a very productive week.",
+      "hint": "退货率这周表现异常努力。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The discount is deep enough to hurt my soul.",
+      "hint": "这个折扣深到伤我灵魂。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The customer wants premium quality on a clearance budget.",
+      "hint": "客户想要高端品质，却只给清仓预算。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We sold out right after the flash sale ended.",
+      "hint": "限时促销刚结束，我们就卖断货了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The warehouse found the inventory after we marked it unavailable.",
+      "hint": "我们标成缺货后，仓库才找到了库存。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Every dashboard says something different today.",
+      "hint": "今天每个数据看板都在说不同的话。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sales chart looks great until you subtract the refunds.",
+      "hint": "销售图很好看，直到你减去退款。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The coupon code works for everyone except our real customers.",
+      "hint": "优惠码除了真正的客户，谁都能用。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The competitor copied our idea and priced it lower.",
+      "hint": "竞品抄了我们的点子，价格还更低。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I changed one title, and the ranking disappeared.",
+      "hint": "我改了一个标题，排名就消失了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The product photos are beautiful, but the click-through rate disagrees.",
+      "hint": "产品图很漂亮，但点击率不这么认为。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We need more reviews, preferably from people who liked the product.",
+      "hint": "我们需要更多评价，最好来自喜欢产品的人。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The influencer posted, and the comments asked for a discount.",
+      "hint": "达人发帖了，评论区都在要折扣。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The shipping delay became my full-time customer service job.",
+      "hint": "物流延误变成了我的全职客服工作。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The package arrived safely, just at the wrong address.",
+      "hint": "包裹安全送达了，只是送错了地址。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The customer ordered the wrong size and blamed the size chart.",
+      "hint": "客户买错了尺码，然后怪尺码表。",
+      "kind": "sentence"
+    },
+    {
+      "text": "This SKU has five units left and twelve people are asking for it.",
+      "hint": "这个 SKU 只剩五件，却有十二个人在问。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The supplier said next week, which means maybe next month.",
+      "hint": "供应商说下周，也就是可能下个月。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sample looked perfect before mass production started.",
+      "hint": "大货开始前，样品看起来完美无缺。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The margin is thin, but the meeting deck is optimistic.",
+      "hint": "利润很薄，但汇报 PPT 很乐观。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We hit the revenue target and missed the profit target.",
+      "hint": "营收目标完成了，利润目标没完成。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The promotion drove orders and destroyed the average order value.",
+      "hint": "促销带来了订单，也毁了客单价。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The cart abandonment rate is doing its best work.",
+      "hint": "购物车弃购率正在超常发挥。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The checkout page broke during peak traffic.",
+      "hint": "流量高峰时结账页面崩了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campaign brief changed after we finished the campaign.",
+      "hint": "我们做完活动后，活动需求变了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The boss wants a viral product by Friday.",
+      "hint": "老板希望周五前做出一个爆款。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The data is delayed, but the question is urgent.",
+      "hint": "数据延迟了，但问题很急。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We are testing three prices and confusing every customer.",
+      "hint": "我们在测试三种价格，也把每个客户搞糊涂了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The product is trending, but only in a market we do not serve.",
+      "hint": "产品火了，但只在我们不服务的市场。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The search term has volume but zero purchase intent.",
+      "hint": "这个搜索词有流量，但没有购买意图。",
+      "kind": "sentence"
+    },
+    {
+      "text": "Our best keyword is suddenly twice as expensive.",
+      "hint": "我们最好的关键词突然贵了一倍。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The platform changed the rules without changing the deadline.",
+      "hint": "平台改了规则，但没改截止时间。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The account is healthy, except for every metric that matters.",
+      "hint": "账号很健康，除了所有重要指标。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sales spike was real, but it came from one accidental coupon.",
+      "hint": "销量暴涨是真的，但来自一个误发的优惠券。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The customer asked for a refund after leaving a five-star review.",
+      "hint": "客户打完五星好评后申请了退款。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The best-selling color is the only color we cannot restock.",
+      "hint": "卖得最好的颜色，是唯一补不了货的颜色。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The product page passed review, and then the ads were rejected.",
+      "hint": "商品页审核过了，然后广告被拒了。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We have a meeting about why we need fewer meetings.",
+      "hint": "我们开会讨论为什么要少开会。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The forecast looked reasonable before reality joined the chat.",
+      "hint": "现实加入聊天前，预测看起来还挺合理。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campaign is live, but the landing page is not.",
+      "hint": "活动已经上线，落地页还没有。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The new feature is ready, but nobody knows how to explain it.",
+      "hint": "新功能准备好了，但没人知道怎么解释它。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The report is due in ten minutes and the numbers are still moving.",
+      "hint": "报告十分钟后就要交，数据还在变。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I only opened the dashboard to check one number.",
+      "hint": "我本来只是打开看板查一个数字。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The sales target is ambitious, and the budget is adorable.",
+      "hint": "销售目标很宏大，预算很可爱。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We need a quick fix that does not create three new problems.",
+      "hint": "我们需要一个不会制造三个新问题的快速修复。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The campaign is over, but the customer questions just started.",
+      "hint": "活动结束了，但客户的问题才刚开始。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The platform says the issue is resolved. The issue disagrees.",
+      "hint": "平台说问题解决了，问题不同意。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The spreadsheet has more tabs than answers.",
+      "hint": "这份表格的标签页比答案还多。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The product is profitable until we include all the costs.",
+      "hint": "把所有成本算进去之前，这个产品是赚钱的。",
+      "kind": "sentence"
+    },
+    {
+      "text": "I need one clean report, not four almost-identical exports.",
+      "hint": "我需要一份干净的报告，不是四份几乎一样的导出表。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The team wants growth, but the inventory wants a vacation.",
+      "hint": "团队想增长，但库存想休假。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The numbers are not wrong; they are just emotionally difficult.",
+      "hint": "数据没错，只是情感上很难接受。",
+      "kind": "sentence"
+    },
+    {
+      "text": "We can launch today if nobody asks another question.",
+      "hint": "只要没人再问问题，我们今天就能上线。",
+      "kind": "sentence"
+    },
+    {
+      "text": "The customer journey is smooth until the payment page.",
+      "hint": "客户旅程很顺畅，直到付款页面。",
       "kind": "sentence"
     }
   ]

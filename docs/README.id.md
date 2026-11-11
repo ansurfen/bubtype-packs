@@ -57,6 +57,7 @@ Gunakan **URL aset Release**. Saat rilis, taruh `catalog.json` dan semua `*-v1.j
 | `oxford-3000-{zh,en,ja}` | Oxford 3000 |
 | `oxford-5000-{zh,en,ja}` | Oxford 5000 |
 | `rant-*` | Kalimat orisinal BubType untuk latihan ketik |
+| `fr-*-a1-zh` / `zh|ja|ko|es-daily-a1*` | Paket A1 multibahasa (kata + kalimat) |
 
 ## Struktur
 

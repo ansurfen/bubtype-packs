@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "https://github.com/ansurfen/bubtype-packs",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-11-11",
   "books": [
     {
       "id": "oxford-3000-zh",
@@ -96,12 +96,72 @@
     {
       "id": "rant-ecommerce",
       "title": "电商人吐槽",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "lang": "en",
       "glossLang": "zh",
-      "lemmaCount": 60,
+      "lemmaCount": 117,
       "description": "广告、退货、活动与平台费：电商运营英语短句",
       "asset": "rant-ecommerce-v1.json"
+    },
+    {
+      "id": "fr-core-a1-zh",
+      "title": "法语 A1 核心",
+      "version": "1.0.0",
+      "lang": "fr",
+      "glossLang": "zh",
+      "lemmaCount": 547,
+      "description": "法语入门核心词 · 中文释义（CEFR A1）",
+      "asset": "fr-core-a1-zh-v1.json"
+    },
+    {
+      "id": "fr-daily-a1-zh",
+      "title": "法语日常 A1",
+      "version": "1.0.0",
+      "lang": "fr",
+      "glossLang": "zh",
+      "lemmaCount": 64,
+      "description": "法语入门词句 · 中文释义（配合核心词表）",
+      "asset": "fr-daily-a1-zh-v1.json"
+    },
+    {
+      "id": "zh-daily-a1",
+      "title": "中文日常 A1",
+      "version": "1.1.0",
+      "lang": "zh",
+      "glossLang": "en",
+      "lemmaCount": 64,
+      "description": "常用中文词句 · 英文释义（拼音输入）",
+      "asset": "zh-daily-a1-v1.json"
+    },
+    {
+      "id": "ja-daily-a1",
+      "title": "日语日常 A1",
+      "version": "1.1.0",
+      "lang": "ja",
+      "glossLang": "zh",
+      "lemmaCount": 64,
+      "description": "常用日语词句 · 中文释义（罗马字拼写）",
+      "asset": "ja-daily-a1-v1.json"
+    },
+    {
+      "id": "ko-daily-a1-zh",
+      "title": "韩语日常 A1",
+      "version": "1.0.0",
+      "lang": "ko",
+      "glossLang": "zh",
+      "lemmaCount": 64,
+      "description": "韩语入门词句 · 中文释义（罗马音拼写）",
+      "asset": "ko-daily-a1-zh-v1.json"
+    },
+    {
+      "id": "es-daily-a1-zh",
+      "title": "西语日常 A1",
+      "version": "1.0.0",
+      "lang": "es",
+      "glossLang": "zh",
+      "lemmaCount": 64,
+      "description": "西班牙语入门词句 · 中文释义",
+      "asset": "es-daily-a1-zh-v1.json"
     }
   ]
 }

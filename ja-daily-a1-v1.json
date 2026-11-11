@@ -1,0 +1,398 @@
+{
+  "manifest": {
+    "id": "ja-daily-a1",
+    "title": "日语日常 A1",
+    "version": "1.1.0",
+    "lang": "ja",
+    "glossLang": "zh",
+    "source": "curated-a1",
+    "lemmaCount": 64,
+    "description": "常用日语词句 · 中文释义（罗马字拼写）"
+  },
+  "items": [
+    {
+      "text": "こんにちは",
+      "hint": "你好",
+      "kind": "phrase",
+      "spell": "konnichiwa"
+    },
+    {
+      "text": "ありがとう",
+      "hint": "谢谢",
+      "kind": "phrase",
+      "spell": "arigatou"
+    },
+    {
+      "text": "すみません",
+      "hint": "对不起；劳驾",
+      "kind": "phrase",
+      "spell": "sumimasen"
+    },
+    {
+      "text": "おはようございます",
+      "hint": "早上好",
+      "kind": "phrase",
+      "spell": "ohayou gozaimasu"
+    },
+    {
+      "text": "おやすみなさい",
+      "hint": "晚安",
+      "kind": "phrase",
+      "spell": "oyasuminasai"
+    },
+    {
+      "text": "さようなら",
+      "hint": "再见",
+      "kind": "phrase",
+      "spell": "sayounara"
+    },
+    {
+      "text": "はい",
+      "hint": "是",
+      "kind": "phrase",
+      "spell": "hai"
+    },
+    {
+      "text": "いいえ",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "iie"
+    },
+    {
+      "text": "ください",
+      "hint": "请给我",
+      "kind": "phrase",
+      "spell": "kudasai"
+    },
+    {
+      "text": "いくら",
+      "hint": "多少钱",
+      "kind": "phrase",
+      "spell": "ikura"
+    },
+    {
+      "text": "どこ",
+      "hint": "哪里",
+      "kind": "phrase",
+      "spell": "doko"
+    },
+    {
+      "text": "トイレ",
+      "hint": "厕所",
+      "kind": "phrase",
+      "spell": "toire"
+    },
+    {
+      "text": "水",
+      "hint": "水",
+      "kind": "phrase",
+      "spell": "mizu"
+    },
+    {
+      "text": "コーヒー",
+      "hint": "咖啡",
+      "kind": "phrase",
+      "spell": "koohii"
+    },
+    {
+      "text": "ご飯",
+      "hint": "米饭；饭",
+      "kind": "phrase",
+      "spell": "gohan"
+    },
+    {
+      "text": "友達",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "tomodachi"
+    },
+    {
+      "text": "家族",
+      "hint": "家人",
+      "kind": "phrase",
+      "spell": "kazoku"
+    },
+    {
+      "text": "学校",
+      "hint": "学校",
+      "kind": "phrase",
+      "spell": "gakkou"
+    },
+    {
+      "text": "会社",
+      "hint": "公司",
+      "kind": "phrase",
+      "spell": "kaisha"
+    },
+    {
+      "text": "家",
+      "hint": "家",
+      "kind": "phrase",
+      "spell": "uchi"
+    },
+    {
+      "text": "今日",
+      "hint": "今天",
+      "kind": "phrase",
+      "spell": "kyou"
+    },
+    {
+      "text": "明日",
+      "hint": "明天",
+      "kind": "phrase",
+      "spell": "ashita"
+    },
+    {
+      "text": "昨日",
+      "hint": "昨天",
+      "kind": "phrase",
+      "spell": "kinou"
+    },
+    {
+      "text": "時間",
+      "hint": "时间",
+      "kind": "phrase",
+      "spell": "jikan"
+    },
+    {
+      "text": "人",
+      "hint": "人",
+      "kind": "phrase",
+      "spell": "hito"
+    },
+    {
+      "text": "名前",
+      "hint": "名字",
+      "kind": "phrase",
+      "spell": "namae"
+    },
+    {
+      "text": "日本",
+      "hint": "日本",
+      "kind": "phrase",
+      "spell": "nihon"
+    },
+    {
+      "text": "中国",
+      "hint": "中国",
+      "kind": "phrase",
+      "spell": "chuugoku"
+    },
+    {
+      "text": "英語",
+      "hint": "英语",
+      "kind": "phrase",
+      "spell": "eigo"
+    },
+    {
+      "text": "日本語",
+      "hint": "日语",
+      "kind": "phrase",
+      "spell": "nihongo"
+    },
+    {
+      "text": "好き",
+      "hint": "喜欢",
+      "kind": "phrase",
+      "spell": "suki"
+    },
+    {
+      "text": "食べる",
+      "hint": "吃",
+      "kind": "phrase",
+      "spell": "taberu"
+    },
+    {
+      "text": "飲む",
+      "hint": "喝",
+      "kind": "phrase",
+      "spell": "nomu"
+    },
+    {
+      "text": "行く",
+      "hint": "去",
+      "kind": "phrase",
+      "spell": "iku"
+    },
+    {
+      "text": "来る",
+      "hint": "来",
+      "kind": "phrase",
+      "spell": "kuru"
+    },
+    {
+      "text": "見る",
+      "hint": "看",
+      "kind": "phrase",
+      "spell": "miru"
+    },
+    {
+      "text": "聞く",
+      "hint": "听",
+      "kind": "phrase",
+      "spell": "kiku"
+    },
+    {
+      "text": "話す",
+      "hint": "说",
+      "kind": "phrase",
+      "spell": "hanasu"
+    },
+    {
+      "text": "勉強する",
+      "hint": "学习",
+      "kind": "phrase",
+      "spell": "benkyou suru"
+    },
+    {
+      "text": "働く",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "hataraku"
+    },
+    {
+      "text": "今日はいい天気です",
+      "hint": "今天天气很好",
+      "kind": "sentence",
+      "spell": "kyou wa ii tenki desu"
+    },
+    {
+      "text": "コーヒーをください",
+      "hint": "请给我咖啡",
+      "kind": "sentence",
+      "spell": "koohii o kudasai"
+    },
+    {
+      "text": "駅はどこですか",
+      "hint": "车站在哪里？",
+      "kind": "sentence",
+      "spell": "eki wa doko desu ka"
+    },
+    {
+      "text": "窓を開けてください",
+      "hint": "请打开窗户",
+      "kind": "sentence",
+      "spell": "mado o akete kudasai"
+    },
+    {
+      "text": "明日は仕事です",
+      "hint": "明天要上班",
+      "kind": "sentence",
+      "spell": "ashita wa shigoto desu"
+    },
+    {
+      "text": "この本は面白いです",
+      "hint": "这本书很有意思",
+      "kind": "sentence",
+      "spell": "kono hon wa omoshiroi desu"
+    },
+    {
+      "text": "日本語が話せますか",
+      "hint": "你会说日语吗？",
+      "kind": "sentence",
+      "spell": "nihongo ga hanasemasu ka"
+    },
+    {
+      "text": "よくわかりません",
+      "hint": "我不太明白",
+      "kind": "sentence",
+      "spell": "yoku wakarimasen"
+    },
+    {
+      "text": "もう一度お願いします",
+      "hint": "请再说一遍",
+      "kind": "sentence",
+      "spell": "mou ichido onegaishimasu"
+    },
+    {
+      "text": "今何時ですか",
+      "hint": "现在几点了？",
+      "kind": "sentence",
+      "spell": "ima nanji desu ka"
+    },
+    {
+      "text": "音楽が好きです",
+      "hint": "我喜欢音乐",
+      "kind": "sentence",
+      "spell": "ongaku ga suki desu"
+    },
+    {
+      "text": "週末に公園へ行きましょう",
+      "hint": "周末去公园吧",
+      "kind": "sentence",
+      "spell": "shuumatsu ni kouen e ikimashou"
+    },
+    {
+      "text": "ご飯を食べましたか",
+      "hint": "吃饭了吗？",
+      "kind": "sentence",
+      "spell": "gohan o tabemashita ka"
+    },
+    {
+      "text": "高すぎます",
+      "hint": "太贵了",
+      "kind": "sentence",
+      "spell": "takasugimasu"
+    },
+    {
+      "text": "試着してもいいですか",
+      "hint": "我可以试试吗？",
+      "kind": "sentence",
+      "spell": "shichaku shite mo ii desu ka"
+    },
+    {
+      "text": "はじめまして",
+      "hint": "初次见面",
+      "kind": "sentence",
+      "spell": "hajimemashite"
+    },
+    {
+      "text": "手伝ってください",
+      "hint": "请帮帮我",
+      "kind": "sentence",
+      "spell": "tetsudatte kudasai"
+    },
+    {
+      "text": "学生です",
+      "hint": "我是学生",
+      "kind": "sentence",
+      "spell": "gakusei desu"
+    },
+    {
+      "text": "お名前は何ですか",
+      "hint": "你叫什么名字？",
+      "kind": "sentence",
+      "spell": "onamae wa nan desu ka"
+    },
+    {
+      "text": "ゆっくり話してください",
+      "hint": "请说慢一点",
+      "kind": "sentence",
+      "spell": "yukkuri hanashite kudasai"
+    },
+    {
+      "text": "メニューはありますか",
+      "hint": "有菜单吗？",
+      "kind": "sentence",
+      "spell": "menyuu wa arimasu ka"
+    },
+    {
+      "text": "お会計お願いします",
+      "hint": "请结账",
+      "kind": "sentence",
+      "spell": "okaikei onegaishimasu"
+    },
+    {
+      "text": "地下鉄に乗ってください",
+      "hint": "请坐地铁",
+      "kind": "sentence",
+      "spell": "chikatetsu ni notte kudasai"
+    },
+    {
+      "text": "また明日",
+      "hint": "明天见",
+      "kind": "sentence",
+      "spell": "mata ashita"
+    }
+  ]
+}

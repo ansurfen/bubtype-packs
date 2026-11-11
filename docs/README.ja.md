@@ -57,6 +57,8 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | `oxford-3000-{zh,en,ja}` | Oxford 3000（訳語トラック） |
 | `oxford-5000-{zh,en,ja}` | Oxford 5000 |
 | `rant-workplace` / `campus` / `invest` / `ecommerce` | BubType オリジナル短文 |
+| `fr-core-a1-zh` / `fr-daily-a1-zh` | フランス語 A1 |
+| `zh-daily-a1` / `ja-daily-a1` / `ko-daily-a1-zh` / `es-daily-a1-zh` | 多言語 A1 日常（語＋文） |
 
 ## 構成
 

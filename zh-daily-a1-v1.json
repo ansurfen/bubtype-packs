@@ -1,0 +1,398 @@
+{
+  "manifest": {
+    "id": "zh-daily-a1",
+    "title": "中文日常 A1",
+    "version": "1.1.0",
+    "lang": "zh",
+    "glossLang": "en",
+    "source": "curated-a1",
+    "lemmaCount": 64,
+    "description": "常用中文词句 · 英文释义（拼音输入）"
+  },
+  "items": [
+    {
+      "text": "你好",
+      "hint": "Hello",
+      "kind": "phrase",
+      "spell": "nǐ hǎo"
+    },
+    {
+      "text": "谢谢",
+      "hint": "Thank you",
+      "kind": "phrase",
+      "spell": "xiè xie"
+    },
+    {
+      "text": "不客气",
+      "hint": "You're welcome",
+      "kind": "phrase",
+      "spell": "bú kè qi"
+    },
+    {
+      "text": "对不起",
+      "hint": "Sorry",
+      "kind": "phrase",
+      "spell": "duì bu qǐ"
+    },
+    {
+      "text": "没关系",
+      "hint": "It's okay",
+      "kind": "phrase",
+      "spell": "méi guān xi"
+    },
+    {
+      "text": "再见",
+      "hint": "Goodbye",
+      "kind": "phrase",
+      "spell": "zài jiàn"
+    },
+    {
+      "text": "早上好",
+      "hint": "Good morning",
+      "kind": "phrase",
+      "spell": "zǎo shang hǎo"
+    },
+    {
+      "text": "晚安",
+      "hint": "Good night",
+      "kind": "phrase",
+      "spell": "wǎn ān"
+    },
+    {
+      "text": "请",
+      "hint": "Please",
+      "kind": "phrase",
+      "spell": "qǐng"
+    },
+    {
+      "text": "是",
+      "hint": "Yes",
+      "kind": "phrase",
+      "spell": "shì"
+    },
+    {
+      "text": "不",
+      "hint": "No",
+      "kind": "phrase",
+      "spell": "bù"
+    },
+    {
+      "text": "水",
+      "hint": "Water",
+      "kind": "phrase",
+      "spell": "shuǐ"
+    },
+    {
+      "text": "咖啡",
+      "hint": "Coffee",
+      "kind": "phrase",
+      "spell": "kā fēi"
+    },
+    {
+      "text": "吃饭",
+      "hint": "Eat a meal",
+      "kind": "phrase",
+      "spell": "chī fàn"
+    },
+    {
+      "text": "朋友",
+      "hint": "Friend",
+      "kind": "phrase",
+      "spell": "péng you"
+    },
+    {
+      "text": "家人",
+      "hint": "Family",
+      "kind": "phrase",
+      "spell": "jiā rén"
+    },
+    {
+      "text": "学校",
+      "hint": "School",
+      "kind": "phrase",
+      "spell": "xué xiào"
+    },
+    {
+      "text": "公司",
+      "hint": "Company",
+      "kind": "phrase",
+      "spell": "gōng sī"
+    },
+    {
+      "text": "家",
+      "hint": "Home",
+      "kind": "phrase",
+      "spell": "jiā"
+    },
+    {
+      "text": "今天",
+      "hint": "Today",
+      "kind": "phrase",
+      "spell": "jīn tiān"
+    },
+    {
+      "text": "明天",
+      "hint": "Tomorrow",
+      "kind": "phrase",
+      "spell": "míng tiān"
+    },
+    {
+      "text": "昨天",
+      "hint": "Yesterday",
+      "kind": "phrase",
+      "spell": "zuó tiān"
+    },
+    {
+      "text": "时间",
+      "hint": "Time",
+      "kind": "phrase",
+      "spell": "shí jiān"
+    },
+    {
+      "text": "人",
+      "hint": "Person",
+      "kind": "phrase",
+      "spell": "rén"
+    },
+    {
+      "text": "名字",
+      "hint": "Name",
+      "kind": "phrase",
+      "spell": "míng zi"
+    },
+    {
+      "text": "中国",
+      "hint": "China",
+      "kind": "phrase",
+      "spell": "zhōng guó"
+    },
+    {
+      "text": "英语",
+      "hint": "English",
+      "kind": "phrase",
+      "spell": "yīng yǔ"
+    },
+    {
+      "text": "中文",
+      "hint": "Chinese",
+      "kind": "phrase",
+      "spell": "zhōng wén"
+    },
+    {
+      "text": "喜欢",
+      "hint": "Like",
+      "kind": "phrase",
+      "spell": "xǐ huan"
+    },
+    {
+      "text": "吃",
+      "hint": "Eat",
+      "kind": "phrase",
+      "spell": "chī"
+    },
+    {
+      "text": "喝",
+      "hint": "Drink",
+      "kind": "phrase",
+      "spell": "hē"
+    },
+    {
+      "text": "去",
+      "hint": "Go",
+      "kind": "phrase",
+      "spell": "qù"
+    },
+    {
+      "text": "来",
+      "hint": "Come",
+      "kind": "phrase",
+      "spell": "lái"
+    },
+    {
+      "text": "看",
+      "hint": "Look / watch",
+      "kind": "phrase",
+      "spell": "kàn"
+    },
+    {
+      "text": "听",
+      "hint": "Listen",
+      "kind": "phrase",
+      "spell": "tīng"
+    },
+    {
+      "text": "说",
+      "hint": "Speak",
+      "kind": "phrase",
+      "spell": "shuō"
+    },
+    {
+      "text": "学习",
+      "hint": "Study",
+      "kind": "phrase",
+      "spell": "xué xí"
+    },
+    {
+      "text": "工作",
+      "hint": "Work",
+      "kind": "phrase",
+      "spell": "gōng zuò"
+    },
+    {
+      "text": "厕所",
+      "hint": "Restroom",
+      "kind": "phrase",
+      "spell": "cè suǒ"
+    },
+    {
+      "text": "多少钱",
+      "hint": "How much?",
+      "kind": "phrase",
+      "spell": "duō shao qián"
+    },
+    {
+      "text": "今天天气很好",
+      "hint": "The weather is nice today",
+      "kind": "sentence",
+      "spell": "jīn tiān tiān qì hěn hǎo"
+    },
+    {
+      "text": "我想喝咖啡",
+      "hint": "I want coffee",
+      "kind": "sentence",
+      "spell": "wǒ xiǎng hē kā fēi"
+    },
+    {
+      "text": "请问车站在哪里",
+      "hint": "Where is the station?",
+      "kind": "sentence",
+      "spell": "qǐng wèn chē zhàn zài nǎ lǐ"
+    },
+    {
+      "text": "请打开窗户",
+      "hint": "Please open the window",
+      "kind": "sentence",
+      "spell": "qǐng dǎ kāi chuāng hu"
+    },
+    {
+      "text": "我明天上班",
+      "hint": "I go to work tomorrow",
+      "kind": "sentence",
+      "spell": "wǒ míng tiān shàng bān"
+    },
+    {
+      "text": "这本书很有意思",
+      "hint": "This book is interesting",
+      "kind": "sentence",
+      "spell": "zhè běn shū hěn yǒu yì si"
+    },
+    {
+      "text": "你会说中文吗",
+      "hint": "Do you speak Chinese?",
+      "kind": "sentence",
+      "spell": "nǐ huì shuō zhōng wén ma"
+    },
+    {
+      "text": "我不太明白",
+      "hint": "I don't quite understand",
+      "kind": "sentence",
+      "spell": "wǒ bú tài míng bai"
+    },
+    {
+      "text": "请再说一遍",
+      "hint": "Please say it again",
+      "kind": "sentence",
+      "spell": "qǐng zài shuō yí biàn"
+    },
+    {
+      "text": "现在几点了",
+      "hint": "What time is it now?",
+      "kind": "sentence",
+      "spell": "xiàn zài jǐ diǎn le"
+    },
+    {
+      "text": "我喜欢听音乐",
+      "hint": "I like listening to music",
+      "kind": "sentence",
+      "spell": "wǒ xǐ huan tīng yīn yuè"
+    },
+    {
+      "text": "周末去公园吧",
+      "hint": "Let's go to the park this weekend",
+      "kind": "sentence",
+      "spell": "zhōu mò qù gōng yuán ba"
+    },
+    {
+      "text": "吃饭了吗",
+      "hint": "Have you eaten?",
+      "kind": "sentence",
+      "spell": "chī fàn le ma"
+    },
+    {
+      "text": "太贵了",
+      "hint": "Too expensive",
+      "kind": "sentence",
+      "spell": "tài guì le"
+    },
+    {
+      "text": "我可以试试吗",
+      "hint": "May I try it?",
+      "kind": "sentence",
+      "spell": "wǒ kě yǐ shì shi ma"
+    },
+    {
+      "text": "很高兴认识你",
+      "hint": "Nice to meet you",
+      "kind": "sentence",
+      "spell": "hěn gāo xìng rèn shi nǐ"
+    },
+    {
+      "text": "请帮帮我",
+      "hint": "Please help me",
+      "kind": "sentence",
+      "spell": "qǐng bāng bang wǒ"
+    },
+    {
+      "text": "我是学生",
+      "hint": "I am a student",
+      "kind": "sentence",
+      "spell": "wǒ shì xué sheng"
+    },
+    {
+      "text": "你叫什么名字",
+      "hint": "What is your name?",
+      "kind": "sentence",
+      "spell": "nǐ jiào shén me míng zi"
+    },
+    {
+      "text": "请说慢一点",
+      "hint": "Please speak more slowly",
+      "kind": "sentence",
+      "spell": "qǐng shuō màn yì diǎn"
+    },
+    {
+      "text": "有菜单吗",
+      "hint": "Do you have a menu?",
+      "kind": "sentence",
+      "spell": "yǒu cài dān ma"
+    },
+    {
+      "text": "买单",
+      "hint": "Check, please",
+      "kind": "sentence",
+      "spell": "mǎi dān"
+    },
+    {
+      "text": "请坐地铁",
+      "hint": "Please take the subway",
+      "kind": "sentence",
+      "spell": "qǐng zuò dì tiě"
+    },
+    {
+      "text": "明天见",
+      "hint": "See you tomorrow",
+      "kind": "sentence",
+      "spell": "míng tiān jiàn"
+    }
+  ]
+}
