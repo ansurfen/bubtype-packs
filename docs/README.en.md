@@ -52,6 +52,13 @@ Prefer the **Release asset URL** above. Raw GitHub URLs are for local debugging 
 
 When publishing: put `catalog.json` and every `*-v1.json` in the **same Release Assets** list. Relative `asset` paths resolve against the catalog’s directory.
 
+Also upload **stable installer filenames** (the website uses `/releases/latest/download/…` so it need not redeploy on each bump):
+
+| Stable name | Role |
+| --- | --- |
+| `BubType-Windows-Setup.exe` | Windows installer (alongside the versioned `.exe`) |
+| `BubType-macOS.dmg` | macOS installer |
+
 ## Catalog
 
 | id | Notes |

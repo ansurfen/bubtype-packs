@@ -52,6 +52,13 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 
 发布新版本时：将 `catalog.json` 与各 `*-v1.json` **放在同一 Release 的 Assets 中**。若 `catalog.json` 里的 `asset` 为相对路径，客户端会相对 **catalog 所在目录** 解析。
 
+桌面安装包请同时上传**稳定文件名**（官网 `/releases/latest/download/…` 固定用它们，发版不必改站点）：
+
+| 稳定名 | 说明 |
+| --- | --- |
+| `BubType-Windows-Setup.exe` | Windows 安装包（可与带版本号的 `.exe` 并存） |
+| `BubType-macOS.dmg` | macOS 安装包 |
+
 ## 当前书单
 
 | id | 说明 |
