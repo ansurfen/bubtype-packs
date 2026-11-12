@@ -1,0 +1,6 @@
+_cache/
+_release-upload/
+_upload-*/
+*.pyc
+__pycache__/
+.DS_Store

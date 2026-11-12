@@ -1,0 +1,7826 @@
+{
+  "manifest": {
+    "id": "ja-jlpt-n5n4",
+    "title": "日语 JLPT N5–N4",
+    "version": "1.0.0",
+    "lang": "ja",
+    "glossLang": "en",
+    "source": "openjlpt",
+    "lemmaCount": 1302,
+    "description": "JLPT N5+N4 常用词 · 英文释义（罗马字拼写）"
+  },
+  "items": [
+    {
+      "text": "会う",
+      "hint": "to meet",
+      "kind": "phrase",
+      "spell": "au"
+    },
+    {
+      "text": "青",
+      "hint": "blue",
+      "kind": "phrase",
+      "spell": "ao"
+    },
+    {
+      "text": "青い",
+      "hint": "blue",
+      "kind": "phrase",
+      "spell": "aoi"
+    },
+    {
+      "text": "赤",
+      "hint": "red",
+      "kind": "phrase",
+      "spell": "aka"
+    },
+    {
+      "text": "赤い",
+      "hint": "red",
+      "kind": "phrase",
+      "spell": "akai"
+    },
+    {
+      "text": "明るい",
+      "hint": "bright",
+      "kind": "phrase",
+      "spell": "akarui"
+    },
+    {
+      "text": "秋",
+      "hint": "autumn",
+      "kind": "phrase",
+      "spell": "aki"
+    },
+    {
+      "text": "開く",
+      "hint": "to open; to become open",
+      "kind": "phrase",
+      "spell": "aku"
+    },
+    {
+      "text": "開ける",
+      "hint": "to open",
+      "kind": "phrase",
+      "spell": "akeru"
+    },
+    {
+      "text": "上げる",
+      "hint": "to give",
+      "kind": "phrase",
+      "spell": "ageru"
+    },
+    {
+      "text": "朝",
+      "hint": "morning",
+      "kind": "phrase",
+      "spell": "asa"
+    },
+    {
+      "text": "朝ごはん",
+      "hint": "breakfast",
+      "kind": "phrase",
+      "spell": "asagohan"
+    },
+    {
+      "text": "あさって",
+      "hint": "day after tomorrow",
+      "kind": "phrase",
+      "spell": "asatte"
+    },
+    {
+      "text": "足",
+      "hint": "foot; leg",
+      "kind": "phrase",
+      "spell": "ashi"
+    },
+    {
+      "text": "明日",
+      "hint": "tomorrow",
+      "kind": "phrase",
+      "spell": "ashita"
+    },
+    {
+      "text": "あそこ",
+      "hint": "over there",
+      "kind": "phrase",
+      "spell": "asoko"
+    },
+    {
+      "text": "遊ぶ",
+      "hint": "to play; to make a visit",
+      "kind": "phrase",
+      "spell": "asobu"
+    },
+    {
+      "text": "暖かい",
+      "hint": "warm",
+      "kind": "phrase",
+      "spell": "atatakai"
+    },
+    {
+      "text": "頭",
+      "hint": "head",
+      "kind": "phrase",
+      "spell": "atama"
+    },
+    {
+      "text": "新しい",
+      "hint": "new",
+      "kind": "phrase",
+      "spell": "atarashii"
+    },
+    {
+      "text": "あちら",
+      "hint": "there",
+      "kind": "phrase",
+      "spell": "achira"
+    },
+    {
+      "text": "厚い",
+      "hint": "kind; deep; thick",
+      "kind": "phrase",
+      "spell": "atsui"
+    },
+    {
+      "text": "暑い",
+      "hint": "hot",
+      "kind": "phrase",
+      "spell": "atsui"
+    },
+    {
+      "text": "熱い",
+      "hint": "hot to the touch",
+      "kind": "phrase",
+      "spell": "atsui"
+    },
+    {
+      "text": "あっち",
+      "hint": "over there",
+      "kind": "phrase",
+      "spell": "atchi"
+    },
+    {
+      "text": "後",
+      "hint": "afterwards",
+      "kind": "phrase",
+      "spell": "ato"
+    },
+    {
+      "text": "あなた",
+      "hint": "you",
+      "kind": "phrase",
+      "spell": "anata"
+    },
+    {
+      "text": "兄",
+      "hint": "(humble) older brother",
+      "kind": "phrase",
+      "spell": "ani"
+    },
+    {
+      "text": "姉",
+      "hint": "(humble) older sister",
+      "kind": "phrase",
+      "spell": "ane"
+    },
+    {
+      "text": "あの",
+      "hint": "that over there",
+      "kind": "phrase",
+      "spell": "ano"
+    },
+    {
+      "text": "アパート",
+      "hint": "apartment",
+      "kind": "phrase",
+      "spell": "apaato"
+    },
+    {
+      "text": "あびる",
+      "hint": "to bathe; to shower",
+      "kind": "phrase",
+      "spell": "abiru"
+    },
+    {
+      "text": "危ない",
+      "hint": "dangerous",
+      "kind": "phrase",
+      "spell": "abunai"
+    },
+    {
+      "text": "甘い",
+      "hint": "sweet",
+      "kind": "phrase",
+      "spell": "amai"
+    },
+    {
+      "text": "あまり",
+      "hint": "not very",
+      "kind": "phrase",
+      "spell": "amari"
+    },
+    {
+      "text": "飴",
+      "hint": "candy",
+      "kind": "phrase",
+      "spell": "ame"
+    },
+    {
+      "text": "雨",
+      "hint": "rain",
+      "kind": "phrase",
+      "spell": "ame"
+    },
+    {
+      "text": "洗う",
+      "hint": "to wash",
+      "kind": "phrase",
+      "spell": "arau"
+    },
+    {
+      "text": "ありがとう",
+      "hint": "Thank you",
+      "kind": "phrase",
+      "spell": "arigatou"
+    },
+    {
+      "text": "ある",
+      "hint": "to be; to have (used for inanimate objects)",
+      "kind": "phrase",
+      "spell": "aru"
+    },
+    {
+      "text": "歩く",
+      "hint": "to walk",
+      "kind": "phrase",
+      "spell": "aruku"
+    },
+    {
+      "text": "あれ",
+      "hint": "that",
+      "kind": "phrase",
+      "spell": "are"
+    },
+    {
+      "text": "いい",
+      "hint": "good",
+      "kind": "phrase",
+      "spell": "ii"
+    },
+    {
+      "text": "いいえ",
+      "hint": "no",
+      "kind": "phrase",
+      "spell": "iie"
+    },
+    {
+      "text": "言う",
+      "hint": "to say",
+      "kind": "phrase",
+      "spell": "iu"
+    },
+    {
+      "text": "家",
+      "hint": "house",
+      "kind": "phrase",
+      "spell": "ie"
+    },
+    {
+      "text": "いかが",
+      "hint": "how",
+      "kind": "phrase",
+      "spell": "ikaga"
+    },
+    {
+      "text": "行く",
+      "hint": "to go",
+      "kind": "phrase",
+      "spell": "iku"
+    },
+    {
+      "text": "いくつ",
+      "hint": "how many?; how old?",
+      "kind": "phrase",
+      "spell": "ikutsu"
+    },
+    {
+      "text": "いくら",
+      "hint": "how much?",
+      "kind": "phrase",
+      "spell": "ikura"
+    },
+    {
+      "text": "池",
+      "hint": "pond",
+      "kind": "phrase",
+      "spell": "ike"
+    },
+    {
+      "text": "医者",
+      "hint": "medical doctor",
+      "kind": "phrase",
+      "spell": "isha"
+    },
+    {
+      "text": "いす",
+      "hint": "chair",
+      "kind": "phrase",
+      "spell": "isu"
+    },
+    {
+      "text": "忙しい",
+      "hint": "busy; irritated",
+      "kind": "phrase",
+      "spell": "isogashii"
+    },
+    {
+      "text": "痛い",
+      "hint": "painful",
+      "kind": "phrase",
+      "spell": "itai"
+    },
+    {
+      "text": "いただきます",
+      "hint": "expression of gratitude before meals",
+      "kind": "phrase",
+      "spell": "itadakimasu"
+    },
+    {
+      "text": "一",
+      "hint": "one",
+      "kind": "phrase",
+      "spell": "ichi"
+    },
+    {
+      "text": "一日",
+      "hint": "one day; first of month",
+      "kind": "phrase",
+      "spell": "ichinichi"
+    },
+    {
+      "text": "いちばん",
+      "hint": "best; first",
+      "kind": "phrase",
+      "spell": "ichiban"
+    },
+    {
+      "text": "いつ",
+      "hint": "when",
+      "kind": "phrase",
+      "spell": "itsu"
+    },
+    {
+      "text": "五日",
+      "hint": "five days; fifth day",
+      "kind": "phrase",
+      "spell": "itsuka"
+    },
+    {
+      "text": "一緒",
+      "hint": "together",
+      "kind": "phrase",
+      "spell": "issho"
+    },
+    {
+      "text": "五つ",
+      "hint": "five",
+      "kind": "phrase",
+      "spell": "itsutsu"
+    },
+    {
+      "text": "いつも",
+      "hint": "always",
+      "kind": "phrase",
+      "spell": "itsumo"
+    },
+    {
+      "text": "犬",
+      "hint": "dog",
+      "kind": "phrase",
+      "spell": "inu"
+    },
+    {
+      "text": "今",
+      "hint": "now",
+      "kind": "phrase",
+      "spell": "ima"
+    },
+    {
+      "text": "意味",
+      "hint": "meaning",
+      "kind": "phrase",
+      "spell": "imi"
+    },
+    {
+      "text": "妹",
+      "hint": "(humble) younger sister",
+      "kind": "phrase",
+      "spell": "imouto"
+    },
+    {
+      "text": "嫌",
+      "hint": "unpleasant",
+      "kind": "phrase",
+      "spell": "iya"
+    },
+    {
+      "text": "入口",
+      "hint": "entrance",
+      "kind": "phrase",
+      "spell": "iriguchi"
+    },
+    {
+      "text": "いる",
+      "hint": "to be; to have (used for people and animals)",
+      "kind": "phrase",
+      "spell": "iru"
+    },
+    {
+      "text": "要る",
+      "hint": "to need",
+      "kind": "phrase",
+      "spell": "iru"
+    },
+    {
+      "text": "入れる",
+      "hint": "to put in",
+      "kind": "phrase",
+      "spell": "ireru"
+    },
+    {
+      "text": "色",
+      "hint": "colour",
+      "kind": "phrase",
+      "spell": "iro"
+    },
+    {
+      "text": "いろいろ",
+      "hint": "various",
+      "kind": "phrase",
+      "spell": "iroiro"
+    },
+    {
+      "text": "上",
+      "hint": "on top of",
+      "kind": "phrase",
+      "spell": "ue"
+    },
+    {
+      "text": "後ろ",
+      "hint": "behind",
+      "kind": "phrase",
+      "spell": "ushiro"
+    },
+    {
+      "text": "薄い",
+      "hint": "thin; weak",
+      "kind": "phrase",
+      "spell": "usui"
+    },
+    {
+      "text": "歌",
+      "hint": "song",
+      "kind": "phrase",
+      "spell": "uta"
+    },
+    {
+      "text": "歌う",
+      "hint": "to sing",
+      "kind": "phrase",
+      "spell": "utau"
+    },
+    {
+      "text": "生まれる",
+      "hint": "to be born",
+      "kind": "phrase",
+      "spell": "umareru"
+    },
+    {
+      "text": "海",
+      "hint": "sea",
+      "kind": "phrase",
+      "spell": "umi"
+    },
+    {
+      "text": "売る",
+      "hint": "to sell",
+      "kind": "phrase",
+      "spell": "uru"
+    },
+    {
+      "text": "煩い",
+      "hint": "noisy; annoying",
+      "kind": "phrase",
+      "spell": "urusai"
+    },
+    {
+      "text": "上着",
+      "hint": "jacket",
+      "kind": "phrase",
+      "spell": "uwagi"
+    },
+    {
+      "text": "絵",
+      "hint": "picture",
+      "kind": "phrase",
+      "spell": "e"
+    },
+    {
+      "text": "映画",
+      "hint": "movie",
+      "kind": "phrase",
+      "spell": "eiga"
+    },
+    {
+      "text": "映画館",
+      "hint": "cinema",
+      "kind": "phrase",
+      "spell": "eigakan"
+    },
+    {
+      "text": "英語",
+      "hint": "English language",
+      "kind": "phrase",
+      "spell": "eigo"
+    },
+    {
+      "text": "ええ",
+      "hint": "yes",
+      "kind": "phrase",
+      "spell": "ee"
+    },
+    {
+      "text": "駅",
+      "hint": "station",
+      "kind": "phrase",
+      "spell": "eki"
+    },
+    {
+      "text": "エレベーター",
+      "hint": "elevator",
+      "kind": "phrase",
+      "spell": "erebeetaa"
+    },
+    {
+      "text": "鉛筆",
+      "hint": "pencil",
+      "kind": "phrase",
+      "spell": "enpitsu"
+    },
+    {
+      "text": "おいしい",
+      "hint": "delicious",
+      "kind": "phrase",
+      "spell": "oishii"
+    },
+    {
+      "text": "多い",
+      "hint": "many",
+      "kind": "phrase",
+      "spell": "ooi"
+    },
+    {
+      "text": "大きい",
+      "hint": "big",
+      "kind": "phrase",
+      "spell": "ookii"
+    },
+    {
+      "text": "大きな",
+      "hint": "big",
+      "kind": "phrase",
+      "spell": "ookina"
+    },
+    {
+      "text": "大勢",
+      "hint": "great number of people",
+      "kind": "phrase",
+      "spell": "oozei"
+    },
+    {
+      "text": "お母さん",
+      "hint": "(honorable) mother",
+      "kind": "phrase",
+      "spell": "okaasan"
+    },
+    {
+      "text": "お菓子",
+      "hint": "sweets; candy",
+      "kind": "phrase",
+      "spell": "okashi"
+    },
+    {
+      "text": "お金",
+      "hint": "money",
+      "kind": "phrase",
+      "spell": "okane"
+    },
+    {
+      "text": "起きる",
+      "hint": "to get up",
+      "kind": "phrase",
+      "spell": "okiru"
+    },
+    {
+      "text": "置く",
+      "hint": "to put",
+      "kind": "phrase",
+      "spell": "oku"
+    },
+    {
+      "text": "奥さん",
+      "hint": "(honorable) wife",
+      "kind": "phrase",
+      "spell": "okusan"
+    },
+    {
+      "text": "お酒",
+      "hint": "alcohol; rice wine",
+      "kind": "phrase",
+      "spell": "osake"
+    },
+    {
+      "text": "お皿",
+      "hint": "plate; dish",
+      "kind": "phrase",
+      "spell": "osara"
+    },
+    {
+      "text": "お祖父さん",
+      "hint": "grandfather; male senior citizen",
+      "kind": "phrase",
+      "spell": "ojiisan"
+    },
+    {
+      "text": "教える",
+      "hint": "to teach; to tell",
+      "kind": "phrase",
+      "spell": "oshieru"
+    },
+    {
+      "text": "押す",
+      "hint": "to push; to stamp something",
+      "kind": "phrase",
+      "spell": "osu"
+    },
+    {
+      "text": "遅い",
+      "hint": "late; slow",
+      "kind": "phrase",
+      "spell": "osoi"
+    },
+    {
+      "text": "お茶",
+      "hint": "green tea",
+      "kind": "phrase",
+      "spell": "ocha"
+    },
+    {
+      "text": "お手洗い",
+      "hint": "bathroom",
+      "kind": "phrase",
+      "spell": "otearai"
+    },
+    {
+      "text": "お父さん",
+      "hint": "(honorable) father",
+      "kind": "phrase",
+      "spell": "otousan"
+    },
+    {
+      "text": "弟",
+      "hint": "younger brother",
+      "kind": "phrase",
+      "spell": "otouto"
+    },
+    {
+      "text": "男",
+      "hint": "man",
+      "kind": "phrase",
+      "spell": "otoko"
+    },
+    {
+      "text": "男の子",
+      "hint": "boy",
+      "kind": "phrase",
+      "spell": "otokonoko"
+    },
+    {
+      "text": "一昨日",
+      "hint": "day before yesterday",
+      "kind": "phrase",
+      "spell": "ototoi"
+    },
+    {
+      "text": "一昨年",
+      "hint": "year before last",
+      "kind": "phrase",
+      "spell": "ototoshi"
+    },
+    {
+      "text": "大人",
+      "hint": "adult",
+      "kind": "phrase",
+      "spell": "otona"
+    },
+    {
+      "text": "おなか",
+      "hint": "stomach",
+      "kind": "phrase",
+      "spell": "onaka"
+    },
+    {
+      "text": "同じ",
+      "hint": "same",
+      "kind": "phrase",
+      "spell": "onaji"
+    },
+    {
+      "text": "お兄さん",
+      "hint": "(honorable) older brother",
+      "kind": "phrase",
+      "spell": "oniisan"
+    },
+    {
+      "text": "お姉さん",
+      "hint": "(honorable) older sister",
+      "kind": "phrase",
+      "spell": "oneesan"
+    },
+    {
+      "text": "お願いします",
+      "hint": "please",
+      "kind": "phrase",
+      "spell": "onegaishimasu"
+    },
+    {
+      "text": "おばあさん",
+      "hint": "grandmother; female senior-citizen",
+      "kind": "phrase",
+      "spell": "obaasan"
+    },
+    {
+      "text": "伯母さん",
+      "hint": "aunt",
+      "kind": "phrase",
+      "spell": "obasan"
+    },
+    {
+      "text": "おはよう",
+      "hint": "(abbreviation) Good morning",
+      "kind": "phrase",
+      "spell": "ohayou"
+    },
+    {
+      "text": "お風呂",
+      "hint": "bath",
+      "kind": "phrase",
+      "spell": "ofuro"
+    },
+    {
+      "text": "お弁当",
+      "hint": "boxed lunch",
+      "kind": "phrase",
+      "spell": "obentou"
+    },
+    {
+      "text": "覚える",
+      "hint": "to remember",
+      "kind": "phrase",
+      "spell": "oboeru"
+    },
+    {
+      "text": "おまわりさん",
+      "hint": "friendly term for policeman",
+      "kind": "phrase",
+      "spell": "omawarisan"
+    },
+    {
+      "text": "重い",
+      "hint": "heavy",
+      "kind": "phrase",
+      "spell": "omoi"
+    },
+    {
+      "text": "おもしろい",
+      "hint": "interesting",
+      "kind": "phrase",
+      "spell": "omoshiroi"
+    },
+    {
+      "text": "泳ぐ",
+      "hint": "to swim",
+      "kind": "phrase",
+      "spell": "oyogu"
+    },
+    {
+      "text": "降りる",
+      "hint": "to get off; to descend",
+      "kind": "phrase",
+      "spell": "oriru"
+    },
+    {
+      "text": "終る",
+      "hint": "to finish",
+      "kind": "phrase",
+      "spell": "owaru"
+    },
+    {
+      "text": "音楽",
+      "hint": "music",
+      "kind": "phrase",
+      "spell": "ongaku"
+    },
+    {
+      "text": "女",
+      "hint": "woman",
+      "kind": "phrase",
+      "spell": "onna"
+    },
+    {
+      "text": "女の子",
+      "hint": "girl",
+      "kind": "phrase",
+      "spell": "onnanoko"
+    },
+    {
+      "text": "外国",
+      "hint": "foreign country",
+      "kind": "phrase",
+      "spell": "gaikoku"
+    },
+    {
+      "text": "外国人",
+      "hint": "foreigner",
+      "kind": "phrase",
+      "spell": "gaikokujin"
+    },
+    {
+      "text": "会社",
+      "hint": "company",
+      "kind": "phrase",
+      "spell": "kaisha"
+    },
+    {
+      "text": "階段",
+      "hint": "stairs",
+      "kind": "phrase",
+      "spell": "kaidan"
+    },
+    {
+      "text": "買い物",
+      "hint": "shopping",
+      "kind": "phrase",
+      "spell": "kaimono"
+    },
+    {
+      "text": "買う",
+      "hint": "to buy",
+      "kind": "phrase",
+      "spell": "kau"
+    },
+    {
+      "text": "返す",
+      "hint": "to return something",
+      "kind": "phrase",
+      "spell": "kaesu"
+    },
+    {
+      "text": "帰る",
+      "hint": "to go back",
+      "kind": "phrase",
+      "spell": "kaeru"
+    },
+    {
+      "text": "かかる",
+      "hint": "to take time or money",
+      "kind": "phrase",
+      "spell": "kakaru"
+    },
+    {
+      "text": "かぎ",
+      "hint": "key",
+      "kind": "phrase",
+      "spell": "kagi"
+    },
+    {
+      "text": "書く",
+      "hint": "to write",
+      "kind": "phrase",
+      "spell": "kaku"
+    },
+    {
+      "text": "学生",
+      "hint": "student",
+      "kind": "phrase",
+      "spell": "gakusei"
+    },
+    {
+      "text": "かける",
+      "hint": "to call by phone",
+      "kind": "phrase",
+      "spell": "kakeru"
+    },
+    {
+      "text": "傘",
+      "hint": "umbrella",
+      "kind": "phrase",
+      "spell": "kasa"
+    },
+    {
+      "text": "貸す",
+      "hint": "to lend",
+      "kind": "phrase",
+      "spell": "kasu"
+    },
+    {
+      "text": "風",
+      "hint": "wind",
+      "kind": "phrase",
+      "spell": "kaze"
+    },
+    {
+      "text": "風邪",
+      "hint": "a cold",
+      "kind": "phrase",
+      "spell": "kaze"
+    },
+    {
+      "text": "家族",
+      "hint": "family",
+      "kind": "phrase",
+      "spell": "kazoku"
+    },
+    {
+      "text": "方",
+      "hint": "person; way of doing",
+      "kind": "phrase",
+      "spell": "kata"
+    },
+    {
+      "text": "学校",
+      "hint": "school",
+      "kind": "phrase",
+      "spell": "gakkou"
+    },
+    {
+      "text": "カップ",
+      "hint": "cup",
+      "kind": "phrase",
+      "spell": "kappu"
+    },
+    {
+      "text": "家庭",
+      "hint": "household",
+      "kind": "phrase",
+      "spell": "katei"
+    },
+    {
+      "text": "角",
+      "hint": "a corner",
+      "kind": "phrase",
+      "spell": "kado"
+    },
+    {
+      "text": "かばん",
+      "hint": "bag; basket",
+      "kind": "phrase",
+      "spell": "kaban"
+    },
+    {
+      "text": "花瓶",
+      "hint": "a vase",
+      "kind": "phrase",
+      "spell": "kabin"
+    },
+    {
+      "text": "紙",
+      "hint": "paper",
+      "kind": "phrase",
+      "spell": "kami"
+    },
+    {
+      "text": "カメラ",
+      "hint": "camera",
+      "kind": "phrase",
+      "spell": "kamera"
+    },
+    {
+      "text": "火曜日",
+      "hint": "Tuesday",
+      "kind": "phrase",
+      "spell": "kayoubi"
+    },
+    {
+      "text": "辛い",
+      "hint": "spicy",
+      "kind": "phrase",
+      "spell": "karai"
+    },
+    {
+      "text": "体",
+      "hint": "body",
+      "kind": "phrase",
+      "spell": "karada"
+    },
+    {
+      "text": "借りる",
+      "hint": "to borrow",
+      "kind": "phrase",
+      "spell": "kariru"
+    },
+    {
+      "text": "軽い",
+      "hint": "light",
+      "kind": "phrase",
+      "spell": "karui"
+    },
+    {
+      "text": "カレー",
+      "hint": "curry",
+      "kind": "phrase",
+      "spell": "karee"
+    },
+    {
+      "text": "カレンダー",
+      "hint": "calendar",
+      "kind": "phrase",
+      "spell": "karendaa"
+    },
+    {
+      "text": "川",
+      "hint": "river",
+      "kind": "phrase",
+      "spell": "kawa"
+    },
+    {
+      "text": "かわいい",
+      "hint": "cute",
+      "kind": "phrase",
+      "spell": "kawaii"
+    },
+    {
+      "text": "漢字",
+      "hint": "Chinese character",
+      "kind": "phrase",
+      "spell": "kanji"
+    },
+    {
+      "text": "木",
+      "hint": "tree; wood",
+      "kind": "phrase",
+      "spell": "ki"
+    },
+    {
+      "text": "黄色",
+      "hint": "yellow",
+      "kind": "phrase",
+      "spell": "kiiro"
+    },
+    {
+      "text": "黄色い",
+      "hint": "yellow",
+      "kind": "phrase",
+      "spell": "kiiroi"
+    },
+    {
+      "text": "消える",
+      "hint": "to disappear",
+      "kind": "phrase",
+      "spell": "kieru"
+    },
+    {
+      "text": "聞く",
+      "hint": "to hear; to listen to; to ask",
+      "kind": "phrase",
+      "spell": "kiku"
+    },
+    {
+      "text": "北",
+      "hint": "north",
+      "kind": "phrase",
+      "spell": "kita"
+    },
+    {
+      "text": "ギター",
+      "hint": "guitar",
+      "kind": "phrase",
+      "spell": "gitaa"
+    },
+    {
+      "text": "汚い",
+      "hint": "dirty",
+      "kind": "phrase",
+      "spell": "kitanai"
+    },
+    {
+      "text": "喫茶店",
+      "hint": "coffee lounge",
+      "kind": "phrase",
+      "spell": "kissaten"
+    },
+    {
+      "text": "切手",
+      "hint": "postage stamp",
+      "kind": "phrase",
+      "spell": "kitte"
+    },
+    {
+      "text": "切符",
+      "hint": "ticket",
+      "kind": "phrase",
+      "spell": "kippu"
+    },
+    {
+      "text": "昨日",
+      "hint": "yesterday",
+      "kind": "phrase",
+      "spell": "kinou"
+    },
+    {
+      "text": "九",
+      "hint": "nine",
+      "kind": "phrase",
+      "spell": "kyuu"
+    },
+    {
+      "text": "牛肉",
+      "hint": "beef",
+      "kind": "phrase",
+      "spell": "gyuuniku"
+    },
+    {
+      "text": "牛乳",
+      "hint": "milk",
+      "kind": "phrase",
+      "spell": "gyuunyuu"
+    },
+    {
+      "text": "今日",
+      "hint": "today",
+      "kind": "phrase",
+      "spell": "kyou"
+    },
+    {
+      "text": "教室",
+      "hint": "classroom",
+      "kind": "phrase",
+      "spell": "kyoushitsu"
+    },
+    {
+      "text": "兄弟",
+      "hint": "(humble) siblings",
+      "kind": "phrase",
+      "spell": "kyoudai"
+    },
+    {
+      "text": "去年",
+      "hint": "last year",
+      "kind": "phrase",
+      "spell": "kyonen"
+    },
+    {
+      "text": "嫌い",
+      "hint": "hate",
+      "kind": "phrase",
+      "spell": "kirai"
+    },
+    {
+      "text": "切る",
+      "hint": "to cut",
+      "kind": "phrase",
+      "spell": "kiru"
+    },
+    {
+      "text": "着る",
+      "hint": "to put on from the shoulders down",
+      "kind": "phrase",
+      "spell": "kiru"
+    },
+    {
+      "text": "きれい",
+      "hint": "pretty; clean",
+      "kind": "phrase",
+      "spell": "kirei"
+    },
+    {
+      "text": "キロ",
+      "hint": "kilometre; kilogram",
+      "kind": "phrase",
+      "spell": "kiro"
+    },
+    {
+      "text": "銀行",
+      "hint": "bank",
+      "kind": "phrase",
+      "spell": "ginkou"
+    },
+    {
+      "text": "金曜日",
+      "hint": "Friday",
+      "kind": "phrase",
+      "spell": "kin'youbi"
+    },
+    {
+      "text": "薬",
+      "hint": "medicine",
+      "kind": "phrase",
+      "spell": "kusuri"
+    },
+    {
+      "text": "ください",
+      "hint": "please",
+      "kind": "phrase",
+      "spell": "kudasai"
+    },
+    {
+      "text": "果物",
+      "hint": "fruit",
+      "kind": "phrase",
+      "spell": "kudamono"
+    },
+    {
+      "text": "口",
+      "hint": "mouth; opening",
+      "kind": "phrase",
+      "spell": "kuchi"
+    },
+    {
+      "text": "靴",
+      "hint": "shoes",
+      "kind": "phrase",
+      "spell": "kutsu"
+    },
+    {
+      "text": "靴下",
+      "hint": "socks",
+      "kind": "phrase",
+      "spell": "kutsushita"
+    },
+    {
+      "text": "国",
+      "hint": "country",
+      "kind": "phrase",
+      "spell": "kuni"
+    },
+    {
+      "text": "曇り",
+      "hint": "cloudy weather",
+      "kind": "phrase",
+      "spell": "kumori"
+    },
+    {
+      "text": "曇る",
+      "hint": "to become cloudy; to become dim",
+      "kind": "phrase",
+      "spell": "kumoru"
+    },
+    {
+      "text": "暗い",
+      "hint": "gloomy",
+      "kind": "phrase",
+      "spell": "kurai"
+    },
+    {
+      "text": "クラス",
+      "hint": "class",
+      "kind": "phrase",
+      "spell": "kurasu"
+    },
+    {
+      "text": "グラム",
+      "hint": "gram",
+      "kind": "phrase",
+      "spell": "guramu"
+    },
+    {
+      "text": "来る",
+      "hint": "to come",
+      "kind": "phrase",
+      "spell": "kuru"
+    },
+    {
+      "text": "車",
+      "hint": "car; vehicle",
+      "kind": "phrase",
+      "spell": "kuruma"
+    },
+    {
+      "text": "黒",
+      "hint": "black",
+      "kind": "phrase",
+      "spell": "kuro"
+    },
+    {
+      "text": "黒い",
+      "hint": "black",
+      "kind": "phrase",
+      "spell": "kuroi"
+    },
+    {
+      "text": "警官",
+      "hint": "policeman",
+      "kind": "phrase",
+      "spell": "keikan"
+    },
+    {
+      "text": "今朝",
+      "hint": "this morning",
+      "kind": "phrase",
+      "spell": "kesa"
+    },
+    {
+      "text": "消す",
+      "hint": "to erase; to turn off power",
+      "kind": "phrase",
+      "spell": "kesu"
+    },
+    {
+      "text": "結構",
+      "hint": "splendid; enough",
+      "kind": "phrase",
+      "spell": "kekkou"
+    },
+    {
+      "text": "結婚",
+      "hint": "marriage",
+      "kind": "phrase",
+      "spell": "kekkon"
+    },
+    {
+      "text": "月曜日",
+      "hint": "Monday",
+      "kind": "phrase",
+      "spell": "getsuyoubi"
+    },
+    {
+      "text": "玄関",
+      "hint": "entry hall",
+      "kind": "phrase",
+      "spell": "genkan"
+    },
+    {
+      "text": "元気",
+      "hint": "health; vitality",
+      "kind": "phrase",
+      "spell": "genki"
+    },
+    {
+      "text": "五",
+      "hint": "five",
+      "kind": "phrase",
+      "spell": "go"
+    },
+    {
+      "text": "公園",
+      "hint": "park",
+      "kind": "phrase",
+      "spell": "kouen"
+    },
+    {
+      "text": "交差点",
+      "hint": "intersection",
+      "kind": "phrase",
+      "spell": "kousaten"
+    },
+    {
+      "text": "紅茶",
+      "hint": "black tea",
+      "kind": "phrase",
+      "spell": "koucha"
+    },
+    {
+      "text": "交番",
+      "hint": "police box",
+      "kind": "phrase",
+      "spell": "kouban"
+    },
+    {
+      "text": "声",
+      "hint": "voice",
+      "kind": "phrase",
+      "spell": "koe"
+    },
+    {
+      "text": "コート",
+      "hint": "coat; tennis court",
+      "kind": "phrase",
+      "spell": "kooto"
+    },
+    {
+      "text": "コーヒー",
+      "hint": "coffee",
+      "kind": "phrase",
+      "spell": "koohii"
+    },
+    {
+      "text": "ここ",
+      "hint": "here",
+      "kind": "phrase",
+      "spell": "koko"
+    },
+    {
+      "text": "午後",
+      "hint": "afternoon",
+      "kind": "phrase",
+      "spell": "gogo"
+    },
+    {
+      "text": "九日",
+      "hint": "nine days; ninth day",
+      "kind": "phrase",
+      "spell": "kokonoka"
+    },
+    {
+      "text": "九つ",
+      "hint": "nine",
+      "kind": "phrase",
+      "spell": "kokonotsu"
+    },
+    {
+      "text": "午前",
+      "hint": "morning",
+      "kind": "phrase",
+      "spell": "gozen"
+    },
+    {
+      "text": "答える",
+      "hint": "to answer",
+      "kind": "phrase",
+      "spell": "kotaeru"
+    },
+    {
+      "text": "ごちそうさま",
+      "hint": "feast",
+      "kind": "phrase",
+      "spell": "gochisousama"
+    },
+    {
+      "text": "こちら",
+      "hint": "this person or way",
+      "kind": "phrase",
+      "spell": "kochira"
+    },
+    {
+      "text": "こっち",
+      "hint": "this person or way",
+      "kind": "phrase",
+      "spell": "kotchi"
+    },
+    {
+      "text": "コップ",
+      "hint": "a glass",
+      "kind": "phrase",
+      "spell": "koppu"
+    },
+    {
+      "text": "今年",
+      "hint": "this year",
+      "kind": "phrase",
+      "spell": "kotoshi"
+    },
+    {
+      "text": "言葉",
+      "hint": "word; language",
+      "kind": "phrase",
+      "spell": "kotoba"
+    },
+    {
+      "text": "子供",
+      "hint": "child",
+      "kind": "phrase",
+      "spell": "kodomo"
+    },
+    {
+      "text": "この",
+      "hint": "this",
+      "kind": "phrase",
+      "spell": "kono"
+    },
+    {
+      "text": "御飯",
+      "hint": "cooked rice; meal",
+      "kind": "phrase",
+      "spell": "gohan"
+    },
+    {
+      "text": "コピーする",
+      "hint": "to copy",
+      "kind": "phrase",
+      "spell": "kopiisuru"
+    },
+    {
+      "text": "困る",
+      "hint": "to be worried",
+      "kind": "phrase",
+      "spell": "komaru"
+    },
+    {
+      "text": "ごめんなさい",
+      "hint": "I beg your pardon; excuse me",
+      "kind": "phrase",
+      "spell": "gomennasai"
+    },
+    {
+      "text": "これ",
+      "hint": "this",
+      "kind": "phrase",
+      "spell": "kore"
+    },
+    {
+      "text": "今月",
+      "hint": "this month",
+      "kind": "phrase",
+      "spell": "kongetsu"
+    },
+    {
+      "text": "今週",
+      "hint": "this week",
+      "kind": "phrase",
+      "spell": "konshuu"
+    },
+    {
+      "text": "こんな",
+      "hint": "such",
+      "kind": "phrase",
+      "spell": "konna"
+    },
+    {
+      "text": "こんにちは",
+      "hint": "hello; good day (daytime greeting, id)",
+      "kind": "phrase",
+      "spell": "konnichiwa"
+    },
+    {
+      "text": "今晩",
+      "hint": "this evening",
+      "kind": "phrase",
+      "spell": "konban"
+    },
+    {
+      "text": "こんばんは",
+      "hint": "good evening",
+      "kind": "phrase",
+      "spell": "konbanwa"
+    },
+    {
+      "text": "さあ",
+      "hint": "well…",
+      "kind": "phrase",
+      "spell": "saa"
+    },
+    {
+      "text": "財布",
+      "hint": "wallet",
+      "kind": "phrase",
+      "spell": "saifu"
+    },
+    {
+      "text": "魚",
+      "hint": "fish",
+      "kind": "phrase",
+      "spell": "sakana"
+    },
+    {
+      "text": "先",
+      "hint": "the future; previous",
+      "kind": "phrase",
+      "spell": "saki"
+    },
+    {
+      "text": "咲く",
+      "hint": "to bloom",
+      "kind": "phrase",
+      "spell": "saku"
+    },
+    {
+      "text": "作文",
+      "hint": "composition; writing",
+      "kind": "phrase",
+      "spell": "sakubun"
+    },
+    {
+      "text": "差す",
+      "hint": "to stretch out hands; to raise an umbrella",
+      "kind": "phrase",
+      "spell": "sasu"
+    },
+    {
+      "text": "雑誌",
+      "hint": "magazine",
+      "kind": "phrase",
+      "spell": "zasshi"
+    },
+    {
+      "text": "砂糖",
+      "hint": "sugar",
+      "kind": "phrase",
+      "spell": "satou"
+    },
+    {
+      "text": "寒い",
+      "hint": "cold",
+      "kind": "phrase",
+      "spell": "samui"
+    },
+    {
+      "text": "さようなら",
+      "hint": "good-bye",
+      "kind": "phrase",
+      "spell": "sayounara"
+    },
+    {
+      "text": "再来年",
+      "hint": "year after next",
+      "kind": "phrase",
+      "spell": "sarainen"
+    },
+    {
+      "text": "三",
+      "hint": "three",
+      "kind": "phrase",
+      "spell": "san"
+    },
+    {
+      "text": "散歩",
+      "hint": "to stroll",
+      "kind": "phrase",
+      "spell": "sanpo"
+    },
+    {
+      "text": "四",
+      "hint": "four",
+      "kind": "phrase",
+      "spell": "shi"
+    },
+    {
+      "text": "塩",
+      "hint": "salt",
+      "kind": "phrase",
+      "spell": "shio"
+    },
+    {
+      "text": "しかし",
+      "hint": "however",
+      "kind": "phrase",
+      "spell": "shikashi"
+    },
+    {
+      "text": "時間",
+      "hint": "time",
+      "kind": "phrase",
+      "spell": "jikan"
+    },
+    {
+      "text": "仕事",
+      "hint": "job",
+      "kind": "phrase",
+      "spell": "shigoto"
+    },
+    {
+      "text": "辞書",
+      "hint": "dictionary",
+      "kind": "phrase",
+      "spell": "jisho"
+    },
+    {
+      "text": "静か",
+      "hint": "quiet",
+      "kind": "phrase",
+      "spell": "shizuka"
+    },
+    {
+      "text": "下",
+      "hint": "below",
+      "kind": "phrase",
+      "spell": "shita"
+    },
+    {
+      "text": "七",
+      "hint": "seven",
+      "kind": "phrase",
+      "spell": "shichi"
+    },
+    {
+      "text": "質問",
+      "hint": "question",
+      "kind": "phrase",
+      "spell": "shitsumon"
+    },
+    {
+      "text": "自転車",
+      "hint": "bicycle",
+      "kind": "phrase",
+      "spell": "jitensha"
+    },
+    {
+      "text": "自動車",
+      "hint": "automobile",
+      "kind": "phrase",
+      "spell": "jidousha"
+    },
+    {
+      "text": "死ぬ",
+      "hint": "to die",
+      "kind": "phrase",
+      "spell": "shinu"
+    },
+    {
+      "text": "字引",
+      "hint": "dictionary",
+      "kind": "phrase",
+      "spell": "jibiki"
+    },
+    {
+      "text": "自分",
+      "hint": "oneself",
+      "kind": "phrase",
+      "spell": "jibun"
+    },
+    {
+      "text": "閉まる",
+      "hint": "to close; to be closed",
+      "kind": "phrase",
+      "spell": "shimaru"
+    },
+    {
+      "text": "締める",
+      "hint": "to tie",
+      "kind": "phrase",
+      "spell": "shimeru"
+    },
+    {
+      "text": "閉める",
+      "hint": "to close something",
+      "kind": "phrase",
+      "spell": "shimeru"
+    },
+    {
+      "text": "じゃ",
+      "hint": "well then…",
+      "kind": "phrase",
+      "spell": "ja"
+    },
+    {
+      "text": "写真",
+      "hint": "photograph",
+      "kind": "phrase",
+      "spell": "shashin"
+    },
+    {
+      "text": "シャツ",
+      "hint": "shirt",
+      "kind": "phrase",
+      "spell": "shatsu"
+    },
+    {
+      "text": "シャワー",
+      "hint": "shower",
+      "kind": "phrase",
+      "spell": "shawaa"
+    },
+    {
+      "text": "十",
+      "hint": "ten",
+      "kind": "phrase",
+      "spell": "juu"
+    },
+    {
+      "text": "授業",
+      "hint": "lesson; class work",
+      "kind": "phrase",
+      "spell": "jugyou"
+    },
+    {
+      "text": "宿題",
+      "hint": "homework",
+      "kind": "phrase",
+      "spell": "shukudai"
+    },
+    {
+      "text": "上手",
+      "hint": "skillful",
+      "kind": "phrase",
+      "spell": "jouzu"
+    },
+    {
+      "text": "丈夫",
+      "hint": "strong; durable",
+      "kind": "phrase",
+      "spell": "joubu"
+    },
+    {
+      "text": "しょうゆ",
+      "hint": "soy sauce",
+      "kind": "phrase",
+      "spell": "shouyu"
+    },
+    {
+      "text": "食堂",
+      "hint": "dining hall",
+      "kind": "phrase",
+      "spell": "shokudou"
+    },
+    {
+      "text": "知る",
+      "hint": "to know",
+      "kind": "phrase",
+      "spell": "shiru"
+    },
+    {
+      "text": "白",
+      "hint": "white",
+      "kind": "phrase",
+      "spell": "shiro"
+    },
+    {
+      "text": "白い",
+      "hint": "white",
+      "kind": "phrase",
+      "spell": "shiroi"
+    },
+    {
+      "text": "新聞",
+      "hint": "newspaper",
+      "kind": "phrase",
+      "spell": "shinbun"
+    },
+    {
+      "text": "水曜日",
+      "hint": "Wednesday",
+      "kind": "phrase",
+      "spell": "suiyoubi"
+    },
+    {
+      "text": "吸う",
+      "hint": "to smoke; to suck",
+      "kind": "phrase",
+      "spell": "suu"
+    },
+    {
+      "text": "スカート",
+      "hint": "skirt",
+      "kind": "phrase",
+      "spell": "sukaato"
+    },
+    {
+      "text": "好き",
+      "hint": "likeable",
+      "kind": "phrase",
+      "spell": "suki"
+    },
+    {
+      "text": "すぐ",
+      "hint": "immediately; soon; easily; right (near); honest; upright",
+      "kind": "phrase",
+      "spell": "sugu"
+    },
+    {
+      "text": "少ない",
+      "hint": "a few",
+      "kind": "phrase",
+      "spell": "sukunai"
+    },
+    {
+      "text": "すぐに",
+      "hint": "instantly",
+      "kind": "phrase",
+      "spell": "suguni"
+    },
+    {
+      "text": "少し",
+      "hint": "few",
+      "kind": "phrase",
+      "spell": "sukoshi"
+    },
+    {
+      "text": "涼しい",
+      "hint": "refreshing",
+      "kind": "phrase",
+      "spell": "suzushii"
+    },
+    {
+      "text": "ストーブ",
+      "hint": "heater",
+      "kind": "phrase",
+      "spell": "sutoobu"
+    },
+    {
+      "text": "スプーン",
+      "hint": "spoon",
+      "kind": "phrase",
+      "spell": "supuun"
+    },
+    {
+      "text": "スポーツ",
+      "hint": "sport",
+      "kind": "phrase",
+      "spell": "supootsu"
+    },
+    {
+      "text": "ズボン",
+      "hint": "trousers",
+      "kind": "phrase",
+      "spell": "zubon"
+    },
+    {
+      "text": "すみません",
+      "hint": "sorry; excuse me",
+      "kind": "phrase",
+      "spell": "sumimasen"
+    },
+    {
+      "text": "住む",
+      "hint": "to live in",
+      "kind": "phrase",
+      "spell": "sumu"
+    },
+    {
+      "text": "スリッパ",
+      "hint": "slippers",
+      "kind": "phrase",
+      "spell": "surippa"
+    },
+    {
+      "text": "する",
+      "hint": "to do",
+      "kind": "phrase",
+      "spell": "suru"
+    },
+    {
+      "text": "座る",
+      "hint": "to sit",
+      "kind": "phrase",
+      "spell": "suwaru"
+    },
+    {
+      "text": "背",
+      "hint": "height; stature",
+      "kind": "phrase",
+      "spell": "se"
+    },
+    {
+      "text": "生徒",
+      "hint": "pupil",
+      "kind": "phrase",
+      "spell": "seito"
+    },
+    {
+      "text": "セーター",
+      "hint": "sweater; jumper",
+      "kind": "phrase",
+      "spell": "seetaa"
+    },
+    {
+      "text": "せっけん",
+      "hint": "economy",
+      "kind": "phrase",
+      "spell": "sekken"
+    },
+    {
+      "text": "背広",
+      "hint": "business suit",
+      "kind": "phrase",
+      "spell": "sebiro"
+    },
+    {
+      "text": "狭い",
+      "hint": "narrow",
+      "kind": "phrase",
+      "spell": "semai"
+    },
+    {
+      "text": "ゼロ",
+      "hint": "zero",
+      "kind": "phrase",
+      "spell": "zero"
+    },
+    {
+      "text": "千",
+      "hint": "thousand",
+      "kind": "phrase",
+      "spell": "sen"
+    },
+    {
+      "text": "先月",
+      "hint": "last month",
+      "kind": "phrase",
+      "spell": "sengetsu"
+    },
+    {
+      "text": "先週",
+      "hint": "last week",
+      "kind": "phrase",
+      "spell": "senshuu"
+    },
+    {
+      "text": "先生",
+      "hint": "teacher; doctor",
+      "kind": "phrase",
+      "spell": "sensei"
+    },
+    {
+      "text": "洗濯",
+      "hint": "washing",
+      "kind": "phrase",
+      "spell": "sentaku"
+    },
+    {
+      "text": "全部",
+      "hint": "all",
+      "kind": "phrase",
+      "spell": "zenbu"
+    },
+    {
+      "text": "掃除",
+      "hint": "to clean; to sweep",
+      "kind": "phrase",
+      "spell": "souji"
+    },
+    {
+      "text": "そうして",
+      "hint": "and",
+      "kind": "phrase",
+      "spell": "soushite"
+    },
+    {
+      "text": "そこ",
+      "hint": "that place",
+      "kind": "phrase",
+      "spell": "soko"
+    },
+    {
+      "text": "そちら",
+      "hint": "over there",
+      "kind": "phrase",
+      "spell": "sochira"
+    },
+    {
+      "text": "そっち",
+      "hint": "over there",
+      "kind": "phrase",
+      "spell": "sotchi"
+    },
+    {
+      "text": "外",
+      "hint": "outside",
+      "kind": "phrase",
+      "spell": "soto"
+    },
+    {
+      "text": "その",
+      "hint": "that",
+      "kind": "phrase",
+      "spell": "sono"
+    },
+    {
+      "text": "そば",
+      "hint": "near; beside",
+      "kind": "phrase",
+      "spell": "soba"
+    },
+    {
+      "text": "空",
+      "hint": "sky",
+      "kind": "phrase",
+      "spell": "sora"
+    },
+    {
+      "text": "それ",
+      "hint": "that",
+      "kind": "phrase",
+      "spell": "sore"
+    },
+    {
+      "text": "それから",
+      "hint": "after that",
+      "kind": "phrase",
+      "spell": "sorekara"
+    },
+    {
+      "text": "それでは",
+      "hint": "in that situation",
+      "kind": "phrase",
+      "spell": "soredewa"
+    },
+    {
+      "text": "大学",
+      "hint": "university",
+      "kind": "phrase",
+      "spell": "daigaku"
+    },
+    {
+      "text": "大使館",
+      "hint": "embassy",
+      "kind": "phrase",
+      "spell": "taishikan"
+    },
+    {
+      "text": "大丈夫",
+      "hint": "all right",
+      "kind": "phrase",
+      "spell": "daijoubu"
+    },
+    {
+      "text": "大好き",
+      "hint": "to be very likeable",
+      "kind": "phrase",
+      "spell": "daisuki"
+    },
+    {
+      "text": "大切",
+      "hint": "important",
+      "kind": "phrase",
+      "spell": "taisetsu"
+    },
+    {
+      "text": "台所",
+      "hint": "kitchen",
+      "kind": "phrase",
+      "spell": "daidokoro"
+    },
+    {
+      "text": "たいへん",
+      "hint": "very",
+      "kind": "phrase",
+      "spell": "taihen"
+    },
+    {
+      "text": "高い",
+      "hint": "tall; expensive",
+      "kind": "phrase",
+      "spell": "takai"
+    },
+    {
+      "text": "たくさん",
+      "hint": "many",
+      "kind": "phrase",
+      "spell": "takusan"
+    },
+    {
+      "text": "タクシー",
+      "hint": "taxi",
+      "kind": "phrase",
+      "spell": "takushii"
+    },
+    {
+      "text": "出す",
+      "hint": "to put out",
+      "kind": "phrase",
+      "spell": "dasu"
+    },
+    {
+      "text": "立つ",
+      "hint": "to stand",
+      "kind": "phrase",
+      "spell": "tatsu"
+    },
+    {
+      "text": "たて",
+      "hint": "length; height",
+      "kind": "phrase",
+      "spell": "tate"
+    },
+    {
+      "text": "建物",
+      "hint": "building",
+      "kind": "phrase",
+      "spell": "tatemono"
+    },
+    {
+      "text": "楽しい",
+      "hint": "enjoyable",
+      "kind": "phrase",
+      "spell": "tanoshii"
+    },
+    {
+      "text": "頼む",
+      "hint": "to ask",
+      "kind": "phrase",
+      "spell": "tanomu"
+    },
+    {
+      "text": "たばこ",
+      "hint": "tobacco; cigarettes",
+      "kind": "phrase",
+      "spell": "tabako"
+    },
+    {
+      "text": "たぶん",
+      "hint": "probably",
+      "kind": "phrase",
+      "spell": "tabun"
+    },
+    {
+      "text": "食べ物",
+      "hint": "food",
+      "kind": "phrase",
+      "spell": "tabemono"
+    },
+    {
+      "text": "食べる",
+      "hint": "to eat",
+      "kind": "phrase",
+      "spell": "taberu"
+    },
+    {
+      "text": "卵",
+      "hint": "egg",
+      "kind": "phrase",
+      "spell": "tamago"
+    },
+    {
+      "text": "誰",
+      "hint": "who",
+      "kind": "phrase",
+      "spell": "dare"
+    },
+    {
+      "text": "誕生日",
+      "hint": "birthday",
+      "kind": "phrase",
+      "spell": "tanjoubi"
+    },
+    {
+      "text": "だんだん",
+      "hint": "gradually",
+      "kind": "phrase",
+      "spell": "dandan"
+    },
+    {
+      "text": "小さい",
+      "hint": "little",
+      "kind": "phrase",
+      "spell": "chiisai"
+    },
+    {
+      "text": "小さな",
+      "hint": "little",
+      "kind": "phrase",
+      "spell": "chiisana"
+    },
+    {
+      "text": "近い",
+      "hint": "near",
+      "kind": "phrase",
+      "spell": "chikai"
+    },
+    {
+      "text": "違う",
+      "hint": "to differ",
+      "kind": "phrase",
+      "spell": "chigau"
+    },
+    {
+      "text": "近く",
+      "hint": "near",
+      "kind": "phrase",
+      "spell": "chikaku"
+    },
+    {
+      "text": "地下鉄",
+      "hint": "underground train",
+      "kind": "phrase",
+      "spell": "chikatetsu"
+    },
+    {
+      "text": "地図",
+      "hint": "map",
+      "kind": "phrase",
+      "spell": "chizu"
+    },
+    {
+      "text": "茶色",
+      "hint": "brown",
+      "kind": "phrase",
+      "spell": "chairo"
+    },
+    {
+      "text": "ちゃわん",
+      "hint": "rice bowl",
+      "kind": "phrase",
+      "spell": "chawan"
+    },
+    {
+      "text": "ちょうど",
+      "hint": "exactly",
+      "kind": "phrase",
+      "spell": "choudo"
+    },
+    {
+      "text": "ちょっと",
+      "hint": "somewhat",
+      "kind": "phrase",
+      "spell": "chotto"
+    },
+    {
+      "text": "使う",
+      "hint": "to use",
+      "kind": "phrase",
+      "spell": "tsukau"
+    },
+    {
+      "text": "疲れる",
+      "hint": "to get tired",
+      "kind": "phrase",
+      "spell": "tsukareru"
+    },
+    {
+      "text": "次",
+      "hint": "next",
+      "kind": "phrase",
+      "spell": "tsugi"
+    },
+    {
+      "text": "着く",
+      "hint": "to arrive at",
+      "kind": "phrase",
+      "spell": "tsuku"
+    },
+    {
+      "text": "机",
+      "hint": "desk",
+      "kind": "phrase",
+      "spell": "tsukue"
+    },
+    {
+      "text": "作る",
+      "hint": "to make",
+      "kind": "phrase",
+      "spell": "tsukuru"
+    },
+    {
+      "text": "つける",
+      "hint": "to turn on",
+      "kind": "phrase",
+      "spell": "tsukeru"
+    },
+    {
+      "text": "勤める",
+      "hint": "to work for someone",
+      "kind": "phrase",
+      "spell": "tsutomeru"
+    },
+    {
+      "text": "つまらない",
+      "hint": "boring",
+      "kind": "phrase",
+      "spell": "tsumaranai"
+    },
+    {
+      "text": "冷たい",
+      "hint": "cold to the touch",
+      "kind": "phrase",
+      "spell": "tsumetai"
+    },
+    {
+      "text": "強い",
+      "hint": "powerful",
+      "kind": "phrase",
+      "spell": "tsuyoi"
+    },
+    {
+      "text": "手",
+      "hint": "hand",
+      "kind": "phrase",
+      "spell": "te"
+    },
+    {
+      "text": "テープ",
+      "hint": "tape",
+      "kind": "phrase",
+      "spell": "teepu"
+    },
+    {
+      "text": "テーブル",
+      "hint": "table",
+      "kind": "phrase",
+      "spell": "teeburu"
+    },
+    {
+      "text": "テープレコーダー",
+      "hint": "tape recorder",
+      "kind": "phrase",
+      "spell": "teepurekoodaa"
+    },
+    {
+      "text": "出かける",
+      "hint": "to go out",
+      "kind": "phrase",
+      "spell": "dekakeru"
+    },
+    {
+      "text": "手紙",
+      "hint": "letter",
+      "kind": "phrase",
+      "spell": "tegami"
+    },
+    {
+      "text": "できる",
+      "hint": "to be able to",
+      "kind": "phrase",
+      "spell": "dekiru"
+    },
+    {
+      "text": "出口",
+      "hint": "exit",
+      "kind": "phrase",
+      "spell": "deguchi"
+    },
+    {
+      "text": "テスト",
+      "hint": "test",
+      "kind": "phrase",
+      "spell": "tesuto"
+    },
+    {
+      "text": "では",
+      "hint": "with that...",
+      "kind": "phrase",
+      "spell": "dewa"
+    },
+    {
+      "text": "デパート",
+      "hint": "department store",
+      "kind": "phrase",
+      "spell": "depaato"
+    },
+    {
+      "text": "でも",
+      "hint": "but",
+      "kind": "phrase",
+      "spell": "demo"
+    },
+    {
+      "text": "出る",
+      "hint": "to appear; to leave",
+      "kind": "phrase",
+      "spell": "deru"
+    },
+    {
+      "text": "テレビ",
+      "hint": "television",
+      "kind": "phrase",
+      "spell": "terebi"
+    },
+    {
+      "text": "天気",
+      "hint": "weather",
+      "kind": "phrase",
+      "spell": "tenki"
+    },
+    {
+      "text": "電気",
+      "hint": "electricity; electric light",
+      "kind": "phrase",
+      "spell": "denki"
+    },
+    {
+      "text": "電車",
+      "hint": "electric train",
+      "kind": "phrase",
+      "spell": "densha"
+    },
+    {
+      "text": "電話",
+      "hint": "telephone",
+      "kind": "phrase",
+      "spell": "denwa"
+    },
+    {
+      "text": "戸",
+      "hint": "Japanese style door",
+      "kind": "phrase",
+      "spell": "to"
+    },
+    {
+      "text": "ドア",
+      "hint": "Western style door",
+      "kind": "phrase",
+      "spell": "doa"
+    },
+    {
+      "text": "トイレ",
+      "hint": "toilet",
+      "kind": "phrase",
+      "spell": "toire"
+    },
+    {
+      "text": "どう",
+      "hint": "how; in what way",
+      "kind": "phrase",
+      "spell": "dou"
+    },
+    {
+      "text": "どうして",
+      "hint": "for what reason",
+      "kind": "phrase",
+      "spell": "doushite"
+    },
+    {
+      "text": "どうぞ",
+      "hint": "please",
+      "kind": "phrase",
+      "spell": "douzo"
+    },
+    {
+      "text": "どうぞよろしく",
+      "hint": "pleased to meet you",
+      "kind": "phrase",
+      "spell": "douzoyoroshiku"
+    },
+    {
+      "text": "動物",
+      "hint": "animal",
+      "kind": "phrase",
+      "spell": "doubutsu"
+    },
+    {
+      "text": "どうも",
+      "hint": "thanks",
+      "kind": "phrase",
+      "spell": "doumo"
+    },
+    {
+      "text": "遠い",
+      "hint": "far",
+      "kind": "phrase",
+      "spell": "tooi"
+    },
+    {
+      "text": "十日",
+      "hint": "ten days; the tenth day",
+      "kind": "phrase",
+      "spell": "tooka"
+    },
+    {
+      "text": "時々",
+      "hint": "sometimes",
+      "kind": "phrase",
+      "spell": "tokidoki"
+    },
+    {
+      "text": "時計",
+      "hint": "watch; clock",
+      "kind": "phrase",
+      "spell": "tokei"
+    },
+    {
+      "text": "どこ",
+      "hint": "where",
+      "kind": "phrase",
+      "spell": "doko"
+    },
+    {
+      "text": "所",
+      "hint": "place",
+      "kind": "phrase",
+      "spell": "tokoro"
+    },
+    {
+      "text": "年",
+      "hint": "year",
+      "kind": "phrase",
+      "spell": "toshi"
+    },
+    {
+      "text": "図書館",
+      "hint": "library",
+      "kind": "phrase",
+      "spell": "toshokan"
+    },
+    {
+      "text": "どちら",
+      "hint": "which of two",
+      "kind": "phrase",
+      "spell": "dochira"
+    },
+    {
+      "text": "どっち",
+      "hint": "which",
+      "kind": "phrase",
+      "spell": "dotchi"
+    },
+    {
+      "text": "とても",
+      "hint": "very",
+      "kind": "phrase",
+      "spell": "totemo"
+    },
+    {
+      "text": "どなた",
+      "hint": "who",
+      "kind": "phrase",
+      "spell": "donata"
+    },
+    {
+      "text": "隣",
+      "hint": "next door to",
+      "kind": "phrase",
+      "spell": "tonari"
+    },
+    {
+      "text": "どの",
+      "hint": "which",
+      "kind": "phrase",
+      "spell": "dono"
+    },
+    {
+      "text": "飛ぶ",
+      "hint": "to fly; to hop",
+      "kind": "phrase",
+      "spell": "tobu"
+    },
+    {
+      "text": "止まる",
+      "hint": "to come to a halt",
+      "kind": "phrase",
+      "spell": "tomaru"
+    },
+    {
+      "text": "友達",
+      "hint": "friend",
+      "kind": "phrase",
+      "spell": "tomodachi"
+    },
+    {
+      "text": "土曜日",
+      "hint": "Saturday",
+      "kind": "phrase",
+      "spell": "doyoubi"
+    },
+    {
+      "text": "鳥",
+      "hint": "bird",
+      "kind": "phrase",
+      "spell": "tori"
+    },
+    {
+      "text": "鶏肉",
+      "hint": "chicken meat",
+      "kind": "phrase",
+      "spell": "toriniku"
+    },
+    {
+      "text": "撮る",
+      "hint": "to take a photo or record a film",
+      "kind": "phrase",
+      "spell": "toru"
+    },
+    {
+      "text": "取る",
+      "hint": "to take something",
+      "kind": "phrase",
+      "spell": "toru"
+    },
+    {
+      "text": "どれ",
+      "hint": "which (of three or more)",
+      "kind": "phrase",
+      "spell": "dore"
+    },
+    {
+      "text": "ナイフ",
+      "hint": "knife",
+      "kind": "phrase",
+      "spell": "naifu"
+    },
+    {
+      "text": "中",
+      "hint": "middle",
+      "kind": "phrase",
+      "spell": "naka"
+    },
+    {
+      "text": "長い",
+      "hint": "long",
+      "kind": "phrase",
+      "spell": "nagai"
+    },
+    {
+      "text": "鳴く",
+      "hint": "to make a sound (of an animal); to cry; to chirp; to sing (of birds)",
+      "kind": "phrase",
+      "spell": "naku"
+    },
+    {
+      "text": "無くす",
+      "hint": "to lose something",
+      "kind": "phrase",
+      "spell": "nakusu"
+    },
+    {
+      "text": "なぜ",
+      "hint": "why",
+      "kind": "phrase",
+      "spell": "naze"
+    },
+    {
+      "text": "夏",
+      "hint": "summer",
+      "kind": "phrase",
+      "spell": "natsu"
+    },
+    {
+      "text": "夏休み",
+      "hint": "summer holiday",
+      "kind": "phrase",
+      "spell": "natsuyasumi"
+    },
+    {
+      "text": "など",
+      "hint": "et cetera",
+      "kind": "phrase",
+      "spell": "nado"
+    },
+    {
+      "text": "七つ",
+      "hint": "seven",
+      "kind": "phrase",
+      "spell": "nanatsu"
+    },
+    {
+      "text": "七日",
+      "hint": "seven days; the seventh day",
+      "kind": "phrase",
+      "spell": "nanoka"
+    },
+    {
+      "text": "名前",
+      "hint": "name",
+      "kind": "phrase",
+      "spell": "namae"
+    },
+    {
+      "text": "習う",
+      "hint": "to learn",
+      "kind": "phrase",
+      "spell": "narau"
+    },
+    {
+      "text": "並ぶ",
+      "hint": "to line up; to stand in a line",
+      "kind": "phrase",
+      "spell": "narabu"
+    },
+    {
+      "text": "並べる",
+      "hint": "to line up; to set up",
+      "kind": "phrase",
+      "spell": "naraberu"
+    },
+    {
+      "text": "なる",
+      "hint": "to become",
+      "kind": "phrase",
+      "spell": "naru"
+    },
+    {
+      "text": "何",
+      "hint": "what",
+      "kind": "phrase",
+      "spell": "nan"
+    },
+    {
+      "text": "二",
+      "hint": "two",
+      "kind": "phrase",
+      "spell": "ni"
+    },
+    {
+      "text": "賑やか",
+      "hint": "bustling; busy",
+      "kind": "phrase",
+      "spell": "nigiyaka"
+    },
+    {
+      "text": "肉",
+      "hint": "meat",
+      "kind": "phrase",
+      "spell": "niku"
+    },
+    {
+      "text": "西",
+      "hint": "west",
+      "kind": "phrase",
+      "spell": "nishi"
+    },
+    {
+      "text": "日曜日",
+      "hint": "Sunday",
+      "kind": "phrase",
+      "spell": "nichiyoubi"
+    },
+    {
+      "text": "荷物",
+      "hint": "luggage",
+      "kind": "phrase",
+      "spell": "nimotsu"
+    },
+    {
+      "text": "ニュース",
+      "hint": "news",
+      "kind": "phrase",
+      "spell": "nyuusu"
+    },
+    {
+      "text": "庭",
+      "hint": "garden",
+      "kind": "phrase",
+      "spell": "niwa"
+    },
+    {
+      "text": "脱ぐ",
+      "hint": "to take off clothes",
+      "kind": "phrase",
+      "spell": "nugu"
+    },
+    {
+      "text": "温い",
+      "hint": "luke warm",
+      "kind": "phrase",
+      "spell": "nurui"
+    },
+    {
+      "text": "ネクタイ",
+      "hint": "tie; necktie",
+      "kind": "phrase",
+      "spell": "nekutai"
+    },
+    {
+      "text": "猫",
+      "hint": "cat",
+      "kind": "phrase",
+      "spell": "neko"
+    },
+    {
+      "text": "寝る",
+      "hint": "to go to bed; to sleep",
+      "kind": "phrase",
+      "spell": "neru"
+    },
+    {
+      "text": "ノート",
+      "hint": "notebook; exercise book",
+      "kind": "phrase",
+      "spell": "nooto"
+    },
+    {
+      "text": "登る",
+      "hint": "to climb",
+      "kind": "phrase",
+      "spell": "noboru"
+    },
+    {
+      "text": "飲み物",
+      "hint": "a drink",
+      "kind": "phrase",
+      "spell": "nomimono"
+    },
+    {
+      "text": "飲む",
+      "hint": "to drink",
+      "kind": "phrase",
+      "spell": "nomu"
+    },
+    {
+      "text": "乗る",
+      "hint": "to get on; to ride",
+      "kind": "phrase",
+      "spell": "noru"
+    },
+    {
+      "text": "歯",
+      "hint": "tooth",
+      "kind": "phrase",
+      "spell": "ha"
+    },
+    {
+      "text": "パーティー",
+      "hint": "party",
+      "kind": "phrase",
+      "spell": "paatii"
+    },
+    {
+      "text": "はい",
+      "hint": "yes",
+      "kind": "phrase",
+      "spell": "hai"
+    },
+    {
+      "text": "灰皿",
+      "hint": "ashtray",
+      "kind": "phrase",
+      "spell": "haizara"
+    },
+    {
+      "text": "入る",
+      "hint": "to enter; to contain",
+      "kind": "phrase",
+      "spell": "hairu"
+    },
+    {
+      "text": "葉書",
+      "hint": "postcard",
+      "kind": "phrase",
+      "spell": "hagaki"
+    },
+    {
+      "text": "はく",
+      "hint": "to wear; to put on trousers",
+      "kind": "phrase",
+      "spell": "haku"
+    },
+    {
+      "text": "箱",
+      "hint": "box",
+      "kind": "phrase",
+      "spell": "hako"
+    },
+    {
+      "text": "はし",
+      "hint": "chopsticks",
+      "kind": "phrase",
+      "spell": "hashi"
+    },
+    {
+      "text": "橋",
+      "hint": "bridge",
+      "kind": "phrase",
+      "spell": "hashi"
+    },
+    {
+      "text": "始まる",
+      "hint": "to begin",
+      "kind": "phrase",
+      "spell": "hajimaru"
+    },
+    {
+      "text": "初め",
+      "hint": "beginning",
+      "kind": "phrase",
+      "spell": "hajime"
+    },
+    {
+      "text": "初めて",
+      "hint": "for the first time",
+      "kind": "phrase",
+      "spell": "hajimete"
+    },
+    {
+      "text": "はじめまして",
+      "hint": "How do you do?; I am glad to meet you",
+      "kind": "phrase",
+      "spell": "hajimemashite"
+    },
+    {
+      "text": "走る",
+      "hint": "to run",
+      "kind": "phrase",
+      "spell": "hashiru"
+    },
+    {
+      "text": "バス",
+      "hint": "bus",
+      "kind": "phrase",
+      "spell": "basu"
+    },
+    {
+      "text": "バター",
+      "hint": "butter",
+      "kind": "phrase",
+      "spell": "bataa"
+    },
+    {
+      "text": "二十歳",
+      "hint": "20 years old; 20th year",
+      "kind": "phrase",
+      "spell": "hatachi"
+    },
+    {
+      "text": "働く",
+      "hint": "to work",
+      "kind": "phrase",
+      "spell": "hataraku"
+    },
+    {
+      "text": "八",
+      "hint": "eight",
+      "kind": "phrase",
+      "spell": "hachi"
+    },
+    {
+      "text": "二十日",
+      "hint": "twenty days; twentieth",
+      "kind": "phrase",
+      "spell": "hatsuka"
+    },
+    {
+      "text": "花",
+      "hint": "flower",
+      "kind": "phrase",
+      "spell": "hana"
+    },
+    {
+      "text": "鼻",
+      "hint": "nose",
+      "kind": "phrase",
+      "spell": "hana"
+    },
+    {
+      "text": "話",
+      "hint": "talk; story",
+      "kind": "phrase",
+      "spell": "hanashi"
+    },
+    {
+      "text": "話す",
+      "hint": "to speak",
+      "kind": "phrase",
+      "spell": "hanasu"
+    },
+    {
+      "text": "早い",
+      "hint": "early",
+      "kind": "phrase",
+      "spell": "hayai"
+    },
+    {
+      "text": "速い",
+      "hint": "quick",
+      "kind": "phrase",
+      "spell": "hayai"
+    },
+    {
+      "text": "春",
+      "hint": "spring",
+      "kind": "phrase",
+      "spell": "haru"
+    },
+    {
+      "text": "貼る",
+      "hint": "to stick",
+      "kind": "phrase",
+      "spell": "haru"
+    },
+    {
+      "text": "晴れ",
+      "hint": "clear weather",
+      "kind": "phrase",
+      "spell": "hare"
+    },
+    {
+      "text": "晴れる",
+      "hint": "to be sunny",
+      "kind": "phrase",
+      "spell": "hareru"
+    },
+    {
+      "text": "半",
+      "hint": "half",
+      "kind": "phrase",
+      "spell": "han"
+    },
+    {
+      "text": "晩",
+      "hint": "evening",
+      "kind": "phrase",
+      "spell": "ban"
+    },
+    {
+      "text": "パン",
+      "hint": "bread",
+      "kind": "phrase",
+      "spell": "pan"
+    },
+    {
+      "text": "ハンカチ",
+      "hint": "handkerchief",
+      "kind": "phrase",
+      "spell": "hankachi"
+    },
+    {
+      "text": "番号",
+      "hint": "number",
+      "kind": "phrase",
+      "spell": "bangou"
+    },
+    {
+      "text": "晩御飯",
+      "hint": "evening meal",
+      "kind": "phrase",
+      "spell": "bangohan"
+    },
+    {
+      "text": "半分",
+      "hint": "half minute",
+      "kind": "phrase",
+      "spell": "hanbun"
+    },
+    {
+      "text": "東",
+      "hint": "east",
+      "kind": "phrase",
+      "spell": "higashi"
+    },
+    {
+      "text": "引く",
+      "hint": "to pull",
+      "kind": "phrase",
+      "spell": "hiku"
+    },
+    {
+      "text": "弾く",
+      "hint": "to play an instrument with strings; including piano",
+      "kind": "phrase",
+      "spell": "hiku"
+    },
+    {
+      "text": "低い",
+      "hint": "short; low",
+      "kind": "phrase",
+      "spell": "hikui"
+    },
+    {
+      "text": "飛行機",
+      "hint": "aeroplane",
+      "kind": "phrase",
+      "spell": "hikouki"
+    },
+    {
+      "text": "左",
+      "hint": "left hand side",
+      "kind": "phrase",
+      "spell": "hidari"
+    },
+    {
+      "text": "人",
+      "hint": "person",
+      "kind": "phrase",
+      "spell": "hito"
+    },
+    {
+      "text": "一つ",
+      "hint": "one",
+      "kind": "phrase",
+      "spell": "hitotsu"
+    },
+    {
+      "text": "一月",
+      "hint": "one month",
+      "kind": "phrase",
+      "spell": "hitotsuki"
+    },
+    {
+      "text": "一人",
+      "hint": "one person",
+      "kind": "phrase",
+      "spell": "hitori"
+    },
+    {
+      "text": "暇",
+      "hint": "free time",
+      "kind": "phrase",
+      "spell": "hima"
+    },
+    {
+      "text": "百",
+      "hint": "hundred",
+      "kind": "phrase",
+      "spell": "hyaku"
+    },
+    {
+      "text": "病院",
+      "hint": "hospital",
+      "kind": "phrase",
+      "spell": "byouin"
+    },
+    {
+      "text": "病気",
+      "hint": "illness",
+      "kind": "phrase",
+      "spell": "byouki"
+    },
+    {
+      "text": "昼",
+      "hint": "noon; daytime",
+      "kind": "phrase",
+      "spell": "hiru"
+    },
+    {
+      "text": "昼御飯",
+      "hint": "midday meal",
+      "kind": "phrase",
+      "spell": "hirugohan"
+    },
+    {
+      "text": "広い",
+      "hint": "spacious; wide",
+      "kind": "phrase",
+      "spell": "hiroi"
+    },
+    {
+      "text": "フィルム",
+      "hint": "roll of film",
+      "kind": "phrase",
+      "spell": "firumu"
+    },
+    {
+      "text": "封筒",
+      "hint": "envelope",
+      "kind": "phrase",
+      "spell": "fuutou"
+    },
+    {
+      "text": "プール",
+      "hint": "swimming pool",
+      "kind": "phrase",
+      "spell": "puuru"
+    },
+    {
+      "text": "フォーク",
+      "hint": "fork",
+      "kind": "phrase",
+      "spell": "fooku"
+    },
+    {
+      "text": "吹く",
+      "hint": "to blow",
+      "kind": "phrase",
+      "spell": "fuku"
+    },
+    {
+      "text": "服",
+      "hint": "clothes",
+      "kind": "phrase",
+      "spell": "fuku"
+    },
+    {
+      "text": "二つ",
+      "hint": "two",
+      "kind": "phrase",
+      "spell": "futatsu"
+    },
+    {
+      "text": "豚肉",
+      "hint": "pork",
+      "kind": "phrase",
+      "spell": "butaniku"
+    },
+    {
+      "text": "二人",
+      "hint": "two people",
+      "kind": "phrase",
+      "spell": "futari"
+    },
+    {
+      "text": "二日",
+      "hint": "two days; second day of the month",
+      "kind": "phrase",
+      "spell": "futsuka"
+    },
+    {
+      "text": "太い",
+      "hint": "fat",
+      "kind": "phrase",
+      "spell": "futoi"
+    },
+    {
+      "text": "冬",
+      "hint": "winter",
+      "kind": "phrase",
+      "spell": "fuyu"
+    },
+    {
+      "text": "降る",
+      "hint": "to fall (e.g. rain or snow)",
+      "kind": "phrase",
+      "spell": "furu"
+    },
+    {
+      "text": "古い",
+      "hint": "old (not used for people)",
+      "kind": "phrase",
+      "spell": "furui"
+    },
+    {
+      "text": "ふろ",
+      "hint": "bath",
+      "kind": "phrase",
+      "spell": "furo"
+    },
+    {
+      "text": "文章",
+      "hint": "sentence; text",
+      "kind": "phrase",
+      "spell": "bunshou"
+    },
+    {
+      "text": "ページ",
+      "hint": "page",
+      "kind": "phrase",
+      "spell": "peeji"
+    },
+    {
+      "text": "下手",
+      "hint": "unskillful",
+      "kind": "phrase",
+      "spell": "heta"
+    },
+    {
+      "text": "ベッド",
+      "hint": "bed",
+      "kind": "phrase",
+      "spell": "beddo"
+    },
+    {
+      "text": "ペット",
+      "hint": "pet",
+      "kind": "phrase",
+      "spell": "petto"
+    },
+    {
+      "text": "部屋",
+      "hint": "room",
+      "kind": "phrase",
+      "spell": "heya"
+    },
+    {
+      "text": "辺",
+      "hint": "area",
+      "kind": "phrase",
+      "spell": "hen"
+    },
+    {
+      "text": "ペン",
+      "hint": "pen",
+      "kind": "phrase",
+      "spell": "pen"
+    },
+    {
+      "text": "勉強",
+      "hint": "to study",
+      "kind": "phrase",
+      "spell": "benkyou"
+    },
+    {
+      "text": "便利",
+      "hint": "useful; convenient",
+      "kind": "phrase",
+      "spell": "benri"
+    },
+    {
+      "text": "帽子",
+      "hint": "hat",
+      "kind": "phrase",
+      "spell": "boushi"
+    },
+    {
+      "text": "ボールペン",
+      "hint": "ball-point pen",
+      "kind": "phrase",
+      "spell": "boorupen"
+    },
+    {
+      "text": "ほか",
+      "hint": "other; the rest",
+      "kind": "phrase",
+      "spell": "hoka"
+    },
+    {
+      "text": "ポケット",
+      "hint": "pocket",
+      "kind": "phrase",
+      "spell": "poketto"
+    },
+    {
+      "text": "欲しい",
+      "hint": "want",
+      "kind": "phrase",
+      "spell": "hoshii"
+    },
+    {
+      "text": "ポスト",
+      "hint": "post",
+      "kind": "phrase",
+      "spell": "posuto"
+    },
+    {
+      "text": "細い",
+      "hint": "thin",
+      "kind": "phrase",
+      "spell": "hosoi"
+    },
+    {
+      "text": "ボタン",
+      "hint": "button",
+      "kind": "phrase",
+      "spell": "botan"
+    },
+    {
+      "text": "ホテル",
+      "hint": "hotel",
+      "kind": "phrase",
+      "spell": "hoteru"
+    },
+    {
+      "text": "本",
+      "hint": "book",
+      "kind": "phrase",
+      "spell": "hon"
+    },
+    {
+      "text": "本棚",
+      "hint": "bookshelves",
+      "kind": "phrase",
+      "spell": "hondana"
+    },
+    {
+      "text": "ほんとう",
+      "hint": "truth",
+      "kind": "phrase",
+      "spell": "hontou"
+    },
+    {
+      "text": "毎朝",
+      "hint": "every morning",
+      "kind": "phrase",
+      "spell": "maiasa"
+    },
+    {
+      "text": "毎月",
+      "hint": "every month",
+      "kind": "phrase",
+      "spell": "maigetsu"
+    },
+    {
+      "text": "毎週",
+      "hint": "every week",
+      "kind": "phrase",
+      "spell": "maishuu"
+    },
+    {
+      "text": "毎日",
+      "hint": "every day",
+      "kind": "phrase",
+      "spell": "mainichi"
+    },
+    {
+      "text": "毎年",
+      "hint": "every year",
+      "kind": "phrase",
+      "spell": "mainen"
+    },
+    {
+      "text": "毎晩",
+      "hint": "every night",
+      "kind": "phrase",
+      "spell": "maiban"
+    },
+    {
+      "text": "前",
+      "hint": "before",
+      "kind": "phrase",
+      "spell": "mae"
+    },
+    {
+      "text": "曲る",
+      "hint": "to turn; to bend",
+      "kind": "phrase",
+      "spell": "magaru"
+    },
+    {
+      "text": "まずい",
+      "hint": "unpleasant",
+      "kind": "phrase",
+      "spell": "mazui"
+    },
+    {
+      "text": "また",
+      "hint": "again; and",
+      "kind": "phrase",
+      "spell": "mata"
+    },
+    {
+      "text": "まだ",
+      "hint": "yet; still",
+      "kind": "phrase",
+      "spell": "mada"
+    },
+    {
+      "text": "町",
+      "hint": "town; city",
+      "kind": "phrase",
+      "spell": "machi"
+    },
+    {
+      "text": "待つ",
+      "hint": "to wait",
+      "kind": "phrase",
+      "spell": "matsu"
+    },
+    {
+      "text": "まっすぐ",
+      "hint": "straight ahead; direct",
+      "kind": "phrase",
+      "spell": "massugu"
+    },
+    {
+      "text": "マッチ",
+      "hint": "match",
+      "kind": "phrase",
+      "spell": "matchi"
+    },
+    {
+      "text": "窓",
+      "hint": "window",
+      "kind": "phrase",
+      "spell": "mado"
+    },
+    {
+      "text": "丸い",
+      "hint": "round; circular",
+      "kind": "phrase",
+      "spell": "marui"
+    },
+    {
+      "text": "万",
+      "hint": "ten thousand",
+      "kind": "phrase",
+      "spell": "man"
+    },
+    {
+      "text": "万年筆",
+      "hint": "fountain pen",
+      "kind": "phrase",
+      "spell": "mannenhitsu"
+    },
+    {
+      "text": "磨く",
+      "hint": "to brush teeth; to polish",
+      "kind": "phrase",
+      "spell": "migaku"
+    },
+    {
+      "text": "右",
+      "hint": "right side",
+      "kind": "phrase",
+      "spell": "migi"
+    },
+    {
+      "text": "短い",
+      "hint": "short",
+      "kind": "phrase",
+      "spell": "mijikai"
+    },
+    {
+      "text": "水",
+      "hint": "water",
+      "kind": "phrase",
+      "spell": "mizu"
+    },
+    {
+      "text": "店",
+      "hint": "shop",
+      "kind": "phrase",
+      "spell": "mise"
+    },
+    {
+      "text": "見せる",
+      "hint": "to show",
+      "kind": "phrase",
+      "spell": "miseru"
+    },
+    {
+      "text": "道",
+      "hint": "street",
+      "kind": "phrase",
+      "spell": "michi"
+    },
+    {
+      "text": "三日",
+      "hint": "three days; third day of the month",
+      "kind": "phrase",
+      "spell": "mikka"
+    },
+    {
+      "text": "三つ",
+      "hint": "three",
+      "kind": "phrase",
+      "spell": "mittsu"
+    },
+    {
+      "text": "緑",
+      "hint": "green",
+      "kind": "phrase",
+      "spell": "midori"
+    },
+    {
+      "text": "皆さん",
+      "hint": "everyone",
+      "kind": "phrase",
+      "spell": "minasan"
+    },
+    {
+      "text": "南",
+      "hint": "south",
+      "kind": "phrase",
+      "spell": "minami"
+    },
+    {
+      "text": "耳",
+      "hint": "ear",
+      "kind": "phrase",
+      "spell": "mimi"
+    },
+    {
+      "text": "見る",
+      "hint": "to see; to watch",
+      "kind": "phrase",
+      "spell": "miru"
+    },
+    {
+      "text": "みんな",
+      "hint": "everyone",
+      "kind": "phrase",
+      "spell": "minna"
+    },
+    {
+      "text": "六日",
+      "hint": "six days; sixth day of the month",
+      "kind": "phrase",
+      "spell": "muika"
+    },
+    {
+      "text": "向こう",
+      "hint": "over there",
+      "kind": "phrase",
+      "spell": "mukou"
+    },
+    {
+      "text": "難しい",
+      "hint": "difficult",
+      "kind": "phrase",
+      "spell": "muzukashii"
+    },
+    {
+      "text": "六つ",
+      "hint": "six",
+      "kind": "phrase",
+      "spell": "muttsu"
+    },
+    {
+      "text": "村",
+      "hint": "village",
+      "kind": "phrase",
+      "spell": "mura"
+    },
+    {
+      "text": "目",
+      "hint": "eye",
+      "kind": "phrase",
+      "spell": "me"
+    },
+    {
+      "text": "メートル",
+      "hint": "metre",
+      "kind": "phrase",
+      "spell": "meetoru"
+    },
+    {
+      "text": "眼鏡",
+      "hint": "glasses",
+      "kind": "phrase",
+      "spell": "megane"
+    },
+    {
+      "text": "もう",
+      "hint": "already",
+      "kind": "phrase",
+      "spell": "mou"
+    },
+    {
+      "text": "もう一度",
+      "hint": "again",
+      "kind": "phrase",
+      "spell": "mouichido"
+    },
+    {
+      "text": "木曜日",
+      "hint": "Thursday",
+      "kind": "phrase",
+      "spell": "mokuyoubi"
+    },
+    {
+      "text": "持つ",
+      "hint": "to hold",
+      "kind": "phrase",
+      "spell": "motsu"
+    },
+    {
+      "text": "もっと",
+      "hint": "more",
+      "kind": "phrase",
+      "spell": "motto"
+    },
+    {
+      "text": "物",
+      "hint": "thing",
+      "kind": "phrase",
+      "spell": "mono"
+    },
+    {
+      "text": "門",
+      "hint": "gate",
+      "kind": "phrase",
+      "spell": "mon"
+    },
+    {
+      "text": "問題",
+      "hint": "problem",
+      "kind": "phrase",
+      "spell": "mondai"
+    },
+    {
+      "text": "八百屋",
+      "hint": "greengrocer",
+      "kind": "phrase",
+      "spell": "yaoya"
+    },
+    {
+      "text": "野菜",
+      "hint": "vegetable",
+      "kind": "phrase",
+      "spell": "yasai"
+    },
+    {
+      "text": "易しい",
+      "hint": "easy; simple",
+      "kind": "phrase",
+      "spell": "yasashii"
+    },
+    {
+      "text": "安い",
+      "hint": "cheap",
+      "kind": "phrase",
+      "spell": "yasui"
+    },
+    {
+      "text": "休み",
+      "hint": "rest; holiday",
+      "kind": "phrase",
+      "spell": "yasumi"
+    },
+    {
+      "text": "休む",
+      "hint": "to rest",
+      "kind": "phrase",
+      "spell": "yasumu"
+    },
+    {
+      "text": "八つ",
+      "hint": "eight",
+      "kind": "phrase",
+      "spell": "yattsu"
+    },
+    {
+      "text": "山",
+      "hint": "mountain",
+      "kind": "phrase",
+      "spell": "yama"
+    },
+    {
+      "text": "やる",
+      "hint": "to do",
+      "kind": "phrase",
+      "spell": "yaru"
+    },
+    {
+      "text": "夕方",
+      "hint": "evening",
+      "kind": "phrase",
+      "spell": "yuugata"
+    },
+    {
+      "text": "夕飯",
+      "hint": "dinner",
+      "kind": "phrase",
+      "spell": "yuuhan"
+    },
+    {
+      "text": "郵便局",
+      "hint": "post office",
+      "kind": "phrase",
+      "spell": "yuubinkyoku"
+    },
+    {
+      "text": "昨夜",
+      "hint": "last night",
+      "kind": "phrase",
+      "spell": "yuube"
+    },
+    {
+      "text": "有名",
+      "hint": "famous",
+      "kind": "phrase",
+      "spell": "yuumei"
+    },
+    {
+      "text": "雪",
+      "hint": "snow",
+      "kind": "phrase",
+      "spell": "yuki"
+    },
+    {
+      "text": "ゆっくりと",
+      "hint": "slowly",
+      "kind": "phrase",
+      "spell": "yukkurito"
+    },
+    {
+      "text": "八日",
+      "hint": "eight days; eighth day of the month",
+      "kind": "phrase",
+      "spell": "youka"
+    },
+    {
+      "text": "洋服",
+      "hint": "western-style clothes",
+      "kind": "phrase",
+      "spell": "youfuku"
+    },
+    {
+      "text": "よく",
+      "hint": "often; well",
+      "kind": "phrase",
+      "spell": "yoku"
+    },
+    {
+      "text": "横",
+      "hint": "beside; side; width",
+      "kind": "phrase",
+      "spell": "yoko"
+    },
+    {
+      "text": "四日",
+      "hint": "four days; fouth day of the month",
+      "kind": "phrase",
+      "spell": "yokka"
+    },
+    {
+      "text": "四つ",
+      "hint": "four",
+      "kind": "phrase",
+      "spell": "yottsu"
+    },
+    {
+      "text": "呼ぶ",
+      "hint": "to call out; to invite",
+      "kind": "phrase",
+      "spell": "yobu"
+    },
+    {
+      "text": "読む",
+      "hint": "to read",
+      "kind": "phrase",
+      "spell": "yomu"
+    },
+    {
+      "text": "より",
+      "hint": "than; (used for comparison)",
+      "kind": "phrase",
+      "spell": "yori"
+    },
+    {
+      "text": "夜",
+      "hint": "evening; night",
+      "kind": "phrase",
+      "spell": "yoru"
+    },
+    {
+      "text": "弱い",
+      "hint": "weak",
+      "kind": "phrase",
+      "spell": "yowai"
+    },
+    {
+      "text": "来月",
+      "hint": "next month",
+      "kind": "phrase",
+      "spell": "raigetsu"
+    },
+    {
+      "text": "来週",
+      "hint": "next week",
+      "kind": "phrase",
+      "spell": "raishuu"
+    },
+    {
+      "text": "来年",
+      "hint": "next year",
+      "kind": "phrase",
+      "spell": "rainen"
+    },
+    {
+      "text": "ラジオ",
+      "hint": "radio",
+      "kind": "phrase",
+      "spell": "rajio"
+    },
+    {
+      "text": "ラジカセ",
+      "hint": "radio cassette player",
+      "kind": "phrase",
+      "spell": "rajikase"
+    },
+    {
+      "text": "りっぱ",
+      "hint": "splendid",
+      "kind": "phrase",
+      "spell": "rippa"
+    },
+    {
+      "text": "留学生",
+      "hint": "overseas student",
+      "kind": "phrase",
+      "spell": "ryuugakusei"
+    },
+    {
+      "text": "両親",
+      "hint": "both parents",
+      "kind": "phrase",
+      "spell": "ryoushin"
+    },
+    {
+      "text": "料理",
+      "hint": "cuisine",
+      "kind": "phrase",
+      "spell": "ryouri"
+    },
+    {
+      "text": "旅行",
+      "hint": "travel",
+      "kind": "phrase",
+      "spell": "ryokou"
+    },
+    {
+      "text": "零",
+      "hint": "zero",
+      "kind": "phrase",
+      "spell": "rei"
+    },
+    {
+      "text": "冷蔵庫",
+      "hint": "refrigerator",
+      "kind": "phrase",
+      "spell": "reizouko"
+    },
+    {
+      "text": "レコード",
+      "hint": "record",
+      "kind": "phrase",
+      "spell": "rekoodo"
+    },
+    {
+      "text": "レストラン",
+      "hint": "restaurant",
+      "kind": "phrase",
+      "spell": "resutoran"
+    },
+    {
+      "text": "練習",
+      "hint": "to practice",
+      "kind": "phrase",
+      "spell": "renshuu"
+    },
+    {
+      "text": "廊下",
+      "hint": "corridor",
+      "kind": "phrase",
+      "spell": "rouka"
+    },
+    {
+      "text": "六",
+      "hint": "six",
+      "kind": "phrase",
+      "spell": "roku"
+    },
+    {
+      "text": "ワイシャツ",
+      "hint": "business shirt",
+      "kind": "phrase",
+      "spell": "waishatsu"
+    },
+    {
+      "text": "若い",
+      "hint": "young",
+      "kind": "phrase",
+      "spell": "wakai"
+    },
+    {
+      "text": "分かる",
+      "hint": "to be understood",
+      "kind": "phrase",
+      "spell": "wakaru"
+    },
+    {
+      "text": "忘れる",
+      "hint": "to forget",
+      "kind": "phrase",
+      "spell": "wasureru"
+    },
+    {
+      "text": "私",
+      "hint": "(humble) I; myself",
+      "kind": "phrase",
+      "spell": "watakushi"
+    },
+    {
+      "text": "渡す",
+      "hint": "to hand over",
+      "kind": "phrase",
+      "spell": "watasu"
+    },
+    {
+      "text": "渡る",
+      "hint": "to go across",
+      "kind": "phrase",
+      "spell": "wataru"
+    },
+    {
+      "text": "悪い",
+      "hint": "bad",
+      "kind": "phrase",
+      "spell": "warui"
+    },
+    {
+      "text": "あ",
+      "hint": "Ah",
+      "kind": "phrase",
+      "spell": "a"
+    },
+    {
+      "text": "ああ",
+      "hint": "like that",
+      "kind": "phrase",
+      "spell": "aa"
+    },
+    {
+      "text": "あいさつする",
+      "hint": "to greet",
+      "kind": "phrase",
+      "spell": "aisatsusuru"
+    },
+    {
+      "text": "間",
+      "hint": "a space",
+      "kind": "phrase",
+      "spell": "aida"
+    },
+    {
+      "text": "合う",
+      "hint": "to match",
+      "kind": "phrase",
+      "spell": "au"
+    },
+    {
+      "text": "あかちゃん",
+      "hint": "infant",
+      "kind": "phrase",
+      "spell": "akachan"
+    },
+    {
+      "text": "上がる",
+      "hint": "to rise",
+      "kind": "phrase",
+      "spell": "agaru"
+    },
+    {
+      "text": "赤ん坊",
+      "hint": "baby",
+      "kind": "phrase",
+      "spell": "akanbou"
+    },
+    {
+      "text": "空く",
+      "hint": "to open; to become empty",
+      "kind": "phrase",
+      "spell": "aku"
+    },
+    {
+      "text": "アクセサリー",
+      "hint": "accessory",
+      "kind": "phrase",
+      "spell": "akusesarii"
+    },
+    {
+      "text": "浅い",
+      "hint": "shallow; superficial",
+      "kind": "phrase",
+      "spell": "asai"
+    },
+    {
+      "text": "味",
+      "hint": "flavour",
+      "kind": "phrase",
+      "spell": "aji"
+    },
+    {
+      "text": "アジア",
+      "hint": "Asia",
+      "kind": "phrase",
+      "spell": "ajia"
+    },
+    {
+      "text": "遊び",
+      "hint": "play",
+      "kind": "phrase",
+      "spell": "asobi"
+    },
+    {
+      "text": "集まる",
+      "hint": "to gather",
+      "kind": "phrase",
+      "spell": "atsumaru"
+    },
+    {
+      "text": "集める",
+      "hint": "to collect something",
+      "kind": "phrase",
+      "spell": "atsumeru"
+    },
+    {
+      "text": "アナウンサー",
+      "hint": "announcer",
+      "kind": "phrase",
+      "spell": "anaunsaa"
+    },
+    {
+      "text": "アフリカ",
+      "hint": "Africa",
+      "kind": "phrase",
+      "spell": "afurika"
+    },
+    {
+      "text": "アメリカ",
+      "hint": "America",
+      "kind": "phrase",
+      "spell": "amerika"
+    },
+    {
+      "text": "謝る",
+      "hint": "to apologize",
+      "kind": "phrase",
+      "spell": "ayamaru"
+    },
+    {
+      "text": "アルコール",
+      "hint": "alcohol",
+      "kind": "phrase",
+      "spell": "arukooru"
+    },
+    {
+      "text": "アルバイト",
+      "hint": "part-time job",
+      "kind": "phrase",
+      "spell": "arubaito"
+    },
+    {
+      "text": "安心",
+      "hint": "relief",
+      "kind": "phrase",
+      "spell": "anshin"
+    },
+    {
+      "text": "安全",
+      "hint": "safety",
+      "kind": "phrase",
+      "spell": "anzen"
+    },
+    {
+      "text": "あんな",
+      "hint": "such",
+      "kind": "phrase",
+      "spell": "anna"
+    },
+    {
+      "text": "案内",
+      "hint": "to guide",
+      "kind": "phrase",
+      "spell": "annai"
+    },
+    {
+      "text": "以下",
+      "hint": "less than",
+      "kind": "phrase",
+      "spell": "ika"
+    },
+    {
+      "text": "以外",
+      "hint": "with the exception of",
+      "kind": "phrase",
+      "spell": "igai"
+    },
+    {
+      "text": "医学",
+      "hint": "medical science",
+      "kind": "phrase",
+      "spell": "igaku"
+    },
+    {
+      "text": "生きる",
+      "hint": "to live",
+      "kind": "phrase",
+      "spell": "ikiru"
+    },
+    {
+      "text": "意見",
+      "hint": "opinion",
+      "kind": "phrase",
+      "spell": "iken"
+    },
+    {
+      "text": "石",
+      "hint": "stone",
+      "kind": "phrase",
+      "spell": "ishi"
+    },
+    {
+      "text": "いじめる",
+      "hint": "to tease",
+      "kind": "phrase",
+      "spell": "ijimeru"
+    },
+    {
+      "text": "以上",
+      "hint": "more than; this is all",
+      "kind": "phrase",
+      "spell": "ijou"
+    },
+    {
+      "text": "急ぐ",
+      "hint": "to hurry",
+      "kind": "phrase",
+      "spell": "isogu"
+    },
+    {
+      "text": "致す",
+      "hint": "(humble) to do",
+      "kind": "phrase",
+      "spell": "itasu"
+    },
+    {
+      "text": "いただく",
+      "hint": "(humble) to receive",
+      "kind": "phrase",
+      "spell": "itadaku"
+    },
+    {
+      "text": "一度",
+      "hint": "once",
+      "kind": "phrase",
+      "spell": "ichido"
+    },
+    {
+      "text": "一生懸命",
+      "hint": "with utmost effort",
+      "kind": "phrase",
+      "spell": "isshoukenmei"
+    },
+    {
+      "text": "いっぱい",
+      "hint": "full",
+      "kind": "phrase",
+      "spell": "ippai"
+    },
+    {
+      "text": "糸",
+      "hint": "thread",
+      "kind": "phrase",
+      "spell": "ito"
+    },
+    {
+      "text": "以内",
+      "hint": "within",
+      "kind": "phrase",
+      "spell": "inai"
+    },
+    {
+      "text": "田舎",
+      "hint": "countryside",
+      "kind": "phrase",
+      "spell": "inaka"
+    },
+    {
+      "text": "祈る",
+      "hint": "to pray",
+      "kind": "phrase",
+      "spell": "inoru"
+    },
+    {
+      "text": "いらっしゃる",
+      "hint": "(respectful) to be; to come or to go",
+      "kind": "phrase",
+      "spell": "irassharu"
+    },
+    {
+      "text": "植える",
+      "hint": "to plant; to grow",
+      "kind": "phrase",
+      "spell": "ueru"
+    },
+    {
+      "text": "うかがう",
+      "hint": "to visit",
+      "kind": "phrase",
+      "spell": "ukagau"
+    },
+    {
+      "text": "受付",
+      "hint": "receipt",
+      "kind": "phrase",
+      "spell": "uketsuke"
+    },
+    {
+      "text": "受ける",
+      "hint": "to take a lesson or test",
+      "kind": "phrase",
+      "spell": "ukeru"
+    },
+    {
+      "text": "動く",
+      "hint": "to move",
+      "kind": "phrase",
+      "spell": "ugoku"
+    },
+    {
+      "text": "うそ",
+      "hint": "a lie",
+      "kind": "phrase",
+      "spell": "uso"
+    },
+    {
+      "text": "うち",
+      "hint": "within",
+      "kind": "phrase",
+      "spell": "uchi"
+    },
+    {
+      "text": "打つ",
+      "hint": "to hit",
+      "kind": "phrase",
+      "spell": "utsu"
+    },
+    {
+      "text": "美しい",
+      "hint": "beautiful",
+      "kind": "phrase",
+      "spell": "utsukushii"
+    },
+    {
+      "text": "写す",
+      "hint": "to copy or photograph",
+      "kind": "phrase",
+      "spell": "utsusu"
+    },
+    {
+      "text": "移る",
+      "hint": "to move house or transfer",
+      "kind": "phrase",
+      "spell": "utsuru"
+    },
+    {
+      "text": "腕",
+      "hint": "arm",
+      "kind": "phrase",
+      "spell": "ude"
+    },
+    {
+      "text": "うまい",
+      "hint": "delicious",
+      "kind": "phrase",
+      "spell": "umai"
+    },
+    {
+      "text": "裏",
+      "hint": "reverse side",
+      "kind": "phrase",
+      "spell": "ura"
+    },
+    {
+      "text": "売り場",
+      "hint": "place where things are sold",
+      "kind": "phrase",
+      "spell": "uriba"
+    },
+    {
+      "text": "うれしい",
+      "hint": "glad",
+      "kind": "phrase",
+      "spell": "ureshii"
+    },
+    {
+      "text": "うん",
+      "hint": "(informal) yes",
+      "kind": "phrase",
+      "spell": "un"
+    },
+    {
+      "text": "運転",
+      "hint": "to drive",
+      "kind": "phrase",
+      "spell": "unten"
+    },
+    {
+      "text": "運転手",
+      "hint": "driver",
+      "kind": "phrase",
+      "spell": "untenshu"
+    },
+    {
+      "text": "運動",
+      "hint": "to exercise",
+      "kind": "phrase",
+      "spell": "undou"
+    },
+    {
+      "text": "エスカレーター",
+      "hint": "escalator",
+      "kind": "phrase",
+      "spell": "esukareetaa"
+    },
+    {
+      "text": "枝",
+      "hint": "branch; twig",
+      "kind": "phrase",
+      "spell": "eda"
+    },
+    {
+      "text": "選ぶ",
+      "hint": "to choose",
+      "kind": "phrase",
+      "spell": "erabu"
+    },
+    {
+      "text": "遠慮",
+      "hint": "to be reserved; to be restrained",
+      "kind": "phrase",
+      "spell": "enryo"
+    },
+    {
+      "text": "おいでになる",
+      "hint": "(respectful) to be",
+      "kind": "phrase",
+      "spell": "oideninaru"
+    },
+    {
+      "text": "お祝い",
+      "hint": "congratulation",
+      "kind": "phrase",
+      "spell": "oiwai"
+    },
+    {
+      "text": "オートバイ",
+      "hint": "motorcycle",
+      "kind": "phrase",
+      "spell": "ootobai"
+    },
+    {
+      "text": "おかげ",
+      "hint": "owing to",
+      "kind": "phrase",
+      "spell": "okage"
+    },
+    {
+      "text": "おかしい",
+      "hint": "strange or funny",
+      "kind": "phrase",
+      "spell": "okashii"
+    },
+    {
+      "text": "お金持ち",
+      "hint": "rich man",
+      "kind": "phrase",
+      "spell": "okanemochi"
+    },
+    {
+      "text": "億",
+      "hint": "one hundred million",
+      "kind": "phrase",
+      "spell": "oku"
+    },
+    {
+      "text": "屋上",
+      "hint": "rooftop",
+      "kind": "phrase",
+      "spell": "okujou"
+    },
+    {
+      "text": "贈り物",
+      "hint": "gift",
+      "kind": "phrase",
+      "spell": "okurimono"
+    },
+    {
+      "text": "送る",
+      "hint": "to send",
+      "kind": "phrase",
+      "spell": "okuru"
+    },
+    {
+      "text": "遅れる",
+      "hint": "to be late",
+      "kind": "phrase",
+      "spell": "okureru"
+    },
+    {
+      "text": "起す",
+      "hint": "to wake",
+      "kind": "phrase",
+      "spell": "okosu"
+    },
+    {
+      "text": "行う",
+      "hint": "to do",
+      "kind": "phrase",
+      "spell": "okonau"
+    },
+    {
+      "text": "怒る",
+      "hint": "to get angry; to be angry",
+      "kind": "phrase",
+      "spell": "okoru"
+    },
+    {
+      "text": "押し入れ",
+      "hint": "closet",
+      "kind": "phrase",
+      "spell": "oshiire"
+    },
+    {
+      "text": "お嬢さん",
+      "hint": "young lady",
+      "kind": "phrase",
+      "spell": "ojousan"
+    },
+    {
+      "text": "お宅",
+      "hint": "(polite) your house",
+      "kind": "phrase",
+      "spell": "otaku"
+    },
+    {
+      "text": "落ちる",
+      "hint": "to fall or drop",
+      "kind": "phrase",
+      "spell": "ochiru"
+    },
+    {
+      "text": "おっしゃる",
+      "hint": "(respectful) to say",
+      "kind": "phrase",
+      "spell": "ossharu"
+    },
+    {
+      "text": "夫",
+      "hint": "husband",
+      "kind": "phrase",
+      "spell": "otto"
+    },
+    {
+      "text": "おつり",
+      "hint": "change from purchase; balance",
+      "kind": "phrase",
+      "spell": "otsuri"
+    },
+    {
+      "text": "音",
+      "hint": "sound; note",
+      "kind": "phrase",
+      "spell": "oto"
+    },
+    {
+      "text": "落す",
+      "hint": "to drop",
+      "kind": "phrase",
+      "spell": "otosu"
+    },
+    {
+      "text": "踊り",
+      "hint": "a dance",
+      "kind": "phrase",
+      "spell": "odori"
+    },
+    {
+      "text": "踊る",
+      "hint": "to dance",
+      "kind": "phrase",
+      "spell": "odoru"
+    },
+    {
+      "text": "驚く",
+      "hint": "to be surprised",
+      "kind": "phrase",
+      "spell": "odoroku"
+    },
+    {
+      "text": "お祭り",
+      "hint": "festival",
+      "kind": "phrase",
+      "spell": "omatsuri"
+    },
+    {
+      "text": "お見舞い",
+      "hint": "calling on someone who is ill; enquiry",
+      "kind": "phrase",
+      "spell": "omimai"
+    },
+    {
+      "text": "お土産",
+      "hint": "souvenir",
+      "kind": "phrase",
+      "spell": "omiyage"
+    },
+    {
+      "text": "思い出す",
+      "hint": "to remember",
+      "kind": "phrase",
+      "spell": "omoidasu"
+    },
+    {
+      "text": "思う",
+      "hint": "to think; to feel",
+      "kind": "phrase",
+      "spell": "omou"
+    },
+    {
+      "text": "おもちゃ",
+      "hint": "toy",
+      "kind": "phrase",
+      "spell": "omocha"
+    },
+    {
+      "text": "表",
+      "hint": "the front",
+      "kind": "phrase",
+      "spell": "omote"
+    },
+    {
+      "text": "親",
+      "hint": "parents",
+      "kind": "phrase",
+      "spell": "oya"
+    },
+    {
+      "text": "泳ぎ方",
+      "hint": "way of swimming",
+      "kind": "phrase",
+      "spell": "oyogikata"
+    },
+    {
+      "text": "下りる",
+      "hint": "to get off",
+      "kind": "phrase",
+      "spell": "oriru"
+    },
+    {
+      "text": "折る",
+      "hint": "to break or to fold",
+      "kind": "phrase",
+      "spell": "oru"
+    },
+    {
+      "text": "お礼",
+      "hint": "expression of gratitude",
+      "kind": "phrase",
+      "spell": "orei"
+    },
+    {
+      "text": "折れる",
+      "hint": "to break or be folded",
+      "kind": "phrase",
+      "spell": "oreru"
+    },
+    {
+      "text": "終わり",
+      "hint": "the end",
+      "kind": "phrase",
+      "spell": "owari"
+    },
+    {
+      "text": "カーテン",
+      "hint": "curtain",
+      "kind": "phrase",
+      "spell": "kaaten"
+    },
+    {
+      "text": "海岸",
+      "hint": "coast",
+      "kind": "phrase",
+      "spell": "kaigan"
+    },
+    {
+      "text": "会議",
+      "hint": "meeting",
+      "kind": "phrase",
+      "spell": "kaigi"
+    },
+    {
+      "text": "会議室",
+      "hint": "meeting room",
+      "kind": "phrase",
+      "spell": "kaigishitsu"
+    },
+    {
+      "text": "会場",
+      "hint": "assembly hall or meeting place",
+      "kind": "phrase",
+      "spell": "kaijou"
+    },
+    {
+      "text": "会話",
+      "hint": "conversation",
+      "kind": "phrase",
+      "spell": "kaiwa"
+    },
+    {
+      "text": "帰り",
+      "hint": "return",
+      "kind": "phrase",
+      "spell": "kaeri"
+    },
+    {
+      "text": "変える",
+      "hint": "to change",
+      "kind": "phrase",
+      "spell": "kaeru"
+    },
+    {
+      "text": "科学",
+      "hint": "science",
+      "kind": "phrase",
+      "spell": "kagaku"
+    },
+    {
+      "text": "鏡",
+      "hint": "mirror",
+      "kind": "phrase",
+      "spell": "kagami"
+    },
+    {
+      "text": "飾る",
+      "hint": "to decorate",
+      "kind": "phrase",
+      "spell": "kazaru"
+    },
+    {
+      "text": "火事",
+      "hint": "fire",
+      "kind": "phrase",
+      "spell": "kaji"
+    },
+    {
+      "text": "ガス",
+      "hint": "petrol",
+      "kind": "phrase",
+      "spell": "gasu"
+    },
+    {
+      "text": "ガソリン",
+      "hint": "petrol",
+      "kind": "phrase",
+      "spell": "gasorin"
+    },
+    {
+      "text": "ガソリンスタンド",
+      "hint": "petrol station",
+      "kind": "phrase",
+      "spell": "gasorinsutando"
+    },
+    {
+      "text": "堅い",
+      "hint": "hard",
+      "kind": "phrase",
+      "spell": "katai"
+    },
+    {
+      "text": "形",
+      "hint": "shape",
+      "kind": "phrase",
+      "spell": "katachi"
+    },
+    {
+      "text": "片付ける",
+      "hint": "to tidy up",
+      "kind": "phrase",
+      "spell": "katazukeru"
+    },
+    {
+      "text": "課長",
+      "hint": "section manager",
+      "kind": "phrase",
+      "spell": "kachou"
+    },
+    {
+      "text": "勝つ",
+      "hint": "to win",
+      "kind": "phrase",
+      "spell": "katsu"
+    },
+    {
+      "text": "かっこう",
+      "hint": "appearance",
+      "kind": "phrase",
+      "spell": "kakkou"
+    },
+    {
+      "text": "家内",
+      "hint": "housewife",
+      "kind": "phrase",
+      "spell": "kanai"
+    },
+    {
+      "text": "悲しい",
+      "hint": "sad",
+      "kind": "phrase",
+      "spell": "kanashii"
+    },
+    {
+      "text": "必ず",
+      "hint": "certainly; necessarily",
+      "kind": "phrase",
+      "spell": "kanarazu"
+    },
+    {
+      "text": "彼女",
+      "hint": "she; girlfriend",
+      "kind": "phrase",
+      "spell": "kanojo"
+    },
+    {
+      "text": "壁",
+      "hint": "wall",
+      "kind": "phrase",
+      "spell": "kabe"
+    },
+    {
+      "text": "かまう",
+      "hint": "to mind",
+      "kind": "phrase",
+      "spell": "kamau"
+    },
+    {
+      "text": "髪",
+      "hint": "hair",
+      "kind": "phrase",
+      "spell": "kami"
+    },
+    {
+      "text": "噛む",
+      "hint": "to bite; to chew",
+      "kind": "phrase",
+      "spell": "kamu"
+    },
+    {
+      "text": "通う",
+      "hint": "to commute",
+      "kind": "phrase",
+      "spell": "kayou"
+    },
+    {
+      "text": "ガラス",
+      "hint": "a glass pane",
+      "kind": "phrase",
+      "spell": "garasu"
+    },
+    {
+      "text": "彼",
+      "hint": "he; boyfriend",
+      "kind": "phrase",
+      "spell": "kare"
+    },
+    {
+      "text": "彼ら",
+      "hint": "they",
+      "kind": "phrase",
+      "spell": "karera"
+    },
+    {
+      "text": "乾く",
+      "hint": "to get dry",
+      "kind": "phrase",
+      "spell": "kawaku"
+    },
+    {
+      "text": "代わり",
+      "hint": "substitute; alternate",
+      "kind": "phrase",
+      "spell": "kawari"
+    },
+    {
+      "text": "変わる",
+      "hint": "to change",
+      "kind": "phrase",
+      "spell": "kawaru"
+    },
+    {
+      "text": "考える",
+      "hint": "to consider",
+      "kind": "phrase",
+      "spell": "kangaeru"
+    },
+    {
+      "text": "関係",
+      "hint": "relationship",
+      "kind": "phrase",
+      "spell": "kankei"
+    },
+    {
+      "text": "看護婦",
+      "hint": "female nurse",
+      "kind": "phrase",
+      "spell": "kangofu"
+    },
+    {
+      "text": "簡単",
+      "hint": "simple",
+      "kind": "phrase",
+      "spell": "kantan"
+    },
+    {
+      "text": "気",
+      "hint": "spirit; mood",
+      "kind": "phrase",
+      "spell": "ki"
+    },
+    {
+      "text": "機会",
+      "hint": "opportunity",
+      "kind": "phrase",
+      "spell": "kikai"
+    },
+    {
+      "text": "危険",
+      "hint": "danger",
+      "kind": "phrase",
+      "spell": "kiken"
+    },
+    {
+      "text": "聞こえる",
+      "hint": "to be heard",
+      "kind": "phrase",
+      "spell": "kikoeru"
+    },
+    {
+      "text": "汽車",
+      "hint": "steam train",
+      "kind": "phrase",
+      "spell": "kisha"
+    },
+    {
+      "text": "技術",
+      "hint": "art; technology; skill",
+      "kind": "phrase",
+      "spell": "gijutsu"
+    },
+    {
+      "text": "季節",
+      "hint": "season",
+      "kind": "phrase",
+      "spell": "kisetsu"
+    },
+    {
+      "text": "規則",
+      "hint": "regulations",
+      "kind": "phrase",
+      "spell": "kisoku"
+    },
+    {
+      "text": "きっと",
+      "hint": "surely",
+      "kind": "phrase",
+      "spell": "kitto"
+    },
+    {
+      "text": "絹",
+      "hint": "silk",
+      "kind": "phrase",
+      "spell": "kinu"
+    },
+    {
+      "text": "厳しい",
+      "hint": "strict",
+      "kind": "phrase",
+      "spell": "kibishii"
+    },
+    {
+      "text": "気分",
+      "hint": "mood",
+      "kind": "phrase",
+      "spell": "kibun"
+    },
+    {
+      "text": "決まる",
+      "hint": "to be decided",
+      "kind": "phrase",
+      "spell": "kimaru"
+    },
+    {
+      "text": "君",
+      "hint": "(informal) You (used by men towards women)",
+      "kind": "phrase",
+      "spell": "kimi"
+    },
+    {
+      "text": "決める",
+      "hint": "to decide",
+      "kind": "phrase",
+      "spell": "kimeru"
+    },
+    {
+      "text": "気持ち",
+      "hint": "feeling; mood",
+      "kind": "phrase",
+      "spell": "kimochi"
+    },
+    {
+      "text": "着物",
+      "hint": "kimono",
+      "kind": "phrase",
+      "spell": "kimono"
+    },
+    {
+      "text": "客",
+      "hint": "guest; customer",
+      "kind": "phrase",
+      "spell": "kyaku"
+    },
+    {
+      "text": "急",
+      "hint": "urgent; steep",
+      "kind": "phrase",
+      "spell": "kyuu"
+    },
+    {
+      "text": "急行",
+      "hint": "speedy; express",
+      "kind": "phrase",
+      "spell": "kyuukou"
+    },
+    {
+      "text": "教育",
+      "hint": "education",
+      "kind": "phrase",
+      "spell": "kyouiku"
+    },
+    {
+      "text": "教会",
+      "hint": "church",
+      "kind": "phrase",
+      "spell": "kyoukai"
+    },
+    {
+      "text": "競争",
+      "hint": "competition",
+      "kind": "phrase",
+      "spell": "kyousou"
+    },
+    {
+      "text": "興味",
+      "hint": "an interest",
+      "kind": "phrase",
+      "spell": "kyoumi"
+    },
+    {
+      "text": "近所",
+      "hint": "neighbourhood",
+      "kind": "phrase",
+      "spell": "kinjo"
+    },
+    {
+      "text": "具合",
+      "hint": "condition; health",
+      "kind": "phrase",
+      "spell": "guai"
+    },
+    {
+      "text": "空気",
+      "hint": "air; atmosphere",
+      "kind": "phrase",
+      "spell": "kuuki"
+    },
+    {
+      "text": "空港",
+      "hint": "airport",
+      "kind": "phrase",
+      "spell": "kuukou"
+    },
+    {
+      "text": "草",
+      "hint": "grass",
+      "kind": "phrase",
+      "spell": "kusa"
+    },
+    {
+      "text": "くださる",
+      "hint": "(respectful) to give",
+      "kind": "phrase",
+      "spell": "kudasaru"
+    },
+    {
+      "text": "首",
+      "hint": "neck",
+      "kind": "phrase",
+      "spell": "kubi"
+    },
+    {
+      "text": "雲",
+      "hint": "cloud",
+      "kind": "phrase",
+      "spell": "kumo"
+    },
+    {
+      "text": "比べる",
+      "hint": "to compare",
+      "kind": "phrase",
+      "spell": "kuraberu"
+    },
+    {
+      "text": "くれる",
+      "hint": "to give",
+      "kind": "phrase",
+      "spell": "kureru"
+    },
+    {
+      "text": "暮れる",
+      "hint": "to get dark; to come to an end",
+      "kind": "phrase",
+      "spell": "kureru"
+    },
+    {
+      "text": "毛",
+      "hint": "hair or fur",
+      "kind": "phrase",
+      "spell": "ke"
+    },
+    {
+      "text": "計画",
+      "hint": "to plan",
+      "kind": "phrase",
+      "spell": "keikaku"
+    },
+    {
+      "text": "経験",
+      "hint": "to experience",
+      "kind": "phrase",
+      "spell": "keiken"
+    },
+    {
+      "text": "経済",
+      "hint": "finance; economy",
+      "kind": "phrase",
+      "spell": "keizai"
+    },
+    {
+      "text": "警察",
+      "hint": "police",
+      "kind": "phrase",
+      "spell": "keisatsu"
+    },
+    {
+      "text": "ケーキ",
+      "hint": "cake",
+      "kind": "phrase",
+      "spell": "keeki"
+    },
+    {
+      "text": "けがする",
+      "hint": "to injure",
+      "kind": "phrase",
+      "spell": "kegasuru"
+    },
+    {
+      "text": "景色",
+      "hint": "scene; landscape",
+      "kind": "phrase",
+      "spell": "keshiki"
+    },
+    {
+      "text": "消しゴム",
+      "hint": "eraser",
+      "kind": "phrase",
+      "spell": "keshigomu"
+    },
+    {
+      "text": "下宿",
+      "hint": "lodging",
+      "kind": "phrase",
+      "spell": "geshuku"
+    },
+    {
+      "text": "決して",
+      "hint": "never",
+      "kind": "phrase",
+      "spell": "kesshite"
+    },
+    {
+      "text": "けれど",
+      "hint": "however",
+      "kind": "phrase",
+      "spell": "keredo"
+    },
+    {
+      "text": "原因",
+      "hint": "cause; source",
+      "kind": "phrase",
+      "spell": "gen'in"
+    },
+    {
+      "text": "けんかする",
+      "hint": "to quarrel",
+      "kind": "phrase",
+      "spell": "kenkasuru"
+    },
+    {
+      "text": "研究",
+      "hint": "research",
+      "kind": "phrase",
+      "spell": "kenkyuu"
+    },
+    {
+      "text": "研究室",
+      "hint": "study room; laboratory",
+      "kind": "phrase",
+      "spell": "kenkyuushitsu"
+    },
+    {
+      "text": "見物",
+      "hint": "sightseeing",
+      "kind": "phrase",
+      "spell": "kenbutsu"
+    },
+    {
+      "text": "子",
+      "hint": "child",
+      "kind": "phrase",
+      "spell": "ko"
+    },
+    {
+      "text": "こう",
+      "hint": "this way",
+      "kind": "phrase",
+      "spell": "kou"
+    },
+    {
+      "text": "郊外",
+      "hint": "outskirts",
+      "kind": "phrase",
+      "spell": "kougai"
+    },
+    {
+      "text": "講義",
+      "hint": "lecture",
+      "kind": "phrase",
+      "spell": "kougi"
+    },
+    {
+      "text": "工業",
+      "hint": "the manufacturing industry",
+      "kind": "phrase",
+      "spell": "kougyou"
+    },
+    {
+      "text": "高校",
+      "hint": "high school",
+      "kind": "phrase",
+      "spell": "koukou"
+    },
+    {
+      "text": "高校生",
+      "hint": "high school student",
+      "kind": "phrase",
+      "spell": "koukousei"
+    },
+    {
+      "text": "工場",
+      "hint": "factory",
+      "kind": "phrase",
+      "spell": "koujou"
+    },
+    {
+      "text": "校長",
+      "hint": "headmaster",
+      "kind": "phrase",
+      "spell": "kouchou"
+    },
+    {
+      "text": "交通",
+      "hint": "traffic; transportation",
+      "kind": "phrase",
+      "spell": "koutsuu"
+    },
+    {
+      "text": "講堂",
+      "hint": "auditorium",
+      "kind": "phrase",
+      "spell": "koudou"
+    },
+    {
+      "text": "高等学校",
+      "hint": "high school",
+      "kind": "phrase",
+      "spell": "koutougakkou"
+    },
+    {
+      "text": "公務員",
+      "hint": "government worker",
+      "kind": "phrase",
+      "spell": "koumuin"
+    },
+    {
+      "text": "国際",
+      "hint": "international",
+      "kind": "phrase",
+      "spell": "kokusai"
+    },
+    {
+      "text": "心",
+      "hint": "core; heart",
+      "kind": "phrase",
+      "spell": "kokoro"
+    },
+    {
+      "text": "御主人",
+      "hint": "(honorable) your husband",
+      "kind": "phrase",
+      "spell": "goshujin"
+    },
+    {
+      "text": "故障",
+      "hint": "to break-down",
+      "kind": "phrase",
+      "spell": "koshou"
+    },
+    {
+      "text": "ご存じ",
+      "hint": "knowing; acquaintance",
+      "kind": "phrase",
+      "spell": "gozonji"
+    },
+    {
+      "text": "答",
+      "hint": "response",
+      "kind": "phrase",
+      "spell": "kotae"
+    },
+    {
+      "text": "ごちそう",
+      "hint": "a feast",
+      "kind": "phrase",
+      "spell": "gochisou"
+    },
+    {
+      "text": "こと",
+      "hint": "thing; matter",
+      "kind": "phrase",
+      "spell": "koto"
+    },
+    {
+      "text": "小鳥",
+      "hint": "small bird",
+      "kind": "phrase",
+      "spell": "kotori"
+    },
+    {
+      "text": "このあいだ",
+      "hint": "the other day; recently",
+      "kind": "phrase",
+      "spell": "konoaida"
+    },
+    {
+      "text": "このごろ",
+      "hint": "these days; nowadays",
+      "kind": "phrase",
+      "spell": "konogoro"
+    },
+    {
+      "text": "細かい",
+      "hint": "small; fine",
+      "kind": "phrase",
+      "spell": "komakai"
+    },
+    {
+      "text": "ごみ",
+      "hint": "rubbish",
+      "kind": "phrase",
+      "spell": "gomi"
+    },
+    {
+      "text": "込む",
+      "hint": "to be crowded",
+      "kind": "phrase",
+      "spell": "komu"
+    },
+    {
+      "text": "米",
+      "hint": "uncooked rice",
+      "kind": "phrase",
+      "spell": "kome"
+    },
+    {
+      "text": "ごらんになる",
+      "hint": "(respectful) to see",
+      "kind": "phrase",
+      "spell": "goranninaru"
+    },
+    {
+      "text": "これから",
+      "hint": "after this",
+      "kind": "phrase",
+      "spell": "korekara"
+    },
+    {
+      "text": "怖い",
+      "hint": "frightening",
+      "kind": "phrase",
+      "spell": "kowai"
+    },
+    {
+      "text": "壊す",
+      "hint": "to break",
+      "kind": "phrase",
+      "spell": "kowasu"
+    },
+    {
+      "text": "壊れる",
+      "hint": "to be broken",
+      "kind": "phrase",
+      "spell": "kowareru"
+    },
+    {
+      "text": "コンサート",
+      "hint": "concert",
+      "kind": "phrase",
+      "spell": "konsaato"
+    },
+    {
+      "text": "今度",
+      "hint": "now; next time",
+      "kind": "phrase",
+      "spell": "kondo"
+    },
+    {
+      "text": "コンピュータ",
+      "hint": "computer",
+      "kind": "phrase",
+      "spell": "konpyuuta"
+    },
+    {
+      "text": "今夜",
+      "hint": "tonight",
+      "kind": "phrase",
+      "spell": "kon'ya"
+    },
+    {
+      "text": "最近",
+      "hint": "latest; nowadays",
+      "kind": "phrase",
+      "spell": "saikin"
+    },
+    {
+      "text": "最後",
+      "hint": "last; end",
+      "kind": "phrase",
+      "spell": "saigo"
+    },
+    {
+      "text": "最初",
+      "hint": "beginning; first",
+      "kind": "phrase",
+      "spell": "saisho"
+    },
+    {
+      "text": "坂",
+      "hint": "slope; hill",
+      "kind": "phrase",
+      "spell": "saka"
+    },
+    {
+      "text": "探す",
+      "hint": "to look for",
+      "kind": "phrase",
+      "spell": "sagasu"
+    },
+    {
+      "text": "下がる",
+      "hint": "to get down; to descend",
+      "kind": "phrase",
+      "spell": "sagaru"
+    },
+    {
+      "text": "盛ん",
+      "hint": "popularity; prosperous",
+      "kind": "phrase",
+      "spell": "sakan"
+    },
+    {
+      "text": "下げる",
+      "hint": "to hang; to lower; to move back",
+      "kind": "phrase",
+      "spell": "sageru"
+    },
+    {
+      "text": "差し上げる",
+      "hint": "(polite) to give",
+      "kind": "phrase",
+      "spell": "sashiageru"
+    },
+    {
+      "text": "さっき",
+      "hint": "some time ago",
+      "kind": "phrase",
+      "spell": "sakki"
+    },
+    {
+      "text": "寂しい",
+      "hint": "lonely",
+      "kind": "phrase",
+      "spell": "sabishii"
+    },
+    {
+      "text": "再来月",
+      "hint": "the month after next",
+      "kind": "phrase",
+      "spell": "saraigetsu"
+    },
+    {
+      "text": "再来週",
+      "hint": "the week after next",
+      "kind": "phrase",
+      "spell": "saraishuu"
+    },
+    {
+      "text": "サラダ",
+      "hint": "salad",
+      "kind": "phrase",
+      "spell": "sarada"
+    },
+    {
+      "text": "騒ぐ",
+      "hint": "to make noise; to be excited",
+      "kind": "phrase",
+      "spell": "sawagu"
+    },
+    {
+      "text": "触る",
+      "hint": "to touch",
+      "kind": "phrase",
+      "spell": "sawaru"
+    },
+    {
+      "text": "産業",
+      "hint": "industry",
+      "kind": "phrase",
+      "spell": "sangyou"
+    },
+    {
+      "text": "サンダル",
+      "hint": "sandal",
+      "kind": "phrase",
+      "spell": "sandaru"
+    },
+    {
+      "text": "サンドイッチ",
+      "hint": "sandwich",
+      "kind": "phrase",
+      "spell": "sandoitchi"
+    },
+    {
+      "text": "残念",
+      "hint": "disappointment",
+      "kind": "phrase",
+      "spell": "zannen"
+    },
+    {
+      "text": "市",
+      "hint": "city",
+      "kind": "phrase",
+      "spell": "shi"
+    },
+    {
+      "text": "字",
+      "hint": "character",
+      "kind": "phrase",
+      "spell": "ji"
+    },
+    {
+      "text": "試合",
+      "hint": "match; game",
+      "kind": "phrase",
+      "spell": "shiai"
+    },
+    {
+      "text": "仕方",
+      "hint": "method",
+      "kind": "phrase",
+      "spell": "shikata"
+    },
+    {
+      "text": "しかる",
+      "hint": "a particular",
+      "kind": "phrase",
+      "spell": "shikaru"
+    },
+    {
+      "text": "試験",
+      "hint": "examination",
+      "kind": "phrase",
+      "spell": "shiken"
+    },
+    {
+      "text": "事故",
+      "hint": "accident",
+      "kind": "phrase",
+      "spell": "jiko"
+    },
+    {
+      "text": "地震",
+      "hint": "earthquake",
+      "kind": "phrase",
+      "spell": "jishin"
+    },
+    {
+      "text": "時代",
+      "hint": "era",
+      "kind": "phrase",
+      "spell": "jidai"
+    },
+    {
+      "text": "下着",
+      "hint": "underwear",
+      "kind": "phrase",
+      "spell": "shitagi"
+    },
+    {
+      "text": "支度",
+      "hint": "to prepare",
+      "kind": "phrase",
+      "spell": "shitaku"
+    },
+    {
+      "text": "しっかり",
+      "hint": "firmly; steadily",
+      "kind": "phrase",
+      "spell": "shikkari"
+    },
+    {
+      "text": "失敗",
+      "hint": "failure; mistake",
+      "kind": "phrase",
+      "spell": "shippai"
+    },
+    {
+      "text": "辞典",
+      "hint": "dictionary",
+      "kind": "phrase",
+      "spell": "jiten"
+    },
+    {
+      "text": "品物",
+      "hint": "goods",
+      "kind": "phrase",
+      "spell": "shinamono"
+    },
+    {
+      "text": "しばらく",
+      "hint": "little while",
+      "kind": "phrase",
+      "spell": "shibaraku"
+    },
+    {
+      "text": "島",
+      "hint": "island",
+      "kind": "phrase",
+      "spell": "shima"
+    },
+    {
+      "text": "市民",
+      "hint": "citizen",
+      "kind": "phrase",
+      "spell": "shimin"
+    },
+    {
+      "text": "事務所",
+      "hint": "office",
+      "kind": "phrase",
+      "spell": "jimusho"
+    },
+    {
+      "text": "社会",
+      "hint": "society; public",
+      "kind": "phrase",
+      "spell": "shakai"
+    },
+    {
+      "text": "社長",
+      "hint": "company president",
+      "kind": "phrase",
+      "spell": "shachou"
+    },
+    {
+      "text": "じゃま",
+      "hint": "hindrance; intrusion",
+      "kind": "phrase",
+      "spell": "jama"
+    },
+    {
+      "text": "ジャム",
+      "hint": "jam",
+      "kind": "phrase",
+      "spell": "jamu"
+    },
+    {
+      "text": "自由",
+      "hint": "freedom",
+      "kind": "phrase",
+      "spell": "jiyuu"
+    },
+    {
+      "text": "習慣",
+      "hint": "custom; manners",
+      "kind": "phrase",
+      "spell": "shuukan"
+    },
+    {
+      "text": "住所",
+      "hint": "an address; a residence",
+      "kind": "phrase",
+      "spell": "juusho"
+    },
+    {
+      "text": "柔道",
+      "hint": "judo",
+      "kind": "phrase",
+      "spell": "juudou"
+    },
+    {
+      "text": "十分",
+      "hint": "enough",
+      "kind": "phrase",
+      "spell": "juubun"
+    },
+    {
+      "text": "出席",
+      "hint": "to attend",
+      "kind": "phrase",
+      "spell": "shusseki"
+    },
+    {
+      "text": "出発",
+      "hint": "to depart",
+      "kind": "phrase",
+      "spell": "shuppatsu"
+    },
+    {
+      "text": "趣味",
+      "hint": "hobby",
+      "kind": "phrase",
+      "spell": "shumi"
+    },
+    {
+      "text": "準備",
+      "hint": "to prepare",
+      "kind": "phrase",
+      "spell": "junbi"
+    },
+    {
+      "text": "紹介",
+      "hint": "introduction",
+      "kind": "phrase",
+      "spell": "shoukai"
+    },
+    {
+      "text": "小学校",
+      "hint": "elementary school",
+      "kind": "phrase",
+      "spell": "shougakkou"
+    },
+    {
+      "text": "小説",
+      "hint": "novel",
+      "kind": "phrase",
+      "spell": "shousetsu"
+    },
+    {
+      "text": "招待",
+      "hint": "to invite",
+      "kind": "phrase",
+      "spell": "shoutai"
+    },
+    {
+      "text": "承知",
+      "hint": "to consent",
+      "kind": "phrase",
+      "spell": "shouchi"
+    },
+    {
+      "text": "将来",
+      "hint": "future; prospects",
+      "kind": "phrase",
+      "spell": "shourai"
+    },
+    {
+      "text": "食事",
+      "hint": "to have a meal",
+      "kind": "phrase",
+      "spell": "shokuji"
+    },
+    {
+      "text": "食料品",
+      "hint": "groceries",
+      "kind": "phrase",
+      "spell": "shokuryouhin"
+    },
+    {
+      "text": "女性",
+      "hint": "woman",
+      "kind": "phrase",
+      "spell": "josei"
+    },
+    {
+      "text": "知らせる",
+      "hint": "to notify",
+      "kind": "phrase",
+      "spell": "shiraseru"
+    },
+    {
+      "text": "調べる",
+      "hint": "to investigate",
+      "kind": "phrase",
+      "spell": "shiraberu"
+    },
+    {
+      "text": "人口",
+      "hint": "population",
+      "kind": "phrase",
+      "spell": "jinkou"
+    },
+    {
+      "text": "神社",
+      "hint": "Shinto shrine",
+      "kind": "phrase",
+      "spell": "jinja"
+    },
+    {
+      "text": "親切",
+      "hint": "kindness",
+      "kind": "phrase",
+      "spell": "shinsetsu"
+    },
+    {
+      "text": "心配",
+      "hint": "to worry",
+      "kind": "phrase",
+      "spell": "shinpai"
+    },
+    {
+      "text": "新聞社",
+      "hint": "newspaper company",
+      "kind": "phrase",
+      "spell": "shinbunsha"
+    },
+    {
+      "text": "水泳",
+      "hint": "swimming",
+      "kind": "phrase",
+      "spell": "suiei"
+    },
+    {
+      "text": "水道",
+      "hint": "water supply",
+      "kind": "phrase",
+      "spell": "suidou"
+    },
+    {
+      "text": "ずいぶん",
+      "hint": "extremely",
+      "kind": "phrase",
+      "spell": "zuibun"
+    },
+    {
+      "text": "数学",
+      "hint": "mathematics; arithmetic",
+      "kind": "phrase",
+      "spell": "suugaku"
+    },
+    {
+      "text": "スーツ",
+      "hint": "suit",
+      "kind": "phrase",
+      "spell": "suutsu"
+    },
+    {
+      "text": "スーツケース",
+      "hint": "suitcase",
+      "kind": "phrase",
+      "spell": "suutsukeesu"
+    },
+    {
+      "text": "過ぎる",
+      "hint": "to exceed",
+      "kind": "phrase",
+      "spell": "sugiru"
+    },
+    {
+      "text": "すく",
+      "hint": "to become empty",
+      "kind": "phrase",
+      "spell": "suku"
+    },
+    {
+      "text": "スクリーン",
+      "hint": "screen",
+      "kind": "phrase",
+      "spell": "sukuriin"
+    },
+    {
+      "text": "凄い",
+      "hint": "terrific",
+      "kind": "phrase",
+      "spell": "sugoi"
+    },
+    {
+      "text": "進む",
+      "hint": "to make progress",
+      "kind": "phrase",
+      "spell": "susumu"
+    },
+    {
+      "text": "すっかり",
+      "hint": "completely",
+      "kind": "phrase",
+      "spell": "sukkari"
+    },
+    {
+      "text": "すっと",
+      "hint": "straight; all of a sudden",
+      "kind": "phrase",
+      "spell": "sutto"
+    },
+    {
+      "text": "ステーキ",
+      "hint": "steak",
+      "kind": "phrase",
+      "spell": "suteeki"
+    },
+    {
+      "text": "捨てる",
+      "hint": "to throw away",
+      "kind": "phrase",
+      "spell": "suteru"
+    },
+    {
+      "text": "ステレオ",
+      "hint": "stereo",
+      "kind": "phrase",
+      "spell": "sutereo"
+    },
+    {
+      "text": "砂",
+      "hint": "sand",
+      "kind": "phrase",
+      "spell": "suna"
+    },
+    {
+      "text": "すばらしい",
+      "hint": "wonderful",
+      "kind": "phrase",
+      "spell": "subarashii"
+    },
+    {
+      "text": "滑る",
+      "hint": "to slide; to slip",
+      "kind": "phrase",
+      "spell": "suberu"
+    },
+    {
+      "text": "隅",
+      "hint": "corner; nook",
+      "kind": "phrase",
+      "spell": "sumi"
+    },
+    {
+      "text": "済む",
+      "hint": "to finish",
+      "kind": "phrase",
+      "spell": "sumu"
+    },
+    {
+      "text": "すり",
+      "hint": "pickpocket",
+      "kind": "phrase",
+      "spell": "suri"
+    },
+    {
+      "text": "すると",
+      "hint": "then",
+      "kind": "phrase",
+      "spell": "suruto"
+    },
+    {
+      "text": "生活",
+      "hint": "to live",
+      "kind": "phrase",
+      "spell": "seikatsu"
+    },
+    {
+      "text": "生産",
+      "hint": "to produce",
+      "kind": "phrase",
+      "spell": "seisan"
+    },
+    {
+      "text": "政治",
+      "hint": "politics; government",
+      "kind": "phrase",
+      "spell": "seiji"
+    },
+    {
+      "text": "西洋",
+      "hint": "western countries",
+      "kind": "phrase",
+      "spell": "seiyou"
+    },
+    {
+      "text": "世界",
+      "hint": "the world",
+      "kind": "phrase",
+      "spell": "sekai"
+    },
+    {
+      "text": "席",
+      "hint": "seat",
+      "kind": "phrase",
+      "spell": "seki"
+    },
+    {
+      "text": "説明",
+      "hint": "explanation",
+      "kind": "phrase",
+      "spell": "setsumei"
+    },
+    {
+      "text": "背中",
+      "hint": "back of the body",
+      "kind": "phrase",
+      "spell": "senaka"
+    },
+    {
+      "text": "ぜひ",
+      "hint": "without fail",
+      "kind": "phrase",
+      "spell": "zehi"
+    },
+    {
+      "text": "世話",
+      "hint": "to look after",
+      "kind": "phrase",
+      "spell": "sewa"
+    },
+    {
+      "text": "線",
+      "hint": "line",
+      "kind": "phrase",
+      "spell": "sen"
+    },
+    {
+      "text": "ぜんぜん",
+      "hint": "not entirely (used in a negative sentence)",
+      "kind": "phrase",
+      "spell": "zenzen"
+    },
+    {
+      "text": "戦争",
+      "hint": "war",
+      "kind": "phrase",
+      "spell": "sensou"
+    },
+    {
+      "text": "先輩",
+      "hint": "senior",
+      "kind": "phrase",
+      "spell": "senpai"
+    },
+    {
+      "text": "そう",
+      "hint": "really",
+      "kind": "phrase",
+      "spell": "sou"
+    },
+    {
+      "text": "相談",
+      "hint": "to discuss",
+      "kind": "phrase",
+      "spell": "soudan"
+    },
+    {
+      "text": "育てる",
+      "hint": "to rear; to bring up",
+      "kind": "phrase",
+      "spell": "sodateru"
+    },
+    {
+      "text": "卒業",
+      "hint": "graduation",
+      "kind": "phrase",
+      "spell": "sotsugyou"
+    },
+    {
+      "text": "祖父",
+      "hint": "grandfather",
+      "kind": "phrase",
+      "spell": "sofu"
+    },
+    {
+      "text": "ソフト",
+      "hint": "soft",
+      "kind": "phrase",
+      "spell": "sofuto"
+    },
+    {
+      "text": "祖母",
+      "hint": "grandmother",
+      "kind": "phrase",
+      "spell": "sobo"
+    },
+    {
+      "text": "それで",
+      "hint": "because of that",
+      "kind": "phrase",
+      "spell": "sorede"
+    },
+    {
+      "text": "それに",
+      "hint": "moreover",
+      "kind": "phrase",
+      "spell": "soreni"
+    },
+    {
+      "text": "それほど",
+      "hint": "to that extent",
+      "kind": "phrase",
+      "spell": "sorehodo"
+    },
+    {
+      "text": "そろそろ",
+      "hint": "gradually; soon",
+      "kind": "phrase",
+      "spell": "sorosoro"
+    },
+    {
+      "text": "そんな",
+      "hint": "that sort of",
+      "kind": "phrase",
+      "spell": "sonna"
+    },
+    {
+      "text": "そんなに",
+      "hint": "so much; like that",
+      "kind": "phrase",
+      "spell": "sonnani"
+    },
+    {
+      "text": "退院",
+      "hint": "to leave hospital",
+      "kind": "phrase",
+      "spell": "taiin"
+    },
+    {
+      "text": "大学生",
+      "hint": "university student",
+      "kind": "phrase",
+      "spell": "daigakusei"
+    },
+    {
+      "text": "大事",
+      "hint": "important; valuable; serious matter",
+      "kind": "phrase",
+      "spell": "daiji"
+    },
+    {
+      "text": "大体",
+      "hint": "generally",
+      "kind": "phrase",
+      "spell": "daitai"
+    },
+    {
+      "text": "たいてい",
+      "hint": "usually",
+      "kind": "phrase",
+      "spell": "taitei"
+    },
+    {
+      "text": "タイプ",
+      "hint": "type; style",
+      "kind": "phrase",
+      "spell": "taipu"
+    },
+    {
+      "text": "大分",
+      "hint": "greatly",
+      "kind": "phrase",
+      "spell": "daibu"
+    },
+    {
+      "text": "台風",
+      "hint": "typhoon",
+      "kind": "phrase",
+      "spell": "taifuu"
+    },
+    {
+      "text": "倒れる",
+      "hint": "to break down",
+      "kind": "phrase",
+      "spell": "taoreru"
+    },
+    {
+      "text": "だから",
+      "hint": "so; therefore",
+      "kind": "phrase",
+      "spell": "dakara"
+    },
+    {
+      "text": "確か",
+      "hint": "definite",
+      "kind": "phrase",
+      "spell": "tashika"
+    },
+    {
+      "text": "足す",
+      "hint": "to add a number",
+      "kind": "phrase",
+      "spell": "tasu"
+    },
+    {
+      "text": "尋ねる",
+      "hint": "to ask",
+      "kind": "phrase",
+      "spell": "tazuneru"
+    },
+    {
+      "text": "訪ねる",
+      "hint": "to visit",
+      "kind": "phrase",
+      "spell": "tazuneru"
+    },
+    {
+      "text": "正しい",
+      "hint": "correct",
+      "kind": "phrase",
+      "spell": "tadashii"
+    },
+    {
+      "text": "畳",
+      "hint": "Japanese straw mat",
+      "kind": "phrase",
+      "spell": "tatami"
+    },
+    {
+      "text": "建てる",
+      "hint": "to build",
+      "kind": "phrase",
+      "spell": "tateru"
+    },
+    {
+      "text": "立てる",
+      "hint": "to stand something up",
+      "kind": "phrase",
+      "spell": "tateru"
+    },
+    {
+      "text": "例えば",
+      "hint": "for example",
+      "kind": "phrase",
+      "spell": "tatoeba"
+    },
+    {
+      "text": "棚",
+      "hint": "shelves",
+      "kind": "phrase",
+      "spell": "tana"
+    },
+    {
+      "text": "楽しみ",
+      "hint": "joy",
+      "kind": "phrase",
+      "spell": "tanoshimi"
+    },
+    {
+      "text": "楽しむ",
+      "hint": "to enjoy oneself",
+      "kind": "phrase",
+      "spell": "tanoshimu"
+    },
+    {
+      "text": "たまに",
+      "hint": "occasionally",
+      "kind": "phrase",
+      "spell": "tamani"
+    },
+    {
+      "text": "為",
+      "hint": "in order to",
+      "kind": "phrase",
+      "spell": "tame"
+    },
+    {
+      "text": "だめ",
+      "hint": "no good",
+      "kind": "phrase",
+      "spell": "dame"
+    },
+    {
+      "text": "足りる",
+      "hint": "to be enough",
+      "kind": "phrase",
+      "spell": "tariru"
+    },
+    {
+      "text": "男性",
+      "hint": "male",
+      "kind": "phrase",
+      "spell": "dansei"
+    },
+    {
+      "text": "暖房",
+      "hint": "heating",
+      "kind": "phrase",
+      "spell": "danbou"
+    },
+    {
+      "text": "血",
+      "hint": "blood",
+      "kind": "phrase",
+      "spell": "chi"
+    },
+    {
+      "text": "チェックする",
+      "hint": "to check",
+      "kind": "phrase",
+      "spell": "chekkusuru"
+    },
+    {
+      "text": "力",
+      "hint": "strength; power",
+      "kind": "phrase",
+      "spell": "chikara"
+    },
+    {
+      "text": "ちっとも",
+      "hint": "not at all (used with a negative verb)",
+      "kind": "phrase",
+      "spell": "chittomo"
+    },
+    {
+      "text": "ちゃん",
+      "hint": "suffix for familiar female person",
+      "kind": "phrase",
+      "spell": "chan"
+    },
+    {
+      "text": "注意",
+      "hint": "caution",
+      "kind": "phrase",
+      "spell": "chuui"
+    },
+    {
+      "text": "中学校",
+      "hint": "junior high school; middle school",
+      "kind": "phrase",
+      "spell": "chuugakkou"
+    },
+    {
+      "text": "注射",
+      "hint": "injection",
+      "kind": "phrase",
+      "spell": "chuusha"
+    },
+    {
+      "text": "駐車場",
+      "hint": "parking lot",
+      "kind": "phrase",
+      "spell": "chuushajou"
+    },
+    {
+      "text": "地理",
+      "hint": "geography",
+      "kind": "phrase",
+      "spell": "chiri"
+    },
+    {
+      "text": "捕まえる",
+      "hint": "to seize",
+      "kind": "phrase",
+      "spell": "tsukamaeru"
+    },
+    {
+      "text": "つき",
+      "hint": "moon",
+      "kind": "phrase",
+      "spell": "tsuki"
+    },
+    {
+      "text": "付く",
+      "hint": "to be attached",
+      "kind": "phrase",
+      "spell": "tsuku"
+    },
+    {
+      "text": "漬ける",
+      "hint": "to soak; to pickle",
+      "kind": "phrase",
+      "spell": "tsukeru"
+    },
+    {
+      "text": "都合",
+      "hint": "circumstances; convenience",
+      "kind": "phrase",
+      "spell": "tsugou"
+    },
+    {
+      "text": "伝える",
+      "hint": "to report",
+      "kind": "phrase",
+      "spell": "tsutaeru"
+    },
+    {
+      "text": "続く",
+      "hint": "to be continued",
+      "kind": "phrase",
+      "spell": "tsuzuku"
+    },
+    {
+      "text": "続ける",
+      "hint": "to continue",
+      "kind": "phrase",
+      "spell": "tsuzukeru"
+    },
+    {
+      "text": "包む",
+      "hint": "to wrap",
+      "kind": "phrase",
+      "spell": "tsutsumu"
+    },
+    {
+      "text": "妻",
+      "hint": "(humble) wife",
+      "kind": "phrase",
+      "spell": "tsuma"
+    },
+    {
+      "text": "つもり",
+      "hint": "intention",
+      "kind": "phrase",
+      "spell": "tsumori"
+    },
+    {
+      "text": "釣る",
+      "hint": "to fish",
+      "kind": "phrase",
+      "spell": "tsuru"
+    },
+    {
+      "text": "連れる",
+      "hint": "to lead",
+      "kind": "phrase",
+      "spell": "tsureru"
+    },
+    {
+      "text": "丁寧",
+      "hint": "polite",
+      "kind": "phrase",
+      "spell": "teinei"
+    },
+    {
+      "text": "テキスト",
+      "hint": "text; text book",
+      "kind": "phrase",
+      "spell": "tekisuto"
+    },
+    {
+      "text": "適当",
+      "hint": "suitability",
+      "kind": "phrase",
+      "spell": "tekitou"
+    },
+    {
+      "text": "できるだけ",
+      "hint": "as much as possible",
+      "kind": "phrase",
+      "spell": "dekirudake"
+    },
+    {
+      "text": "手伝う",
+      "hint": "to assist",
+      "kind": "phrase",
+      "spell": "tetsudau"
+    },
+    {
+      "text": "テニス",
+      "hint": "tennis",
+      "kind": "phrase",
+      "spell": "tenisu"
+    },
+    {
+      "text": "手袋",
+      "hint": "glove",
+      "kind": "phrase",
+      "spell": "tebukuro"
+    },
+    {
+      "text": "寺",
+      "hint": "temple",
+      "kind": "phrase",
+      "spell": "tera"
+    },
+    {
+      "text": "点",
+      "hint": "point; dot",
+      "kind": "phrase",
+      "spell": "ten"
+    },
+    {
+      "text": "店員",
+      "hint": "shop assistant",
+      "kind": "phrase",
+      "spell": "ten'in"
+    },
+    {
+      "text": "天気予報",
+      "hint": "weather forecast",
+      "kind": "phrase",
+      "spell": "tenkiyohou"
+    },
+    {
+      "text": "電灯",
+      "hint": "electric light",
+      "kind": "phrase",
+      "spell": "dentou"
+    },
+    {
+      "text": "電報",
+      "hint": "telegram",
+      "kind": "phrase",
+      "spell": "denpou"
+    },
+    {
+      "text": "展覧会",
+      "hint": "exhibition",
+      "kind": "phrase",
+      "spell": "tenrankai"
+    },
+    {
+      "text": "都",
+      "hint": "metropolitan",
+      "kind": "phrase",
+      "spell": "to"
+    },
+    {
+      "text": "道具",
+      "hint": "tool; means",
+      "kind": "phrase",
+      "spell": "dougu"
+    },
+    {
+      "text": "とうとう",
+      "hint": "finally; after all",
+      "kind": "phrase",
+      "spell": "toutou"
+    },
+    {
+      "text": "動物園",
+      "hint": "zoo",
+      "kind": "phrase",
+      "spell": "doubutsuen"
+    },
+    {
+      "text": "遠く",
+      "hint": "distant",
+      "kind": "phrase",
+      "spell": "tooku"
+    },
+    {
+      "text": "通る",
+      "hint": "to go through",
+      "kind": "phrase",
+      "spell": "tooru"
+    },
+    {
+      "text": "特に",
+      "hint": "particularly; especially",
+      "kind": "phrase",
+      "spell": "tokuni"
+    },
+    {
+      "text": "特別",
+      "hint": "special",
+      "kind": "phrase",
+      "spell": "tokubetsu"
+    },
+    {
+      "text": "とこや",
+      "hint": "barber",
+      "kind": "phrase",
+      "spell": "tokoya"
+    },
+    {
+      "text": "途中",
+      "hint": "on the way",
+      "kind": "phrase",
+      "spell": "tochuu"
+    },
+    {
+      "text": "特急",
+      "hint": "limited express train (faster than an express train)",
+      "kind": "phrase",
+      "spell": "tokkyuu"
+    },
+    {
+      "text": "届ける",
+      "hint": "to reach",
+      "kind": "phrase",
+      "spell": "todokeru"
+    },
+    {
+      "text": "泊まる",
+      "hint": "to lodge at",
+      "kind": "phrase",
+      "spell": "tomaru"
+    },
+    {
+      "text": "止める",
+      "hint": "to stop something",
+      "kind": "phrase",
+      "spell": "tomeru"
+    },
+    {
+      "text": "取り替える",
+      "hint": "to exchange",
+      "kind": "phrase",
+      "spell": "torikaeru"
+    },
+    {
+      "text": "泥棒",
+      "hint": "thief",
+      "kind": "phrase",
+      "spell": "dorobou"
+    },
+    {
+      "text": "どんどん",
+      "hint": "more and more",
+      "kind": "phrase",
+      "spell": "dondon"
+    },
+    {
+      "text": "直す",
+      "hint": "to fix; to repair",
+      "kind": "phrase",
+      "spell": "naosu"
+    },
+    {
+      "text": "治る",
+      "hint": "to be cured; to heal",
+      "kind": "phrase",
+      "spell": "naoru"
+    },
+    {
+      "text": "直る",
+      "hint": "to be fixed; to be repaired",
+      "kind": "phrase",
+      "spell": "naoru"
+    },
+    {
+      "text": "中々",
+      "hint": "considerably",
+      "kind": "phrase",
+      "spell": "nakanaka"
+    },
+    {
+      "text": "泣く",
+      "hint": "to weep",
+      "kind": "phrase",
+      "spell": "naku"
+    },
+    {
+      "text": "亡くなる",
+      "hint": "to die",
+      "kind": "phrase",
+      "spell": "nakunaru"
+    },
+    {
+      "text": "無くなる",
+      "hint": "to disappear; to get lost",
+      "kind": "phrase",
+      "spell": "nakunaru"
+    },
+    {
+      "text": "投げる",
+      "hint": "to throw or cast away",
+      "kind": "phrase",
+      "spell": "nageru"
+    },
+    {
+      "text": "なさる",
+      "hint": "(respectful) to do",
+      "kind": "phrase",
+      "spell": "nasaru"
+    },
+    {
+      "text": "鳴る",
+      "hint": "to sound",
+      "kind": "phrase",
+      "spell": "naru"
+    },
+    {
+      "text": "なるべく",
+      "hint": "as much as possible",
+      "kind": "phrase",
+      "spell": "narubeku"
+    },
+    {
+      "text": "なるほど",
+      "hint": "now I understand",
+      "kind": "phrase",
+      "spell": "naruhodo"
+    },
+    {
+      "text": "慣れる",
+      "hint": "to grow accustomed to",
+      "kind": "phrase",
+      "spell": "nareru"
+    },
+    {
+      "text": "におい",
+      "hint": "a smell",
+      "kind": "phrase",
+      "spell": "nioi"
+    },
+    {
+      "text": "苦い",
+      "hint": "bitter",
+      "kind": "phrase",
+      "spell": "nigai"
+    },
+    {
+      "text": "二階建て",
+      "hint": "two storied",
+      "kind": "phrase",
+      "spell": "nikaidate"
+    },
+    {
+      "text": "逃げる",
+      "hint": "to escape",
+      "kind": "phrase",
+      "spell": "nigeru"
+    },
+    {
+      "text": "日記",
+      "hint": "journal",
+      "kind": "phrase",
+      "spell": "nikki"
+    },
+    {
+      "text": "入院",
+      "hint": "to hospitalise",
+      "kind": "phrase",
+      "spell": "nyuuin"
+    },
+    {
+      "text": "入学",
+      "hint": "to enter school or university",
+      "kind": "phrase",
+      "spell": "nyuugaku"
+    },
+    {
+      "text": "似る",
+      "hint": "to be similar",
+      "kind": "phrase",
+      "spell": "niru"
+    },
+    {
+      "text": "人形",
+      "hint": "doll; figure",
+      "kind": "phrase",
+      "spell": "ningyou"
+    },
+    {
+      "text": "盗む",
+      "hint": "to steal",
+      "kind": "phrase",
+      "spell": "nusumu"
+    },
+    {
+      "text": "塗る",
+      "hint": "to paint; to plaster",
+      "kind": "phrase",
+      "spell": "nuru"
+    },
+    {
+      "text": "ぬれる",
+      "hint": "to get wet",
+      "kind": "phrase",
+      "spell": "nureru"
+    },
+    {
+      "text": "ねだん",
+      "hint": "price",
+      "kind": "phrase",
+      "spell": "nedan"
+    },
+    {
+      "text": "熱",
+      "hint": "fever",
+      "kind": "phrase",
+      "spell": "netsu"
+    },
+    {
+      "text": "ねっしん",
+      "hint": "enthusiasm",
+      "kind": "phrase",
+      "spell": "nesshin"
+    },
+    {
+      "text": "寝坊",
+      "hint": "sleeping in late",
+      "kind": "phrase",
+      "spell": "nebou"
+    },
+    {
+      "text": "眠い",
+      "hint": "sleepy",
+      "kind": "phrase",
+      "spell": "nemui"
+    },
+    {
+      "text": "眠る",
+      "hint": "to sleep",
+      "kind": "phrase",
+      "spell": "nemuru"
+    },
+    {
+      "text": "残る",
+      "hint": "to remain",
+      "kind": "phrase",
+      "spell": "nokoru"
+    },
+    {
+      "text": "のど",
+      "hint": "throat",
+      "kind": "phrase",
+      "spell": "nodo"
+    },
+    {
+      "text": "乗り換える",
+      "hint": "to change between buses or trains",
+      "kind": "phrase",
+      "spell": "norikaeru"
+    },
+    {
+      "text": "乗り物",
+      "hint": "vehicle",
+      "kind": "phrase",
+      "spell": "norimono"
+    },
+    {
+      "text": "葉",
+      "hint": "leaf",
+      "kind": "phrase",
+      "spell": "ha"
+    },
+    {
+      "text": "場合",
+      "hint": "situation",
+      "kind": "phrase",
+      "spell": "baai"
+    },
+    {
+      "text": "パート",
+      "hint": "part time",
+      "kind": "phrase",
+      "spell": "paato"
+    },
+    {
+      "text": "倍",
+      "hint": "double",
+      "kind": "phrase",
+      "spell": "bai"
+    },
+    {
+      "text": "拝見",
+      "hint": "(humble) to look at",
+      "kind": "phrase",
+      "spell": "haiken"
+    },
+    {
+      "text": "歯医者",
+      "hint": "dentist",
+      "kind": "phrase",
+      "spell": "haisha"
+    },
+    {
+      "text": "運ぶ",
+      "hint": "to transport",
+      "kind": "phrase",
+      "spell": "hakobu"
+    },
+    {
+      "text": "始める",
+      "hint": "to begin",
+      "kind": "phrase",
+      "spell": "hajimeru"
+    },
+    {
+      "text": "場所",
+      "hint": "location",
+      "kind": "phrase",
+      "spell": "basho"
+    },
+    {
+      "text": "はず",
+      "hint": "it should be so",
+      "kind": "phrase",
+      "spell": "hazu"
+    },
+    {
+      "text": "恥ずかしい",
+      "hint": "embarrassed",
+      "kind": "phrase",
+      "spell": "hazukashii"
+    },
+    {
+      "text": "パソコン",
+      "hint": "personal computer",
+      "kind": "phrase",
+      "spell": "pasokon"
+    },
+    {
+      "text": "発音",
+      "hint": "pronunciation",
+      "kind": "phrase",
+      "spell": "hatsuon"
+    },
+    {
+      "text": "はっきり",
+      "hint": "clearly",
+      "kind": "phrase",
+      "spell": "hakkiri"
+    },
+    {
+      "text": "花見",
+      "hint": "cherry-blossom viewing",
+      "kind": "phrase",
+      "spell": "hanami"
+    },
+    {
+      "text": "林",
+      "hint": "woods; forester",
+      "kind": "phrase",
+      "spell": "hayashi"
+    },
+    {
+      "text": "払う",
+      "hint": "to pay",
+      "kind": "phrase",
+      "spell": "harau"
+    },
+    {
+      "text": "番組",
+      "hint": "television or radio program",
+      "kind": "phrase",
+      "spell": "bangumi"
+    },
+    {
+      "text": "反対",
+      "hint": "opposition",
+      "kind": "phrase",
+      "spell": "hantai"
+    },
+    {
+      "text": "ハンドバッグ",
+      "hint": "handbag",
+      "kind": "phrase",
+      "spell": "handobaggu"
+    },
+    {
+      "text": "火",
+      "hint": "fire",
+      "kind": "phrase",
+      "spell": "hi"
+    },
+    {
+      "text": "日",
+      "hint": "day; sun",
+      "kind": "phrase",
+      "spell": "hi"
+    },
+    {
+      "text": "ピアノ",
+      "hint": "piano",
+      "kind": "phrase",
+      "spell": "piano"
+    },
+    {
+      "text": "冷える",
+      "hint": "to grow cold",
+      "kind": "phrase",
+      "spell": "hieru"
+    },
+    {
+      "text": "光",
+      "hint": "light",
+      "kind": "phrase",
+      "spell": "hikari"
+    },
+    {
+      "text": "光る",
+      "hint": "to shine; to glitter",
+      "kind": "phrase",
+      "spell": "hikaru"
+    },
+    {
+      "text": "引き出し",
+      "hint": "drawer; drawing out",
+      "kind": "phrase",
+      "spell": "hikidashi"
+    },
+    {
+      "text": "引き出す",
+      "hint": "to withdraw",
+      "kind": "phrase",
+      "spell": "hikidasu"
+    },
+    {
+      "text": "ひげ",
+      "hint": "beard",
+      "kind": "phrase",
+      "spell": "hige"
+    },
+    {
+      "text": "飛行場",
+      "hint": "airport",
+      "kind": "phrase",
+      "spell": "hikoujou"
+    },
+    {
+      "text": "久しぶり",
+      "hint": "after a long time",
+      "kind": "phrase",
+      "spell": "hisashiburi"
+    },
+    {
+      "text": "美術館",
+      "hint": "art gallery",
+      "kind": "phrase",
+      "spell": "bijutsukan"
+    },
+    {
+      "text": "非常に",
+      "hint": "extremely",
+      "kind": "phrase",
+      "spell": "hijouni"
+    },
+    {
+      "text": "びっくりする",
+      "hint": "to be surprised",
+      "kind": "phrase",
+      "spell": "bikkurisuru"
+    },
+    {
+      "text": "引っ越す",
+      "hint": "to move house",
+      "kind": "phrase",
+      "spell": "hikkosu"
+    },
+    {
+      "text": "必要",
+      "hint": "necessary",
+      "kind": "phrase",
+      "spell": "hitsuyou"
+    },
+    {
+      "text": "ひどい",
+      "hint": "awful",
+      "kind": "phrase",
+      "spell": "hidoi"
+    },
+    {
+      "text": "ビル",
+      "hint": "building or bill",
+      "kind": "phrase",
+      "spell": "biru"
+    },
+    {
+      "text": "昼間",
+      "hint": "daytime; during the day",
+      "kind": "phrase",
+      "spell": "hiruma"
+    },
+    {
+      "text": "昼休み",
+      "hint": "noon break",
+      "kind": "phrase",
+      "spell": "hiruyasumi"
+    },
+    {
+      "text": "拾う",
+      "hint": "to pick up; to gather",
+      "kind": "phrase",
+      "spell": "hirou"
+    },
+    {
+      "text": "ファックス",
+      "hint": "fax",
+      "kind": "phrase",
+      "spell": "fakkusu"
+    },
+    {
+      "text": "増える",
+      "hint": "to increase",
+      "kind": "phrase",
+      "spell": "fueru"
+    },
+    {
+      "text": "深い",
+      "hint": "deep",
+      "kind": "phrase",
+      "spell": "fukai"
+    },
+    {
+      "text": "複雑",
+      "hint": "complexity; complication",
+      "kind": "phrase",
+      "spell": "fukuzatsu"
+    },
+    {
+      "text": "復習",
+      "hint": "revision",
+      "kind": "phrase",
+      "spell": "fukushuu"
+    },
+    {
+      "text": "部長",
+      "hint": "head of a section",
+      "kind": "phrase",
+      "spell": "buchou"
+    },
+    {
+      "text": "普通",
+      "hint": "usually; normally; ordinary; local train (stopping at every station)",
+      "kind": "phrase",
+      "spell": "futsuu"
+    },
+    {
+      "text": "ぶどう",
+      "hint": "grapes",
+      "kind": "phrase",
+      "spell": "budou"
+    },
+    {
+      "text": "太る",
+      "hint": "to become fat",
+      "kind": "phrase",
+      "spell": "futoru"
+    },
+    {
+      "text": "布団",
+      "hint": "Japanese bedding; futon",
+      "kind": "phrase",
+      "spell": "futon"
+    },
+    {
+      "text": "舟",
+      "hint": "ship",
+      "kind": "phrase",
+      "spell": "fune"
+    },
+    {
+      "text": "不便",
+      "hint": "inconvenience",
+      "kind": "phrase",
+      "spell": "fuben"
+    },
+    {
+      "text": "踏む",
+      "hint": "to step on",
+      "kind": "phrase",
+      "spell": "fumu"
+    },
+    {
+      "text": "降り出す",
+      "hint": "to start to rain",
+      "kind": "phrase",
+      "spell": "furidasu"
+    },
+    {
+      "text": "プレゼント",
+      "hint": "present",
+      "kind": "phrase",
+      "spell": "purezento"
+    },
+    {
+      "text": "文化",
+      "hint": "culture",
+      "kind": "phrase",
+      "spell": "bunka"
+    },
+    {
+      "text": "文学",
+      "hint": "literature",
+      "kind": "phrase",
+      "spell": "bungaku"
+    },
+    {
+      "text": "文法",
+      "hint": "grammar",
+      "kind": "phrase",
+      "spell": "bunpou"
+    },
+    {
+      "text": "別",
+      "hint": "different",
+      "kind": "phrase",
+      "spell": "betsu"
+    },
+    {
+      "text": "ベル",
+      "hint": "bell",
+      "kind": "phrase",
+      "spell": "beru"
+    },
+    {
+      "text": "変",
+      "hint": "strange",
+      "kind": "phrase",
+      "spell": "hen"
+    },
+    {
+      "text": "返事",
+      "hint": "reply",
+      "kind": "phrase",
+      "spell": "henji"
+    },
+    {
+      "text": "貿易",
+      "hint": "trade",
+      "kind": "phrase",
+      "spell": "boueki"
+    },
+    {
+      "text": "放送",
+      "hint": "to broadcast",
+      "kind": "phrase",
+      "spell": "housou"
+    },
+    {
+      "text": "法律",
+      "hint": "law",
+      "kind": "phrase",
+      "spell": "houritsu"
+    },
+    {
+      "text": "僕",
+      "hint": "I (used by males)",
+      "kind": "phrase",
+      "spell": "boku"
+    },
+    {
+      "text": "星",
+      "hint": "star",
+      "kind": "phrase",
+      "spell": "hoshi"
+    },
+    {
+      "text": "ほど",
+      "hint": "extent",
+      "kind": "phrase",
+      "spell": "hodo"
+    },
+    {
+      "text": "ほとんど",
+      "hint": "mostly",
+      "kind": "phrase",
+      "spell": "hotondo"
+    },
+    {
+      "text": "ほめる",
+      "hint": "to praise",
+      "kind": "phrase",
+      "spell": "homeru"
+    },
+    {
+      "text": "翻訳",
+      "hint": "translation",
+      "kind": "phrase",
+      "spell": "hon'yaku"
+    },
+    {
+      "text": "参る",
+      "hint": "(humble) to go; to come",
+      "kind": "phrase",
+      "spell": "mairu"
+    },
+    {
+      "text": "負ける",
+      "hint": "to lose",
+      "kind": "phrase",
+      "spell": "makeru"
+    },
+    {
+      "text": "まじめ",
+      "hint": "serious",
+      "kind": "phrase",
+      "spell": "majime"
+    },
+    {
+      "text": "まず",
+      "hint": "first of all",
+      "kind": "phrase",
+      "spell": "mazu"
+    },
+    {
+      "text": "または",
+      "hint": "or; otherwise",
+      "kind": "phrase",
+      "spell": "matawa"
+    },
+    {
+      "text": "間違える",
+      "hint": "to make a mistake",
+      "kind": "phrase",
+      "spell": "machigaeru"
+    },
+    {
+      "text": "間に合う",
+      "hint": "to be in time for",
+      "kind": "phrase",
+      "spell": "maniau"
+    },
+    {
+      "text": "周り",
+      "hint": "surroundings",
+      "kind": "phrase",
+      "spell": "mawari"
+    },
+    {
+      "text": "回る",
+      "hint": "to go around",
+      "kind": "phrase",
+      "spell": "mawaru"
+    },
+    {
+      "text": "漫画",
+      "hint": "comic",
+      "kind": "phrase",
+      "spell": "manga"
+    },
+    {
+      "text": "真ん中",
+      "hint": "middle",
+      "kind": "phrase",
+      "spell": "mannaka"
+    },
+    {
+      "text": "見える",
+      "hint": "to be in sight",
+      "kind": "phrase",
+      "spell": "mieru"
+    },
+    {
+      "text": "湖",
+      "hint": "lake",
+      "kind": "phrase",
+      "spell": "mizuumi"
+    },
+    {
+      "text": "味噌",
+      "hint": "bean paste",
+      "kind": "phrase",
+      "spell": "miso"
+    },
+    {
+      "text": "見つかる",
+      "hint": "to be discovered",
+      "kind": "phrase",
+      "spell": "mitsukaru"
+    },
+    {
+      "text": "見つける",
+      "hint": "to discover",
+      "kind": "phrase",
+      "spell": "mitsukeru"
+    },
+    {
+      "text": "皆",
+      "hint": "everybody",
+      "kind": "phrase",
+      "spell": "mina"
+    },
+    {
+      "text": "港",
+      "hint": "harbour",
+      "kind": "phrase",
+      "spell": "minato"
+    },
+    {
+      "text": "向かう",
+      "hint": "to face",
+      "kind": "phrase",
+      "spell": "mukau"
+    },
+    {
+      "text": "迎える",
+      "hint": "to go out to meet",
+      "kind": "phrase",
+      "spell": "mukaeru"
+    },
+    {
+      "text": "昔",
+      "hint": "olden days; former",
+      "kind": "phrase",
+      "spell": "mukashi"
+    },
+    {
+      "text": "虫",
+      "hint": "insect",
+      "kind": "phrase",
+      "spell": "mushi"
+    },
+    {
+      "text": "息子",
+      "hint": "(humble) son",
+      "kind": "phrase",
+      "spell": "musuko"
+    },
+    {
+      "text": "娘",
+      "hint": "(humble) daughter",
+      "kind": "phrase",
+      "spell": "musume"
+    },
+    {
+      "text": "無理",
+      "hint": "impossible",
+      "kind": "phrase",
+      "spell": "muri"
+    },
+    {
+      "text": "召し上がる",
+      "hint": "(polite) to eat",
+      "kind": "phrase",
+      "spell": "meshiagaru"
+    },
+    {
+      "text": "珍しい",
+      "hint": "rare",
+      "kind": "phrase",
+      "spell": "mezurashii"
+    },
+    {
+      "text": "申し上げる",
+      "hint": "(humble) to say; to tell",
+      "kind": "phrase",
+      "spell": "moushiageru"
+    },
+    {
+      "text": "申す",
+      "hint": "(humble) to be called; to say",
+      "kind": "phrase",
+      "spell": "mousu"
+    },
+    {
+      "text": "もうすぐ",
+      "hint": "soon",
+      "kind": "phrase",
+      "spell": "mousugu"
+    },
+    {
+      "text": "もし",
+      "hint": "if",
+      "kind": "phrase",
+      "spell": "moshi"
+    },
+    {
+      "text": "もちろん",
+      "hint": "of course",
+      "kind": "phrase",
+      "spell": "mochiron"
+    },
+    {
+      "text": "もっとも",
+      "hint": "extremely",
+      "kind": "phrase",
+      "spell": "mottomo"
+    },
+    {
+      "text": "戻る",
+      "hint": "to turn back",
+      "kind": "phrase",
+      "spell": "modoru"
+    },
+    {
+      "text": "木綿",
+      "hint": "cotton",
+      "kind": "phrase",
+      "spell": "momen"
+    },
+    {
+      "text": "もらう",
+      "hint": "to receive",
+      "kind": "phrase",
+      "spell": "morau"
+    },
+    {
+      "text": "森",
+      "hint": "forest",
+      "kind": "phrase",
+      "spell": "mori"
+    },
+    {
+      "text": "焼く",
+      "hint": "to bake; to grill",
+      "kind": "phrase",
+      "spell": "yaku"
+    },
+    {
+      "text": "約束",
+      "hint": "promise",
+      "kind": "phrase",
+      "spell": "yakusoku"
+    },
+    {
+      "text": "役に立つ",
+      "hint": "to be helpful",
+      "kind": "phrase",
+      "spell": "yakunitatsu"
+    },
+    {
+      "text": "焼ける",
+      "hint": "to burn; to be roasted",
+      "kind": "phrase",
+      "spell": "yakeru"
+    },
+    {
+      "text": "優しい",
+      "hint": "kind",
+      "kind": "phrase",
+      "spell": "yasashii"
+    },
+    {
+      "text": "痩せる",
+      "hint": "to become thin",
+      "kind": "phrase",
+      "spell": "yaseru"
+    },
+    {
+      "text": "やっと",
+      "hint": "at last",
+      "kind": "phrase",
+      "spell": "yatto"
+    },
+    {
+      "text": "やはり",
+      "hint": "as I thought; absolutely",
+      "kind": "phrase",
+      "spell": "yahari"
+    },
+    {
+      "text": "止む",
+      "hint": "to stop",
+      "kind": "phrase",
+      "spell": "yamu"
+    },
+    {
+      "text": "柔らかい",
+      "hint": "soft",
+      "kind": "phrase",
+      "spell": "yawarakai"
+    },
+    {
+      "text": "湯",
+      "hint": "hot water",
+      "kind": "phrase",
+      "spell": "yu"
+    },
+    {
+      "text": "輸出",
+      "hint": "to export",
+      "kind": "phrase",
+      "spell": "yushutsu"
+    },
+    {
+      "text": "輸入",
+      "hint": "to import",
+      "kind": "phrase",
+      "spell": "yunyuu"
+    },
+    {
+      "text": "指",
+      "hint": "finger",
+      "kind": "phrase",
+      "spell": "yubi"
+    },
+    {
+      "text": "指輪",
+      "hint": "finger ring",
+      "kind": "phrase",
+      "spell": "yubiwa"
+    },
+    {
+      "text": "夢",
+      "hint": "dream",
+      "kind": "phrase",
+      "spell": "yume"
+    },
+    {
+      "text": "揺れる",
+      "hint": "to shake; to sway",
+      "kind": "phrase",
+      "spell": "yureru"
+    },
+    {
+      "text": "用",
+      "hint": "use",
+      "kind": "phrase",
+      "spell": "you"
+    },
+    {
+      "text": "用意",
+      "hint": "preparation",
+      "kind": "phrase",
+      "spell": "youi"
+    },
+    {
+      "text": "用事",
+      "hint": "things to do",
+      "kind": "phrase",
+      "spell": "youji"
+    },
+    {
+      "text": "汚れる",
+      "hint": "to get dirty",
+      "kind": "phrase",
+      "spell": "yogoreru"
+    },
+    {
+      "text": "予習",
+      "hint": "preparation for a lesson",
+      "kind": "phrase",
+      "spell": "yoshuu"
+    },
+    {
+      "text": "予定",
+      "hint": "arrangement",
+      "kind": "phrase",
+      "spell": "yotei"
+    },
+    {
+      "text": "予約",
+      "hint": "reservation",
+      "kind": "phrase",
+      "spell": "yoyaku"
+    },
+    {
+      "text": "寄る",
+      "hint": "to visit",
+      "kind": "phrase",
+      "spell": "yoru"
+    },
+    {
+      "text": "喜ぶ",
+      "hint": "to be delighted",
+      "kind": "phrase",
+      "spell": "yorokobu"
+    },
+    {
+      "text": "よろしい",
+      "hint": "(respectful) OK; all right",
+      "kind": "phrase",
+      "spell": "yoroshii"
+    },
+    {
+      "text": "理由",
+      "hint": "reason",
+      "kind": "phrase",
+      "spell": "riyuu"
+    },
+    {
+      "text": "利用",
+      "hint": "utilization",
+      "kind": "phrase",
+      "spell": "riyou"
+    },
+    {
+      "text": "両方",
+      "hint": "both sides",
+      "kind": "phrase",
+      "spell": "ryouhou"
+    },
+    {
+      "text": "旅館",
+      "hint": "Japanese hotel",
+      "kind": "phrase",
+      "spell": "ryokan"
+    },
+    {
+      "text": "留守",
+      "hint": "absence",
+      "kind": "phrase",
+      "spell": "rusu"
+    },
+    {
+      "text": "冷房",
+      "hint": "air conditioning",
+      "kind": "phrase",
+      "spell": "reibou"
+    },
+    {
+      "text": "歴史",
+      "hint": "history",
+      "kind": "phrase",
+      "spell": "rekishi"
+    },
+    {
+      "text": "レジ",
+      "hint": "register",
+      "kind": "phrase",
+      "spell": "reji"
+    },
+    {
+      "text": "レポート",
+      "hint": "report",
+      "kind": "phrase",
+      "spell": "repooto"
+    },
+    {
+      "text": "連絡",
+      "hint": "contact",
+      "kind": "phrase",
+      "spell": "renraku"
+    },
+    {
+      "text": "ワープロ",
+      "hint": "word processor",
+      "kind": "phrase",
+      "spell": "waapuro"
+    },
+    {
+      "text": "沸かす",
+      "hint": "to boil; to heat",
+      "kind": "phrase",
+      "spell": "wakasu"
+    },
+    {
+      "text": "別れる",
+      "hint": "to separate",
+      "kind": "phrase",
+      "spell": "wakareru"
+    },
+    {
+      "text": "沸く",
+      "hint": "to boil; to grow hot; to get excited",
+      "kind": "phrase",
+      "spell": "waku"
+    },
+    {
+      "text": "訳",
+      "hint": "meaning; reason",
+      "kind": "phrase",
+      "spell": "wake"
+    },
+    {
+      "text": "忘れ物",
+      "hint": "lost article",
+      "kind": "phrase",
+      "spell": "wasuremono"
+    },
+    {
+      "text": "笑う",
+      "hint": "to laugh; to smile",
+      "kind": "phrase",
+      "spell": "warau"
+    },
+    {
+      "text": "割合",
+      "hint": "rate; ratio; percentage",
+      "kind": "phrase",
+      "spell": "wariai"
+    },
+    {
+      "text": "割れる",
+      "hint": "to break",
+      "kind": "phrase",
+      "spell": "wareru"
+    }
+  ]
+}

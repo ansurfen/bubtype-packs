@@ -72,8 +72,11 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | `fr-core-a1-zh` | 法语 A1 核心 |
 | `fr-daily-a1-zh` | 法语日常 A1（词+句） |
 | `zh-daily-a1` | 中文日常 A1（词+句 / 拼音） |
+| `zh-hsk-1-3` | 中文 HSK 1–3 核心（~1000 / 拼音） |
 | `ja-daily-a1` | 日语日常 A1（词+句 / 罗马字） |
+| `ja-jlpt-n5n4` | 日语 JLPT N5–N4（~1300 / 罗马字） |
 | `ko-daily-a1-zh` | 韩语日常 A1（词+句 / 罗马音） |
+| `ko-core-beginner` | 韩语入门核心（~1000 / 罗马音） |
 | `es-daily-a1-zh` | 西语日常 A1（词+句） |
 
 吐槽系列为 **BubType 原创例句**（可用于跟打练习），并非抓取社交媒体。多语日常包带 `spell` 字段，可在原文 / 拼写模式间切换；可按练习语言筛选。
@@ -84,6 +87,7 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | --- | --- |
 | `catalog.json` | 书单入口 |
 | `*-v1.json` | 词书 / 句包数据 |
+| `scripts/` | 词包生成流水线（随仓提交；原始词典缓存见 `_cache/`，不入库） |
 | `docs/` | 多语言说明（本目录） |
 | `assets/` | 品牌资源（如 logo） |
 | Releases | 安装包与 catalog 发布物 |
@@ -94,6 +98,7 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | --- | --- |
 | BubType 原创句包、catalog 结构与本仓库文档 | [Apache License 2.0](../LICENSE) |
 | Oxford 3000 / 5000 词表整理 | 基于 Oxford learner word lists；释义与配套整理供学习使用。**商用请自行核对 Oxford / OUP 条款**，不在本仓 Apache 授权范围内 |
+| `zh-hsk-1-3` / `ja-jlpt-n5n4` / `ko-core-beginner` | 见 [scripts/NOTICE.gen-cjk.md](../scripts/NOTICE.gen-cjk.md)（HSK / OpenJLPT / Korean flashcards 上游许可） |
 | Windows / macOS 安装包 | **专有软件**：仅授权安装使用，禁止擅自再分发或二次打包 |
 
 ---

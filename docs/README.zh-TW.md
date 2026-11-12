@@ -63,6 +63,9 @@ https://github.com/ansurfen/bubtype-packs/releases/latest/download/catalog.json
 | `fr-core-a1-zh` | 法語 A1 核心 |
 | `fr-daily-a1-zh` | 法語日常 A1（詞+句） |
 | `zh-daily-a1` | 中文日常 A1（詞+句 / 拼音） |
+| `zh-hsk-1-3` | 中文 HSK 1–3 核心（~1000 / 拼音） |
+| `ja-jlpt-n5n4` | 日語 JLPT N5–N4（~1300 / 羅馬字） |
+| `ko-core-beginner` | 韓語入門核心（~1000 / 羅馬音） |
 | `ja-daily-a1` | 日語日常 A1（詞+句 / 羅馬字） |
 | `ko-daily-a1-zh` | 韓語日常 A1（詞+句 / 羅馬音） |
 | `es-daily-a1-zh` | 西語日常 A1（詞+句） |

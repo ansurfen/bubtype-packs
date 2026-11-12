@@ -72,8 +72,11 @@ Also upload **stable installer filenames** (the website uses `/releases/latest/d
 | `fr-core-a1-zh` | French A1 core |
 | `fr-daily-a1-zh` | French A1 daily (words + sentences) |
 | `zh-daily-a1` | Chinese A1 daily (words + sentences / pinyin) |
+| `zh-hsk-1-3` | Chinese HSK 1–3 core (~1000 / pinyin) |
 | `ja-daily-a1` | Japanese A1 daily (words + sentences / romaji) |
+| `ja-jlpt-n5n4` | Japanese JLPT N5–N4 (~1300 / romaji) |
 | `ko-daily-a1-zh` | Korean A1 daily (words + sentences / romaja) |
+| `ko-core-beginner` | Korean beginner core (~1000 / romaja) |
 | `es-daily-a1-zh` | Spanish A1 daily (words + sentences) |
 
 Rant packs are **BubType original sentences** for typing practice — not scraped social posts. Multilingual daily packs include a `spell` field for script/spell practice and can be filtered by practice language on Discover.

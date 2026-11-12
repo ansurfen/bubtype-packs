@@ -1,0 +1,5942 @@
+{
+  "manifest": {
+    "id": "zh-hsk-1-3",
+    "title": "中文 HSK 1–3",
+    "version": "1.0.0",
+    "lang": "zh",
+    "glossLang": "en",
+    "source": "hsk3-hearmandarin",
+    "lemmaCount": 988,
+    "description": "HSK 3.0 第 1–3 级核心词 · 英文释义（拼音输入）"
+  },
+  "items": [
+    {
+      "text": "爱",
+      "hint": "to love",
+      "kind": "phrase",
+      "spell": "ài"
+    },
+    {
+      "text": "八",
+      "hint": "eight",
+      "kind": "phrase",
+      "spell": "bā"
+    },
+    {
+      "text": "爸爸",
+      "hint": "father; dad",
+      "kind": "phrase",
+      "spell": "bà ba"
+    },
+    {
+      "text": "吧",
+      "hint": "grammar particle: suggestion or surmise",
+      "kind": "phrase",
+      "spell": "ba"
+    },
+    {
+      "text": "白天",
+      "hint": "daytime",
+      "kind": "phrase",
+      "spell": "bái tiān"
+    },
+    {
+      "text": "百",
+      "hint": "hundred",
+      "kind": "phrase",
+      "spell": "bǎi"
+    },
+    {
+      "text": "半",
+      "hint": "half",
+      "kind": "phrase",
+      "spell": "bàn"
+    },
+    {
+      "text": "包子",
+      "hint": "baozi; steamed stuffed bun",
+      "kind": "phrase",
+      "spell": "bāo zi"
+    },
+    {
+      "text": "杯子",
+      "hint": "cup; glass",
+      "kind": "phrase",
+      "spell": "bēi zi"
+    },
+    {
+      "text": "本",
+      "hint": "measure word for books; root",
+      "kind": "phrase",
+      "spell": "běn"
+    },
+    {
+      "text": "边",
+      "hint": "side; edge",
+      "kind": "phrase",
+      "spell": "biān"
+    },
+    {
+      "text": "病",
+      "hint": "illness; disease",
+      "kind": "phrase",
+      "spell": "bìng"
+    },
+    {
+      "text": "不",
+      "hint": "no; not",
+      "kind": "phrase",
+      "spell": "bù"
+    },
+    {
+      "text": "不客气",
+      "hint": "you're welcome",
+      "kind": "phrase",
+      "spell": "bú kèqi"
+    },
+    {
+      "text": "不要",
+      "hint": "don't; must not",
+      "kind": "phrase",
+      "spell": "bú yào"
+    },
+    {
+      "text": "菜",
+      "hint": "vegetable; dish",
+      "kind": "phrase",
+      "spell": "cài"
+    },
+    {
+      "text": "茶",
+      "hint": "tea",
+      "kind": "phrase",
+      "spell": "chá"
+    },
+    {
+      "text": "唱",
+      "hint": "to sing",
+      "kind": "phrase",
+      "spell": "chàng"
+    },
+    {
+      "text": "超市",
+      "hint": "supermarket",
+      "kind": "phrase",
+      "spell": "chāo shì"
+    },
+    {
+      "text": "车",
+      "hint": "car; vehicle",
+      "kind": "phrase",
+      "spell": "chē"
+    },
+    {
+      "text": "吃",
+      "hint": "to eat",
+      "kind": "phrase",
+      "spell": "chī"
+    },
+    {
+      "text": "出租车",
+      "hint": "taxi",
+      "kind": "phrase",
+      "spell": "chū zū chē"
+    },
+    {
+      "text": "穿",
+      "hint": "to wear; to put on",
+      "kind": "phrase",
+      "spell": "chuān"
+    },
+    {
+      "text": "打电话",
+      "hint": "to make a phone call",
+      "kind": "phrase",
+      "spell": "dǎ diànhuà"
+    },
+    {
+      "text": "大",
+      "hint": "big; large",
+      "kind": "phrase",
+      "spell": "dà"
+    },
+    {
+      "text": "大家",
+      "hint": "everyone",
+      "kind": "phrase",
+      "spell": "dà jiā"
+    },
+    {
+      "text": "大学",
+      "hint": "university; college",
+      "kind": "phrase",
+      "spell": "dà xué"
+    },
+    {
+      "text": "大学生",
+      "hint": "university student",
+      "kind": "phrase",
+      "spell": "dà xué shēng"
+    },
+    {
+      "text": "到",
+      "hint": "to arrive; to reach",
+      "kind": "phrase",
+      "spell": "dào"
+    },
+    {
+      "text": "的",
+      "hint": "grammar particle: possessive marker",
+      "kind": "phrase",
+      "spell": "de"
+    },
+    {
+      "text": "第",
+      "hint": "prefix forming ordinal numbers",
+      "kind": "phrase",
+      "spell": "dì"
+    },
+    {
+      "text": "弟弟",
+      "hint": "younger brother",
+      "kind": "phrase",
+      "spell": "dì di"
+    },
+    {
+      "text": "点",
+      "hint": "o'clock; a dot or spot; a little",
+      "kind": "phrase",
+      "spell": "diǎn"
+    },
+    {
+      "text": "店",
+      "hint": "shop; store",
+      "kind": "phrase",
+      "spell": "diàn"
+    },
+    {
+      "text": "电话",
+      "hint": "telephone; phone",
+      "kind": "phrase",
+      "spell": "diàn huà"
+    },
+    {
+      "text": "电脑",
+      "hint": "computer",
+      "kind": "phrase",
+      "spell": "diàn nǎo"
+    },
+    {
+      "text": "电视",
+      "hint": "TV; television",
+      "kind": "phrase",
+      "spell": "diàn shì"
+    },
+    {
+      "text": "电影",
+      "hint": "movie; film",
+      "kind": "phrase",
+      "spell": "diàn yǐng"
+    },
+    {
+      "text": "电影院",
+      "hint": "cinema; movie theater",
+      "kind": "phrase",
+      "spell": "diàn yǐng yuàn"
+    },
+    {
+      "text": "东西",
+      "hint": "thing; stuff",
+      "kind": "phrase",
+      "spell": "dōng xi"
+    },
+    {
+      "text": "都",
+      "hint": "all; both",
+      "kind": "phrase",
+      "spell": "doū"
+    },
+    {
+      "text": "读",
+      "hint": "to read",
+      "kind": "phrase",
+      "spell": "dú"
+    },
+    {
+      "text": "读书",
+      "hint": "to read; to study",
+      "kind": "phrase",
+      "spell": "dú shū"
+    },
+    {
+      "text": "对",
+      "hint": "right; correct; towards, at; a pair",
+      "kind": "phrase",
+      "spell": "dùi"
+    },
+    {
+      "text": "对不起",
+      "hint": "to apologize; I'm sorry; excuse me",
+      "kind": "phrase",
+      "spell": "dùi bu qǐ"
+    },
+    {
+      "text": "多",
+      "hint": "many; much; more",
+      "kind": "phrase",
+      "spell": "duō"
+    },
+    {
+      "text": "多少",
+      "hint": "how much; how many",
+      "kind": "phrase",
+      "spell": "duō shao"
+    },
+    {
+      "text": "儿子",
+      "hint": "son",
+      "kind": "phrase",
+      "spell": "ér zi"
+    },
+    {
+      "text": "二",
+      "hint": "two",
+      "kind": "phrase",
+      "spell": "èr"
+    },
+    {
+      "text": "饭",
+      "hint": "cooked rice; meal",
+      "kind": "phrase",
+      "spell": "fàn"
+    },
+    {
+      "text": "饭店",
+      "hint": "restaurant; hotel",
+      "kind": "phrase",
+      "spell": "fàn diàn"
+    },
+    {
+      "text": "房间",
+      "hint": "room",
+      "kind": "phrase",
+      "spell": "fáng jiān"
+    },
+    {
+      "text": "非常",
+      "hint": "very; extremely",
+      "kind": "phrase",
+      "spell": "fēi cháng"
+    },
+    {
+      "text": "飞机",
+      "hint": "airplane",
+      "kind": "phrase",
+      "spell": "fēi jī"
+    },
+    {
+      "text": "分",
+      "hint": "minute; cent; to divide",
+      "kind": "phrase",
+      "spell": "fēn"
+    },
+    {
+      "text": "分钟",
+      "hint": "minute",
+      "kind": "phrase",
+      "spell": "fēn zhōng"
+    },
+    {
+      "text": "高兴",
+      "hint": "happy; glad",
+      "kind": "phrase",
+      "spell": "gāo xìng"
+    },
+    {
+      "text": "歌",
+      "hint": "song",
+      "kind": "phrase",
+      "spell": "gē"
+    },
+    {
+      "text": "哥哥",
+      "hint": "older brother",
+      "kind": "phrase",
+      "spell": "gē ge"
+    },
+    {
+      "text": "个",
+      "hint": "the general measure word; used with most nouns",
+      "kind": "phrase",
+      "spell": "gè"
+    },
+    {
+      "text": "给",
+      "hint": "to give; to; for",
+      "kind": "phrase",
+      "spell": "gěi"
+    },
+    {
+      "text": "公司",
+      "hint": "company; firm",
+      "kind": "phrase",
+      "spell": "gōng sī"
+    },
+    {
+      "text": "工作",
+      "hint": "to work; job",
+      "kind": "phrase",
+      "spell": "gōng zuò"
+    },
+    {
+      "text": "狗",
+      "hint": "dog",
+      "kind": "phrase",
+      "spell": "goǔ"
+    },
+    {
+      "text": "贵",
+      "hint": "expensive; honorable",
+      "kind": "phrase",
+      "spell": "gùi"
+    },
+    {
+      "text": "国",
+      "hint": "country; nation",
+      "kind": "phrase",
+      "spell": "guó"
+    },
+    {
+      "text": "还",
+      "hint": "still; also",
+      "kind": "phrase",
+      "spell": "hái"
+    },
+    {
+      "text": "孩子",
+      "hint": "child",
+      "kind": "phrase",
+      "spell": "hái zi"
+    },
+    {
+      "text": "汉语",
+      "hint": "Chinese language",
+      "kind": "phrase",
+      "spell": "Hàn yǔ"
+    },
+    {
+      "text": "汉字",
+      "hint": "Chinese character",
+      "kind": "phrase",
+      "spell": "Hàn zì"
+    },
+    {
+      "text": "好",
+      "hint": "good",
+      "kind": "phrase",
+      "spell": "hǎo"
+    },
+    {
+      "text": "好吃",
+      "hint": "tasty; delicious",
+      "kind": "phrase",
+      "spell": "hǎo chī"
+    },
+    {
+      "text": "好看",
+      "hint": "good-looking",
+      "kind": "phrase",
+      "spell": "hǎo kàn"
+    },
+    {
+      "text": "好听",
+      "hint": "pleasant to hear",
+      "kind": "phrase",
+      "spell": "hǎo tīng"
+    },
+    {
+      "text": "好玩儿",
+      "hint": "fun; amusing",
+      "kind": "phrase",
+      "spell": "hǎo wán r"
+    },
+    {
+      "text": "号",
+      "hint": "number; measure word for dates and sizes",
+      "kind": "phrase",
+      "spell": "hào"
+    },
+    {
+      "text": "喝",
+      "hint": "to drink",
+      "kind": "phrase",
+      "spell": "hē"
+    },
+    {
+      "text": "和",
+      "hint": "and; with",
+      "kind": "phrase",
+      "spell": "hé"
+    },
+    {
+      "text": "很",
+      "hint": "very",
+      "kind": "phrase",
+      "spell": "hěn"
+    },
+    {
+      "text": "后",
+      "hint": "back; behind; after",
+      "kind": "phrase",
+      "spell": "hoù"
+    },
+    {
+      "text": "回",
+      "hint": "to return; time; occasion",
+      "kind": "phrase",
+      "spell": "húi"
+    },
+    {
+      "text": "会",
+      "hint": "can; to know how to",
+      "kind": "phrase",
+      "spell": "hùi"
+    },
+    {
+      "text": "火车",
+      "hint": "train",
+      "kind": "phrase",
+      "spell": "huǒ chē"
+    },
+    {
+      "text": "鸡蛋",
+      "hint": "egg",
+      "kind": "phrase",
+      "spell": "jī dàn"
+    },
+    {
+      "text": "几",
+      "hint": "how many; several",
+      "kind": "phrase",
+      "spell": "jǐ"
+    },
+    {
+      "text": "家",
+      "hint": "home; family; measure word for businesses",
+      "kind": "phrase",
+      "spell": "jiā"
+    },
+    {
+      "text": "家人",
+      "hint": "family member",
+      "kind": "phrase",
+      "spell": "jiā rén"
+    },
+    {
+      "text": "见",
+      "hint": "to see; to meet",
+      "kind": "phrase",
+      "spell": "jiàn"
+    },
+    {
+      "text": "件",
+      "hint": "measure word for things, events and clothes",
+      "kind": "phrase",
+      "spell": "jiàn"
+    },
+    {
+      "text": "饺子",
+      "hint": "dumpling",
+      "kind": "phrase",
+      "spell": "jiǎo zi"
+    },
+    {
+      "text": "叫",
+      "hint": "to call; to be called",
+      "kind": "phrase",
+      "spell": "jiào"
+    },
+    {
+      "text": "姐姐",
+      "hint": "older sister",
+      "kind": "phrase",
+      "spell": "jiě jie"
+    },
+    {
+      "text": "今年",
+      "hint": "this year",
+      "kind": "phrase",
+      "spell": "jīn nián"
+    },
+    {
+      "text": "今天",
+      "hint": "today",
+      "kind": "phrase",
+      "spell": "jīn tiān"
+    },
+    {
+      "text": "九",
+      "hint": "nine",
+      "kind": "phrase",
+      "spell": "jiǔ"
+    },
+    {
+      "text": "觉得",
+      "hint": "to feel; to think that",
+      "kind": "phrase",
+      "spell": "jué de"
+    },
+    {
+      "text": "开",
+      "hint": "to open; to drive",
+      "kind": "phrase",
+      "spell": "kāi"
+    },
+    {
+      "text": "开车",
+      "hint": "to drive a car",
+      "kind": "phrase",
+      "spell": "kāi chē"
+    },
+    {
+      "text": "看",
+      "hint": "to see; to look; to watch; to read",
+      "kind": "phrase",
+      "spell": "kàn"
+    },
+    {
+      "text": "看病",
+      "hint": "to see a doctor",
+      "kind": "phrase",
+      "spell": "kàn bìng"
+    },
+    {
+      "text": "看见",
+      "hint": "to see; to catch sight of",
+      "kind": "phrase",
+      "spell": "kàn jiàn"
+    },
+    {
+      "text": "可以",
+      "hint": "can; may",
+      "kind": "phrase",
+      "spell": "kě yǐ"
+    },
+    {
+      "text": "课",
+      "hint": "lesson; class",
+      "kind": "phrase",
+      "spell": "kè"
+    },
+    {
+      "text": "口",
+      "hint": "mouth; measure word for people and mouthfuls",
+      "kind": "phrase",
+      "spell": "koǔ"
+    },
+    {
+      "text": "块",
+      "hint": "measure word for lumps and pieces; yuan (colloquial)",
+      "kind": "phrase",
+      "spell": "kuài"
+    },
+    {
+      "text": "来",
+      "hint": "to come",
+      "kind": "phrase",
+      "spell": "lái"
+    },
+    {
+      "text": "老师",
+      "hint": "teacher",
+      "kind": "phrase",
+      "spell": "lǎo shī"
+    },
+    {
+      "text": "了",
+      "hint": "grammar particle: completed action; change of state",
+      "kind": "phrase",
+      "spell": "le"
+    },
+    {
+      "text": "冷",
+      "hint": "cold",
+      "kind": "phrase",
+      "spell": "lěng"
+    },
+    {
+      "text": "里",
+      "hint": "inside; in",
+      "kind": "phrase",
+      "spell": "lǐ"
+    },
+    {
+      "text": "两",
+      "hint": "two; a pair of",
+      "kind": "phrase",
+      "spell": "liǎng"
+    },
+    {
+      "text": "零",
+      "hint": "zero",
+      "kind": "phrase",
+      "spell": "líng"
+    },
+    {
+      "text": "六",
+      "hint": "six",
+      "kind": "phrase",
+      "spell": "liù"
+    },
+    {
+      "text": "妈妈",
+      "hint": "mother; mom",
+      "kind": "phrase",
+      "spell": "mā ma"
+    },
+    {
+      "text": "吗",
+      "hint": "grammar particle: yes-no question marker",
+      "kind": "phrase",
+      "spell": "ma"
+    },
+    {
+      "text": "买",
+      "hint": "to buy",
+      "kind": "phrase",
+      "spell": "mǎi"
+    },
+    {
+      "text": "卖",
+      "hint": "to sell",
+      "kind": "phrase",
+      "spell": "mài"
+    },
+    {
+      "text": "忙",
+      "hint": "busy",
+      "kind": "phrase",
+      "spell": "máng"
+    },
+    {
+      "text": "猫",
+      "hint": "cat",
+      "kind": "phrase",
+      "spell": "māo"
+    },
+    {
+      "text": "没关系",
+      "hint": "it doesn't matter",
+      "kind": "phrase",
+      "spell": "méi guānxi"
+    },
+    {
+      "text": "没事",
+      "hint": "to be free; it's nothing; never mind",
+      "kind": "phrase",
+      "spell": "méi shì"
+    },
+    {
+      "text": "没有",
+      "hint": "to not have; there is not",
+      "kind": "phrase",
+      "spell": "méi yoǔ"
+    },
+    {
+      "text": "妹妹",
+      "hint": "younger sister",
+      "kind": "phrase",
+      "spell": "mèi mei"
+    },
+    {
+      "text": "们",
+      "hint": "plural suffix for pronouns and human nouns",
+      "kind": "phrase",
+      "spell": "men"
+    },
+    {
+      "text": "米饭",
+      "hint": "cooked rice",
+      "kind": "phrase",
+      "spell": "mǐ fàn"
+    },
+    {
+      "text": "面包",
+      "hint": "bread",
+      "kind": "phrase",
+      "spell": "miàn bāo"
+    },
+    {
+      "text": "面条儿",
+      "hint": "noodles",
+      "kind": "phrase",
+      "spell": "miàn tiáo r"
+    },
+    {
+      "text": "明年",
+      "hint": "next year",
+      "kind": "phrase",
+      "spell": "míng nián"
+    },
+    {
+      "text": "明天",
+      "hint": "tomorrow",
+      "kind": "phrase",
+      "spell": "míng tiān"
+    },
+    {
+      "text": "名字",
+      "hint": "name",
+      "kind": "phrase",
+      "spell": "míng zi"
+    },
+    {
+      "text": "哪",
+      "hint": "which",
+      "kind": "phrase",
+      "spell": "nǎ"
+    },
+    {
+      "text": "哪个",
+      "hint": "which one",
+      "kind": "phrase",
+      "spell": "nǎ ge"
+    },
+    {
+      "text": "哪里",
+      "hint": "where",
+      "kind": "phrase",
+      "spell": "nǎ lǐ"
+    },
+    {
+      "text": "哪儿",
+      "hint": "where",
+      "kind": "phrase",
+      "spell": "nǎ r"
+    },
+    {
+      "text": "哪些",
+      "hint": "which ones",
+      "kind": "phrase",
+      "spell": "nǎ xiē"
+    },
+    {
+      "text": "那",
+      "hint": "that",
+      "kind": "phrase",
+      "spell": "nà"
+    },
+    {
+      "text": "那边",
+      "hint": "over there",
+      "kind": "phrase",
+      "spell": "nà biān"
+    },
+    {
+      "text": "那个",
+      "hint": "that one",
+      "kind": "phrase",
+      "spell": "nà ge"
+    },
+    {
+      "text": "那里",
+      "hint": "there",
+      "kind": "phrase",
+      "spell": "nà lǐ"
+    },
+    {
+      "text": "那儿",
+      "hint": "there",
+      "kind": "phrase",
+      "spell": "nà r"
+    },
+    {
+      "text": "那些",
+      "hint": "those",
+      "kind": "phrase",
+      "spell": "nà xiē"
+    },
+    {
+      "text": "男",
+      "hint": "male; man",
+      "kind": "phrase",
+      "spell": "nán"
+    },
+    {
+      "text": "男朋友",
+      "hint": "boyfriend",
+      "kind": "phrase",
+      "spell": "nán péng you"
+    },
+    {
+      "text": "呢",
+      "hint": "grammar particle: follow-up question; ongoing state",
+      "kind": "phrase",
+      "spell": "ne"
+    },
+    {
+      "text": "能",
+      "hint": "can; to be able to",
+      "kind": "phrase",
+      "spell": "néng"
+    },
+    {
+      "text": "你",
+      "hint": "you",
+      "kind": "phrase",
+      "spell": "nǐ"
+    },
+    {
+      "text": "你好",
+      "hint": "hello",
+      "kind": "phrase",
+      "spell": "nǐ hǎo"
+    },
+    {
+      "text": "你们",
+      "hint": "you; you all",
+      "kind": "phrase",
+      "spell": "nǐ men"
+    },
+    {
+      "text": "年",
+      "hint": "year",
+      "kind": "phrase",
+      "spell": "nián"
+    },
+    {
+      "text": "您",
+      "hint": "you (polite)",
+      "kind": "phrase",
+      "spell": "nín"
+    },
+    {
+      "text": "牛奶",
+      "hint": "milk",
+      "kind": "phrase",
+      "spell": "niú nǎi"
+    },
+    {
+      "text": "女",
+      "hint": "female; woman",
+      "kind": "phrase",
+      "spell": "nǚ"
+    },
+    {
+      "text": "女儿",
+      "hint": "daughter",
+      "kind": "phrase",
+      "spell": "nǚ ér"
+    },
+    {
+      "text": "女朋友",
+      "hint": "girlfriend",
+      "kind": "phrase",
+      "spell": "nǚ péng you"
+    },
+    {
+      "text": "女士",
+      "hint": "lady; madam",
+      "kind": "phrase",
+      "spell": "nǚ shì"
+    },
+    {
+      "text": "朋友",
+      "hint": "friend",
+      "kind": "phrase",
+      "spell": "péng you"
+    },
+    {
+      "text": "便宜",
+      "hint": "cheap; inexpensive",
+      "kind": "phrase",
+      "spell": "pián yi"
+    },
+    {
+      "text": "漂亮",
+      "hint": "pretty; beautiful",
+      "kind": "phrase",
+      "spell": "piào liang"
+    },
+    {
+      "text": "苹果",
+      "hint": "apple",
+      "kind": "phrase",
+      "spell": "píng guǒ"
+    },
+    {
+      "text": "七",
+      "hint": "seven",
+      "kind": "phrase",
+      "spell": "qī"
+    },
+    {
+      "text": "起床",
+      "hint": "to get up; to get out of bed",
+      "kind": "phrase",
+      "spell": "qǐ chuáng"
+    },
+    {
+      "text": "千",
+      "hint": "thousand",
+      "kind": "phrase",
+      "spell": "qiān"
+    },
+    {
+      "text": "前",
+      "hint": "front; before",
+      "kind": "phrase",
+      "spell": "qián"
+    },
+    {
+      "text": "钱",
+      "hint": "money",
+      "kind": "phrase",
+      "spell": "qián"
+    },
+    {
+      "text": "请",
+      "hint": "please; to invite",
+      "kind": "phrase",
+      "spell": "qǐng"
+    },
+    {
+      "text": "请问",
+      "hint": "excuse me; may I ask",
+      "kind": "phrase",
+      "spell": "qǐng wèn"
+    },
+    {
+      "text": "去",
+      "hint": "to go",
+      "kind": "phrase",
+      "spell": "qù"
+    },
+    {
+      "text": "去年",
+      "hint": "last year",
+      "kind": "phrase",
+      "spell": "qù nián"
+    },
+    {
+      "text": "热",
+      "hint": "hot; to heat up",
+      "kind": "phrase",
+      "spell": "rè"
+    },
+    {
+      "text": "人",
+      "hint": "person; people",
+      "kind": "phrase",
+      "spell": "rén"
+    },
+    {
+      "text": "认识",
+      "hint": "to know; to recognize",
+      "kind": "phrase",
+      "spell": "rèn shi"
+    },
+    {
+      "text": "日",
+      "hint": "day; sun",
+      "kind": "phrase",
+      "spell": "rì"
+    },
+    {
+      "text": "三",
+      "hint": "three",
+      "kind": "phrase",
+      "spell": "sān"
+    },
+    {
+      "text": "商店",
+      "hint": "store; shop",
+      "kind": "phrase",
+      "spell": "shāng diàn"
+    },
+    {
+      "text": "上",
+      "hint": "up; above; to get on",
+      "kind": "phrase",
+      "spell": "shàng"
+    },
+    {
+      "text": "上班",
+      "hint": "to go to work",
+      "kind": "phrase",
+      "spell": "shàng bān"
+    },
+    {
+      "text": "上课",
+      "hint": "to attend class",
+      "kind": "phrase",
+      "spell": "shàng kè"
+    },
+    {
+      "text": "上午",
+      "hint": "morning",
+      "kind": "phrase",
+      "spell": "shàng wǔ"
+    },
+    {
+      "text": "上学",
+      "hint": "to go to school",
+      "kind": "phrase",
+      "spell": "shàng xué"
+    },
+    {
+      "text": "少",
+      "hint": "few; little",
+      "kind": "phrase",
+      "spell": "shǎo"
+    },
+    {
+      "text": "谁",
+      "hint": "who",
+      "kind": "phrase",
+      "spell": "shéi shúi"
+    },
+    {
+      "text": "什么",
+      "hint": "what",
+      "kind": "phrase",
+      "spell": "shén me"
+    },
+    {
+      "text": "生病",
+      "hint": "to fall ill",
+      "kind": "phrase",
+      "spell": "shēng bìng"
+    },
+    {
+      "text": "十",
+      "hint": "ten",
+      "kind": "phrase",
+      "spell": "shí"
+    },
+    {
+      "text": "时候",
+      "hint": "time; moment",
+      "kind": "phrase",
+      "spell": "shí hou"
+    },
+    {
+      "text": "时间",
+      "hint": "time",
+      "kind": "phrase",
+      "spell": "shí jiān"
+    },
+    {
+      "text": "事",
+      "hint": "matter; thing",
+      "kind": "phrase",
+      "spell": "shì"
+    },
+    {
+      "text": "是",
+      "hint": "to be",
+      "kind": "phrase",
+      "spell": "shì"
+    },
+    {
+      "text": "手机",
+      "hint": "cell phone; mobile phone",
+      "kind": "phrase",
+      "spell": "shoǔ jī"
+    },
+    {
+      "text": "书",
+      "hint": "book",
+      "kind": "phrase",
+      "spell": "shū"
+    },
+    {
+      "text": "书店",
+      "hint": "bookstore",
+      "kind": "phrase",
+      "spell": "shū diàn"
+    },
+    {
+      "text": "水",
+      "hint": "water",
+      "kind": "phrase",
+      "spell": "shǔi"
+    },
+    {
+      "text": "水果",
+      "hint": "fruit",
+      "kind": "phrase",
+      "spell": "shǔi guǒ"
+    },
+    {
+      "text": "睡",
+      "hint": "to sleep",
+      "kind": "phrase",
+      "spell": "shùi"
+    },
+    {
+      "text": "睡觉",
+      "hint": "to sleep; to go to bed",
+      "kind": "phrase",
+      "spell": "shùi jiào"
+    },
+    {
+      "text": "说",
+      "hint": "to speak; to say",
+      "kind": "phrase",
+      "spell": "shuō"
+    },
+    {
+      "text": "说话",
+      "hint": "to speak; to talk",
+      "kind": "phrase",
+      "spell": "shuō huà"
+    },
+    {
+      "text": "四",
+      "hint": "four",
+      "kind": "phrase",
+      "spell": "sì"
+    },
+    {
+      "text": "岁",
+      "hint": "measure word for years of age; years old",
+      "kind": "phrase",
+      "spell": "sùi"
+    },
+    {
+      "text": "他",
+      "hint": "he; him",
+      "kind": "phrase",
+      "spell": "tā"
+    },
+    {
+      "text": "它",
+      "hint": "it",
+      "kind": "phrase",
+      "spell": "tā"
+    },
+    {
+      "text": "她",
+      "hint": "she; her",
+      "kind": "phrase",
+      "spell": "tā"
+    },
+    {
+      "text": "他们",
+      "hint": "they; them",
+      "kind": "phrase",
+      "spell": "tā men"
+    },
+    {
+      "text": "它们",
+      "hint": "they; them for things",
+      "kind": "phrase",
+      "spell": "tā men"
+    },
+    {
+      "text": "她们",
+      "hint": "they; them for females",
+      "kind": "phrase",
+      "spell": "tā men"
+    },
+    {
+      "text": "太",
+      "hint": "too; extremely",
+      "kind": "phrase",
+      "spell": "tài"
+    },
+    {
+      "text": "天",
+      "hint": "day; sky",
+      "kind": "phrase",
+      "spell": "tiān"
+    },
+    {
+      "text": "天气",
+      "hint": "weather",
+      "kind": "phrase",
+      "spell": "tiān qì"
+    },
+    {
+      "text": "听",
+      "hint": "to listen; to hear",
+      "kind": "phrase",
+      "spell": "tīng"
+    },
+    {
+      "text": "听见",
+      "hint": "to hear",
+      "kind": "phrase",
+      "spell": "tīng jiàn"
+    },
+    {
+      "text": "同学",
+      "hint": "classmate; fellow student",
+      "kind": "phrase",
+      "spell": "tóng xué"
+    },
+    {
+      "text": "外",
+      "hint": "outside; foreign",
+      "kind": "phrase",
+      "spell": "wài"
+    },
+    {
+      "text": "外边",
+      "hint": "outside",
+      "kind": "phrase",
+      "spell": "wài bian"
+    },
+    {
+      "text": "玩",
+      "hint": "to play; to have fun",
+      "kind": "phrase",
+      "spell": "wán"
+    },
+    {
+      "text": "晚",
+      "hint": "evening; late",
+      "kind": "phrase",
+      "spell": "wǎn"
+    },
+    {
+      "text": "晚饭",
+      "hint": "dinner; supper",
+      "kind": "phrase",
+      "spell": "wǎn fàn"
+    },
+    {
+      "text": "晚上",
+      "hint": "evening; night",
+      "kind": "phrase",
+      "spell": "wǎn shang"
+    },
+    {
+      "text": "喂",
+      "hint": "hey; hello on the phone",
+      "kind": "phrase",
+      "spell": "wèi"
+    },
+    {
+      "text": "问",
+      "hint": "to ask",
+      "kind": "phrase",
+      "spell": "wèn"
+    },
+    {
+      "text": "问题",
+      "hint": "question; problem",
+      "kind": "phrase",
+      "spell": "wèn tí"
+    },
+    {
+      "text": "我",
+      "hint": "I; me",
+      "kind": "phrase",
+      "spell": "wǒ"
+    },
+    {
+      "text": "我们",
+      "hint": "we; us",
+      "kind": "phrase",
+      "spell": "wǒ men"
+    },
+    {
+      "text": "五",
+      "hint": "five",
+      "kind": "phrase",
+      "spell": "wǔ"
+    },
+    {
+      "text": "午饭",
+      "hint": "lunch",
+      "kind": "phrase",
+      "spell": "wǔ fàn"
+    },
+    {
+      "text": "喜欢",
+      "hint": "to like; to be fond of",
+      "kind": "phrase",
+      "spell": "xǐ huan"
+    },
+    {
+      "text": "下",
+      "hint": "down; to go down; measure word for brief actions",
+      "kind": "phrase",
+      "spell": "xià"
+    },
+    {
+      "text": "下雨",
+      "hint": "to rain",
+      "kind": "phrase",
+      "spell": "xià yǔ"
+    },
+    {
+      "text": "下班",
+      "hint": "to finish work; to get off work",
+      "kind": "phrase",
+      "spell": "xià bān"
+    },
+    {
+      "text": "下课",
+      "hint": "to finish class",
+      "kind": "phrase",
+      "spell": "xià kè"
+    },
+    {
+      "text": "下午",
+      "hint": "afternoon",
+      "kind": "phrase",
+      "spell": "xià wǔ"
+    },
+    {
+      "text": "先生",
+      "hint": "Mr.; sir; husband",
+      "kind": "phrase",
+      "spell": "xiān sheng"
+    },
+    {
+      "text": "现在",
+      "hint": "now",
+      "kind": "phrase",
+      "spell": "xiàn zài"
+    },
+    {
+      "text": "想",
+      "hint": "to think; to want; to miss",
+      "kind": "phrase",
+      "spell": "xiǎng"
+    },
+    {
+      "text": "小",
+      "hint": "small; little",
+      "kind": "phrase",
+      "spell": "xiǎo"
+    },
+    {
+      "text": "小朋友",
+      "hint": "child; kid",
+      "kind": "phrase",
+      "spell": "xiǎo péng yoǔ"
+    },
+    {
+      "text": "小时",
+      "hint": "hour",
+      "kind": "phrase",
+      "spell": "xiǎo shí"
+    },
+    {
+      "text": "小学",
+      "hint": "elementary school",
+      "kind": "phrase",
+      "spell": "xiǎo xué"
+    },
+    {
+      "text": "小学生",
+      "hint": "elementary school student",
+      "kind": "phrase",
+      "spell": "xiǎo xué shēng"
+    },
+    {
+      "text": "些",
+      "hint": "measure word: some, a few",
+      "kind": "phrase",
+      "spell": "xiē"
+    },
+    {
+      "text": "写",
+      "hint": "to write",
+      "kind": "phrase",
+      "spell": "xiě"
+    },
+    {
+      "text": "谢谢",
+      "hint": "thank you; thanks",
+      "kind": "phrase",
+      "spell": "xiè xie"
+    },
+    {
+      "text": "新",
+      "hint": "new",
+      "kind": "phrase",
+      "spell": "xīn"
+    },
+    {
+      "text": "星期",
+      "hint": "week",
+      "kind": "phrase",
+      "spell": "xīng qī"
+    },
+    {
+      "text": "星期日",
+      "hint": "Sunday",
+      "kind": "phrase",
+      "spell": "xīng qī rì"
+    },
+    {
+      "text": "星期天",
+      "hint": "Sunday",
+      "kind": "phrase",
+      "spell": "xīng qī tiān"
+    },
+    {
+      "text": "休息",
+      "hint": "to rest; rest",
+      "kind": "phrase",
+      "spell": "xiū xi"
+    },
+    {
+      "text": "学",
+      "hint": "to learn; to study",
+      "kind": "phrase",
+      "spell": "xué"
+    },
+    {
+      "text": "学生",
+      "hint": "student",
+      "kind": "phrase",
+      "spell": "xué shēng"
+    },
+    {
+      "text": "学习",
+      "hint": "to learn; to study",
+      "kind": "phrase",
+      "spell": "xué xí"
+    },
+    {
+      "text": "学校",
+      "hint": "school",
+      "kind": "phrase",
+      "spell": "xué xiào"
+    },
+    {
+      "text": "雪",
+      "hint": "snow",
+      "kind": "phrase",
+      "spell": "xuě"
+    },
+    {
+      "text": "要",
+      "hint": "to want; to need; will",
+      "kind": "phrase",
+      "spell": "yào"
+    },
+    {
+      "text": "也",
+      "hint": "also; too",
+      "kind": "phrase",
+      "spell": "yě"
+    },
+    {
+      "text": "一",
+      "hint": "one; a",
+      "kind": "phrase",
+      "spell": "yī"
+    },
+    {
+      "text": "衣服",
+      "hint": "clothes",
+      "kind": "phrase",
+      "spell": "yī fu"
+    },
+    {
+      "text": "医生",
+      "hint": "doctor",
+      "kind": "phrase",
+      "spell": "yī shēng"
+    },
+    {
+      "text": "医院",
+      "hint": "hospital",
+      "kind": "phrase",
+      "spell": "yī yuàn"
+    },
+    {
+      "text": "一半",
+      "hint": "half",
+      "kind": "phrase",
+      "spell": "yí bàn"
+    },
+    {
+      "text": "一下",
+      "hint": "(after a verb) a bit, for a moment; all at once",
+      "kind": "phrase",
+      "spell": "yí xià"
+    },
+    {
+      "text": "椅子",
+      "hint": "chair",
+      "kind": "phrase",
+      "spell": "yǐ zi"
+    },
+    {
+      "text": "一点儿",
+      "hint": "a little; a bit",
+      "kind": "phrase",
+      "spell": "yì diǎn r"
+    },
+    {
+      "text": "一些",
+      "hint": "some; a few",
+      "kind": "phrase",
+      "spell": "yì xiē"
+    },
+    {
+      "text": "有",
+      "hint": "to have; there is",
+      "kind": "phrase",
+      "spell": "yoǔ"
+    },
+    {
+      "text": "有的",
+      "hint": "some; some people",
+      "kind": "phrase",
+      "spell": "yoǔ de"
+    },
+    {
+      "text": "有点儿",
+      "hint": "a little; somewhat",
+      "kind": "phrase",
+      "spell": "yoǔ diǎn r"
+    },
+    {
+      "text": "有些",
+      "hint": "some; somewhat",
+      "kind": "phrase",
+      "spell": "yoǔ xiē"
+    },
+    {
+      "text": "雨",
+      "hint": "rain",
+      "kind": "phrase",
+      "spell": "yǔ"
+    },
+    {
+      "text": "元",
+      "hint": "yuan; Chinese currency unit",
+      "kind": "phrase",
+      "spell": "yuán"
+    },
+    {
+      "text": "月",
+      "hint": "moon; month",
+      "kind": "phrase",
+      "spell": "yuè"
+    },
+    {
+      "text": "再",
+      "hint": "again; once more",
+      "kind": "phrase",
+      "spell": "zài"
+    },
+    {
+      "text": "在",
+      "hint": "at; in; to exist",
+      "kind": "phrase",
+      "spell": "zài"
+    },
+    {
+      "text": "再见",
+      "hint": "goodbye",
+      "kind": "phrase",
+      "spell": "zài jiàn"
+    },
+    {
+      "text": "早",
+      "hint": "early; morning",
+      "kind": "phrase",
+      "spell": "zǎo"
+    },
+    {
+      "text": "早饭",
+      "hint": "breakfast",
+      "kind": "phrase",
+      "spell": "zǎo fàn"
+    },
+    {
+      "text": "早上",
+      "hint": "morning",
+      "kind": "phrase",
+      "spell": "zǎo shang"
+    },
+    {
+      "text": "怎么",
+      "hint": "how; why",
+      "kind": "phrase",
+      "spell": "zěn me"
+    },
+    {
+      "text": "怎么样",
+      "hint": "how about; how is it",
+      "kind": "phrase",
+      "spell": "zěn me yàng"
+    },
+    {
+      "text": "找",
+      "hint": "to look for; to find",
+      "kind": "phrase",
+      "spell": "zhǎo"
+    },
+    {
+      "text": "这",
+      "hint": "this",
+      "kind": "phrase",
+      "spell": "zhè"
+    },
+    {
+      "text": "这边",
+      "hint": "this side; here",
+      "kind": "phrase",
+      "spell": "zhè biān"
+    },
+    {
+      "text": "这个",
+      "hint": "this one",
+      "kind": "phrase",
+      "spell": "zhè ge"
+    },
+    {
+      "text": "这里",
+      "hint": "here",
+      "kind": "phrase",
+      "spell": "zhè lǐ"
+    },
+    {
+      "text": "这儿",
+      "hint": "here",
+      "kind": "phrase",
+      "spell": "zhèr"
+    },
+    {
+      "text": "这些",
+      "hint": "these",
+      "kind": "phrase",
+      "spell": "zhè xiē"
+    },
+    {
+      "text": "真",
+      "hint": "really; truly",
+      "kind": "phrase",
+      "spell": "zhēn"
+    },
+    {
+      "text": "正在",
+      "hint": "in the process of doing",
+      "kind": "phrase",
+      "spell": "zhèng zài"
+    },
+    {
+      "text": "只",
+      "hint": "classifier for animals and one of a pair",
+      "kind": "phrase",
+      "spell": "zhī"
+    },
+    {
+      "text": "知道",
+      "hint": "to know",
+      "kind": "phrase",
+      "spell": "zhī dào"
+    },
+    {
+      "text": "中国",
+      "hint": "China",
+      "kind": "phrase",
+      "spell": "Zhōng guó"
+    },
+    {
+      "text": "中文",
+      "hint": "Chinese language",
+      "kind": "phrase",
+      "spell": "Zhōng wén"
+    },
+    {
+      "text": "中午",
+      "hint": "noon; midday",
+      "kind": "phrase",
+      "spell": "zhōng wǔ"
+    },
+    {
+      "text": "中学",
+      "hint": "middle school",
+      "kind": "phrase",
+      "spell": "zhōng xué"
+    },
+    {
+      "text": "中学生",
+      "hint": "middle school student",
+      "kind": "phrase",
+      "spell": "zhōng xué shēng"
+    },
+    {
+      "text": "住",
+      "hint": "to live; to reside",
+      "kind": "phrase",
+      "spell": "zhù"
+    },
+    {
+      "text": "桌子",
+      "hint": "table; desk",
+      "kind": "phrase",
+      "spell": "zhuō zi"
+    },
+    {
+      "text": "字",
+      "hint": "character; written word",
+      "kind": "phrase",
+      "spell": "zì"
+    },
+    {
+      "text": "昨天",
+      "hint": "yesterday",
+      "kind": "phrase",
+      "spell": "zuó tiān"
+    },
+    {
+      "text": "坐",
+      "hint": "to sit; to ride; to take",
+      "kind": "phrase",
+      "spell": "zuò"
+    },
+    {
+      "text": "做",
+      "hint": "to make; to do",
+      "kind": "phrase",
+      "spell": "zuò"
+    },
+    {
+      "text": "做饭",
+      "hint": "to cook; to prepare a meal",
+      "kind": "phrase",
+      "spell": "zuò fàn"
+    },
+    {
+      "text": "啊",
+      "hint": "grammar particle: exclamation or agreement",
+      "kind": "phrase",
+      "spell": "a"
+    },
+    {
+      "text": "爱好",
+      "hint": "hobby; interest",
+      "kind": "phrase",
+      "spell": "ài hào"
+    },
+    {
+      "text": "白色",
+      "hint": "white",
+      "kind": "phrase",
+      "spell": "bái sè"
+    },
+    {
+      "text": "班",
+      "hint": "class; work shift",
+      "kind": "phrase",
+      "spell": "bān"
+    },
+    {
+      "text": "帮",
+      "hint": "to help",
+      "kind": "phrase",
+      "spell": "bāng"
+    },
+    {
+      "text": "帮忙",
+      "hint": "to help; to lend a hand",
+      "kind": "phrase",
+      "spell": "bāng máng"
+    },
+    {
+      "text": "包",
+      "hint": "to wrap; bag; measure word for packs",
+      "kind": "phrase",
+      "spell": "bāo"
+    },
+    {
+      "text": "本子",
+      "hint": "notebook",
+      "kind": "phrase",
+      "spell": "běn zi"
+    },
+    {
+      "text": "比",
+      "hint": "to compare; than",
+      "kind": "phrase",
+      "spell": "bǐ"
+    },
+    {
+      "text": "笔",
+      "hint": "pen; measure word for sums of money",
+      "kind": "phrase",
+      "spell": "bǐ"
+    },
+    {
+      "text": "别",
+      "hint": "don't; other",
+      "kind": "phrase",
+      "spell": "bié"
+    },
+    {
+      "text": "不错",
+      "hint": "not bad; correct",
+      "kind": "phrase",
+      "spell": "bú cuò"
+    },
+    {
+      "text": "不好意思",
+      "hint": "to feel embarrassed; to be sorry; excuse me",
+      "kind": "phrase",
+      "spell": "bù hǎoyìsi"
+    },
+    {
+      "text": "长",
+      "hint": "long",
+      "kind": "phrase",
+      "spell": "cháng"
+    },
+    {
+      "text": "车站",
+      "hint": "station; stop",
+      "kind": "phrase",
+      "spell": "chē zhàn"
+    },
+    {
+      "text": "出",
+      "hint": "to go out; to come out",
+      "kind": "phrase",
+      "spell": "chū"
+    },
+    {
+      "text": "出国",
+      "hint": "to go abroad",
+      "kind": "phrase",
+      "spell": "chū guó"
+    },
+    {
+      "text": "出来",
+      "hint": "to come out",
+      "kind": "phrase",
+      "spell": "chū lái"
+    },
+    {
+      "text": "出门",
+      "hint": "to go out; to leave home",
+      "kind": "phrase",
+      "spell": "chū mén"
+    },
+    {
+      "text": "出去",
+      "hint": "to go out",
+      "kind": "phrase",
+      "spell": "chū qù"
+    },
+    {
+      "text": "床",
+      "hint": "bed",
+      "kind": "phrase",
+      "spell": "chuáng"
+    },
+    {
+      "text": "词",
+      "hint": "word",
+      "kind": "phrase",
+      "spell": "cí"
+    },
+    {
+      "text": "次",
+      "hint": "measure word for times or occurrences; secondary",
+      "kind": "phrase",
+      "spell": "cì"
+    },
+    {
+      "text": "从",
+      "hint": "from",
+      "kind": "phrase",
+      "spell": "cóng"
+    },
+    {
+      "text": "从小",
+      "hint": "from childhood",
+      "kind": "phrase",
+      "spell": "cóng xiǎo"
+    },
+    {
+      "text": "错",
+      "hint": "wrong; mistake",
+      "kind": "phrase",
+      "spell": "cuò"
+    },
+    {
+      "text": "打",
+      "hint": "to hit; to play; to make",
+      "kind": "phrase",
+      "spell": "dǎ"
+    },
+    {
+      "text": "打车",
+      "hint": "to take a taxi",
+      "kind": "phrase",
+      "spell": "dǎ chē"
+    },
+    {
+      "text": "打开",
+      "hint": "to open; to turn on",
+      "kind": "phrase",
+      "spell": "dǎ kāi"
+    },
+    {
+      "text": "但",
+      "hint": "but; yet",
+      "kind": "phrase",
+      "spell": "dàn"
+    },
+    {
+      "text": "但是",
+      "hint": "but; however",
+      "kind": "phrase",
+      "spell": "dàn shì"
+    },
+    {
+      "text": "得",
+      "hint": "grammar particle: links verb to complement",
+      "kind": "phrase",
+      "spell": "de"
+    },
+    {
+      "text": "地",
+      "hint": "grammar particle: adverbial marker",
+      "kind": "phrase",
+      "spell": "de"
+    },
+    {
+      "text": "等",
+      "hint": "to wait; and so on",
+      "kind": "phrase",
+      "spell": "děng"
+    },
+    {
+      "text": "地铁",
+      "hint": "subway; metro",
+      "kind": "phrase",
+      "spell": "dì tiě"
+    },
+    {
+      "text": "懂",
+      "hint": "to understand",
+      "kind": "phrase",
+      "spell": "dǒng"
+    },
+    {
+      "text": "动",
+      "hint": "to move",
+      "kind": "phrase",
+      "spell": "dòng"
+    },
+    {
+      "text": "饭馆",
+      "hint": "restaurant",
+      "kind": "phrase",
+      "spell": "fàn guǎn"
+    },
+    {
+      "text": "飞",
+      "hint": "to fly",
+      "kind": "phrase",
+      "spell": "fēi"
+    },
+    {
+      "text": "高",
+      "hint": "tall; high",
+      "kind": "phrase",
+      "spell": "gāo"
+    },
+    {
+      "text": "高中",
+      "hint": "senior high school",
+      "kind": "phrase",
+      "spell": "gāo zhōng"
+    },
+    {
+      "text": "告诉",
+      "hint": "to tell; to inform",
+      "kind": "phrase",
+      "spell": "gào su"
+    },
+    {
+      "text": "个子",
+      "hint": "height; stature",
+      "kind": "phrase",
+      "spell": "gè zi"
+    },
+    {
+      "text": "跟",
+      "hint": "with; to follow",
+      "kind": "phrase",
+      "spell": "gēn"
+    },
+    {
+      "text": "公交车",
+      "hint": "bus",
+      "kind": "phrase",
+      "spell": "gōng jiāo chē"
+    },
+    {
+      "text": "过",
+      "hint": "to cross; to pass",
+      "kind": "phrase",
+      "spell": "guò"
+    },
+    {
+      "text": "过来",
+      "hint": "to come over",
+      "kind": "phrase",
+      "spell": "guò lái"
+    },
+    {
+      "text": "过年",
+      "hint": "to celebrate the New Year",
+      "kind": "phrase",
+      "spell": "guò nián"
+    },
+    {
+      "text": "过去",
+      "hint": "to go over; to pass by",
+      "kind": "phrase",
+      "spell": "guò qù"
+    },
+    {
+      "text": "还是",
+      "hint": "or; still",
+      "kind": "phrase",
+      "spell": "hái shi"
+    },
+    {
+      "text": "黑色",
+      "hint": "black",
+      "kind": "phrase",
+      "spell": "hēi sè"
+    },
+    {
+      "text": "红茶",
+      "hint": "black tea",
+      "kind": "phrase",
+      "spell": "hóng chá"
+    },
+    {
+      "text": "红色",
+      "hint": "red",
+      "kind": "phrase",
+      "spell": "hóng sè"
+    },
+    {
+      "text": "后面",
+      "hint": "back; behind",
+      "kind": "phrase",
+      "spell": "hoù miàn"
+    },
+    {
+      "text": "花",
+      "hint": "to spend money or time",
+      "kind": "phrase",
+      "spell": "huā"
+    },
+    {
+      "text": "画",
+      "hint": "to draw; painting",
+      "kind": "phrase",
+      "spell": "huà"
+    },
+    {
+      "text": "坏",
+      "hint": "bad; broken",
+      "kind": "phrase",
+      "spell": "huài"
+    },
+    {
+      "text": "回来",
+      "hint": "to come back; to return",
+      "kind": "phrase",
+      "spell": "húi lái"
+    },
+    {
+      "text": "回去",
+      "hint": "to go back",
+      "kind": "phrase",
+      "spell": "húi qù"
+    },
+    {
+      "text": "机场",
+      "hint": "airport",
+      "kind": "phrase",
+      "spell": "jī chǎng"
+    },
+    {
+      "text": "机票",
+      "hint": "plane ticket",
+      "kind": "phrase",
+      "spell": "jī piào"
+    },
+    {
+      "text": "记得",
+      "hint": "to remember",
+      "kind": "phrase",
+      "spell": "jì de"
+    },
+    {
+      "text": "间",
+      "hint": "measure word for rooms; between",
+      "kind": "phrase",
+      "spell": "jiān"
+    },
+    {
+      "text": "教",
+      "hint": "to teach",
+      "kind": "phrase",
+      "spell": "jiāo"
+    },
+    {
+      "text": "教室",
+      "hint": "classroom",
+      "kind": "phrase",
+      "spell": "jiào shì"
+    },
+    {
+      "text": "介绍",
+      "hint": "to introduce",
+      "kind": "phrase",
+      "spell": "jiè shào"
+    },
+    {
+      "text": "进",
+      "hint": "to enter; to go in",
+      "kind": "phrase",
+      "spell": "jìn"
+    },
+    {
+      "text": "近",
+      "hint": "near; close",
+      "kind": "phrase",
+      "spell": "jìn"
+    },
+    {
+      "text": "进来",
+      "hint": "to come in",
+      "kind": "phrase",
+      "spell": "jìn lái"
+    },
+    {
+      "text": "进去",
+      "hint": "to go in",
+      "kind": "phrase",
+      "spell": "jìn qù"
+    },
+    {
+      "text": "经常",
+      "hint": "often; frequently",
+      "kind": "phrase",
+      "spell": "jīng cháng"
+    },
+    {
+      "text": "酒店",
+      "hint": "hotel",
+      "kind": "phrase",
+      "spell": "jiǔ diàn"
+    },
+    {
+      "text": "就",
+      "hint": "then; just; at once",
+      "kind": "phrase",
+      "spell": "jiù"
+    },
+    {
+      "text": "咖啡",
+      "hint": "coffee",
+      "kind": "phrase",
+      "spell": "kā fēi"
+    },
+    {
+      "text": "开始",
+      "hint": "to begin; to start",
+      "kind": "phrase",
+      "spell": "kāi shǐ"
+    },
+    {
+      "text": "开学",
+      "hint": "school starts; term begins",
+      "kind": "phrase",
+      "spell": "kāi xué"
+    },
+    {
+      "text": "考",
+      "hint": "to take a test; to examine",
+      "kind": "phrase",
+      "spell": "kǎo"
+    },
+    {
+      "text": "考试",
+      "hint": "exam; to take an exam",
+      "kind": "phrase",
+      "spell": "kǎo shì"
+    },
+    {
+      "text": "可能",
+      "hint": "possible; maybe",
+      "kind": "phrase",
+      "spell": "kě néng"
+    },
+    {
+      "text": "裤子",
+      "hint": "pants; trousers",
+      "kind": "phrase",
+      "spell": "kù zi"
+    },
+    {
+      "text": "快",
+      "hint": "fast; quick",
+      "kind": "phrase",
+      "spell": "kuài"
+    },
+    {
+      "text": "快乐",
+      "hint": "happy; joyful",
+      "kind": "phrase",
+      "spell": "kuài lè"
+    },
+    {
+      "text": "快要",
+      "hint": "about to; on the verge of",
+      "kind": "phrase",
+      "spell": "kuài yào"
+    },
+    {
+      "text": "篮球",
+      "hint": "basketball",
+      "kind": "phrase",
+      "spell": "lán qiú"
+    },
+    {
+      "text": "累",
+      "hint": "tired",
+      "kind": "phrase",
+      "spell": "lèi"
+    },
+    {
+      "text": "离",
+      "hint": "to leave; away from",
+      "kind": "phrase",
+      "spell": "lí"
+    },
+    {
+      "text": "里面",
+      "hint": "inside",
+      "kind": "phrase",
+      "spell": "lǐ miàn"
+    },
+    {
+      "text": "楼",
+      "hint": "building; floor",
+      "kind": "phrase",
+      "spell": "loú"
+    },
+    {
+      "text": "路",
+      "hint": "road; route",
+      "kind": "phrase",
+      "spell": "lù"
+    },
+    {
+      "text": "路上",
+      "hint": "on the way; on the road",
+      "kind": "phrase",
+      "spell": "lù shang"
+    },
+    {
+      "text": "旅游",
+      "hint": "to travel; trip",
+      "kind": "phrase",
+      "spell": "lǚ yoú"
+    },
+    {
+      "text": "绿茶",
+      "hint": "green tea",
+      "kind": "phrase",
+      "spell": "lǜ chá"
+    },
+    {
+      "text": "绿色",
+      "hint": "green",
+      "kind": "phrase",
+      "spell": "lǜ sè"
+    },
+    {
+      "text": "慢",
+      "hint": "slow",
+      "kind": "phrase",
+      "spell": "màn"
+    },
+    {
+      "text": "没意思",
+      "hint": "boring; uninteresting",
+      "kind": "phrase",
+      "spell": "méi yìsi"
+    },
+    {
+      "text": "每",
+      "hint": "every; each",
+      "kind": "phrase",
+      "spell": "měi"
+    },
+    {
+      "text": "门",
+      "hint": "door; gate",
+      "kind": "phrase",
+      "spell": "mén"
+    },
+    {
+      "text": "门口",
+      "hint": "doorway; entrance",
+      "kind": "phrase",
+      "spell": "mén koǔ"
+    },
+    {
+      "text": "门票",
+      "hint": "ticket; admission",
+      "kind": "phrase",
+      "spell": "mén piào"
+    },
+    {
+      "text": "面",
+      "hint": "face; side; surface",
+      "kind": "phrase",
+      "spell": "miàn"
+    },
+    {
+      "text": "名",
+      "hint": "name; measure word for people",
+      "kind": "phrase",
+      "spell": "míng"
+    },
+    {
+      "text": "拿",
+      "hint": "to take; to hold",
+      "kind": "phrase",
+      "spell": "ná"
+    },
+    {
+      "text": "那么",
+      "hint": "like that; so; then",
+      "kind": "phrase",
+      "spell": "nà me"
+    },
+    {
+      "text": "那样",
+      "hint": "that kind; that way",
+      "kind": "phrase",
+      "spell": "nà yàng"
+    },
+    {
+      "text": "奶茶",
+      "hint": "milk tea",
+      "kind": "phrase",
+      "spell": "nǎi chá"
+    },
+    {
+      "text": "奶奶",
+      "hint": "grandma; paternal grandmother",
+      "kind": "phrase",
+      "spell": "nǎi nai"
+    },
+    {
+      "text": "男孩儿",
+      "hint": "boy",
+      "kind": "phrase",
+      "spell": "nán hái r"
+    },
+    {
+      "text": "鸟",
+      "hint": "bird",
+      "kind": "phrase",
+      "spell": "niǎo"
+    },
+    {
+      "text": "女孩儿",
+      "hint": "girl",
+      "kind": "phrase",
+      "spell": "nǚ hái r"
+    },
+    {
+      "text": "旁边",
+      "hint": "side; next to",
+      "kind": "phrase",
+      "spell": "páng biān"
+    },
+    {
+      "text": "跑",
+      "hint": "to run",
+      "kind": "phrase",
+      "spell": "pǎo"
+    },
+    {
+      "text": "跑步",
+      "hint": "to run; to jog",
+      "kind": "phrase",
+      "spell": "pǎo bù"
+    },
+    {
+      "text": "票",
+      "hint": "ticket",
+      "kind": "phrase",
+      "spell": "piào"
+    },
+    {
+      "text": "妻子",
+      "hint": "wife",
+      "kind": "phrase",
+      "spell": "qī zi"
+    },
+    {
+      "text": "起来",
+      "hint": "to get up; to rise",
+      "kind": "phrase",
+      "spell": "qǐ lái"
+    },
+    {
+      "text": "前面",
+      "hint": "front; ahead",
+      "kind": "phrase",
+      "spell": "qián miàn"
+    },
+    {
+      "text": "晴",
+      "hint": "sunny; clear weather",
+      "kind": "phrase",
+      "spell": "qíng"
+    },
+    {
+      "text": "球",
+      "hint": "ball",
+      "kind": "phrase",
+      "spell": "qiú"
+    },
+    {
+      "text": "让",
+      "hint": "to let; to allow",
+      "kind": "phrase",
+      "spell": "ràng"
+    },
+    {
+      "text": "肉",
+      "hint": "meat",
+      "kind": "phrase",
+      "spell": "roù"
+    },
+    {
+      "text": "商场",
+      "hint": "shopping mall",
+      "kind": "phrase",
+      "spell": "shāng chǎng"
+    },
+    {
+      "text": "上来",
+      "hint": "to come up",
+      "kind": "phrase",
+      "spell": "shàng lái"
+    },
+    {
+      "text": "上面",
+      "hint": "above; on top",
+      "kind": "phrase",
+      "spell": "shàng miàn"
+    },
+    {
+      "text": "上去",
+      "hint": "to go up",
+      "kind": "phrase",
+      "spell": "shàng qù"
+    },
+    {
+      "text": "上网",
+      "hint": "to go online",
+      "kind": "phrase",
+      "spell": "shàng wǎng"
+    },
+    {
+      "text": "身体",
+      "hint": "body; health",
+      "kind": "phrase",
+      "spell": "shēn tǐ"
+    },
+    {
+      "text": "生日",
+      "hint": "birthday",
+      "kind": "phrase",
+      "spell": "shēng rì"
+    },
+    {
+      "text": "时",
+      "hint": "time; hour",
+      "kind": "phrase",
+      "spell": "shí"
+    },
+    {
+      "text": "事情",
+      "hint": "matter; affair; thing",
+      "kind": "phrase",
+      "spell": "shì qing"
+    },
+    {
+      "text": "手",
+      "hint": "hand",
+      "kind": "phrase",
+      "spell": "shoǔ"
+    },
+    {
+      "text": "手表",
+      "hint": "wristwatch",
+      "kind": "phrase",
+      "spell": "shoǔ biǎo"
+    },
+    {
+      "text": "书包",
+      "hint": "schoolbag",
+      "kind": "phrase",
+      "spell": "shū bāo"
+    },
+    {
+      "text": "舒服",
+      "hint": "comfortable",
+      "kind": "phrase",
+      "spell": "shū fu"
+    },
+    {
+      "text": "送",
+      "hint": "to send; to give",
+      "kind": "phrase",
+      "spell": "sòng"
+    },
+    {
+      "text": "虽然",
+      "hint": "although; even though",
+      "kind": "phrase",
+      "spell": "sūi rán"
+    },
+    {
+      "text": "所以",
+      "hint": "so; therefore",
+      "kind": "phrase",
+      "spell": "suǒ yǐ"
+    },
+    {
+      "text": "疼",
+      "hint": "sore; painful; to hurt",
+      "kind": "phrase",
+      "spell": "téng"
+    },
+    {
+      "text": "踢",
+      "hint": "to kick",
+      "kind": "phrase",
+      "spell": "tī"
+    },
+    {
+      "text": "题",
+      "hint": "question; problem",
+      "kind": "phrase",
+      "spell": "tí"
+    },
+    {
+      "text": "条",
+      "hint": "classifier for long thin things; strip",
+      "kind": "phrase",
+      "spell": "tiáo"
+    },
+    {
+      "text": "跳舞",
+      "hint": "to dance",
+      "kind": "phrase",
+      "spell": "tiào wǔ"
+    },
+    {
+      "text": "头",
+      "hint": "head; measure word for livestock; first, leading",
+      "kind": "phrase",
+      "spell": "toú"
+    },
+    {
+      "text": "外国",
+      "hint": "foreign country",
+      "kind": "phrase",
+      "spell": "wài guó"
+    },
+    {
+      "text": "外面",
+      "hint": "outside",
+      "kind": "phrase",
+      "spell": "wài miàn"
+    },
+    {
+      "text": "完",
+      "hint": "to finish; complete",
+      "kind": "phrase",
+      "spell": "wán"
+    },
+    {
+      "text": "万",
+      "hint": "ten thousand",
+      "kind": "phrase",
+      "spell": "wàn"
+    },
+    {
+      "text": "往",
+      "hint": "towards; to go toward",
+      "kind": "phrase",
+      "spell": "wǎng"
+    },
+    {
+      "text": "网上",
+      "hint": "online; on the Internet",
+      "kind": "phrase",
+      "spell": "wǎng shang"
+    },
+    {
+      "text": "忘",
+      "hint": "to forget",
+      "kind": "phrase",
+      "spell": "wàng"
+    },
+    {
+      "text": "位",
+      "hint": "measure word for people (polite); position",
+      "kind": "phrase",
+      "spell": "wèi"
+    },
+    {
+      "text": "为什么",
+      "hint": "why",
+      "kind": "phrase",
+      "spell": "wèi shénme"
+    },
+    {
+      "text": "希望",
+      "hint": "to hope; hope",
+      "kind": "phrase",
+      "spell": "xī wàng"
+    },
+    {
+      "text": "洗",
+      "hint": "to wash",
+      "kind": "phrase",
+      "spell": "xǐ"
+    },
+    {
+      "text": "洗手间",
+      "hint": "restroom; toilet",
+      "kind": "phrase",
+      "spell": "xǐ shoǔ jiān"
+    },
+    {
+      "text": "下来",
+      "hint": "to come down",
+      "kind": "phrase",
+      "spell": "xià lái"
+    },
+    {
+      "text": "下面",
+      "hint": "below; under",
+      "kind": "phrase",
+      "spell": "xià miàn"
+    },
+    {
+      "text": "下去",
+      "hint": "to go down",
+      "kind": "phrase",
+      "spell": "xià qù"
+    },
+    {
+      "text": "小孩儿",
+      "hint": "child",
+      "kind": "phrase",
+      "spell": "xiǎo hái r"
+    },
+    {
+      "text": "小时候",
+      "hint": "childhood; in one's childhood",
+      "kind": "phrase",
+      "spell": "xiǎo shí hou"
+    },
+    {
+      "text": "笑",
+      "hint": "to laugh; to smile",
+      "kind": "phrase",
+      "spell": "xiào"
+    },
+    {
+      "text": "姓",
+      "hint": "surname; family name",
+      "kind": "phrase",
+      "spell": "xìng"
+    },
+    {
+      "text": "姓名",
+      "hint": "full name",
+      "kind": "phrase",
+      "spell": "xìng míng"
+    },
+    {
+      "text": "颜色",
+      "hint": "color",
+      "kind": "phrase",
+      "spell": "yán sè"
+    },
+    {
+      "text": "眼睛",
+      "hint": "eye",
+      "kind": "phrase",
+      "spell": "yǎn jing"
+    },
+    {
+      "text": "药",
+      "hint": "medicine; drug",
+      "kind": "phrase",
+      "spell": "yào"
+    },
+    {
+      "text": "药店",
+      "hint": "pharmacy; drugstore",
+      "kind": "phrase",
+      "spell": "yào diàn"
+    },
+    {
+      "text": "爷爷",
+      "hint": "grandpa; paternal grandfather",
+      "kind": "phrase",
+      "spell": "yé ye"
+    },
+    {
+      "text": "一会儿",
+      "hint": "a little while; in a moment",
+      "kind": "phrase",
+      "spell": "yí hùi r"
+    },
+    {
+      "text": "已经",
+      "hint": "already",
+      "kind": "phrase",
+      "spell": "yǐ jīng"
+    },
+    {
+      "text": "一起",
+      "hint": "together",
+      "kind": "phrase",
+      "spell": "yì qǐ"
+    },
+    {
+      "text": "意思",
+      "hint": "meaning; idea",
+      "kind": "phrase",
+      "spell": "yì si"
+    },
+    {
+      "text": "阴",
+      "hint": "cloudy; overcast",
+      "kind": "phrase",
+      "spell": "yīn"
+    },
+    {
+      "text": "因为",
+      "hint": "because",
+      "kind": "phrase",
+      "spell": "yīn wèi"
+    },
+    {
+      "text": "游",
+      "hint": "to swim",
+      "kind": "phrase",
+      "spell": "yoú"
+    },
+    {
+      "text": "游泳",
+      "hint": "to swim; swimming",
+      "kind": "phrase",
+      "spell": "yoú yǒng"
+    },
+    {
+      "text": "有意思",
+      "hint": "interesting",
+      "kind": "phrase",
+      "spell": "yǒu yìsi"
+    },
+    {
+      "text": "有时",
+      "hint": "sometimes",
+      "kind": "phrase",
+      "spell": "yoǔ shí"
+    },
+    {
+      "text": "右",
+      "hint": "right; right-hand side",
+      "kind": "phrase",
+      "spell": "yoù"
+    },
+    {
+      "text": "右边",
+      "hint": "right side",
+      "kind": "phrase",
+      "spell": "yoù bian"
+    },
+    {
+      "text": "鱼",
+      "hint": "fish",
+      "kind": "phrase",
+      "spell": "yú"
+    },
+    {
+      "text": "远",
+      "hint": "far; distant",
+      "kind": "phrase",
+      "spell": "yuǎn"
+    },
+    {
+      "text": "运动",
+      "hint": "sports; exercise; to move",
+      "kind": "phrase",
+      "spell": "yùn dòng"
+    },
+    {
+      "text": "站",
+      "hint": "station; to stand",
+      "kind": "phrase",
+      "spell": "zhàn"
+    },
+    {
+      "text": "丈夫",
+      "hint": "husband",
+      "kind": "phrase",
+      "spell": "zhàng fu"
+    },
+    {
+      "text": "这么",
+      "hint": "so; this much",
+      "kind": "phrase",
+      "spell": "zhè me"
+    },
+    {
+      "text": "这样",
+      "hint": "like this; this way",
+      "kind": "phrase",
+      "spell": "zhè yàng"
+    },
+    {
+      "text": "着",
+      "hint": "grammar particle: action in progress",
+      "kind": "phrase",
+      "spell": "zhe"
+    },
+    {
+      "text": "正",
+      "hint": "straight; upright; correct",
+      "kind": "phrase",
+      "spell": "zhèng"
+    },
+    {
+      "text": "周",
+      "hint": "week",
+      "kind": "phrase",
+      "spell": "zhoū"
+    },
+    {
+      "text": "准备",
+      "hint": "to prepare; preparation",
+      "kind": "phrase",
+      "spell": "zhǔn bèi"
+    },
+    {
+      "text": "自己",
+      "hint": "oneself; self",
+      "kind": "phrase",
+      "spell": "zì jǐ"
+    },
+    {
+      "text": "走",
+      "hint": "to walk; to go",
+      "kind": "phrase",
+      "spell": "zoǔ"
+    },
+    {
+      "text": "走路",
+      "hint": "to walk; to go on foot",
+      "kind": "phrase",
+      "spell": "zoǔ lù"
+    },
+    {
+      "text": "足球",
+      "hint": "soccer; football",
+      "kind": "phrase",
+      "spell": "zú qiú"
+    },
+    {
+      "text": "最",
+      "hint": "most; -est",
+      "kind": "phrase",
+      "spell": "zùi"
+    },
+    {
+      "text": "左",
+      "hint": "left; left-hand side",
+      "kind": "phrase",
+      "spell": "zuǒ"
+    },
+    {
+      "text": "左边",
+      "hint": "left; left side",
+      "kind": "phrase",
+      "spell": "zuǒ bian"
+    },
+    {
+      "text": "阿姨",
+      "hint": "aunt; auntie",
+      "kind": "phrase",
+      "spell": "ā yí"
+    },
+    {
+      "text": "矮",
+      "hint": "short (of height); low",
+      "kind": "phrase",
+      "spell": "ǎi"
+    },
+    {
+      "text": "爱人",
+      "hint": "spouse",
+      "kind": "phrase",
+      "spell": "ài ren"
+    },
+    {
+      "text": "安静",
+      "hint": "quiet; peaceful",
+      "kind": "phrase",
+      "spell": "ān jìng"
+    },
+    {
+      "text": "安全",
+      "hint": "safe; secure",
+      "kind": "phrase",
+      "spell": "ān quán"
+    },
+    {
+      "text": "把",
+      "hint": "measure word for things with handles; object marker",
+      "kind": "phrase",
+      "spell": "bǎ"
+    },
+    {
+      "text": "搬",
+      "hint": "to move; to relocate",
+      "kind": "phrase",
+      "spell": "bān"
+    },
+    {
+      "text": "班级",
+      "hint": "class; grade",
+      "kind": "phrase",
+      "spell": "bān jí"
+    },
+    {
+      "text": "搬家",
+      "hint": "to move house",
+      "kind": "phrase",
+      "spell": "bān jiā"
+    },
+    {
+      "text": "办",
+      "hint": "to handle; to deal with",
+      "kind": "phrase",
+      "spell": "bàn"
+    },
+    {
+      "text": "办法",
+      "hint": "solution; way to handle a problem",
+      "kind": "phrase",
+      "spell": "bàn fǎ"
+    },
+    {
+      "text": "办公室",
+      "hint": "office",
+      "kind": "phrase",
+      "spell": "bàn gōng shì"
+    },
+    {
+      "text": "半天",
+      "hint": "half a day; quite a while",
+      "kind": "phrase",
+      "spell": "bàn tiān"
+    },
+    {
+      "text": "帮助",
+      "hint": "to help; assistance",
+      "kind": "phrase",
+      "spell": "bāng zhù"
+    },
+    {
+      "text": "饱",
+      "hint": "full after eating; satisfied",
+      "kind": "phrase",
+      "spell": "bǎo"
+    },
+    {
+      "text": "报纸",
+      "hint": "newspaper",
+      "kind": "phrase",
+      "spell": "bào zhǐ"
+    },
+    {
+      "text": "北",
+      "hint": "north",
+      "kind": "phrase",
+      "spell": "běi"
+    },
+    {
+      "text": "北方",
+      "hint": "north; the northern part",
+      "kind": "phrase",
+      "spell": "běi fāng"
+    },
+    {
+      "text": "被",
+      "hint": "by (marking the agent in a passive sentence)",
+      "kind": "phrase",
+      "spell": "bèi"
+    },
+    {
+      "text": "笔记",
+      "hint": "notes; to take notes",
+      "kind": "phrase",
+      "spell": "bǐ jì"
+    },
+    {
+      "text": "比较",
+      "hint": "to compare; comparatively",
+      "kind": "phrase",
+      "spell": "bǐ jiào"
+    },
+    {
+      "text": "笔记本",
+      "hint": "notebook; laptop",
+      "kind": "phrase",
+      "spell": "bǐ jì běn"
+    },
+    {
+      "text": "比如",
+      "hint": "for example; such as",
+      "kind": "phrase",
+      "spell": "bǐ rú"
+    },
+    {
+      "text": "比赛",
+      "hint": "competition; match",
+      "kind": "phrase",
+      "spell": "bǐ sài"
+    },
+    {
+      "text": "必须",
+      "hint": "must; to have to",
+      "kind": "phrase",
+      "spell": "bì xū"
+    },
+    {
+      "text": "变",
+      "hint": "to change",
+      "kind": "phrase",
+      "spell": "biàn"
+    },
+    {
+      "text": "遍",
+      "hint": "measure word for times an action is done",
+      "kind": "phrase",
+      "spell": "biàn"
+    },
+    {
+      "text": "变成",
+      "hint": "to change into; to become",
+      "kind": "phrase",
+      "spell": "biàn chéng"
+    },
+    {
+      "text": "变化",
+      "hint": "change; to change",
+      "kind": "phrase",
+      "spell": "biàn huà"
+    },
+    {
+      "text": "表演",
+      "hint": "to perform; performance",
+      "kind": "phrase",
+      "spell": "biǎo yǎn"
+    },
+    {
+      "text": "别的",
+      "hint": "other; else",
+      "kind": "phrase",
+      "spell": "bié de"
+    },
+    {
+      "text": "别人",
+      "hint": "other people; others",
+      "kind": "phrase",
+      "spell": "bié rén"
+    },
+    {
+      "text": "宾馆",
+      "hint": "hotel; guesthouse",
+      "kind": "phrase",
+      "spell": "bīn guǎn"
+    },
+    {
+      "text": "冰",
+      "hint": "ice",
+      "kind": "phrase",
+      "spell": "bīng"
+    },
+    {
+      "text": "冰激凌",
+      "hint": "ice cream",
+      "kind": "phrase",
+      "spell": "bīng jī líng"
+    },
+    {
+      "text": "冰箱",
+      "hint": "refrigerator",
+      "kind": "phrase",
+      "spell": "bīng xiāng"
+    },
+    {
+      "text": "病人",
+      "hint": "patient; sick person",
+      "kind": "phrase",
+      "spell": "bìng rén"
+    },
+    {
+      "text": "不但",
+      "hint": "not only",
+      "kind": "phrase",
+      "spell": "bú dàn"
+    },
+    {
+      "text": "不见",
+      "hint": "not to see; to disappear",
+      "kind": "phrase",
+      "spell": "bú jiàn"
+    },
+    {
+      "text": "不用",
+      "hint": "need not; no need to",
+      "kind": "phrase",
+      "spell": "bú yòng"
+    },
+    {
+      "text": "不同",
+      "hint": "different; not the same",
+      "kind": "phrase",
+      "spell": "bù tóng"
+    },
+    {
+      "text": "不久",
+      "hint": "soon; not long after",
+      "kind": "phrase",
+      "spell": "bù jiǔ"
+    },
+    {
+      "text": "不行",
+      "hint": "won't do; not okay",
+      "kind": "phrase",
+      "spell": "bù xíng"
+    },
+    {
+      "text": "才",
+      "hint": "only; not until",
+      "kind": "phrase",
+      "spell": "cái"
+    },
+    {
+      "text": "菜单",
+      "hint": "menu",
+      "kind": "phrase",
+      "spell": "cài dān"
+    },
+    {
+      "text": "参加",
+      "hint": "to participate; to join",
+      "kind": "phrase",
+      "spell": "cān jiā"
+    },
+    {
+      "text": "草",
+      "hint": "grass",
+      "kind": "phrase",
+      "spell": "cǎo"
+    },
+    {
+      "text": "草地",
+      "hint": "lawn; meadow",
+      "kind": "phrase",
+      "spell": "cǎo dì"
+    },
+    {
+      "text": "层",
+      "hint": "measure word for layers and floors",
+      "kind": "phrase",
+      "spell": "céng"
+    },
+    {
+      "text": "查",
+      "hint": "to check; to look up",
+      "kind": "phrase",
+      "spell": "chá"
+    },
+    {
+      "text": "差",
+      "hint": "to lack; to be short of; bad",
+      "kind": "phrase",
+      "spell": "chà"
+    },
+    {
+      "text": "差不多",
+      "hint": "almost; nearly; more or less",
+      "kind": "phrase",
+      "spell": "chà bu duō"
+    },
+    {
+      "text": "尝",
+      "hint": "to taste; to try",
+      "kind": "phrase",
+      "spell": "cháng"
+    },
+    {
+      "text": "常",
+      "hint": "often; ordinary",
+      "kind": "phrase",
+      "spell": "cháng"
+    },
+    {
+      "text": "常见",
+      "hint": "common; commonly seen",
+      "kind": "phrase",
+      "spell": "cháng jiàn"
+    },
+    {
+      "text": "常用",
+      "hint": "commonly used",
+      "kind": "phrase",
+      "spell": "cháng yòng"
+    },
+    {
+      "text": "常常",
+      "hint": "often; frequently",
+      "kind": "phrase",
+      "spell": "cháng cháng"
+    },
+    {
+      "text": "衬衫",
+      "hint": "shirt; blouse",
+      "kind": "phrase",
+      "spell": "chèn shān"
+    },
+    {
+      "text": "成绩",
+      "hint": "grades; achievement",
+      "kind": "phrase",
+      "spell": "chéng jì"
+    },
+    {
+      "text": "城市",
+      "hint": "city",
+      "kind": "phrase",
+      "spell": "chéng shì"
+    },
+    {
+      "text": "迟到",
+      "hint": "to arrive late",
+      "kind": "phrase",
+      "spell": "chí dào"
+    },
+    {
+      "text": "出发",
+      "hint": "to set off; to start out",
+      "kind": "phrase",
+      "spell": "chū fā"
+    },
+    {
+      "text": "出生",
+      "hint": "to be born",
+      "kind": "phrase",
+      "spell": "chū shēng"
+    },
+    {
+      "text": "出院",
+      "hint": "to leave hospital",
+      "kind": "phrase",
+      "spell": "chū yuàn"
+    },
+    {
+      "text": "初中",
+      "hint": "junior high school",
+      "kind": "phrase",
+      "spell": "chū zhōng"
+    },
+    {
+      "text": "除了",
+      "hint": "apart from; besides",
+      "kind": "phrase",
+      "spell": "chú le"
+    },
+    {
+      "text": "船",
+      "hint": "boat; ship",
+      "kind": "phrase",
+      "spell": "chuán"
+    },
+    {
+      "text": "春天",
+      "hint": "spring",
+      "kind": "phrase",
+      "spell": "chūn tiān"
+    },
+    {
+      "text": "词典",
+      "hint": "dictionary",
+      "kind": "phrase",
+      "spell": "cí diǎn"
+    },
+    {
+      "text": "聪明",
+      "hint": "clever; intelligent",
+      "kind": "phrase",
+      "spell": "cōng míng"
+    },
+    {
+      "text": "打扫",
+      "hint": "to clean; to sweep",
+      "kind": "phrase",
+      "spell": "dǎ sǎo"
+    },
+    {
+      "text": "打算",
+      "hint": "to plan; to intend",
+      "kind": "phrase",
+      "spell": "dǎ suàn"
+    },
+    {
+      "text": "大概",
+      "hint": "probably; roughly",
+      "kind": "phrase",
+      "spell": "dà gài"
+    },
+    {
+      "text": "大人",
+      "hint": "adult; grownup",
+      "kind": "phrase",
+      "spell": "dà ren"
+    },
+    {
+      "text": "大小",
+      "hint": "size",
+      "kind": "phrase",
+      "spell": "dà xiǎo"
+    },
+    {
+      "text": "大熊猫",
+      "hint": "giant panda",
+      "kind": "phrase",
+      "spell": "dà xióng māo"
+    },
+    {
+      "text": "大衣",
+      "hint": "overcoat",
+      "kind": "phrase",
+      "spell": "dà yī"
+    },
+    {
+      "text": "带",
+      "hint": "to bring; to take; to carry",
+      "kind": "phrase",
+      "spell": "dài"
+    },
+    {
+      "text": "担心",
+      "hint": "to worry; anxious",
+      "kind": "phrase",
+      "spell": "dān xīn"
+    },
+    {
+      "text": "蛋糕",
+      "hint": "cake",
+      "kind": "phrase",
+      "spell": "dàn gāo"
+    },
+    {
+      "text": "当然",
+      "hint": "of course; certainly",
+      "kind": "phrase",
+      "spell": "dāng rán"
+    },
+    {
+      "text": "到处",
+      "hint": "everywhere",
+      "kind": "phrase",
+      "spell": "dào chù"
+    },
+    {
+      "text": "得到",
+      "hint": "to get; to obtain",
+      "kind": "phrase",
+      "spell": "dé dào"
+    },
+    {
+      "text": "得分",
+      "hint": "to score; points scored",
+      "kind": "phrase",
+      "spell": "dé fēn"
+    },
+    {
+      "text": "的话",
+      "hint": "grammar particle: if",
+      "kind": "phrase",
+      "spell": "de huà"
+    },
+    {
+      "text": "灯",
+      "hint": "lamp; light",
+      "kind": "phrase",
+      "spell": "dēng"
+    },
+    {
+      "text": "地点",
+      "hint": "place; location",
+      "kind": "phrase",
+      "spell": "dì diǎn"
+    },
+    {
+      "text": "地方",
+      "hint": "place; area",
+      "kind": "phrase",
+      "spell": "dì fang"
+    },
+    {
+      "text": "地图",
+      "hint": "map",
+      "kind": "phrase",
+      "spell": "dì tú"
+    },
+    {
+      "text": "电",
+      "hint": "electricity",
+      "kind": "phrase",
+      "spell": "diàn"
+    },
+    {
+      "text": "电梯",
+      "hint": "elevator",
+      "kind": "phrase",
+      "spell": "diàn tī"
+    },
+    {
+      "text": "电子书",
+      "hint": "e-book",
+      "kind": "phrase",
+      "spell": "diàn zǐ shū"
+    },
+    {
+      "text": "丢",
+      "hint": "to lose; to throw",
+      "kind": "phrase",
+      "spell": "diū"
+    },
+    {
+      "text": "东",
+      "hint": "east",
+      "kind": "phrase",
+      "spell": "dōng"
+    },
+    {
+      "text": "东北",
+      "hint": "northeast; Northeast China",
+      "kind": "phrase",
+      "spell": "dōng běi"
+    },
+    {
+      "text": "东方",
+      "hint": "the east; the Orient",
+      "kind": "phrase",
+      "spell": "dōng fāng"
+    },
+    {
+      "text": "东南",
+      "hint": "southeast",
+      "kind": "phrase",
+      "spell": "dōng nán"
+    },
+    {
+      "text": "冬天",
+      "hint": "winter",
+      "kind": "phrase",
+      "spell": "dōng tiān"
+    },
+    {
+      "text": "懂得",
+      "hint": "to understand",
+      "kind": "phrase",
+      "spell": "dǒng de"
+    },
+    {
+      "text": "动物",
+      "hint": "animal",
+      "kind": "phrase",
+      "spell": "dòng wù"
+    },
+    {
+      "text": "动物园",
+      "hint": "zoo",
+      "kind": "phrase",
+      "spell": "dòng wù yuán"
+    },
+    {
+      "text": "短",
+      "hint": "short; brief",
+      "kind": "phrase",
+      "spell": "duǎn"
+    },
+    {
+      "text": "短裤",
+      "hint": "shorts",
+      "kind": "phrase",
+      "spell": "duǎn kù"
+    },
+    {
+      "text": "段",
+      "hint": "measure word for sections and paragraphs",
+      "kind": "phrase",
+      "spell": "duàn"
+    },
+    {
+      "text": "锻炼",
+      "hint": "to exercise; to train",
+      "kind": "phrase",
+      "spell": "duàn liàn"
+    },
+    {
+      "text": "对话",
+      "hint": "to talk (with sb); dialogue; conversation",
+      "kind": "phrase",
+      "spell": "dùi huà"
+    },
+    {
+      "text": "饿",
+      "hint": "hungry",
+      "kind": "phrase",
+      "spell": "è"
+    },
+    {
+      "text": "而且",
+      "hint": "moreover; and also",
+      "kind": "phrase",
+      "spell": "ér qiě"
+    },
+    {
+      "text": "耳朵",
+      "hint": "ear",
+      "kind": "phrase",
+      "spell": "ěr duo"
+    },
+    {
+      "text": "耳机",
+      "hint": "earphones; headphones",
+      "kind": "phrase",
+      "spell": "ěr jī"
+    },
+    {
+      "text": "发",
+      "hint": "to send; to issue",
+      "kind": "phrase",
+      "spell": "fā"
+    },
+    {
+      "text": "发烧",
+      "hint": "to have a fever; fever",
+      "kind": "phrase",
+      "spell": "fā shāo"
+    },
+    {
+      "text": "发生",
+      "hint": "to happen; to occur",
+      "kind": "phrase",
+      "spell": "fā shēng"
+    },
+    {
+      "text": "发现",
+      "hint": "to discover; to find",
+      "kind": "phrase",
+      "spell": "fā xiàn"
+    },
+    {
+      "text": "发展",
+      "hint": "to develop; development",
+      "kind": "phrase",
+      "spell": "fā zhǎn"
+    },
+    {
+      "text": "方便",
+      "hint": "convenient; handy",
+      "kind": "phrase",
+      "spell": "fāng biàn"
+    },
+    {
+      "text": "方便面",
+      "hint": "instant noodles",
+      "kind": "phrase",
+      "spell": "fāng biàn miàn"
+    },
+    {
+      "text": "方法",
+      "hint": "method; way",
+      "kind": "phrase",
+      "spell": "fāng fǎ"
+    },
+    {
+      "text": "方向",
+      "hint": "direction",
+      "kind": "phrase",
+      "spell": "fāng xiàng"
+    },
+    {
+      "text": "房子",
+      "hint": "house; building",
+      "kind": "phrase",
+      "spell": "fáng zi"
+    },
+    {
+      "text": "放",
+      "hint": "to put; to release",
+      "kind": "phrase",
+      "spell": "fàng"
+    },
+    {
+      "text": "放假",
+      "hint": "to have a holiday",
+      "kind": "phrase",
+      "spell": "fàng jià"
+    },
+    {
+      "text": "放心",
+      "hint": "to feel relieved; rest assured",
+      "kind": "phrase",
+      "spell": "fàng xīn"
+    },
+    {
+      "text": "放学",
+      "hint": "to finish classes (for the day); (of school) to be over",
+      "kind": "phrase",
+      "spell": "fàng xué"
+    },
+    {
+      "text": "分开",
+      "hint": "to separate; to part",
+      "kind": "phrase",
+      "spell": "fēn kāi"
+    },
+    {
+      "text": "风",
+      "hint": "wind",
+      "kind": "phrase",
+      "spell": "fēng"
+    },
+    {
+      "text": "封",
+      "hint": "measure word for letters; to seal",
+      "kind": "phrase",
+      "spell": "fēng"
+    },
+    {
+      "text": "夫妻",
+      "hint": "husband and wife",
+      "kind": "phrase",
+      "spell": "fū qī"
+    },
+    {
+      "text": "服务",
+      "hint": "to serve; service",
+      "kind": "phrase",
+      "spell": "fú wù"
+    },
+    {
+      "text": "附近",
+      "hint": "nearby; in the vicinity",
+      "kind": "phrase",
+      "spell": "fù jìn"
+    },
+    {
+      "text": "复习",
+      "hint": "to review; revision",
+      "kind": "phrase",
+      "spell": "fù xí"
+    },
+    {
+      "text": "该",
+      "hint": "should; ought to",
+      "kind": "phrase",
+      "spell": "gāi"
+    },
+    {
+      "text": "干净",
+      "hint": "clean; neat",
+      "kind": "phrase",
+      "spell": "gān jìng"
+    },
+    {
+      "text": "感兴趣",
+      "hint": "to be interested in",
+      "kind": "phrase",
+      "spell": "gǎn xìngqù"
+    },
+    {
+      "text": "感到",
+      "hint": "to feel; to sense",
+      "kind": "phrase",
+      "spell": "gǎn dào"
+    },
+    {
+      "text": "感冒",
+      "hint": "to catch a cold; a cold",
+      "kind": "phrase",
+      "spell": "gǎn mào"
+    },
+    {
+      "text": "干",
+      "hint": "to do; to work",
+      "kind": "phrase",
+      "spell": "gàn"
+    },
+    {
+      "text": "刚",
+      "hint": "just; only just; exactly",
+      "kind": "phrase",
+      "spell": "gāng"
+    },
+    {
+      "text": "刚才",
+      "hint": "just now; a moment ago",
+      "kind": "phrase",
+      "spell": "gāng cái"
+    },
+    {
+      "text": "刚刚",
+      "hint": "just recently; just now",
+      "kind": "phrase",
+      "spell": "gāng gāng"
+    },
+    {
+      "text": "高铁",
+      "hint": "high-speed rail",
+      "kind": "phrase",
+      "spell": "gāo tiě"
+    },
+    {
+      "text": "根据",
+      "hint": "according to; based on",
+      "kind": "phrase",
+      "spell": "gēn jù"
+    },
+    {
+      "text": "更",
+      "hint": "more; even more",
+      "kind": "phrase",
+      "spell": "gèng"
+    },
+    {
+      "text": "公斤",
+      "hint": "kilogram",
+      "kind": "phrase",
+      "spell": "gōng jīn"
+    },
+    {
+      "text": "公园",
+      "hint": "park",
+      "kind": "phrase",
+      "spell": "gōng yuán"
+    },
+    {
+      "text": "工作日",
+      "hint": "workday; weekday",
+      "kind": "phrase",
+      "spell": "gōng zuò rì"
+    },
+    {
+      "text": "故事",
+      "hint": "story; tale",
+      "kind": "phrase",
+      "spell": "gù shi"
+    },
+    {
+      "text": "刮",
+      "hint": "to blow; to scrape; to shave",
+      "kind": "phrase",
+      "spell": "guā"
+    },
+    {
+      "text": "关",
+      "hint": "to close; to turn off",
+      "kind": "phrase",
+      "spell": "guān"
+    },
+    {
+      "text": "关机",
+      "hint": "to turn off; to power off",
+      "kind": "phrase",
+      "spell": "guān jī"
+    },
+    {
+      "text": "关系",
+      "hint": "relationship; relation",
+      "kind": "phrase",
+      "spell": "guān xì"
+    },
+    {
+      "text": "关心",
+      "hint": "to care about; to be concerned",
+      "kind": "phrase",
+      "spell": "guān xīn"
+    },
+    {
+      "text": "关于",
+      "hint": "about; concerning",
+      "kind": "phrase",
+      "spell": "guān yú"
+    },
+    {
+      "text": "关注",
+      "hint": "to pay attention to; to follow",
+      "kind": "phrase",
+      "spell": "guān zhù"
+    },
+    {
+      "text": "国家",
+      "hint": "country; nation",
+      "kind": "phrase",
+      "spell": "guó jiā"
+    },
+    {
+      "text": "过节",
+      "hint": "to celebrate a festival",
+      "kind": "phrase",
+      "spell": "guò jié"
+    },
+    {
+      "text": "海",
+      "hint": "sea; ocean",
+      "kind": "phrase",
+      "spell": "hǎi"
+    },
+    {
+      "text": "害怕",
+      "hint": "to be afraid; to fear",
+      "kind": "phrase",
+      "spell": "hài pà"
+    },
+    {
+      "text": "好多",
+      "hint": "many; quite a lot",
+      "kind": "phrase",
+      "spell": "hǎo duō"
+    },
+    {
+      "text": "好久",
+      "hint": "a long time; for ages",
+      "kind": "phrase",
+      "spell": "hǎo jiǔ"
+    },
+    {
+      "text": "好像",
+      "hint": "to seem; as if",
+      "kind": "phrase",
+      "spell": "hǎo xiàng"
+    },
+    {
+      "text": "号码",
+      "hint": "number",
+      "kind": "phrase",
+      "spell": "hào mǎ"
+    },
+    {
+      "text": "河",
+      "hint": "river",
+      "kind": "phrase",
+      "spell": "hé"
+    },
+    {
+      "text": "合适",
+      "hint": "suitable; appropriate",
+      "kind": "phrase",
+      "spell": "hé shì"
+    },
+    {
+      "text": "黑板",
+      "hint": "blackboard",
+      "kind": "phrase",
+      "spell": "hēi bǎn"
+    },
+    {
+      "text": "红绿灯",
+      "hint": "traffic light",
+      "kind": "phrase",
+      "spell": "hóng lǜ dēng"
+    },
+    {
+      "text": "后来",
+      "hint": "afterwards; later",
+      "kind": "phrase",
+      "spell": "hoù lái"
+    },
+    {
+      "text": "后年",
+      "hint": "the year after next",
+      "kind": "phrase",
+      "spell": "hoù nián"
+    },
+    {
+      "text": "后天",
+      "hint": "the day after tomorrow",
+      "kind": "phrase",
+      "spell": "hoù tiān"
+    },
+    {
+      "text": "护照",
+      "hint": "passport",
+      "kind": "phrase",
+      "spell": "hù zhào"
+    },
+    {
+      "text": "花园",
+      "hint": "garden",
+      "kind": "phrase",
+      "spell": "huā yuán"
+    },
+    {
+      "text": "画家",
+      "hint": "painter",
+      "kind": "phrase",
+      "spell": "huà jiā"
+    },
+    {
+      "text": "欢迎",
+      "hint": "to welcome",
+      "kind": "phrase",
+      "spell": "huān yíng"
+    },
+    {
+      "text": "环境",
+      "hint": "environment; surroundings",
+      "kind": "phrase",
+      "spell": "huán jìng"
+    },
+    {
+      "text": "换",
+      "hint": "to exchange; to change",
+      "kind": "phrase",
+      "spell": "huàn"
+    },
+    {
+      "text": "黄色",
+      "hint": "yellow",
+      "kind": "phrase",
+      "spell": "huáng sè"
+    },
+    {
+      "text": "回答",
+      "hint": "to answer; to reply",
+      "kind": "phrase",
+      "spell": "húi dá"
+    },
+    {
+      "text": "会议",
+      "hint": "meeting; conference",
+      "kind": "phrase",
+      "spell": "hùi yì"
+    },
+    {
+      "text": "或",
+      "hint": "or; perhaps; maybe",
+      "kind": "phrase",
+      "spell": "huò"
+    },
+    {
+      "text": "或者",
+      "hint": "or; either; perhaps",
+      "kind": "phrase",
+      "spell": "huò zhě"
+    },
+    {
+      "text": "鸡",
+      "hint": "chicken",
+      "kind": "phrase",
+      "spell": "jī"
+    },
+    {
+      "text": "几乎",
+      "hint": "almost; nearly",
+      "kind": "phrase",
+      "spell": "jī hū"
+    },
+    {
+      "text": "机会",
+      "hint": "opportunity; chance",
+      "kind": "phrase",
+      "spell": "jī hùi"
+    },
+    {
+      "text": "极",
+      "hint": "extremely; utmost",
+      "kind": "phrase",
+      "spell": "jí"
+    },
+    {
+      "text": "急",
+      "hint": "urgent; anxious",
+      "kind": "phrase",
+      "spell": "jí"
+    },
+    {
+      "text": "记",
+      "hint": "to remember; to record",
+      "kind": "phrase",
+      "spell": "jì"
+    },
+    {
+      "text": "季",
+      "hint": "season",
+      "kind": "phrase",
+      "spell": "jì"
+    },
+    {
+      "text": "季节",
+      "hint": "season",
+      "kind": "phrase",
+      "spell": "jì jié"
+    },
+    {
+      "text": "加",
+      "hint": "to add; plus",
+      "kind": "phrase",
+      "spell": "jiā"
+    },
+    {
+      "text": "假期",
+      "hint": "vacation; holiday",
+      "kind": "phrase",
+      "spell": "jià qī"
+    },
+    {
+      "text": "坚持",
+      "hint": "to persist in; to insist on",
+      "kind": "phrase",
+      "spell": "jiān chí"
+    },
+    {
+      "text": "检查",
+      "hint": "to check; to inspect",
+      "kind": "phrase",
+      "spell": "jiǎn chá"
+    },
+    {
+      "text": "简单",
+      "hint": "simple",
+      "kind": "phrase",
+      "spell": "jiǎn dān"
+    },
+    {
+      "text": "检票",
+      "hint": "to check tickets",
+      "kind": "phrase",
+      "spell": "jiǎn piào"
+    },
+    {
+      "text": "健康",
+      "hint": "health; healthy",
+      "kind": "phrase",
+      "spell": "jiàn kāng"
+    },
+    {
+      "text": "见面",
+      "hint": "to meet; to see each other",
+      "kind": "phrase",
+      "spell": "jiàn miàn"
+    },
+    {
+      "text": "讲",
+      "hint": "to speak; to explain",
+      "kind": "phrase",
+      "spell": "jiǎng"
+    },
+    {
+      "text": "角",
+      "hint": "measure word for money: jiao (one tenth of a yuan); angle; corner",
+      "kind": "phrase",
+      "spell": "jiǎo"
+    },
+    {
+      "text": "脚",
+      "hint": "foot; leg",
+      "kind": "phrase",
+      "spell": "jiǎo"
+    },
+    {
+      "text": "接",
+      "hint": "to receive; to pick up; to connect",
+      "kind": "phrase",
+      "spell": "jiē"
+    },
+    {
+      "text": "街",
+      "hint": "street",
+      "kind": "phrase",
+      "spell": "jiē"
+    },
+    {
+      "text": "节",
+      "hint": "measure word for lessons and segments; festival",
+      "kind": "phrase",
+      "spell": "jié"
+    },
+    {
+      "text": "结婚",
+      "hint": "to marry; to get married",
+      "kind": "phrase",
+      "spell": "jié hūn"
+    },
+    {
+      "text": "节目",
+      "hint": "program; show",
+      "kind": "phrase",
+      "spell": "jié mù"
+    },
+    {
+      "text": "节日",
+      "hint": "festival; holiday",
+      "kind": "phrase",
+      "spell": "jié rì"
+    },
+    {
+      "text": "结束",
+      "hint": "to end; to finish",
+      "kind": "phrase",
+      "spell": "jié shù"
+    },
+    {
+      "text": "解决",
+      "hint": "to solve; to settle",
+      "kind": "phrase",
+      "spell": "jiě jué"
+    },
+    {
+      "text": "姐妹",
+      "hint": "sisters",
+      "kind": "phrase",
+      "spell": "jiě mèi"
+    },
+    {
+      "text": "借",
+      "hint": "to borrow; to lend",
+      "kind": "phrase",
+      "spell": "jiè"
+    },
+    {
+      "text": "斤",
+      "hint": "measure word for weight: jin (500 grams)",
+      "kind": "phrase",
+      "spell": "jīn"
+    },
+    {
+      "text": "经过",
+      "hint": "to pass through; process",
+      "kind": "phrase",
+      "spell": "jīng guò"
+    },
+    {
+      "text": "经理",
+      "hint": "manager",
+      "kind": "phrase",
+      "spell": "jīng lǐ"
+    },
+    {
+      "text": "久",
+      "hint": "lasting; for a long time",
+      "kind": "phrase",
+      "spell": "jiǔ"
+    },
+    {
+      "text": "酒",
+      "hint": "wine; alcohol; liquor",
+      "kind": "phrase",
+      "spell": "jiǔ"
+    },
+    {
+      "text": "旧",
+      "hint": "old; former",
+      "kind": "phrase",
+      "spell": "jiù"
+    },
+    {
+      "text": "句",
+      "hint": "measure word for sentences and remarks",
+      "kind": "phrase",
+      "spell": "jù"
+    },
+    {
+      "text": "句子",
+      "hint": "sentence",
+      "kind": "phrase",
+      "spell": "jù zi"
+    },
+    {
+      "text": "决定",
+      "hint": "to decide; decision",
+      "kind": "phrase",
+      "spell": "jué dìng"
+    },
+    {
+      "text": "卡",
+      "hint": "card",
+      "kind": "phrase",
+      "spell": "kǎ"
+    },
+    {
+      "text": "开花",
+      "hint": "to bloom; to blossom",
+      "kind": "phrase",
+      "spell": "kāi huā"
+    },
+    {
+      "text": "开会",
+      "hint": "to hold a meeting; to attend a meeting",
+      "kind": "phrase",
+      "spell": "kāi hùi"
+    },
+    {
+      "text": "开机",
+      "hint": "to turn on; to boot up",
+      "kind": "phrase",
+      "spell": "kāi jī"
+    },
+    {
+      "text": "开心",
+      "hint": "happy; to feel happy",
+      "kind": "phrase",
+      "spell": "kāi xīn"
+    },
+    {
+      "text": "看来",
+      "hint": "it seems; apparently",
+      "kind": "phrase",
+      "spell": "kàn lái"
+    },
+    {
+      "text": "可",
+      "hint": "but; however; really",
+      "kind": "phrase",
+      "spell": "kě"
+    },
+    {
+      "text": "渴",
+      "hint": "thirsty",
+      "kind": "phrase",
+      "spell": "kě"
+    },
+    {
+      "text": "可爱",
+      "hint": "cute; adorable",
+      "kind": "phrase",
+      "spell": "kě ài"
+    },
+    {
+      "text": "可是",
+      "hint": "but; however",
+      "kind": "phrase",
+      "spell": "kě shì"
+    },
+    {
+      "text": "刻",
+      "hint": "a quarter of an hour; to carve",
+      "kind": "phrase",
+      "spell": "kè"
+    },
+    {
+      "text": "课本",
+      "hint": "textbook",
+      "kind": "phrase",
+      "spell": "kè běn"
+    },
+    {
+      "text": "客人",
+      "hint": "guest; visitor; customer",
+      "kind": "phrase",
+      "spell": "kè rén"
+    },
+    {
+      "text": "课文",
+      "hint": "text of a lesson",
+      "kind": "phrase",
+      "spell": "kè wén"
+    },
+    {
+      "text": "空调",
+      "hint": "air conditioning; air conditioner",
+      "kind": "phrase",
+      "spell": "kōng tiáo"
+    },
+    {
+      "text": "哭",
+      "hint": "to cry; to weep",
+      "kind": "phrase",
+      "spell": "kū"
+    },
+    {
+      "text": "筷子",
+      "hint": "chopsticks",
+      "kind": "phrase",
+      "spell": "kuài zi"
+    },
+    {
+      "text": "矿泉水",
+      "hint": "mineral water",
+      "kind": "phrase",
+      "spell": "kuàng quán shǔi"
+    },
+    {
+      "text": "来自",
+      "hint": "to come from",
+      "kind": "phrase",
+      "spell": "lái zì"
+    },
+    {
+      "text": "蓝",
+      "hint": "blue",
+      "kind": "phrase",
+      "spell": "lán"
+    },
+    {
+      "text": "老",
+      "hint": "old",
+      "kind": "phrase",
+      "spell": "lǎo"
+    },
+    {
+      "text": "老人",
+      "hint": "old person; the elderly",
+      "kind": "phrase",
+      "spell": "lǎo rén"
+    },
+    {
+      "text": "离开",
+      "hint": "to leave; to depart",
+      "kind": "phrase",
+      "spell": "lí kāi"
+    },
+    {
+      "text": "礼物",
+      "hint": "gift; present",
+      "kind": "phrase",
+      "spell": "lǐ wù"
+    },
+    {
+      "text": "历史",
+      "hint": "history",
+      "kind": "phrase",
+      "spell": "lì shǐ"
+    },
+    {
+      "text": "脸",
+      "hint": "face",
+      "kind": "phrase",
+      "spell": "liǎn"
+    },
+    {
+      "text": "练",
+      "hint": "to practice; to train",
+      "kind": "phrase",
+      "spell": "liàn"
+    },
+    {
+      "text": "练习",
+      "hint": "to practice; exercise",
+      "kind": "phrase",
+      "spell": "liàn xí"
+    },
+    {
+      "text": "凉快",
+      "hint": "cool; pleasantly cool",
+      "kind": "phrase",
+      "spell": "liáng kuai"
+    },
+    {
+      "text": "辆",
+      "hint": "measure word for vehicles",
+      "kind": "phrase",
+      "spell": "liàng"
+    },
+    {
+      "text": "聊",
+      "hint": "to chat",
+      "kind": "phrase",
+      "spell": "liáo"
+    },
+    {
+      "text": "聊天儿",
+      "hint": "to chat; to gossip",
+      "kind": "phrase",
+      "spell": "liáo tiān r"
+    },
+    {
+      "text": "了解",
+      "hint": "to understand; to know about",
+      "kind": "phrase",
+      "spell": "liǎo jiě"
+    },
+    {
+      "text": "邻居",
+      "hint": "neighbor",
+      "kind": "phrase",
+      "spell": "lín jū"
+    },
+    {
+      "text": "留学",
+      "hint": "to study abroad",
+      "kind": "phrase",
+      "spell": "liú xué"
+    },
+    {
+      "text": "留学生",
+      "hint": "student studying abroad",
+      "kind": "phrase",
+      "spell": "liú xué shēng"
+    },
+    {
+      "text": "楼梯",
+      "hint": "stairs; staircase",
+      "kind": "phrase",
+      "spell": "loú tī"
+    },
+    {
+      "text": "路边",
+      "hint": "roadside; wayside",
+      "kind": "phrase",
+      "spell": "lù biān"
+    },
+    {
+      "text": "路口",
+      "hint": "intersection; crossing",
+      "kind": "phrase",
+      "spell": "lù koǔ"
+    },
+    {
+      "text": "马",
+      "hint": "horse",
+      "kind": "phrase",
+      "spell": "mǎ"
+    },
+    {
+      "text": "马路",
+      "hint": "street; road",
+      "kind": "phrase",
+      "spell": "mǎ lù"
+    },
+    {
+      "text": "马上",
+      "hint": "at once; immediately",
+      "kind": "phrase",
+      "spell": "mǎ shàng"
+    },
+    {
+      "text": "满意",
+      "hint": "satisfied; pleased",
+      "kind": "phrase",
+      "spell": "mǎn yì"
+    },
+    {
+      "text": "毛",
+      "hint": "measure word for money: mao (one tenth of a yuan); hair; wool",
+      "kind": "phrase",
+      "spell": "máo"
+    },
+    {
+      "text": "米",
+      "hint": "measure word for length: meter; rice",
+      "kind": "phrase",
+      "spell": "mǐ"
+    },
+    {
+      "text": "面前",
+      "hint": "in front of; before",
+      "kind": "phrase",
+      "spell": "miàn qián"
+    },
+    {
+      "text": "明白",
+      "hint": "clear; to understand",
+      "kind": "phrase",
+      "spell": "míng bai"
+    },
+    {
+      "text": "名单",
+      "hint": "list of names",
+      "kind": "phrase",
+      "spell": "míng dān"
+    },
+    {
+      "text": "名人",
+      "hint": "celebrity; famous person",
+      "kind": "phrase",
+      "spell": "míng rén"
+    },
+    {
+      "text": "南",
+      "hint": "south",
+      "kind": "phrase",
+      "spell": "nán"
+    },
+    {
+      "text": "难",
+      "hint": "difficult",
+      "kind": "phrase",
+      "spell": "nán"
+    },
+    {
+      "text": "南方",
+      "hint": "south; the south",
+      "kind": "phrase",
+      "spell": "nán fāng"
+    },
+    {
+      "text": "难过",
+      "hint": "sad; upset",
+      "kind": "phrase",
+      "spell": "nán guò"
+    },
+    {
+      "text": "难看",
+      "hint": "ugly; unsightly",
+      "kind": "phrase",
+      "spell": "nán kàn"
+    },
+    {
+      "text": "男人",
+      "hint": "man; male",
+      "kind": "phrase",
+      "spell": "nán rén"
+    },
+    {
+      "text": "男生",
+      "hint": "boy; male student",
+      "kind": "phrase",
+      "spell": "nán shēng"
+    },
+    {
+      "text": "难题",
+      "hint": "difficult problem",
+      "kind": "phrase",
+      "spell": "nán tí"
+    },
+    {
+      "text": "难听",
+      "hint": "unpleasant to hear",
+      "kind": "phrase",
+      "spell": "nán tīng"
+    },
+    {
+      "text": "年级",
+      "hint": "grade; year in school",
+      "kind": "phrase",
+      "spell": "nián jí"
+    },
+    {
+      "text": "年轻",
+      "hint": "young",
+      "kind": "phrase",
+      "spell": "nián qīng"
+    },
+    {
+      "text": "牛",
+      "hint": "cow; ox",
+      "kind": "phrase",
+      "spell": "niú"
+    },
+    {
+      "text": "努力",
+      "hint": "to work hard; hardworking",
+      "kind": "phrase",
+      "spell": "nǔ lì"
+    },
+    {
+      "text": "女人",
+      "hint": "woman",
+      "kind": "phrase",
+      "spell": "nǚ rén"
+    },
+    {
+      "text": "女生",
+      "hint": "girl; female student",
+      "kind": "phrase",
+      "spell": "nǚ shēng"
+    },
+    {
+      "text": "爬",
+      "hint": "to climb; to crawl",
+      "kind": "phrase",
+      "spell": "pá"
+    },
+    {
+      "text": "怕",
+      "hint": "to fear; to be afraid of",
+      "kind": "phrase",
+      "spell": "pà"
+    },
+    {
+      "text": "拍照",
+      "hint": "to take a photo",
+      "kind": "phrase",
+      "spell": "pāi zhào"
+    },
+    {
+      "text": "盘子",
+      "hint": "plate; dish",
+      "kind": "phrase",
+      "spell": "pán zi"
+    },
+    {
+      "text": "胖",
+      "hint": "fat; plump",
+      "kind": "phrase",
+      "spell": "pàng"
+    },
+    {
+      "text": "啤酒",
+      "hint": "beer",
+      "kind": "phrase",
+      "spell": "pí jiǔ"
+    },
+    {
+      "text": "平时",
+      "hint": "normally; in normal times",
+      "kind": "phrase",
+      "spell": "píng shí"
+    },
+    {
+      "text": "瓶子",
+      "hint": "bottle",
+      "kind": "phrase",
+      "spell": "píng zi"
+    },
+    {
+      "text": "骑",
+      "hint": "to ride; to sit astride",
+      "kind": "phrase",
+      "spell": "qí"
+    },
+    {
+      "text": "奇怪",
+      "hint": "strange; odd",
+      "kind": "phrase",
+      "spell": "qí guài"
+    },
+    {
+      "text": "其实",
+      "hint": "actually; in fact",
+      "kind": "phrase",
+      "spell": "qí shí"
+    },
+    {
+      "text": "其他",
+      "hint": "other; the rest",
+      "kind": "phrase",
+      "spell": "qí tā"
+    },
+    {
+      "text": "起",
+      "hint": "to rise; to get up; measure word for cases",
+      "kind": "phrase",
+      "spell": "qǐ"
+    },
+    {
+      "text": "起飞",
+      "hint": "to take off; to lift off",
+      "kind": "phrase",
+      "spell": "qǐ fēi"
+    },
+    {
+      "text": "汽车",
+      "hint": "car; automobile",
+      "kind": "phrase",
+      "spell": "qì chē"
+    },
+    {
+      "text": "铅笔",
+      "hint": "pencil",
+      "kind": "phrase",
+      "spell": "qiān bǐ"
+    },
+    {
+      "text": "前年",
+      "hint": "the year before last",
+      "kind": "phrase",
+      "spell": "qián nián"
+    },
+    {
+      "text": "前天",
+      "hint": "the day before yesterday",
+      "kind": "phrase",
+      "spell": "qián tiān"
+    },
+    {
+      "text": "清楚",
+      "hint": "clear; to understand",
+      "kind": "phrase",
+      "spell": "qīng chu"
+    },
+    {
+      "text": "请假",
+      "hint": "to ask for leave",
+      "kind": "phrase",
+      "spell": "qǐng jià"
+    },
+    {
+      "text": "请客",
+      "hint": "to treat; to invite to dinner",
+      "kind": "phrase",
+      "spell": "qǐng kè"
+    },
+    {
+      "text": "秋天",
+      "hint": "autumn; fall",
+      "kind": "phrase",
+      "spell": "qiū tiān"
+    },
+    {
+      "text": "球场",
+      "hint": "sports ground; court",
+      "kind": "phrase",
+      "spell": "qiú chǎng"
+    },
+    {
+      "text": "裙子",
+      "hint": "skirt",
+      "kind": "phrase",
+      "spell": "qún zi"
+    },
+    {
+      "text": "然后",
+      "hint": "then; after that",
+      "kind": "phrase",
+      "spell": "rán hoù"
+    },
+    {
+      "text": "热情",
+      "hint": "enthusiastic; warm",
+      "kind": "phrase",
+      "spell": "rè qíng"
+    },
+    {
+      "text": "认得",
+      "hint": "to recognize; to know",
+      "kind": "phrase",
+      "spell": "rèn de"
+    },
+    {
+      "text": "认为",
+      "hint": "to think; to believe",
+      "kind": "phrase",
+      "spell": "rèn wéi"
+    },
+    {
+      "text": "认真",
+      "hint": "serious; earnest",
+      "kind": "phrase",
+      "spell": "rèn zhēn"
+    },
+    {
+      "text": "容易",
+      "hint": "easy; simple",
+      "kind": "phrase",
+      "spell": "róng yì"
+    },
+    {
+      "text": "如果",
+      "hint": "if; in case",
+      "kind": "phrase",
+      "spell": "rú guǒ"
+    },
+    {
+      "text": "伞",
+      "hint": "umbrella",
+      "kind": "phrase",
+      "spell": "sǎn"
+    },
+    {
+      "text": "扫",
+      "hint": "to sweep; to scan",
+      "kind": "phrase",
+      "spell": "sǎo"
+    },
+    {
+      "text": "沙发",
+      "hint": "sofa; couch",
+      "kind": "phrase",
+      "spell": "shā fā"
+    },
+    {
+      "text": "山",
+      "hint": "mountain; hill",
+      "kind": "phrase",
+      "spell": "shān"
+    },
+    {
+      "text": "上衣",
+      "hint": "jacket; upper garment",
+      "kind": "phrase",
+      "spell": "shàng yī"
+    },
+    {
+      "text": "勺子",
+      "hint": "spoon; ladle",
+      "kind": "phrase",
+      "spell": "sháo zi"
+    },
+    {
+      "text": "身边",
+      "hint": "at one's side; on hand",
+      "kind": "phrase",
+      "spell": "shēn biān"
+    },
+    {
+      "text": "身高",
+      "hint": "height",
+      "kind": "phrase",
+      "spell": "shēn gāo"
+    },
+    {
+      "text": "声",
+      "hint": "sound or voice; measure word for cries",
+      "kind": "phrase",
+      "spell": "shēng"
+    },
+    {
+      "text": "生活",
+      "hint": "life; to live",
+      "kind": "phrase",
+      "spell": "shēng huó"
+    },
+    {
+      "text": "生气",
+      "hint": "to get angry; angry",
+      "kind": "phrase",
+      "spell": "shēng qì"
+    },
+    {
+      "text": "声音",
+      "hint": "sound; voice",
+      "kind": "phrase",
+      "spell": "shēng yīn"
+    },
+    {
+      "text": "市",
+      "hint": "city; market",
+      "kind": "phrase",
+      "spell": "shì"
+    },
+    {
+      "text": "试",
+      "hint": "to try; to test",
+      "kind": "phrase",
+      "spell": "shì"
+    },
+    {
+      "text": "室",
+      "hint": "room",
+      "kind": "phrase",
+      "spell": "shì"
+    },
+    {
+      "text": "世界",
+      "hint": "world",
+      "kind": "phrase",
+      "spell": "shì jiè"
+    },
+    {
+      "text": "收",
+      "hint": "to receive; to collect",
+      "kind": "phrase",
+      "spell": "shoū"
+    },
+    {
+      "text": "收到",
+      "hint": "to receive",
+      "kind": "phrase",
+      "spell": "shoū dào"
+    },
+    {
+      "text": "受",
+      "hint": "to receive; to suffer",
+      "kind": "phrase",
+      "spell": "shoù"
+    },
+    {
+      "text": "瘦",
+      "hint": "thin; skinny",
+      "kind": "phrase",
+      "spell": "shoù"
+    },
+    {
+      "text": "受到",
+      "hint": "to receive; to be given",
+      "kind": "phrase",
+      "spell": "shoù dào"
+    },
+    {
+      "text": "叔叔",
+      "hint": "father's younger brother; uncle",
+      "kind": "phrase",
+      "spell": "shū shu"
+    },
+    {
+      "text": "树",
+      "hint": "tree",
+      "kind": "phrase",
+      "spell": "shù"
+    },
+    {
+      "text": "数学",
+      "hint": "mathematics",
+      "kind": "phrase",
+      "spell": "shù xué"
+    },
+    {
+      "text": "刷",
+      "hint": "to brush; to scrub",
+      "kind": "phrase",
+      "spell": "shuā"
+    },
+    {
+      "text": "双",
+      "hint": "measure word for pairs; both",
+      "kind": "phrase",
+      "spell": "shuāng"
+    },
+    {
+      "text": "水平",
+      "hint": "level; standard",
+      "kind": "phrase",
+      "spell": "shǔi píng"
+    },
+    {
+      "text": "司机",
+      "hint": "driver",
+      "kind": "phrase",
+      "spell": "sī jī"
+    },
+    {
+      "text": "四季",
+      "hint": "the four seasons",
+      "kind": "phrase",
+      "spell": "sì jì"
+    },
+    {
+      "text": "太阳",
+      "hint": "sun",
+      "kind": "phrase",
+      "spell": "tài yáng"
+    },
+    {
+      "text": "糖",
+      "hint": "sugar; candy",
+      "kind": "phrase",
+      "spell": "táng"
+    },
+    {
+      "text": "特别",
+      "hint": "special; especially",
+      "kind": "phrase",
+      "spell": "tè bié"
+    },
+    {
+      "text": "提高",
+      "hint": "to raise; to improve",
+      "kind": "phrase",
+      "spell": "tí gāo"
+    },
+    {
+      "text": "体育",
+      "hint": "sports; physical education",
+      "kind": "phrase",
+      "spell": "tǐ yù"
+    },
+    {
+      "text": "体育馆",
+      "hint": "gym; gymnasium",
+      "kind": "phrase",
+      "spell": "tǐ yù guǎn"
+    },
+    {
+      "text": "甜",
+      "hint": "sweet",
+      "kind": "phrase",
+      "spell": "tián"
+    },
+    {
+      "text": "跳",
+      "hint": "to jump; to hop",
+      "kind": "phrase",
+      "spell": "tiào"
+    },
+    {
+      "text": "听说",
+      "hint": "to hear of; it is said",
+      "kind": "phrase",
+      "spell": "tīng shuō"
+    },
+    {
+      "text": "挺",
+      "hint": "quite; very",
+      "kind": "phrase",
+      "spell": "tǐng"
+    },
+    {
+      "text": "同事",
+      "hint": "colleague; co-worker",
+      "kind": "phrase",
+      "spell": "tóng shì"
+    },
+    {
+      "text": "同意",
+      "hint": "to agree; to consent",
+      "kind": "phrase",
+      "spell": "tóng yì"
+    },
+    {
+      "text": "头发",
+      "hint": "hair",
+      "kind": "phrase",
+      "spell": "toú fa"
+    },
+    {
+      "text": "突然",
+      "hint": "sudden; suddenly",
+      "kind": "phrase",
+      "spell": "tū rán"
+    },
+    {
+      "text": "图书馆",
+      "hint": "library",
+      "kind": "phrase",
+      "spell": "tú shū guǎn"
+    },
+    {
+      "text": "腿",
+      "hint": "leg",
+      "kind": "phrase",
+      "spell": "tǔi"
+    },
+    {
+      "text": "外地",
+      "hint": "another part of the country",
+      "kind": "phrase",
+      "spell": "wài dì"
+    },
+    {
+      "text": "外卖",
+      "hint": "takeout; food delivery",
+      "kind": "phrase",
+      "spell": "wài mài"
+    },
+    {
+      "text": "外语",
+      "hint": "foreign language",
+      "kind": "phrase",
+      "spell": "wài yǔ"
+    },
+    {
+      "text": "完成",
+      "hint": "to complete; to accomplish",
+      "kind": "phrase",
+      "spell": "wán chéng"
+    },
+    {
+      "text": "碗",
+      "hint": "bowl",
+      "kind": "phrase",
+      "spell": "wǎn"
+    },
+    {
+      "text": "晚点",
+      "hint": "late; delayed",
+      "kind": "phrase",
+      "spell": "wǎn diǎn"
+    },
+    {
+      "text": "晚会",
+      "hint": "evening party",
+      "kind": "phrase",
+      "spell": "wǎn hùi"
+    },
+    {
+      "text": "网球",
+      "hint": "tennis",
+      "kind": "phrase",
+      "spell": "wǎng qiú"
+    },
+    {
+      "text": "网站",
+      "hint": "website",
+      "kind": "phrase",
+      "spell": "wǎng zhàn"
+    },
+    {
+      "text": "忘记",
+      "hint": "to forget",
+      "kind": "phrase",
+      "spell": "wàng jì"
+    },
+    {
+      "text": "为",
+      "hint": "for; because of",
+      "kind": "phrase",
+      "spell": "wèi"
+    },
+    {
+      "text": "为了",
+      "hint": "for; in order to",
+      "kind": "phrase",
+      "spell": "wèi le"
+    },
+    {
+      "text": "卫生间",
+      "hint": "bathroom; toilet",
+      "kind": "phrase",
+      "spell": "wèi shēng jiān"
+    },
+    {
+      "text": "文化",
+      "hint": "culture",
+      "kind": "phrase",
+      "spell": "wén huà"
+    },
+    {
+      "text": "屋子",
+      "hint": "room; house",
+      "kind": "phrase",
+      "spell": "wū zi"
+    },
+    {
+      "text": "西",
+      "hint": "west",
+      "kind": "phrase",
+      "spell": "xī"
+    },
+    {
+      "text": "西北",
+      "hint": "northwest; Northwest China",
+      "kind": "phrase",
+      "spell": "xī běi"
+    },
+    {
+      "text": "西方",
+      "hint": "the west; Western countries",
+      "kind": "phrase",
+      "spell": "xī fāng"
+    },
+    {
+      "text": "西瓜",
+      "hint": "watermelon",
+      "kind": "phrase",
+      "spell": "xī guā"
+    },
+    {
+      "text": "西南",
+      "hint": "southwest",
+      "kind": "phrase",
+      "spell": "xī nán"
+    },
+    {
+      "text": "习惯",
+      "hint": "habit; to be used to",
+      "kind": "phrase",
+      "spell": "xí guàn"
+    },
+    {
+      "text": "喜爱",
+      "hint": "to like; to love",
+      "kind": "phrase",
+      "spell": "xǐ ài"
+    },
+    {
+      "text": "洗衣机",
+      "hint": "washing machine",
+      "kind": "phrase",
+      "spell": "xǐ yī jī"
+    },
+    {
+      "text": "洗澡",
+      "hint": "to take a shower; to bathe",
+      "kind": "phrase",
+      "spell": "xǐ zǎo"
+    },
+    {
+      "text": "夏天",
+      "hint": "summer",
+      "kind": "phrase",
+      "spell": "xià tiān"
+    },
+    {
+      "text": "先",
+      "hint": "first; before; earlier",
+      "kind": "phrase",
+      "spell": "xiān"
+    },
+    {
+      "text": "香蕉",
+      "hint": "banana",
+      "kind": "phrase",
+      "spell": "xiāng jiāo"
+    },
+    {
+      "text": "相信",
+      "hint": "to believe; to trust",
+      "kind": "phrase",
+      "spell": "xiāng xìn"
+    },
+    {
+      "text": "箱子",
+      "hint": "box; suitcase; chest",
+      "kind": "phrase",
+      "spell": "xiāng zi"
+    },
+    {
+      "text": "向",
+      "hint": "toward; to face; direction",
+      "kind": "phrase",
+      "spell": "xiàng"
+    },
+    {
+      "text": "像",
+      "hint": "to resemble; to be like; image",
+      "kind": "phrase",
+      "spell": "xiàng"
+    },
+    {
+      "text": "相机",
+      "hint": "camera",
+      "kind": "phrase",
+      "spell": "xiàng jī"
+    },
+    {
+      "text": "小区",
+      "hint": "housing estate; neighborhood",
+      "kind": "phrase",
+      "spell": "xiǎo qū"
+    },
+    {
+      "text": "小心",
+      "hint": "to be careful; careful",
+      "kind": "phrase",
+      "spell": "xiǎo xīn"
+    },
+    {
+      "text": "校园",
+      "hint": "campus",
+      "kind": "phrase",
+      "spell": "xiào yuán"
+    },
+    {
+      "text": "校长",
+      "hint": "school principal; headmaster",
+      "kind": "phrase",
+      "spell": "xiào zhǎng"
+    },
+    {
+      "text": "鞋",
+      "hint": "shoe",
+      "kind": "phrase",
+      "spell": "xié"
+    },
+    {
+      "text": "心里",
+      "hint": "heart; mind; in the heart",
+      "kind": "phrase",
+      "spell": "xīn lǐ"
+    },
+    {
+      "text": "新年",
+      "hint": "New Year",
+      "kind": "phrase",
+      "spell": "xīn nián"
+    },
+    {
+      "text": "新闻",
+      "hint": "news",
+      "kind": "phrase",
+      "spell": "xīn wén"
+    },
+    {
+      "text": "新鲜",
+      "hint": "fresh",
+      "kind": "phrase",
+      "spell": "xīn xiān"
+    },
+    {
+      "text": "信",
+      "hint": "letter; mail",
+      "kind": "phrase",
+      "spell": "xìn"
+    },
+    {
+      "text": "信用卡",
+      "hint": "credit card",
+      "kind": "phrase",
+      "spell": "xìn yòng kǎ"
+    },
+    {
+      "text": "行",
+      "hint": "to go; to walk; OK",
+      "kind": "phrase",
+      "spell": "xíng"
+    },
+    {
+      "text": "行李",
+      "hint": "luggage",
+      "kind": "phrase",
+      "spell": "xíng li"
+    },
+    {
+      "text": "兴趣",
+      "hint": "interest; hobby",
+      "kind": "phrase",
+      "spell": "xìng qù"
+    },
+    {
+      "text": "休假",
+      "hint": "to take a vacation; to take leave",
+      "kind": "phrase",
+      "spell": "xiū jià"
+    },
+    {
+      "text": "需要",
+      "hint": "to need; needs",
+      "kind": "phrase",
+      "spell": "xū yào"
+    },
+    {
+      "text": "选",
+      "hint": "to choose; to select",
+      "kind": "phrase",
+      "spell": "xuǎn"
+    },
+    {
+      "text": "选择",
+      "hint": "to choose; choice",
+      "kind": "phrase",
+      "spell": "xuǎn zé"
+    },
+    {
+      "text": "学期",
+      "hint": "school term; semester",
+      "kind": "phrase",
+      "spell": "xué qī"
+    },
+    {
+      "text": "牙",
+      "hint": "tooth; teeth",
+      "kind": "phrase",
+      "spell": "yá"
+    },
+    {
+      "text": "牙刷",
+      "hint": "toothbrush",
+      "kind": "phrase",
+      "spell": "yá shuā"
+    },
+    {
+      "text": "羊",
+      "hint": "sheep; goat",
+      "kind": "phrase",
+      "spell": "yáng"
+    },
+    {
+      "text": "养",
+      "hint": "to raise; to keep; to support",
+      "kind": "phrase",
+      "spell": "yǎng"
+    },
+    {
+      "text": "要求",
+      "hint": "to request; requirement",
+      "kind": "phrase",
+      "spell": "yāo qiú"
+    },
+    {
+      "text": "页",
+      "hint": "measure word for pages",
+      "kind": "phrase",
+      "spell": "yè"
+    },
+    {
+      "text": "一定",
+      "hint": "definitely; surely; certain",
+      "kind": "phrase",
+      "spell": "yí dìng"
+    },
+    {
+      "text": "一共",
+      "hint": "in total; altogether",
+      "kind": "phrase",
+      "spell": "yí gòng"
+    },
+    {
+      "text": "一块儿",
+      "hint": "together",
+      "kind": "phrase",
+      "spell": "yí kuài r"
+    },
+    {
+      "text": "一样",
+      "hint": "same; alike",
+      "kind": "phrase",
+      "spell": "yí yàng"
+    },
+    {
+      "text": "以后",
+      "hint": "after; later; afterwards",
+      "kind": "phrase",
+      "spell": "yǐ hoù"
+    },
+    {
+      "text": "以前",
+      "hint": "before; formerly; previous",
+      "kind": "phrase",
+      "spell": "yǐ qián"
+    },
+    {
+      "text": "以上",
+      "hint": "above; more than",
+      "kind": "phrase",
+      "spell": "yǐ shàng"
+    },
+    {
+      "text": "以外",
+      "hint": "apart from; other than",
+      "kind": "phrase",
+      "spell": "yǐ wài"
+    },
+    {
+      "text": "以为",
+      "hint": "to think wrongly; to assume",
+      "kind": "phrase",
+      "spell": "yǐ wéi"
+    },
+    {
+      "text": "以下",
+      "hint": "below; less than",
+      "kind": "phrase",
+      "spell": "yǐ xià"
+    },
+    {
+      "text": "一般",
+      "hint": "general; ordinary; generally",
+      "kind": "phrase",
+      "spell": "yì bān"
+    },
+    {
+      "text": "一边",
+      "hint": "one side; at the same time",
+      "kind": "phrase",
+      "spell": "yì biān"
+    },
+    {
+      "text": "一直",
+      "hint": "straight; continuously; always",
+      "kind": "phrase",
+      "spell": "yì zhí"
+    },
+    {
+      "text": "音乐",
+      "hint": "music",
+      "kind": "phrase",
+      "spell": "yīn yuè"
+    },
+    {
+      "text": "银行",
+      "hint": "bank",
+      "kind": "phrase",
+      "spell": "yín háng"
+    },
+    {
+      "text": "银行卡",
+      "hint": "bank card",
+      "kind": "phrase",
+      "spell": "yín háng kǎ"
+    },
+    {
+      "text": "饮料",
+      "hint": "drink; beverage",
+      "kind": "phrase",
+      "spell": "yǐn liào"
+    },
+    {
+      "text": "应该",
+      "hint": "should; ought to",
+      "kind": "phrase",
+      "spell": "yīng gāi"
+    },
+    {
+      "text": "影响",
+      "hint": "influence; to affect",
+      "kind": "phrase",
+      "spell": "yǐng xiǎng"
+    },
+    {
+      "text": "用",
+      "hint": "to use; to employ",
+      "kind": "phrase",
+      "spell": "yòng"
+    },
+    {
+      "text": "邮件",
+      "hint": "mail; email",
+      "kind": "phrase",
+      "spell": "yoú jiàn"
+    },
+    {
+      "text": "游客",
+      "hint": "tourist; visitor",
+      "kind": "phrase",
+      "spell": "yoú kè"
+    },
+    {
+      "text": "游戏",
+      "hint": "game; to play",
+      "kind": "phrase",
+      "spell": "yoú xì"
+    },
+    {
+      "text": "邮箱",
+      "hint": "mailbox; email",
+      "kind": "phrase",
+      "spell": "yoú xiāng"
+    },
+    {
+      "text": "有关",
+      "hint": "related to; concerning",
+      "kind": "phrase",
+      "spell": "yoǔ guān"
+    },
+    {
+      "text": "有名",
+      "hint": "famous; well-known",
+      "kind": "phrase",
+      "spell": "yoǔ míng"
+    },
+    {
+      "text": "有用",
+      "hint": "useful",
+      "kind": "phrase",
+      "spell": "yoǔ yòng"
+    },
+    {
+      "text": "又",
+      "hint": "again; also",
+      "kind": "phrase",
+      "spell": "yoù"
+    },
+    {
+      "text": "羽毛球",
+      "hint": "badminton",
+      "kind": "phrase",
+      "spell": "yǔ máo qiú"
+    },
+    {
+      "text": "语言",
+      "hint": "language",
+      "kind": "phrase",
+      "spell": "yǔ yán"
+    },
+    {
+      "text": "雨衣",
+      "hint": "raincoat",
+      "kind": "phrase",
+      "spell": "yǔ yī"
+    },
+    {
+      "text": "遇到",
+      "hint": "to meet; to run into",
+      "kind": "phrase",
+      "spell": "yù dào"
+    },
+    {
+      "text": "遇见",
+      "hint": "to meet; to come across",
+      "kind": "phrase",
+      "spell": "yù jiàn"
+    },
+    {
+      "text": "园",
+      "hint": "garden; park",
+      "kind": "phrase",
+      "spell": "yuán"
+    },
+    {
+      "text": "员",
+      "hint": "member; person in a field",
+      "kind": "phrase",
+      "spell": "yuán"
+    },
+    {
+      "text": "愿意",
+      "hint": "to be willing; to wish",
+      "kind": "phrase",
+      "spell": "yuàn yì"
+    },
+    {
+      "text": "越",
+      "hint": "the more ... the more",
+      "kind": "phrase",
+      "spell": "yuè"
+    },
+    {
+      "text": "月亮",
+      "hint": "the moon",
+      "kind": "phrase",
+      "spell": "yuè liang"
+    },
+    {
+      "text": "运动会",
+      "hint": "sports meet; games",
+      "kind": "phrase",
+      "spell": "yùn dòng hùi"
+    },
+    {
+      "text": "运动员",
+      "hint": "athlete",
+      "kind": "phrase",
+      "spell": "yùn dòng yuán"
+    },
+    {
+      "text": "咱们",
+      "hint": "we; us, including the listener",
+      "kind": "phrase",
+      "spell": "zán men"
+    },
+    {
+      "text": "脏",
+      "hint": "dirty; filthy",
+      "kind": "phrase",
+      "spell": "zāng"
+    },
+    {
+      "text": "怎么办",
+      "hint": "what to do; what's to be done",
+      "kind": "phrase",
+      "spell": "zěnme bàn"
+    },
+    {
+      "text": "怎样",
+      "hint": "how; what kind",
+      "kind": "phrase",
+      "spell": "zěn yàng"
+    },
+    {
+      "text": "张",
+      "hint": "measure word for flat things; to open",
+      "kind": "phrase",
+      "spell": "zhāng"
+    },
+    {
+      "text": "着急",
+      "hint": "anxious; in a hurry",
+      "kind": "phrase",
+      "spell": "zháo jí"
+    },
+    {
+      "text": "照",
+      "hint": "to shine; to take a photo",
+      "kind": "phrase",
+      "spell": "zhào"
+    },
+    {
+      "text": "照顾",
+      "hint": "to take care of; to look after",
+      "kind": "phrase",
+      "spell": "zhào gù"
+    },
+    {
+      "text": "照片",
+      "hint": "photograph; photo",
+      "kind": "phrase",
+      "spell": "zhào piàn"
+    },
+    {
+      "text": "照相",
+      "hint": "to take a photograph",
+      "kind": "phrase",
+      "spell": "zhào xiàng"
+    },
+    {
+      "text": "直到",
+      "hint": "until",
+      "kind": "phrase",
+      "spell": "zhí dào"
+    },
+    {
+      "text": "纸",
+      "hint": "paper",
+      "kind": "phrase",
+      "spell": "zhǐ"
+    },
+    {
+      "text": "只能",
+      "hint": "can only; have no choice but",
+      "kind": "phrase",
+      "spell": "zhǐ néng"
+    },
+    {
+      "text": "只是",
+      "hint": "merely; only; but",
+      "kind": "phrase",
+      "spell": "zhǐ shì"
+    },
+    {
+      "text": "只要",
+      "hint": "so long as; provided",
+      "kind": "phrase",
+      "spell": "zhǐ yào"
+    },
+    {
+      "text": "只有",
+      "hint": "only if; only when",
+      "kind": "phrase",
+      "spell": "zhǐ yoǔ"
+    },
+    {
+      "text": "中",
+      "hint": "middle; center; in",
+      "kind": "phrase",
+      "spell": "zhōng"
+    },
+    {
+      "text": "中间",
+      "hint": "middle; center",
+      "kind": "phrase",
+      "spell": "zhōng jiān"
+    },
+    {
+      "text": "终于",
+      "hint": "finally; at last",
+      "kind": "phrase",
+      "spell": "zhōng yú"
+    },
+    {
+      "text": "种",
+      "hint": "measure word for kinds and types; seed",
+      "kind": "phrase",
+      "spell": "zhǒng"
+    },
+    {
+      "text": "重要",
+      "hint": "important; significant",
+      "kind": "phrase",
+      "spell": "zhòng yào"
+    },
+    {
+      "text": "周末",
+      "hint": "weekend",
+      "kind": "phrase",
+      "spell": "zhoū mò"
+    },
+    {
+      "text": "主要",
+      "hint": "main; principal",
+      "kind": "phrase",
+      "spell": "zhǔ yào"
+    },
+    {
+      "text": "注意",
+      "hint": "to pay attention to",
+      "kind": "phrase",
+      "spell": "zhù yì"
+    },
+    {
+      "text": "住院",
+      "hint": "to be hospitalized",
+      "kind": "phrase",
+      "spell": "zhù yuàn"
+    },
+    {
+      "text": "字典",
+      "hint": "character dictionary",
+      "kind": "phrase",
+      "spell": "zì diǎn"
+    },
+    {
+      "text": "自行车",
+      "hint": "bicycle; bike",
+      "kind": "phrase",
+      "spell": "zì xíng chē"
+    },
+    {
+      "text": "子",
+      "hint": "noun suffix",
+      "kind": "phrase",
+      "spell": "zi"
+    },
+    {
+      "text": "总",
+      "hint": "overall; general; always",
+      "kind": "phrase",
+      "spell": "zǒng"
+    },
+    {
+      "text": "总是",
+      "hint": "always",
+      "kind": "phrase",
+      "spell": "zǒng shì"
+    },
+    {
+      "text": "嘴",
+      "hint": "mouth",
+      "kind": "phrase",
+      "spell": "zǔi"
+    },
+    {
+      "text": "最好",
+      "hint": "best; had better",
+      "kind": "phrase",
+      "spell": "zùi hǎo"
+    },
+    {
+      "text": "最后",
+      "hint": "final; last; in the end",
+      "kind": "phrase",
+      "spell": "zùi hoù"
+    },
+    {
+      "text": "最近",
+      "hint": "recently; soon; nearest",
+      "kind": "phrase",
+      "spell": "zùi jìn"
+    },
+    {
+      "text": "做客",
+      "hint": "to be a guest",
+      "kind": "phrase",
+      "spell": "zuò kè"
+    },
+    {
+      "text": "作业",
+      "hint": "homework; school assignment",
+      "kind": "phrase",
+      "spell": "zuò yè"
+    }
+  ]
+}
