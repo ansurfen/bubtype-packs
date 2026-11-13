@@ -126,10 +126,10 @@
     {
       "id": "es-core-a1-zh",
       "title": "西语 A1 核心",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "lang": "es",
       "glossLang": "zh",
-      "lemmaCount": 443,
+      "lemmaCount": 500,
       "description": "西班牙语入门核心词 · 中文释义（CEFR A1 × 西语常用词中文表）",
       "asset": "es-core-a1-zh-v1.json"
     },

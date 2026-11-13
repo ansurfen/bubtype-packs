@@ -192,6 +192,68 @@ def write_lemma_pack(
     }
 
 
+# Editorial ZH for CEFR A1 lemmas missing from the 8000 frequency list.
+ES_ZH_EXTRA: dict[str, str] = {
+    "aire acondicionado": "空调",
+    "ama de casa": "家庭主妇",
+    "antipático": "不友善的",
+    "aparcamiento": "停车场",
+    "arroba": "@（艾特）",
+    "bañarse": "洗澡；游泳",
+    "bocadillo": "西班牙三明治",
+    "bolígrafo": "圆珠笔",
+    "bombero": "消防员",
+    "budista": "佛教的；佛教徒",
+    "carné de conducir": "驾驶证",
+    "catedral": "大教堂",
+    "céntrico": "市中心的",
+    "código postal": "邮政编码",
+    "comprador": "买家",
+    "comunicado": "声明；公告",
+    "correo electrónico": "电子邮件",
+    "de ida": "单程的",
+    "dedicarse a": "从事",
+    "diccionario": "词典",
+    "divorciado": "离婚的",
+    "ducharse": "淋浴",
+    "enfermero": "护士",
+    "esquiar": "滑雪",
+    "estantería": "书架；货架",
+    "estado civil": "婚姻状况",
+    "euro": "欧元",
+    "fotocopia": "复印件",
+    "individual": "单人的；个人的",
+    "lavabo": "洗手池",
+    "llamarse": "名叫",
+    "lugar de nacimiento": "出生地",
+    "marroquí": "摩洛哥的；摩洛哥人",
+    "merendar": "吃点心；吃下午茶",
+    "merienda": "下午点心",
+    "moreno": "黑发的；肤色偏深的",
+    "musulmán": "穆斯林的；穆斯林",
+    "nacionalidad": "国籍",
+    "nevar": "下雪",
+    "paella": "西班牙海鲜饭",
+    "página web": "网页",
+    "pizarra": "黑板",
+    "que": "那；什么（关系代词）",
+    "quiosco": "报亭；小卖亭",
+    "sala de estar": "客厅",
+    "sillón": "扶手椅",
+    "sociable": "爱社交的",
+    "tarjeta de crédito": "信用卡",
+    "taxista": "出租车司机",
+    "terraza": "露台；阳台",
+    "tinto": "红葡萄酒",
+    "tortilla": "西班牙土豆饼；玉米饼",
+    "turismo": "旅游",
+    "turista": "游客",
+    "verdura": "蔬菜",
+    "viudo": "丧偶的；鳏夫",
+    "y": "和",
+}
+
+
 def load_es_zh_map() -> dict[str, str]:
     path = CACHE / "es-zh-8000.csv"
     raw = path.read_bytes()
@@ -205,6 +267,8 @@ def load_es_zh_map() -> dict[str, str]:
             continue
         # Prefer first occurrence (higher frequency in this list).
         out.setdefault(lemma.casefold(), zh)
+    for lemma, zh in ES_ZH_EXTRA.items():
+        out[lemma.casefold()] = clean_hint(zh)
     return out
 
 
@@ -220,13 +284,13 @@ def build_es() -> dict:
 
     lemmas: list[str] = []
     entries: list[dict] = []
-    miss = 0
+    miss: list[str] = []
     for key in sorted(by_lemma):
         row = by_lemma[key]
         lemma = str(row.get("lemma") or "").strip()
         zh = zh_map.get(key)
         if not zh:
-            miss += 1
+            miss.append(lemma)
             continue
         lemmas.append(lemma)
         entry: dict = {
@@ -237,13 +301,15 @@ def build_es() -> dict:
         if row.get("ipa"):
             entry["ipa"] = str(row["ipa"])
         entries.append(entry)
-    print(f"  es A1 join: {len(lemmas)} hit, {miss} miss (no ZH in 8000 list)")
+    print(f"  es A1 join: {len(lemmas)} hit, {len(miss)} miss")
+    if miss:
+        print("  still missing:", ", ".join(miss))
     return write_lemma_pack(
         "es-core-a1-zh",
         title="西语 A1 核心",
         lang="es",
         description="西班牙语入门核心词 · 中文释义（CEFR A1 × 西语常用词中文表）",
-        version="1.1.0",
+        version="1.1.1",
         lemmas=lemmas,
         entries=entries,
         source="cefr-es-a1+es-zh-8000",
