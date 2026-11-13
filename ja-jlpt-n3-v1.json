@@ -1,0 +1,9968 @@
+{
+  "manifest": {
+    "id": "ja-jlpt-n3",
+    "title": "日语 JLPT N3",
+    "version": "1.0.0",
+    "lang": "ja",
+    "glossLang": "zh",
+    "source": "kotoba-jlpt",
+    "lemmaCount": 1659,
+    "description": "JLPT N3 常用词 · 中文释义（罗马字拼写）"
+  },
+  "items": [
+    {
+      "text": "愛",
+      "hint": "爱",
+      "kind": "phrase",
+      "spell": "ai"
+    },
+    {
+      "text": "挨拶",
+      "hint": "寒暄",
+      "kind": "phrase",
+      "spell": "aisatsu"
+    },
+    {
+      "text": "愛情",
+      "hint": "爱",
+      "kind": "phrase",
+      "spell": "aijou"
+    },
+    {
+      "text": "合図",
+      "hint": "发信号",
+      "kind": "phrase",
+      "spell": "aizu"
+    },
+    {
+      "text": "アイスクリーム",
+      "hint": "冰激凌",
+      "kind": "phrase",
+      "spell": "aisukuriimu"
+    },
+    {
+      "text": "愛する",
+      "hint": "喜爱",
+      "kind": "phrase",
+      "spell": "aisuru"
+    },
+    {
+      "text": "相手",
+      "hint": "对象",
+      "kind": "phrase",
+      "spell": "aite"
+    },
+    {
+      "text": "あいにく",
+      "hint": "不凑巧",
+      "kind": "phrase",
+      "spell": "ainiku"
+    },
+    {
+      "text": "アイロン",
+      "hint": "熨斗",
+      "kind": "phrase",
+      "spell": "airon"
+    },
+    {
+      "text": "アウト",
+      "hint": "外面",
+      "kind": "phrase",
+      "spell": "auto"
+    },
+    {
+      "text": "明かり",
+      "hint": "灯",
+      "kind": "phrase",
+      "spell": "akari"
+    },
+    {
+      "text": "空き",
+      "hint": "空",
+      "kind": "phrase",
+      "spell": "aki"
+    },
+    {
+      "text": "明らか",
+      "hint": "明显",
+      "kind": "phrase",
+      "spell": "akiraka"
+    },
+    {
+      "text": "諦める",
+      "hint": "死心",
+      "kind": "phrase",
+      "spell": "akirameru"
+    },
+    {
+      "text": "飽きる",
+      "hint": "腻烦",
+      "kind": "phrase",
+      "spell": "akiru"
+    },
+    {
+      "text": "握手",
+      "hint": "握手",
+      "kind": "phrase",
+      "spell": "akushu"
+    },
+    {
+      "text": "悪魔",
+      "hint": "恶魔",
+      "kind": "phrase",
+      "spell": "akuma"
+    },
+    {
+      "text": "明ける",
+      "hint": "变得明亮",
+      "kind": "phrase",
+      "spell": "akeru"
+    },
+    {
+      "text": "預ける",
+      "hint": "寄存",
+      "kind": "phrase",
+      "spell": "azukeru"
+    },
+    {
+      "text": "汗",
+      "hint": "汗水",
+      "kind": "phrase",
+      "spell": "ase"
+    },
+    {
+      "text": "与える",
+      "hint": "给",
+      "kind": "phrase",
+      "spell": "ataeru"
+    },
+    {
+      "text": "辺り",
+      "hint": "周围",
+      "kind": "phrase",
+      "spell": "atari"
+    },
+    {
+      "text": "当たる",
+      "hint": "撞上",
+      "kind": "phrase",
+      "spell": "ataru"
+    },
+    {
+      "text": "あちこち",
+      "hint": "到处",
+      "kind": "phrase",
+      "spell": "achikochi"
+    },
+    {
+      "text": "あっ",
+      "hint": "啊",
+      "kind": "phrase",
+      "spell": "a"
+    },
+    {
+      "text": "扱う",
+      "hint": "经营",
+      "kind": "phrase",
+      "spell": "atsukau"
+    },
+    {
+      "text": "集まり",
+      "hint": "集合",
+      "kind": "phrase",
+      "spell": "atsumari"
+    },
+    {
+      "text": "当てる",
+      "hint": "碰",
+      "kind": "phrase",
+      "spell": "ateru"
+    },
+    {
+      "text": "あと",
+      "hint": "连接词 另外",
+      "kind": "phrase",
+      "spell": "ato"
+    },
+    {
+      "text": "穴",
+      "hint": "空",
+      "kind": "phrase",
+      "spell": "ana"
+    },
+    {
+      "text": "油",
+      "hint": "油",
+      "kind": "phrase",
+      "spell": "abura"
+    },
+    {
+      "text": "誤り",
+      "hint": "错",
+      "kind": "phrase",
+      "spell": "ayamari"
+    },
+    {
+      "text": "粗",
+      "hint": "缺点",
+      "kind": "phrase",
+      "spell": "ara"
+    },
+    {
+      "text": "嵐",
+      "hint": "暴风雨",
+      "kind": "phrase",
+      "spell": "arashi"
+    },
+    {
+      "text": "新た",
+      "hint": "新的",
+      "kind": "phrase",
+      "spell": "arata"
+    },
+    {
+      "text": "あらゆる",
+      "hint": "连接词 所有",
+      "kind": "phrase",
+      "spell": "arayuru"
+    },
+    {
+      "text": "現す",
+      "hint": "出现",
+      "kind": "phrase",
+      "spell": "arawasu"
+    },
+    {
+      "text": "表す",
+      "hint": "表示",
+      "kind": "phrase",
+      "spell": "arawasu"
+    },
+    {
+      "text": "現れ",
+      "hint": "体现",
+      "kind": "phrase",
+      "spell": "araware"
+    },
+    {
+      "text": "現れる",
+      "hint": "出现",
+      "kind": "phrase",
+      "spell": "arawareru"
+    },
+    {
+      "text": "或",
+      "hint": "某……",
+      "kind": "phrase",
+      "spell": "aru"
+    },
+    {
+      "text": "あるいは",
+      "hint": "或者",
+      "kind": "phrase",
+      "spell": "aruiwa"
+    },
+    {
+      "text": "アルバム",
+      "hint": "相册",
+      "kind": "phrase",
+      "spell": "arubamu"
+    },
+    {
+      "text": "泡",
+      "hint": "泡",
+      "kind": "phrase",
+      "spell": "awa"
+    },
+    {
+      "text": "合わせる",
+      "hint": "总共",
+      "kind": "phrase",
+      "spell": "awaseru"
+    },
+    {
+      "text": "哀れ",
+      "hint": "悲哀",
+      "kind": "phrase",
+      "spell": "aware"
+    },
+    {
+      "text": "案",
+      "hint": "办法",
+      "kind": "phrase",
+      "spell": "an"
+    },
+    {
+      "text": "暗記",
+      "hint": "记住",
+      "kind": "phrase",
+      "spell": "anki"
+    },
+    {
+      "text": "安定",
+      "hint": "安定",
+      "kind": "phrase",
+      "spell": "antei"
+    },
+    {
+      "text": "あんなに",
+      "hint": "那么",
+      "kind": "phrase",
+      "spell": "annani"
+    },
+    {
+      "text": "あんまり",
+      "hint": "太",
+      "kind": "phrase",
+      "spell": "anmari"
+    },
+    {
+      "text": "胃",
+      "hint": "胃",
+      "kind": "phrase",
+      "spell": "i"
+    },
+    {
+      "text": "委員",
+      "hint": "委员",
+      "kind": "phrase",
+      "spell": "iin"
+    },
+    {
+      "text": "いえ",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "ie"
+    },
+    {
+      "text": "意外",
+      "hint": "出乎意料",
+      "kind": "phrase",
+      "spell": "igai"
+    },
+    {
+      "text": "行き",
+      "hint": "去",
+      "kind": "phrase",
+      "spell": "iki"
+    },
+    {
+      "text": "息",
+      "hint": "呼吸",
+      "kind": "phrase",
+      "spell": "iki"
+    },
+    {
+      "text": "勢い",
+      "hint": "气势",
+      "kind": "phrase",
+      "spell": "ikioi"
+    },
+    {
+      "text": "生き物",
+      "hint": "生物",
+      "kind": "phrase",
+      "spell": "ikimono"
+    },
+    {
+      "text": "いけない",
+      "hint": "不行",
+      "kind": "phrase",
+      "spell": "ikenai"
+    },
+    {
+      "text": "意志",
+      "hint": "意愿",
+      "kind": "phrase",
+      "spell": "ishi"
+    },
+    {
+      "text": "意思",
+      "hint": "意思",
+      "kind": "phrase",
+      "spell": "ishi"
+    },
+    {
+      "text": "医師",
+      "hint": "医生",
+      "kind": "phrase",
+      "spell": "ishi"
+    },
+    {
+      "text": "維持",
+      "hint": "维持",
+      "kind": "phrase",
+      "spell": "iji"
+    },
+    {
+      "text": "意識",
+      "hint": "意识",
+      "kind": "phrase",
+      "spell": "ishiki"
+    },
+    {
+      "text": "異常",
+      "hint": "异常",
+      "kind": "phrase",
+      "spell": "ijou"
+    },
+    {
+      "text": "泉",
+      "hint": "泉",
+      "kind": "phrase",
+      "spell": "izumi"
+    },
+    {
+      "text": "いずれ",
+      "hint": "早晚",
+      "kind": "phrase",
+      "spell": "izure"
+    },
+    {
+      "text": "以前",
+      "hint": "以前",
+      "kind": "phrase",
+      "spell": "izen"
+    },
+    {
+      "text": "板",
+      "hint": "板",
+      "kind": "phrase",
+      "spell": "ita"
+    },
+    {
+      "text": "偉大",
+      "hint": "伟大",
+      "kind": "phrase",
+      "spell": "idai"
+    },
+    {
+      "text": "抱く",
+      "hint": "抱",
+      "kind": "phrase",
+      "spell": "idaku"
+    },
+    {
+      "text": "いたずら",
+      "hint": "恶作剧",
+      "kind": "phrase",
+      "spell": "itazura"
+    },
+    {
+      "text": "痛み",
+      "hint": "疼痛",
+      "kind": "phrase",
+      "spell": "itami"
+    },
+    {
+      "text": "至る",
+      "hint": "至",
+      "kind": "phrase",
+      "spell": "itaru"
+    },
+    {
+      "text": "いち",
+      "hint": "一",
+      "kind": "phrase",
+      "spell": "ichi"
+    },
+    {
+      "text": "位置",
+      "hint": "位置",
+      "kind": "phrase",
+      "spell": "ichi"
+    },
+    {
+      "text": "一時",
+      "hint": "一时",
+      "kind": "phrase",
+      "spell": "ichiji"
+    },
+    {
+      "text": "一度に",
+      "hint": "同时",
+      "kind": "phrase",
+      "spell": "ichidoni"
+    },
+    {
+      "text": "市場",
+      "hint": "市场",
+      "kind": "phrase",
+      "spell": "ichiba"
+    },
+    {
+      "text": "一家",
+      "hint": "一家",
+      "kind": "phrase",
+      "spell": "ikka"
+    },
+    {
+      "text": "いつか",
+      "hint": "不知不觉",
+      "kind": "phrase",
+      "spell": "itsuka"
+    },
+    {
+      "text": "一種",
+      "hint": "一种",
+      "kind": "phrase",
+      "spell": "isshu"
+    },
+    {
+      "text": "一瞬",
+      "hint": "一瞬",
+      "kind": "phrase",
+      "spell": "isshun"
+    },
+    {
+      "text": "一生",
+      "hint": "一生",
+      "kind": "phrase",
+      "spell": "isshou"
+    },
+    {
+      "text": "一層",
+      "hint": "更加",
+      "kind": "phrase",
+      "spell": "issou"
+    },
+    {
+      "text": "一体",
+      "hint": "到底",
+      "kind": "phrase",
+      "spell": "ittai"
+    },
+    {
+      "text": "一致",
+      "hint": "一致",
+      "kind": "phrase",
+      "spell": "itchi"
+    },
+    {
+      "text": "いつでも",
+      "hint": "无论什么时候",
+      "kind": "phrase",
+      "spell": "itsudemo"
+    },
+    {
+      "text": "一般",
+      "hint": "普通",
+      "kind": "phrase",
+      "spell": "ippan"
+    },
+    {
+      "text": "一方",
+      "hint": "对比",
+      "kind": "phrase",
+      "spell": "ippou"
+    },
+    {
+      "text": "いつまでも",
+      "hint": "永远",
+      "kind": "phrase",
+      "spell": "itsumademo"
+    },
+    {
+      "text": "移動",
+      "hint": "移动",
+      "kind": "phrase",
+      "spell": "idou"
+    },
+    {
+      "text": "従兄弟",
+      "hint": "堂（表）兄弟",
+      "kind": "phrase",
+      "spell": "itoko"
+    },
+    {
+      "text": "稲",
+      "hint": "稻子",
+      "kind": "phrase",
+      "spell": "ine"
+    },
+    {
+      "text": "居眠り",
+      "hint": "瞌睡",
+      "kind": "phrase",
+      "spell": "inemuri"
+    },
+    {
+      "text": "命",
+      "hint": "命",
+      "kind": "phrase",
+      "spell": "inochi"
+    },
+    {
+      "text": "違反",
+      "hint": "违反",
+      "kind": "phrase",
+      "spell": "ihan"
+    },
+    {
+      "text": "衣服",
+      "hint": "衣服",
+      "kind": "phrase",
+      "spell": "ifuku"
+    },
+    {
+      "text": "居間",
+      "hint": "起居室",
+      "kind": "phrase",
+      "spell": "ima"
+    },
+    {
+      "text": "今に",
+      "hint": "至今",
+      "kind": "phrase",
+      "spell": "imani"
+    },
+    {
+      "text": "今にも",
+      "hint": "眼看就要",
+      "kind": "phrase",
+      "spell": "imanimo"
+    },
+    {
+      "text": "否",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "iya"
+    },
+    {
+      "text": "以来",
+      "hint": "以后",
+      "kind": "phrase",
+      "spell": "irai"
+    },
+    {
+      "text": "依頼",
+      "hint": "请求",
+      "kind": "phrase",
+      "spell": "irai"
+    },
+    {
+      "text": "いらいら",
+      "hint": "焦急",
+      "kind": "phrase",
+      "spell": "iraira"
+    },
+    {
+      "text": "いらっしゃい",
+      "hint": "欢迎",
+      "kind": "phrase",
+      "spell": "irasshai"
+    },
+    {
+      "text": "医療",
+      "hint": "医疗事故",
+      "kind": "phrase",
+      "spell": "iryou"
+    },
+    {
+      "text": "岩",
+      "hint": "岩石",
+      "kind": "phrase",
+      "spell": "iwa"
+    },
+    {
+      "text": "祝い",
+      "hint": "庆祝",
+      "kind": "phrase",
+      "spell": "iwai"
+    },
+    {
+      "text": "祝う",
+      "hint": "庆祝",
+      "kind": "phrase",
+      "spell": "iwau"
+    },
+    {
+      "text": "言わば",
+      "hint": "说起来",
+      "kind": "phrase",
+      "spell": "iwaba"
+    },
+    {
+      "text": "いわゆる",
+      "hint": "连接词 所谓的",
+      "kind": "phrase",
+      "spell": "iwayuru"
+    },
+    {
+      "text": "インク",
+      "hint": "墨水",
+      "kind": "phrase",
+      "spell": "inku"
+    },
+    {
+      "text": "印刷",
+      "hint": "印刷",
+      "kind": "phrase",
+      "spell": "insatsu"
+    },
+    {
+      "text": "印象",
+      "hint": "印象",
+      "kind": "phrase",
+      "spell": "inshou"
+    },
+    {
+      "text": "引退",
+      "hint": "隐退",
+      "kind": "phrase",
+      "spell": "intai"
+    },
+    {
+      "text": "引用",
+      "hint": "引用（文章、事例等）",
+      "kind": "phrase",
+      "spell": "in'you"
+    },
+    {
+      "text": "ウイスキー",
+      "hint": "威士忌",
+      "kind": "phrase",
+      "spell": "uisukii"
+    },
+    {
+      "text": "うがい",
+      "hint": "漱（口）",
+      "kind": "phrase",
+      "spell": "ugai"
+    },
+    {
+      "text": "受け取る",
+      "hint": "接",
+      "kind": "phrase",
+      "spell": "uketoru"
+    },
+    {
+      "text": "動かす",
+      "hint": "移动",
+      "kind": "phrase",
+      "spell": "ugokasu"
+    },
+    {
+      "text": "兎",
+      "hint": "兔子",
+      "kind": "phrase",
+      "spell": "usagi"
+    },
+    {
+      "text": "牛",
+      "hint": "牛",
+      "kind": "phrase",
+      "spell": "ushi"
+    },
+    {
+      "text": "失う",
+      "hint": "失去",
+      "kind": "phrase",
+      "spell": "ushinau"
+    },
+    {
+      "text": "疑う",
+      "hint": "怀疑",
+      "kind": "phrase",
+      "spell": "utagau"
+    },
+    {
+      "text": "宇宙",
+      "hint": "宇宙",
+      "kind": "phrase",
+      "spell": "uchuu"
+    },
+    {
+      "text": "撃つ",
+      "hint": "射击",
+      "kind": "phrase",
+      "spell": "utsu"
+    },
+    {
+      "text": "移す",
+      "hint": "移动",
+      "kind": "phrase",
+      "spell": "utsusu"
+    },
+    {
+      "text": "訴える",
+      "hint": "申诉",
+      "kind": "phrase",
+      "spell": "uttaeru"
+    },
+    {
+      "text": "うなる",
+      "hint": "（动物）吼叫",
+      "kind": "phrase",
+      "spell": "unaru"
+    },
+    {
+      "text": "奪う",
+      "hint": "抢夺",
+      "kind": "phrase",
+      "spell": "ubau"
+    },
+    {
+      "text": "馬",
+      "hint": "马",
+      "kind": "phrase",
+      "spell": "uma"
+    },
+    {
+      "text": "生まれ",
+      "hint": "出生",
+      "kind": "phrase",
+      "spell": "umare"
+    },
+    {
+      "text": "梅",
+      "hint": "梅花",
+      "kind": "phrase",
+      "spell": "ume"
+    },
+    {
+      "text": "裏切る",
+      "hint": "背叛",
+      "kind": "phrase",
+      "spell": "uragiru"
+    },
+    {
+      "text": "売れる",
+      "hint": "畅销",
+      "kind": "phrase",
+      "spell": "ureru"
+    },
+    {
+      "text": "上",
+      "hint": "（方位）上",
+      "kind": "phrase",
+      "spell": "uwa"
+    },
+    {
+      "text": "噂",
+      "hint": "传言",
+      "kind": "phrase",
+      "spell": "uwasa"
+    },
+    {
+      "text": "運",
+      "hint": "运气",
+      "kind": "phrase",
+      "spell": "un"
+    },
+    {
+      "text": "柄",
+      "hint": "花纹",
+      "kind": "phrase",
+      "spell": "e"
+    },
+    {
+      "text": "永遠",
+      "hint": "永远",
+      "kind": "phrase",
+      "spell": "eien"
+    },
+    {
+      "text": "永久",
+      "hint": "永久",
+      "kind": "phrase",
+      "spell": "eikyuu"
+    },
+    {
+      "text": "影響",
+      "hint": "影响",
+      "kind": "phrase",
+      "spell": "eikyou"
+    },
+    {
+      "text": "営業",
+      "hint": "营业",
+      "kind": "phrase",
+      "spell": "eigyou"
+    },
+    {
+      "text": "衛星",
+      "hint": "卫星",
+      "kind": "phrase",
+      "spell": "eisei"
+    },
+    {
+      "text": "栄養",
+      "hint": "营养",
+      "kind": "phrase",
+      "spell": "eiyou"
+    },
+    {
+      "text": "笑顔",
+      "hint": "笑脸",
+      "kind": "phrase",
+      "spell": "egao"
+    },
+    {
+      "text": "描く",
+      "hint": "画",
+      "kind": "phrase",
+      "spell": "egaku"
+    },
+    {
+      "text": "餌",
+      "hint": "饵",
+      "kind": "phrase",
+      "spell": "esa"
+    },
+    {
+      "text": "エネルギー",
+      "hint": "能量",
+      "kind": "phrase",
+      "spell": "enerugii"
+    },
+    {
+      "text": "得る",
+      "hint": "得到",
+      "kind": "phrase",
+      "spell": "eru"
+    },
+    {
+      "text": "円",
+      "hint": "圆形",
+      "kind": "phrase",
+      "spell": "en"
+    },
+    {
+      "text": "延期",
+      "hint": "延期",
+      "kind": "phrase",
+      "spell": "enki"
+    },
+    {
+      "text": "演技",
+      "hint": "演技",
+      "kind": "phrase",
+      "spell": "engi"
+    },
+    {
+      "text": "援助",
+      "hint": "帮助",
+      "kind": "phrase",
+      "spell": "enjo"
+    },
+    {
+      "text": "エンジン",
+      "hint": "引擎",
+      "kind": "phrase",
+      "spell": "enjin"
+    },
+    {
+      "text": "演説",
+      "hint": "演说",
+      "kind": "phrase",
+      "spell": "enzetsu"
+    },
+    {
+      "text": "演奏",
+      "hint": "演奏",
+      "kind": "phrase",
+      "spell": "ensou"
+    },
+    {
+      "text": "御",
+      "hint": "贵～",
+      "kind": "phrase",
+      "spell": "o"
+    },
+    {
+      "text": "老い",
+      "hint": "年老",
+      "kind": "phrase",
+      "spell": "oi"
+    },
+    {
+      "text": "追い付く",
+      "hint": "赶上",
+      "kind": "phrase",
+      "spell": "oitsuku"
+    },
+    {
+      "text": "王",
+      "hint": "王",
+      "kind": "phrase",
+      "spell": "ou"
+    },
+    {
+      "text": "追う",
+      "hint": "追",
+      "kind": "phrase",
+      "spell": "ou"
+    },
+    {
+      "text": "王様",
+      "hint": "国王",
+      "kind": "phrase",
+      "spell": "ousama"
+    },
+    {
+      "text": "王子",
+      "hint": "王子",
+      "kind": "phrase",
+      "spell": "ouji"
+    },
+    {
+      "text": "応じる",
+      "hint": "适应",
+      "kind": "phrase",
+      "spell": "oujiru"
+    },
+    {
+      "text": "横断",
+      "hint": "横穿",
+      "kind": "phrase",
+      "spell": "oudan"
+    },
+    {
+      "text": "終える",
+      "hint": "做完",
+      "kind": "phrase",
+      "spell": "oeru"
+    },
+    {
+      "text": "大いに",
+      "hint": "大大地",
+      "kind": "phrase",
+      "spell": "ooini"
+    },
+    {
+      "text": "覆う",
+      "hint": "蒙上",
+      "kind": "phrase",
+      "spell": "oou"
+    },
+    {
+      "text": "オーバー",
+      "hint": "超出",
+      "kind": "phrase",
+      "spell": "oobaa"
+    },
+    {
+      "text": "大家",
+      "hint": "权威",
+      "kind": "phrase",
+      "spell": "ooya"
+    },
+    {
+      "text": "丘",
+      "hint": "山丘",
+      "kind": "phrase",
+      "spell": "oka"
+    },
+    {
+      "text": "沖",
+      "hint": "秘鲁海上",
+      "kind": "phrase",
+      "spell": "oki"
+    },
+    {
+      "text": "奥",
+      "hint": "最里面",
+      "kind": "phrase",
+      "spell": "oku"
+    },
+    {
+      "text": "贈る",
+      "hint": "赠送",
+      "kind": "phrase",
+      "spell": "okuru"
+    },
+    {
+      "text": "起こる",
+      "hint": "发生",
+      "kind": "phrase",
+      "spell": "okoru"
+    },
+    {
+      "text": "幼い",
+      "hint": "年幼的",
+      "kind": "phrase",
+      "spell": "osanai"
+    },
+    {
+      "text": "収める",
+      "hint": "缴纳",
+      "kind": "phrase",
+      "spell": "osameru"
+    },
+    {
+      "text": "おしゃべり",
+      "hint": "爱说的人",
+      "kind": "phrase",
+      "spell": "oshaberi"
+    },
+    {
+      "text": "汚染",
+      "hint": "污染",
+      "kind": "phrase",
+      "spell": "osen"
+    },
+    {
+      "text": "おそらく",
+      "hint": "恐怕",
+      "kind": "phrase",
+      "spell": "osoraku"
+    },
+    {
+      "text": "恐れる",
+      "hint": "害怕",
+      "kind": "phrase",
+      "spell": "osoreru"
+    },
+    {
+      "text": "恐ろしい",
+      "hint": "可怕的",
+      "kind": "phrase",
+      "spell": "osoroshii"
+    },
+    {
+      "text": "お互い",
+      "hint": "互相",
+      "kind": "phrase",
+      "spell": "otagai"
+    },
+    {
+      "text": "穏やか",
+      "hint": "温和",
+      "kind": "phrase",
+      "spell": "odayaka"
+    },
+    {
+      "text": "男の人",
+      "hint": "男人",
+      "kind": "phrase",
+      "spell": "otokonohito"
+    },
+    {
+      "text": "劣る",
+      "hint": "不如",
+      "kind": "phrase",
+      "spell": "otoru"
+    },
+    {
+      "text": "鬼",
+      "hint": "鬼怪",
+      "kind": "phrase",
+      "spell": "oni"
+    },
+    {
+      "text": "帯",
+      "hint": "带子",
+      "kind": "phrase",
+      "spell": "obi"
+    },
+    {
+      "text": "お昼",
+      "hint": "午饭",
+      "kind": "phrase",
+      "spell": "ohiru"
+    },
+    {
+      "text": "オフィス",
+      "hint": "办公室",
+      "kind": "phrase",
+      "spell": "ofisu"
+    },
+    {
+      "text": "溺れる",
+      "hint": "溺水",
+      "kind": "phrase",
+      "spell": "oboreru"
+    },
+    {
+      "text": "おまえ",
+      "hint": "你（对同辈或晚辈的粗鲁称呼）",
+      "kind": "phrase",
+      "spell": "omae"
+    },
+    {
+      "text": "おめでとう",
+      "hint": "恭喜",
+      "kind": "phrase",
+      "spell": "omedetou"
+    },
+    {
+      "text": "お目に掛かる",
+      "hint": "拜会",
+      "kind": "phrase",
+      "spell": "omenikakaru"
+    },
+    {
+      "text": "思い出",
+      "hint": "回忆",
+      "kind": "phrase",
+      "spell": "omoide"
+    },
+    {
+      "text": "主に",
+      "hint": "主要",
+      "kind": "phrase",
+      "spell": "omoni"
+    },
+    {
+      "text": "思わず",
+      "hint": "禁不住",
+      "kind": "phrase",
+      "spell": "omowazu"
+    },
+    {
+      "text": "泳ぎ",
+      "hint": "游泳",
+      "kind": "phrase",
+      "spell": "oyogi"
+    },
+    {
+      "text": "およそ",
+      "hint": "大概",
+      "kind": "phrase",
+      "spell": "oyoso"
+    },
+    {
+      "text": "及ぼす",
+      "hint": "影响到",
+      "kind": "phrase",
+      "spell": "oyobosu"
+    },
+    {
+      "text": "居る",
+      "hint": "在",
+      "kind": "phrase",
+      "spell": "oru"
+    },
+    {
+      "text": "降ろす",
+      "hint": "取下",
+      "kind": "phrase",
+      "spell": "orosu"
+    },
+    {
+      "text": "恩",
+      "hint": "恩情",
+      "kind": "phrase",
+      "spell": "on"
+    },
+    {
+      "text": "音",
+      "hint": "发音",
+      "kind": "phrase",
+      "spell": "on"
+    },
+    {
+      "text": "温暖",
+      "hint": "温暖",
+      "kind": "phrase",
+      "spell": "ondan"
+    },
+    {
+      "text": "温度",
+      "hint": "温度",
+      "kind": "phrase",
+      "spell": "ondo"
+    },
+    {
+      "text": "可",
+      "hint": "可～",
+      "kind": "phrase",
+      "spell": "ka"
+    },
+    {
+      "text": "課",
+      "hint": "课",
+      "kind": "phrase",
+      "spell": "ka"
+    },
+    {
+      "text": "カー",
+      "hint": "汽车",
+      "kind": "phrase",
+      "spell": "kaa"
+    },
+    {
+      "text": "カード",
+      "hint": "卡",
+      "kind": "phrase",
+      "spell": "kaado"
+    },
+    {
+      "text": "会",
+      "hint": "（组织或活动）……会",
+      "kind": "phrase",
+      "spell": "kai"
+    },
+    {
+      "text": "回",
+      "hint": "次",
+      "kind": "phrase",
+      "spell": "kai"
+    },
+    {
+      "text": "害",
+      "hint": "损害",
+      "kind": "phrase",
+      "spell": "gai"
+    },
+    {
+      "text": "会員",
+      "hint": "会员",
+      "kind": "phrase",
+      "spell": "kaiin"
+    },
+    {
+      "text": "絵画",
+      "hint": "绘画",
+      "kind": "phrase",
+      "spell": "kaiga"
+    },
+    {
+      "text": "海外",
+      "hint": "海外",
+      "kind": "phrase",
+      "spell": "kaigai"
+    },
+    {
+      "text": "会計",
+      "hint": "结帐",
+      "kind": "phrase",
+      "spell": "kaikei"
+    },
+    {
+      "text": "解決",
+      "hint": "解决",
+      "kind": "phrase",
+      "spell": "kaiketsu"
+    },
+    {
+      "text": "会合",
+      "hint": "集会",
+      "kind": "phrase",
+      "spell": "kaigou"
+    },
+    {
+      "text": "外交",
+      "hint": "外交",
+      "kind": "phrase",
+      "spell": "gaikou"
+    },
+    {
+      "text": "開始",
+      "hint": "开始",
+      "kind": "phrase",
+      "spell": "kaishi"
+    },
+    {
+      "text": "解釈",
+      "hint": "解释",
+      "kind": "phrase",
+      "spell": "kaishaku"
+    },
+    {
+      "text": "外出",
+      "hint": "外出",
+      "kind": "phrase",
+      "spell": "gaishutsu"
+    },
+    {
+      "text": "改善",
+      "hint": "改善",
+      "kind": "phrase",
+      "spell": "kaizen"
+    },
+    {
+      "text": "快適",
+      "hint": "舒服",
+      "kind": "phrase",
+      "spell": "kaiteki"
+    },
+    {
+      "text": "回復",
+      "hint": "恢复",
+      "kind": "phrase",
+      "spell": "kaifuku"
+    },
+    {
+      "text": "飼う",
+      "hint": "饲养",
+      "kind": "phrase",
+      "spell": "kau"
+    },
+    {
+      "text": "換える",
+      "hint": "更换",
+      "kind": "phrase",
+      "spell": "kaeru"
+    },
+    {
+      "text": "替える",
+      "hint": "替换",
+      "kind": "phrase",
+      "spell": "kaeru"
+    },
+    {
+      "text": "香り",
+      "hint": "香味",
+      "kind": "phrase",
+      "spell": "kaori"
+    },
+    {
+      "text": "画家",
+      "hint": "画家",
+      "kind": "phrase",
+      "spell": "gaka"
+    },
+    {
+      "text": "抱える",
+      "hint": "担负",
+      "kind": "phrase",
+      "spell": "kakaeru"
+    },
+    {
+      "text": "価格",
+      "hint": "价格",
+      "kind": "phrase",
+      "spell": "kakaku"
+    },
+    {
+      "text": "化学",
+      "hint": "化学",
+      "kind": "phrase",
+      "spell": "kagaku"
+    },
+    {
+      "text": "輝く",
+      "hint": "闪亮",
+      "kind": "phrase",
+      "spell": "kagayaku"
+    },
+    {
+      "text": "係",
+      "hint": "负责人",
+      "kind": "phrase",
+      "spell": "kakari"
+    },
+    {
+      "text": "罹る",
+      "hint": "患（病）",
+      "kind": "phrase",
+      "spell": "kakaru"
+    },
+    {
+      "text": "限る",
+      "hint": "限于",
+      "kind": "phrase",
+      "spell": "kagiru"
+    },
+    {
+      "text": "家具",
+      "hint": "家具",
+      "kind": "phrase",
+      "spell": "kagu"
+    },
+    {
+      "text": "学",
+      "hint": "学问",
+      "kind": "phrase",
+      "spell": "gaku"
+    },
+    {
+      "text": "額",
+      "hint": "金额",
+      "kind": "phrase",
+      "spell": "gaku"
+    },
+    {
+      "text": "覚悟",
+      "hint": "思想准备",
+      "kind": "phrase",
+      "spell": "kakugo"
+    },
+    {
+      "text": "確実",
+      "hint": "确实",
+      "kind": "phrase",
+      "spell": "kakujitsu"
+    },
+    {
+      "text": "学者",
+      "hint": "学者",
+      "kind": "phrase",
+      "spell": "gakusha"
+    },
+    {
+      "text": "学習",
+      "hint": "学习",
+      "kind": "phrase",
+      "spell": "gakushuu"
+    },
+    {
+      "text": "隠す",
+      "hint": "隐藏",
+      "kind": "phrase",
+      "spell": "kakusu"
+    },
+    {
+      "text": "拡大",
+      "hint": "扩大",
+      "kind": "phrase",
+      "spell": "kakudai"
+    },
+    {
+      "text": "確認",
+      "hint": "确认",
+      "kind": "phrase",
+      "spell": "kakunin"
+    },
+    {
+      "text": "学問",
+      "hint": "学问",
+      "kind": "phrase",
+      "spell": "gakumon"
+    },
+    {
+      "text": "隠れる",
+      "hint": "躲藏",
+      "kind": "phrase",
+      "spell": "kakureru"
+    },
+    {
+      "text": "陰",
+      "hint": "背阴处",
+      "kind": "phrase",
+      "spell": "kage"
+    },
+    {
+      "text": "影",
+      "hint": "影子",
+      "kind": "phrase",
+      "spell": "kage"
+    },
+    {
+      "text": "欠ける",
+      "hint": "（物品）有缺口",
+      "kind": "phrase",
+      "spell": "kakeru"
+    },
+    {
+      "text": "加減",
+      "hint": "程度",
+      "kind": "phrase",
+      "spell": "kagen"
+    },
+    {
+      "text": "過去",
+      "hint": "过去",
+      "kind": "phrase",
+      "spell": "kako"
+    },
+    {
+      "text": "籠",
+      "hint": "筐",
+      "kind": "phrase",
+      "spell": "kago"
+    },
+    {
+      "text": "囲む",
+      "hint": "包围",
+      "kind": "phrase",
+      "spell": "kakomu"
+    },
+    {
+      "text": "火災",
+      "hint": "火灾",
+      "kind": "phrase",
+      "spell": "kasai"
+    },
+    {
+      "text": "菓子",
+      "hint": "点心",
+      "kind": "phrase",
+      "spell": "kashi"
+    },
+    {
+      "text": "貸し",
+      "hint": "借出",
+      "kind": "phrase",
+      "spell": "kashi"
+    },
+    {
+      "text": "家事",
+      "hint": "家务活",
+      "kind": "phrase",
+      "spell": "kaji"
+    },
+    {
+      "text": "賢い",
+      "hint": "聪明的",
+      "kind": "phrase",
+      "spell": "kashikoi"
+    },
+    {
+      "text": "歌手",
+      "hint": "歌手",
+      "kind": "phrase",
+      "spell": "kashu"
+    },
+    {
+      "text": "数",
+      "hint": "数～",
+      "kind": "phrase",
+      "spell": "kazu"
+    },
+    {
+      "text": "稼ぐ",
+      "hint": "赚钱",
+      "kind": "phrase",
+      "spell": "kasegu"
+    },
+    {
+      "text": "数える",
+      "hint": "数",
+      "kind": "phrase",
+      "spell": "kazoeru"
+    },
+    {
+      "text": "型",
+      "hint": "型",
+      "kind": "phrase",
+      "spell": "kata"
+    },
+    {
+      "text": "肩",
+      "hint": "肩膀",
+      "kind": "phrase",
+      "spell": "kata"
+    },
+    {
+      "text": "硬い",
+      "hint": "坚硬的",
+      "kind": "phrase",
+      "spell": "katai"
+    },
+    {
+      "text": "方々",
+      "hint": "各位",
+      "kind": "phrase",
+      "spell": "katagata"
+    },
+    {
+      "text": "刀",
+      "hint": "刀",
+      "kind": "phrase",
+      "spell": "katana"
+    },
+    {
+      "text": "語る",
+      "hint": "讲述",
+      "kind": "phrase",
+      "spell": "kataru"
+    },
+    {
+      "text": "価値",
+      "hint": "价值",
+      "kind": "phrase",
+      "spell": "kachi"
+    },
+    {
+      "text": "勝ち",
+      "hint": "赢",
+      "kind": "phrase",
+      "spell": "kachi"
+    },
+    {
+      "text": "がっかり",
+      "hint": "失望",
+      "kind": "phrase",
+      "spell": "gakkari"
+    },
+    {
+      "text": "活気",
+      "hint": "活力",
+      "kind": "phrase",
+      "spell": "kakki"
+    },
+    {
+      "text": "学期",
+      "hint": "学期",
+      "kind": "phrase",
+      "spell": "gakki"
+    },
+    {
+      "text": "活動",
+      "hint": "活动",
+      "kind": "phrase",
+      "spell": "katsudou"
+    },
+    {
+      "text": "活用",
+      "hint": "灵活运用",
+      "kind": "phrase",
+      "spell": "katsuyou"
+    },
+    {
+      "text": "悲しむ",
+      "hint": "（感到）悲伤",
+      "kind": "phrase",
+      "spell": "kanashimu"
+    },
+    {
+      "text": "必ずしも",
+      "hint": "未必",
+      "kind": "phrase",
+      "spell": "kanarazushimo"
+    },
+    {
+      "text": "かなり",
+      "hint": "相当",
+      "kind": "phrase",
+      "spell": "kanari"
+    },
+    {
+      "text": "金",
+      "hint": "金钱",
+      "kind": "phrase",
+      "spell": "kane"
+    },
+    {
+      "text": "金持ち",
+      "hint": "有钱人．富人",
+      "kind": "phrase",
+      "spell": "kanemochi"
+    },
+    {
+      "text": "可能",
+      "hint": "可以",
+      "kind": "phrase",
+      "spell": "kanou"
+    },
+    {
+      "text": "株",
+      "hint": "股票",
+      "kind": "phrase",
+      "spell": "kabu"
+    },
+    {
+      "text": "被る",
+      "hint": "戴",
+      "kind": "phrase",
+      "spell": "kaburu"
+    },
+    {
+      "text": "我慢",
+      "hint": "忍耐",
+      "kind": "phrase",
+      "spell": "gaman"
+    },
+    {
+      "text": "神",
+      "hint": "神仙",
+      "kind": "phrase",
+      "spell": "kami"
+    },
+    {
+      "text": "雷",
+      "hint": "雷",
+      "kind": "phrase",
+      "spell": "kaminari"
+    },
+    {
+      "text": "髪の毛",
+      "hint": "头发",
+      "kind": "phrase",
+      "spell": "kaminoke"
+    },
+    {
+      "text": "科目",
+      "hint": "科目",
+      "kind": "phrase",
+      "spell": "kamoku"
+    },
+    {
+      "text": "かもしれない",
+      "hint": "也许",
+      "kind": "phrase",
+      "spell": "kamoshirenai"
+    },
+    {
+      "text": "火曜",
+      "hint": "星期二",
+      "kind": "phrase",
+      "spell": "kayou"
+    },
+    {
+      "text": "空",
+      "hint": "天空",
+      "kind": "phrase",
+      "spell": "kara"
+    },
+    {
+      "text": "刈る",
+      "hint": "割",
+      "kind": "phrase",
+      "spell": "karu"
+    },
+    {
+      "text": "河",
+      "hint": "河",
+      "kind": "phrase",
+      "spell": "kawa"
+    },
+    {
+      "text": "革",
+      "hint": "皮革",
+      "kind": "phrase",
+      "spell": "kawa"
+    },
+    {
+      "text": "皮",
+      "hint": "皮",
+      "kind": "phrase",
+      "spell": "kawa"
+    },
+    {
+      "text": "かわいそう",
+      "hint": "可怜",
+      "kind": "phrase",
+      "spell": "kawaisou"
+    },
+    {
+      "text": "かわいらしい",
+      "hint": "可爱的",
+      "kind": "phrase",
+      "spell": "kawairashii"
+    },
+    {
+      "text": "勘",
+      "hint": "直觉",
+      "kind": "phrase",
+      "spell": "kan"
+    },
+    {
+      "text": "缶",
+      "hint": "（金属制的）罐子",
+      "kind": "phrase",
+      "spell": "kan"
+    },
+    {
+      "text": "考え",
+      "hint": "想法",
+      "kind": "phrase",
+      "spell": "kangae"
+    },
+    {
+      "text": "感覚",
+      "hint": "感觉",
+      "kind": "phrase",
+      "spell": "kankaku"
+    },
+    {
+      "text": "観客",
+      "hint": "观众",
+      "kind": "phrase",
+      "spell": "kankyaku"
+    },
+    {
+      "text": "環境",
+      "hint": "环境",
+      "kind": "phrase",
+      "spell": "kankyou"
+    },
+    {
+      "text": "歓迎",
+      "hint": "欢迎",
+      "kind": "phrase",
+      "spell": "kangei"
+    },
+    {
+      "text": "観光",
+      "hint": "观光",
+      "kind": "phrase",
+      "spell": "kankou"
+    },
+    {
+      "text": "観察",
+      "hint": "观察",
+      "kind": "phrase",
+      "spell": "kansatsu"
+    },
+    {
+      "text": "感じ",
+      "hint": "觉",
+      "kind": "phrase",
+      "spell": "kanji"
+    },
+    {
+      "text": "感謝",
+      "hint": "感谢",
+      "kind": "phrase",
+      "spell": "kansha"
+    },
+    {
+      "text": "患者",
+      "hint": "患者",
+      "kind": "phrase",
+      "spell": "kanja"
+    },
+    {
+      "text": "勘定",
+      "hint": "计算",
+      "kind": "phrase",
+      "spell": "kanjou"
+    },
+    {
+      "text": "感情",
+      "hint": "情",
+      "kind": "phrase",
+      "spell": "kanjou"
+    },
+    {
+      "text": "感じる",
+      "hint": "觉",
+      "kind": "phrase",
+      "spell": "kanjiru"
+    },
+    {
+      "text": "感心",
+      "hint": "钦佩",
+      "kind": "phrase",
+      "spell": "kanshin"
+    },
+    {
+      "text": "関心",
+      "hint": "关心",
+      "kind": "phrase",
+      "spell": "kanshin"
+    },
+    {
+      "text": "関する",
+      "hint": "与⋯⋯有关",
+      "kind": "phrase",
+      "spell": "kansuru"
+    },
+    {
+      "text": "完成",
+      "hint": "完成",
+      "kind": "phrase",
+      "spell": "kansei"
+    },
+    {
+      "text": "完全",
+      "hint": "完全",
+      "kind": "phrase",
+      "spell": "kanzen"
+    },
+    {
+      "text": "感動",
+      "hint": "动",
+      "kind": "phrase",
+      "spell": "kandou"
+    },
+    {
+      "text": "監督",
+      "hint": "管理人",
+      "kind": "phrase",
+      "spell": "kantoku"
+    },
+    {
+      "text": "管理",
+      "hint": "管理",
+      "kind": "phrase",
+      "spell": "kanri"
+    },
+    {
+      "text": "完了",
+      "hint": "完成",
+      "kind": "phrase",
+      "spell": "kanryou"
+    },
+    {
+      "text": "関連",
+      "hint": "相关",
+      "kind": "phrase",
+      "spell": "kanren"
+    },
+    {
+      "text": "議員",
+      "hint": "议员",
+      "kind": "phrase",
+      "spell": "giin"
+    },
+    {
+      "text": "記憶",
+      "hint": "记忆",
+      "kind": "phrase",
+      "spell": "kioku"
+    },
+    {
+      "text": "気温",
+      "hint": "气温",
+      "kind": "phrase",
+      "spell": "kion"
+    },
+    {
+      "text": "機械",
+      "hint": "机器",
+      "kind": "phrase",
+      "spell": "kikai"
+    },
+    {
+      "text": "議会",
+      "hint": "议会",
+      "kind": "phrase",
+      "spell": "gikai"
+    },
+    {
+      "text": "期間",
+      "hint": "期间",
+      "kind": "phrase",
+      "spell": "kikan"
+    },
+    {
+      "text": "機関",
+      "hint": "机构",
+      "kind": "phrase",
+      "spell": "kikan"
+    },
+    {
+      "text": "企業",
+      "hint": "企业",
+      "kind": "phrase",
+      "spell": "kigyou"
+    },
+    {
+      "text": "効く",
+      "hint": "有效",
+      "kind": "phrase",
+      "spell": "kiku"
+    },
+    {
+      "text": "機嫌",
+      "hint": "心情",
+      "kind": "phrase",
+      "spell": "kigen"
+    },
+    {
+      "text": "気候",
+      "hint": "气候",
+      "kind": "phrase",
+      "spell": "kikou"
+    },
+    {
+      "text": "岸",
+      "hint": "岸",
+      "kind": "phrase",
+      "spell": "kishi"
+    },
+    {
+      "text": "記事",
+      "hint": "新闻",
+      "kind": "phrase",
+      "spell": "kiji"
+    },
+    {
+      "text": "生地",
+      "hint": "质地",
+      "kind": "phrase",
+      "spell": "kiji"
+    },
+    {
+      "text": "技師",
+      "hint": "工程师",
+      "kind": "phrase",
+      "spell": "gishi"
+    },
+    {
+      "text": "記者",
+      "hint": "记者",
+      "kind": "phrase",
+      "spell": "kisha"
+    },
+    {
+      "text": "傷",
+      "hint": "创伤",
+      "kind": "phrase",
+      "spell": "kizu"
+    },
+    {
+      "text": "期待",
+      "hint": "期待",
+      "kind": "phrase",
+      "spell": "kitai"
+    },
+    {
+      "text": "帰宅",
+      "hint": "回家",
+      "kind": "phrase",
+      "spell": "kitaku"
+    },
+    {
+      "text": "貴重",
+      "hint": "贵重的",
+      "kind": "phrase",
+      "spell": "kichou"
+    },
+    {
+      "text": "議長",
+      "hint": "主持人",
+      "kind": "phrase",
+      "spell": "gichou"
+    },
+    {
+      "text": "きちんと",
+      "hint": "整齐",
+      "kind": "phrase",
+      "spell": "kichinto"
+    },
+    {
+      "text": "きつい",
+      "hint": "紧的",
+      "kind": "phrase",
+      "spell": "kitsui"
+    },
+    {
+      "text": "気付く",
+      "hint": "注意到",
+      "kind": "phrase",
+      "spell": "kizuku"
+    },
+    {
+      "text": "気に入る",
+      "hint": "中意",
+      "kind": "phrase",
+      "spell": "kiniiru"
+    },
+    {
+      "text": "記入",
+      "hint": "写入",
+      "kind": "phrase",
+      "spell": "kinyuu"
+    },
+    {
+      "text": "記念",
+      "hint": "纪念",
+      "kind": "phrase",
+      "spell": "kinen"
+    },
+    {
+      "text": "機能",
+      "hint": "功能",
+      "kind": "phrase",
+      "spell": "kinou"
+    },
+    {
+      "text": "気の毒",
+      "hint": "可怜",
+      "kind": "phrase",
+      "spell": "kinodoku"
+    },
+    {
+      "text": "寄付",
+      "hint": "捐助",
+      "kind": "phrase",
+      "spell": "kifu"
+    },
+    {
+      "text": "希望",
+      "hint": "愿望",
+      "kind": "phrase",
+      "spell": "kibou"
+    },
+    {
+      "text": "基本",
+      "hint": "基础．基本",
+      "kind": "phrase",
+      "spell": "kihon"
+    },
+    {
+      "text": "決まり",
+      "hint": "规定",
+      "kind": "phrase",
+      "spell": "kimari"
+    },
+    {
+      "text": "気味",
+      "hint": "心情",
+      "kind": "phrase",
+      "spell": "kimi"
+    },
+    {
+      "text": "奇妙",
+      "hint": "奇妙的",
+      "kind": "phrase",
+      "spell": "kimyou"
+    },
+    {
+      "text": "義務",
+      "hint": "义务",
+      "kind": "phrase",
+      "spell": "gimu"
+    },
+    {
+      "text": "疑問",
+      "hint": "疑问",
+      "kind": "phrase",
+      "spell": "gimon"
+    },
+    {
+      "text": "逆",
+      "hint": "相反",
+      "kind": "phrase",
+      "spell": "gyaku"
+    },
+    {
+      "text": "キャプテン",
+      "hint": "队长",
+      "kind": "phrase",
+      "spell": "kyaputen"
+    },
+    {
+      "text": "キャンプ",
+      "hint": "帐篷",
+      "kind": "phrase",
+      "spell": "kyanpu"
+    },
+    {
+      "text": "球",
+      "hint": "球",
+      "kind": "phrase",
+      "spell": "kyuu"
+    },
+    {
+      "text": "級",
+      "hint": "级",
+      "kind": "phrase",
+      "spell": "kyuu"
+    },
+    {
+      "text": "旧",
+      "hint": "旧",
+      "kind": "phrase",
+      "spell": "kyuu"
+    },
+    {
+      "text": "休暇",
+      "hint": "休假",
+      "kind": "phrase",
+      "spell": "kyuuka"
+    },
+    {
+      "text": "休憩",
+      "hint": "休息",
+      "kind": "phrase",
+      "spell": "kyuukei"
+    },
+    {
+      "text": "急激",
+      "hint": "急剧",
+      "kind": "phrase",
+      "spell": "kyuugeki"
+    },
+    {
+      "text": "吸収",
+      "hint": "吸收",
+      "kind": "phrase",
+      "spell": "kyuushuu"
+    },
+    {
+      "text": "救助",
+      "hint": "救助",
+      "kind": "phrase",
+      "spell": "kyuujo"
+    },
+    {
+      "text": "急速",
+      "hint": "迅速",
+      "kind": "phrase",
+      "spell": "kyuusoku"
+    },
+    {
+      "text": "急に",
+      "hint": "突然",
+      "kind": "phrase",
+      "spell": "kyuuni"
+    },
+    {
+      "text": "給料",
+      "hint": "工资",
+      "kind": "phrase",
+      "spell": "kyuuryou"
+    },
+    {
+      "text": "器用",
+      "hint": "灵巧",
+      "kind": "phrase",
+      "spell": "kiyou"
+    },
+    {
+      "text": "教科書",
+      "hint": "教科书",
+      "kind": "phrase",
+      "spell": "kyoukasho"
+    },
+    {
+      "text": "競技",
+      "hint": "竞技",
+      "kind": "phrase",
+      "spell": "kyougi"
+    },
+    {
+      "text": "行儀",
+      "hint": "举止",
+      "kind": "phrase",
+      "spell": "gyougi"
+    },
+    {
+      "text": "供給",
+      "hint": "供给",
+      "kind": "phrase",
+      "spell": "kyoukyuu"
+    },
+    {
+      "text": "教師",
+      "hint": "教师",
+      "kind": "phrase",
+      "spell": "kyoushi"
+    },
+    {
+      "text": "教授",
+      "hint": "教授",
+      "kind": "phrase",
+      "spell": "kyouju"
+    },
+    {
+      "text": "強調",
+      "hint": "重视",
+      "kind": "phrase",
+      "spell": "kyouchou"
+    },
+    {
+      "text": "共通",
+      "hint": "共同",
+      "kind": "phrase",
+      "spell": "kyoutsuu"
+    },
+    {
+      "text": "共同",
+      "hint": "共同",
+      "kind": "phrase",
+      "spell": "kyoudou"
+    },
+    {
+      "text": "恐怖",
+      "hint": "恐怖",
+      "kind": "phrase",
+      "spell": "kyoufu"
+    },
+    {
+      "text": "協力",
+      "hint": "合作",
+      "kind": "phrase",
+      "spell": "kyouryoku"
+    },
+    {
+      "text": "強力",
+      "hint": "强有力",
+      "kind": "phrase",
+      "spell": "kyouryoku"
+    },
+    {
+      "text": "許可",
+      "hint": "许可",
+      "kind": "phrase",
+      "spell": "kyoka"
+    },
+    {
+      "text": "局",
+      "hint": "电视台",
+      "kind": "phrase",
+      "spell": "kyoku"
+    },
+    {
+      "text": "巨大",
+      "hint": "巨大",
+      "kind": "phrase",
+      "spell": "kyodai"
+    },
+    {
+      "text": "嫌う",
+      "hint": "讨厌",
+      "kind": "phrase",
+      "spell": "kirau"
+    },
+    {
+      "text": "霧",
+      "hint": "雾",
+      "kind": "phrase",
+      "spell": "kiri"
+    },
+    {
+      "text": "切れ",
+      "hint": "切割",
+      "kind": "phrase",
+      "spell": "kire"
+    },
+    {
+      "text": "切れる",
+      "hint": "断绝关系",
+      "kind": "phrase",
+      "spell": "kireru"
+    },
+    {
+      "text": "記録",
+      "hint": "记载",
+      "kind": "phrase",
+      "spell": "kiroku"
+    },
+    {
+      "text": "議論",
+      "hint": "议论",
+      "kind": "phrase",
+      "spell": "giron"
+    },
+    {
+      "text": "銀",
+      "hint": "银",
+      "kind": "phrase",
+      "spell": "gin"
+    },
+    {
+      "text": "禁煙",
+      "hint": "禁烟",
+      "kind": "phrase",
+      "spell": "kin'en"
+    },
+    {
+      "text": "金額",
+      "hint": "金额",
+      "kind": "phrase",
+      "spell": "kingaku"
+    },
+    {
+      "text": "金庫",
+      "hint": "保险柜",
+      "kind": "phrase",
+      "spell": "kinko"
+    },
+    {
+      "text": "禁止",
+      "hint": "禁止",
+      "kind": "phrase",
+      "spell": "kinshi"
+    },
+    {
+      "text": "金銭",
+      "hint": "银钱",
+      "kind": "phrase",
+      "spell": "kinsen"
+    },
+    {
+      "text": "金属",
+      "hint": "金属",
+      "kind": "phrase",
+      "spell": "kinzoku"
+    },
+    {
+      "text": "近代",
+      "hint": "近代．现代",
+      "kind": "phrase",
+      "spell": "kindai"
+    },
+    {
+      "text": "緊張",
+      "hint": "紧张",
+      "kind": "phrase",
+      "spell": "kinchou"
+    },
+    {
+      "text": "筋肉",
+      "hint": "肌肉",
+      "kind": "phrase",
+      "spell": "kinniku"
+    },
+    {
+      "text": "金融",
+      "hint": "金融",
+      "kind": "phrase",
+      "spell": "kin'yuu"
+    },
+    {
+      "text": "金曜",
+      "hint": "星期五",
+      "kind": "phrase",
+      "spell": "kin'you"
+    },
+    {
+      "text": "句",
+      "hint": "句子",
+      "kind": "phrase",
+      "spell": "ku"
+    },
+    {
+      "text": "食う",
+      "hint": "吃",
+      "kind": "phrase",
+      "spell": "kuu"
+    },
+    {
+      "text": "偶然",
+      "hint": "偶然",
+      "kind": "phrase",
+      "spell": "guuzen"
+    },
+    {
+      "text": "臭い",
+      "hint": "臭的",
+      "kind": "phrase",
+      "spell": "kusai"
+    },
+    {
+      "text": "鎖",
+      "hint": "锁链",
+      "kind": "phrase",
+      "spell": "kusari"
+    },
+    {
+      "text": "腐る",
+      "hint": "腐烂",
+      "kind": "phrase",
+      "spell": "kusaru"
+    },
+    {
+      "text": "癖",
+      "hint": "习惯",
+      "kind": "phrase",
+      "spell": "kuse"
+    },
+    {
+      "text": "管",
+      "hint": "管子",
+      "kind": "phrase",
+      "spell": "kuda"
+    },
+    {
+      "text": "具体",
+      "hint": "具体",
+      "kind": "phrase",
+      "spell": "gutai"
+    },
+    {
+      "text": "下す",
+      "hint": "（方位）下",
+      "kind": "phrase",
+      "spell": "kudasu"
+    },
+    {
+      "text": "下り",
+      "hint": "下．下行",
+      "kind": "phrase",
+      "spell": "kudari"
+    },
+    {
+      "text": "苦痛",
+      "hint": "（肉体及精神上的）痛苦",
+      "kind": "phrase",
+      "spell": "kutsuu"
+    },
+    {
+      "text": "ぐっすり",
+      "hint": "熟睡",
+      "kind": "phrase",
+      "spell": "gussuri"
+    },
+    {
+      "text": "区別",
+      "hint": "区分",
+      "kind": "phrase",
+      "spell": "kubetsu"
+    },
+    {
+      "text": "組",
+      "hint": "组",
+      "kind": "phrase",
+      "spell": "kumi"
+    },
+    {
+      "text": "組合",
+      "hint": "工会",
+      "kind": "phrase",
+      "spell": "kumiai"
+    },
+    {
+      "text": "組む",
+      "hint": "计划",
+      "kind": "phrase",
+      "spell": "kumu"
+    },
+    {
+      "text": "位",
+      "hint": "位",
+      "kind": "phrase",
+      "spell": "kurai"
+    },
+    {
+      "text": "暮らし",
+      "hint": "生活",
+      "kind": "phrase",
+      "spell": "kurashi"
+    },
+    {
+      "text": "クラシック",
+      "hint": "古典音乐",
+      "kind": "phrase",
+      "spell": "kurashikku"
+    },
+    {
+      "text": "暮らす",
+      "hint": "生活",
+      "kind": "phrase",
+      "spell": "kurasu"
+    },
+    {
+      "text": "グラス",
+      "hint": "玻璃",
+      "kind": "phrase",
+      "spell": "gurasu"
+    },
+    {
+      "text": "グランド",
+      "hint": "操场",
+      "kind": "phrase",
+      "spell": "gurando"
+    },
+    {
+      "text": "クリーム",
+      "hint": "奶油",
+      "kind": "phrase",
+      "spell": "kuriimu"
+    },
+    {
+      "text": "繰り返す",
+      "hint": "反复",
+      "kind": "phrase",
+      "spell": "kurikaesu"
+    },
+    {
+      "text": "クリスマス",
+      "hint": "圣诞节",
+      "kind": "phrase",
+      "spell": "kurisumasu"
+    },
+    {
+      "text": "狂う",
+      "hint": "打乱",
+      "kind": "phrase",
+      "spell": "kuruu"
+    },
+    {
+      "text": "グループ",
+      "hint": "群",
+      "kind": "phrase",
+      "spell": "guruupu"
+    },
+    {
+      "text": "苦しい",
+      "hint": "痛苦",
+      "kind": "phrase",
+      "spell": "kurushii"
+    },
+    {
+      "text": "苦しむ",
+      "hint": "到痛苦",
+      "kind": "phrase",
+      "spell": "kurushimu"
+    },
+    {
+      "text": "暮れ",
+      "hint": "黄昏",
+      "kind": "phrase",
+      "spell": "kure"
+    },
+    {
+      "text": "苦労",
+      "hint": "辛苦",
+      "kind": "phrase",
+      "spell": "kurou"
+    },
+    {
+      "text": "加える",
+      "hint": "加入",
+      "kind": "phrase",
+      "spell": "kuwaeru"
+    },
+    {
+      "text": "詳しい",
+      "hint": "详细的",
+      "kind": "phrase",
+      "spell": "kuwashii"
+    },
+    {
+      "text": "加わる",
+      "hint": "参加",
+      "kind": "phrase",
+      "spell": "kuwawaru"
+    },
+    {
+      "text": "訓",
+      "hint": "训读（汉字日式读音）",
+      "kind": "phrase",
+      "spell": "kun"
+    },
+    {
+      "text": "軍",
+      "hint": "军队",
+      "kind": "phrase",
+      "spell": "gun"
+    },
+    {
+      "text": "軍隊",
+      "hint": "军队",
+      "kind": "phrase",
+      "spell": "guntai"
+    },
+    {
+      "text": "訓練",
+      "hint": "训练",
+      "kind": "phrase",
+      "spell": "kunren"
+    },
+    {
+      "text": "計",
+      "hint": "合计",
+      "kind": "phrase",
+      "spell": "kei"
+    },
+    {
+      "text": "敬意",
+      "hint": "敬意",
+      "kind": "phrase",
+      "spell": "keii"
+    },
+    {
+      "text": "経営",
+      "hint": "经营",
+      "kind": "phrase",
+      "spell": "keiei"
+    },
+    {
+      "text": "景気",
+      "hint": "市场情况",
+      "kind": "phrase",
+      "spell": "keiki"
+    },
+    {
+      "text": "傾向",
+      "hint": "趋势",
+      "kind": "phrase",
+      "spell": "keikou"
+    },
+    {
+      "text": "警告",
+      "hint": "警告",
+      "kind": "phrase",
+      "spell": "keikoku"
+    },
+    {
+      "text": "計算",
+      "hint": "计算",
+      "kind": "phrase",
+      "spell": "keisan"
+    },
+    {
+      "text": "刑事",
+      "hint": "刑警",
+      "kind": "phrase",
+      "spell": "keiji"
+    },
+    {
+      "text": "掲示",
+      "hint": "布告",
+      "kind": "phrase",
+      "spell": "keiji"
+    },
+    {
+      "text": "芸術",
+      "hint": "艺术",
+      "kind": "phrase",
+      "spell": "geijutsu"
+    },
+    {
+      "text": "契約",
+      "hint": "契约",
+      "kind": "phrase",
+      "spell": "keiyaku"
+    },
+    {
+      "text": "経由",
+      "hint": "经由",
+      "kind": "phrase",
+      "spell": "keiyu"
+    },
+    {
+      "text": "ケース",
+      "hint": "盒子",
+      "kind": "phrase",
+      "spell": "keesu"
+    },
+    {
+      "text": "ゲーム",
+      "hint": "游戏",
+      "kind": "phrase",
+      "spell": "geemu"
+    },
+    {
+      "text": "怪我",
+      "hint": "（身体）伤",
+      "kind": "phrase",
+      "spell": "kega"
+    },
+    {
+      "text": "劇",
+      "hint": "戏剧",
+      "kind": "phrase",
+      "spell": "geki"
+    },
+    {
+      "text": "劇場",
+      "hint": "剧场",
+      "kind": "phrase",
+      "spell": "gekijou"
+    },
+    {
+      "text": "化粧",
+      "hint": "化妆",
+      "kind": "phrase",
+      "spell": "keshou"
+    },
+    {
+      "text": "けち",
+      "hint": "小气",
+      "kind": "phrase",
+      "spell": "kechi"
+    },
+    {
+      "text": "結果",
+      "hint": "结果",
+      "kind": "phrase",
+      "spell": "kekka"
+    },
+    {
+      "text": "欠陥",
+      "hint": "缺点",
+      "kind": "phrase",
+      "spell": "kekkan"
+    },
+    {
+      "text": "結局",
+      "hint": "结果",
+      "kind": "phrase",
+      "spell": "kekkyoku"
+    },
+    {
+      "text": "決心",
+      "hint": "决心",
+      "kind": "phrase",
+      "spell": "kesshin"
+    },
+    {
+      "text": "欠席",
+      "hint": "缺席",
+      "kind": "phrase",
+      "spell": "kesseki"
+    },
+    {
+      "text": "決定",
+      "hint": "决定",
+      "kind": "phrase",
+      "spell": "kettei"
+    },
+    {
+      "text": "欠点",
+      "hint": "缺点",
+      "kind": "phrase",
+      "spell": "ketten"
+    },
+    {
+      "text": "月曜",
+      "hint": "星期一",
+      "kind": "phrase",
+      "spell": "getsuyou"
+    },
+    {
+      "text": "結論",
+      "hint": "结论",
+      "kind": "phrase",
+      "spell": "ketsuron"
+    },
+    {
+      "text": "煙",
+      "hint": "烟",
+      "kind": "phrase",
+      "spell": "kemuri"
+    },
+    {
+      "text": "券",
+      "hint": "券",
+      "kind": "phrase",
+      "spell": "ken"
+    },
+    {
+      "text": "県",
+      "hint": "（日本行政区划）县",
+      "kind": "phrase",
+      "spell": "ken"
+    },
+    {
+      "text": "喧嘩",
+      "hint": "吵架",
+      "kind": "phrase",
+      "spell": "kenka"
+    },
+    {
+      "text": "見解",
+      "hint": "见解",
+      "kind": "phrase",
+      "spell": "kenkai"
+    },
+    {
+      "text": "限界",
+      "hint": "极限",
+      "kind": "phrase",
+      "spell": "genkai"
+    },
+    {
+      "text": "現金",
+      "hint": "现金",
+      "kind": "phrase",
+      "spell": "genkin"
+    },
+    {
+      "text": "言語",
+      "hint": "语言",
+      "kind": "phrase",
+      "spell": "gengo"
+    },
+    {
+      "text": "健康",
+      "hint": "健康",
+      "kind": "phrase",
+      "spell": "kenkou"
+    },
+    {
+      "text": "検査",
+      "hint": "检查",
+      "kind": "phrase",
+      "spell": "kensa"
+    },
+    {
+      "text": "現在",
+      "hint": "现在",
+      "kind": "phrase",
+      "spell": "genzai"
+    },
+    {
+      "text": "現実",
+      "hint": "现实",
+      "kind": "phrase",
+      "spell": "genjitsu"
+    },
+    {
+      "text": "現象",
+      "hint": "现象",
+      "kind": "phrase",
+      "spell": "genshou"
+    },
+    {
+      "text": "現状",
+      "hint": "状况",
+      "kind": "phrase",
+      "spell": "genjou"
+    },
+    {
+      "text": "建設",
+      "hint": "修建",
+      "kind": "phrase",
+      "spell": "kensetsu"
+    },
+    {
+      "text": "現代",
+      "hint": "现代",
+      "kind": "phrase",
+      "spell": "gendai"
+    },
+    {
+      "text": "建築",
+      "hint": "建筑",
+      "kind": "phrase",
+      "spell": "kenchiku"
+    },
+    {
+      "text": "検討",
+      "hint": "讨论",
+      "kind": "phrase",
+      "spell": "kentou"
+    },
+    {
+      "text": "見当",
+      "hint": "估计",
+      "kind": "phrase",
+      "spell": "kentou"
+    },
+    {
+      "text": "現場",
+      "hint": "现场",
+      "kind": "phrase",
+      "spell": "genba"
+    },
+    {
+      "text": "憲法",
+      "hint": "宪法",
+      "kind": "phrase",
+      "spell": "kenpou"
+    },
+    {
+      "text": "権利",
+      "hint": "权利",
+      "kind": "phrase",
+      "spell": "kenri"
+    },
+    {
+      "text": "語",
+      "hint": "捷克语",
+      "kind": "phrase",
+      "spell": "go"
+    },
+    {
+      "text": "濃い",
+      "hint": "（颜色）浓的",
+      "kind": "phrase",
+      "spell": "koi"
+    },
+    {
+      "text": "恋",
+      "hint": "恋爱",
+      "kind": "phrase",
+      "spell": "koi"
+    },
+    {
+      "text": "恋人",
+      "hint": "恋人",
+      "kind": "phrase",
+      "spell": "koibito"
+    },
+    {
+      "text": "幸運",
+      "hint": "幸运．好运",
+      "kind": "phrase",
+      "spell": "kouun"
+    },
+    {
+      "text": "講演",
+      "hint": "演讲",
+      "kind": "phrase",
+      "spell": "kouen"
+    },
+    {
+      "text": "効果",
+      "hint": "功效",
+      "kind": "phrase",
+      "spell": "kouka"
+    },
+    {
+      "text": "硬貨",
+      "hint": "硬币",
+      "kind": "phrase",
+      "spell": "kouka"
+    },
+    {
+      "text": "高価",
+      "hint": "高价",
+      "kind": "phrase",
+      "spell": "kouka"
+    },
+    {
+      "text": "豪華",
+      "hint": "豪华",
+      "kind": "phrase",
+      "spell": "gouka"
+    },
+    {
+      "text": "合格",
+      "hint": "合格",
+      "kind": "phrase",
+      "spell": "goukaku"
+    },
+    {
+      "text": "交換",
+      "hint": "交换",
+      "kind": "phrase",
+      "spell": "koukan"
+    },
+    {
+      "text": "航空",
+      "hint": "航空",
+      "kind": "phrase",
+      "spell": "koukuu"
+    },
+    {
+      "text": "光景",
+      "hint": "情景",
+      "kind": "phrase",
+      "spell": "koukei"
+    },
+    {
+      "text": "合計",
+      "hint": "总共",
+      "kind": "phrase",
+      "spell": "goukei"
+    },
+    {
+      "text": "攻撃",
+      "hint": "攻击",
+      "kind": "phrase",
+      "spell": "kougeki"
+    },
+    {
+      "text": "貢献",
+      "hint": "贡献",
+      "kind": "phrase",
+      "spell": "kouken"
+    },
+    {
+      "text": "広告",
+      "hint": "广告",
+      "kind": "phrase",
+      "spell": "koukoku"
+    },
+    {
+      "text": "交際",
+      "hint": "交往",
+      "kind": "phrase",
+      "spell": "kousai"
+    },
+    {
+      "text": "後者",
+      "hint": "后者",
+      "kind": "phrase",
+      "spell": "kousha"
+    },
+    {
+      "text": "構成",
+      "hint": "构成",
+      "kind": "phrase",
+      "spell": "kousei"
+    },
+    {
+      "text": "高速",
+      "hint": "高速",
+      "kind": "phrase",
+      "spell": "kousoku"
+    },
+    {
+      "text": "行動",
+      "hint": "行为",
+      "kind": "phrase",
+      "spell": "koudou"
+    },
+    {
+      "text": "強盗",
+      "hint": "抢劫．强盗",
+      "kind": "phrase",
+      "spell": "goutou"
+    },
+    {
+      "text": "工場",
+      "hint": "作坊",
+      "kind": "phrase",
+      "spell": "kouba"
+    },
+    {
+      "text": "幸福",
+      "hint": "幸福",
+      "kind": "phrase",
+      "spell": "koufuku"
+    },
+    {
+      "text": "公平",
+      "hint": "公平",
+      "kind": "phrase",
+      "spell": "kouhei"
+    },
+    {
+      "text": "候補",
+      "hint": "候选人",
+      "kind": "phrase",
+      "spell": "kouho"
+    },
+    {
+      "text": "考慮",
+      "hint": "考虑",
+      "kind": "phrase",
+      "spell": "kouryo"
+    },
+    {
+      "text": "越える",
+      "hint": "越过",
+      "kind": "phrase",
+      "spell": "koeru"
+    },
+    {
+      "text": "コーチ",
+      "hint": "教练",
+      "kind": "phrase",
+      "spell": "koochi"
+    },
+    {
+      "text": "コード",
+      "hint": "规则",
+      "kind": "phrase",
+      "spell": "koodo"
+    },
+    {
+      "text": "氷",
+      "hint": "冰",
+      "kind": "phrase",
+      "spell": "koori"
+    },
+    {
+      "text": "凍る",
+      "hint": "结冰",
+      "kind": "phrase",
+      "spell": "kooru"
+    },
+    {
+      "text": "ゴール",
+      "hint": "终点",
+      "kind": "phrase",
+      "spell": "gooru"
+    },
+    {
+      "text": "誤解",
+      "hint": "误解",
+      "kind": "phrase",
+      "spell": "gokai"
+    },
+    {
+      "text": "語学",
+      "hint": "语言学",
+      "kind": "phrase",
+      "spell": "gogaku"
+    },
+    {
+      "text": "呼吸",
+      "hint": "呼吸",
+      "kind": "phrase",
+      "spell": "kokyuu"
+    },
+    {
+      "text": "故郷",
+      "hint": "故乡",
+      "kind": "phrase",
+      "spell": "kokyou"
+    },
+    {
+      "text": "極",
+      "hint": "极",
+      "kind": "phrase",
+      "spell": "goku"
+    },
+    {
+      "text": "国語",
+      "hint": "本国语言",
+      "kind": "phrase",
+      "spell": "kokugo"
+    },
+    {
+      "text": "黒板",
+      "hint": "黑板",
+      "kind": "phrase",
+      "spell": "kokuban"
+    },
+    {
+      "text": "克服",
+      "hint": "克服",
+      "kind": "phrase",
+      "spell": "kokufuku"
+    },
+    {
+      "text": "国民",
+      "hint": "国民",
+      "kind": "phrase",
+      "spell": "kokumin"
+    },
+    {
+      "text": "穀物",
+      "hint": "谷物",
+      "kind": "phrase",
+      "spell": "kokumotsu"
+    },
+    {
+      "text": "腰",
+      "hint": "腰",
+      "kind": "phrase",
+      "spell": "koshi"
+    },
+    {
+      "text": "個人",
+      "hint": "私人",
+      "kind": "phrase",
+      "spell": "kojin"
+    },
+    {
+      "text": "越す",
+      "hint": "超过",
+      "kind": "phrase",
+      "spell": "kosu"
+    },
+    {
+      "text": "国家",
+      "hint": "国家",
+      "kind": "phrase",
+      "spell": "kokka"
+    },
+    {
+      "text": "国会",
+      "hint": "国会",
+      "kind": "phrase",
+      "spell": "kokkai"
+    },
+    {
+      "text": "国境",
+      "hint": "国境",
+      "kind": "phrase",
+      "spell": "kokkyou"
+    },
+    {
+      "text": "骨折",
+      "hint": "骨折",
+      "kind": "phrase",
+      "spell": "kossetsu"
+    },
+    {
+      "text": "小包",
+      "hint": "包裹",
+      "kind": "phrase",
+      "spell": "kozutsumi"
+    },
+    {
+      "text": "異なる",
+      "hint": "不一样",
+      "kind": "phrase",
+      "spell": "kotonaru"
+    },
+    {
+      "text": "諺",
+      "hint": "谚语",
+      "kind": "phrase",
+      "spell": "kotowaza"
+    },
+    {
+      "text": "断る",
+      "hint": "拒绝",
+      "kind": "phrase",
+      "spell": "kotowaru"
+    },
+    {
+      "text": "粉",
+      "hint": "粉",
+      "kind": "phrase",
+      "spell": "kona"
+    },
+    {
+      "text": "好み",
+      "hint": "喜好",
+      "kind": "phrase",
+      "spell": "konomi"
+    },
+    {
+      "text": "好む",
+      "hint": "喜欢",
+      "kind": "phrase",
+      "spell": "konomu"
+    },
+    {
+      "text": "コピー",
+      "hint": "复印",
+      "kind": "phrase",
+      "spell": "kopii"
+    },
+    {
+      "text": "小麦",
+      "hint": "小麦",
+      "kind": "phrase",
+      "spell": "komugi"
+    },
+    {
+      "text": "小屋",
+      "hint": "小房子",
+      "kind": "phrase",
+      "spell": "koya"
+    },
+    {
+      "text": "これら",
+      "hint": "这些",
+      "kind": "phrase",
+      "spell": "korera"
+    },
+    {
+      "text": "頃",
+      "hint": "时候",
+      "kind": "phrase",
+      "spell": "koro"
+    },
+    {
+      "text": "殺す",
+      "hint": "杀死",
+      "kind": "phrase",
+      "spell": "korosu"
+    },
+    {
+      "text": "転ぶ",
+      "hint": "滚动",
+      "kind": "phrase",
+      "spell": "korobu"
+    },
+    {
+      "text": "今回",
+      "hint": "这次",
+      "kind": "phrase",
+      "spell": "konkai"
+    },
+    {
+      "text": "今後",
+      "hint": "今后",
+      "kind": "phrase",
+      "spell": "kongo"
+    },
+    {
+      "text": "混雑",
+      "hint": "混乱",
+      "kind": "phrase",
+      "spell": "konzatsu"
+    },
+    {
+      "text": "こんなに",
+      "hint": "这么",
+      "kind": "phrase",
+      "spell": "konnani"
+    },
+    {
+      "text": "困難",
+      "hint": "困难",
+      "kind": "phrase",
+      "spell": "konnan"
+    },
+    {
+      "text": "今日",
+      "hint": "今天",
+      "kind": "phrase",
+      "spell": "konnichi"
+    },
+    {
+      "text": "コンピューター",
+      "hint": "电脑",
+      "kind": "phrase",
+      "spell": "konpyuutaa"
+    },
+    {
+      "text": "婚約",
+      "hint": "定婚",
+      "kind": "phrase",
+      "spell": "kon'yaku"
+    },
+    {
+      "text": "混乱",
+      "hint": "混乱",
+      "kind": "phrase",
+      "spell": "konran"
+    },
+    {
+      "text": "差",
+      "hint": "差",
+      "kind": "phrase",
+      "spell": "sa"
+    },
+    {
+      "text": "サービス",
+      "hint": "服务",
+      "kind": "phrase",
+      "spell": "saabisu"
+    },
+    {
+      "text": "際",
+      "hint": "时候",
+      "kind": "phrase",
+      "spell": "sai"
+    },
+    {
+      "text": "最高",
+      "hint": "最高",
+      "kind": "phrase",
+      "spell": "saikou"
+    },
+    {
+      "text": "財産",
+      "hint": "财产",
+      "kind": "phrase",
+      "spell": "zaisan"
+    },
+    {
+      "text": "最終",
+      "hint": "最终",
+      "kind": "phrase",
+      "spell": "saishuu"
+    },
+    {
+      "text": "最中",
+      "hint": "正在……之中",
+      "kind": "phrase",
+      "spell": "saichuu"
+    },
+    {
+      "text": "最低",
+      "hint": "最低",
+      "kind": "phrase",
+      "spell": "saitei"
+    },
+    {
+      "text": "才能",
+      "hint": "才能",
+      "kind": "phrase",
+      "spell": "sainou"
+    },
+    {
+      "text": "裁判",
+      "hint": "审判",
+      "kind": "phrase",
+      "spell": "saiban"
+    },
+    {
+      "text": "材料",
+      "hint": "材料",
+      "kind": "phrase",
+      "spell": "zairyou"
+    },
+    {
+      "text": "幸い",
+      "hint": "幸运",
+      "kind": "phrase",
+      "spell": "saiwai"
+    },
+    {
+      "text": "サイン",
+      "hint": "签名",
+      "kind": "phrase",
+      "spell": "sain"
+    },
+    {
+      "text": "境",
+      "hint": "契机",
+      "kind": "phrase",
+      "spell": "sakai"
+    },
+    {
+      "text": "逆らう",
+      "hint": "逆着",
+      "kind": "phrase",
+      "spell": "sakarau"
+    },
+    {
+      "text": "盛り",
+      "hint": "鼎盛时期",
+      "kind": "phrase",
+      "spell": "sakari"
+    },
+    {
+      "text": "作業",
+      "hint": "操作",
+      "kind": "phrase",
+      "spell": "sagyou"
+    },
+    {
+      "text": "昨",
+      "hint": "昨",
+      "kind": "phrase",
+      "spell": "saku"
+    },
+    {
+      "text": "作品",
+      "hint": "作品",
+      "kind": "phrase",
+      "spell": "sakuhin"
+    },
+    {
+      "text": "作物",
+      "hint": "农作物",
+      "kind": "phrase",
+      "spell": "sakumotsu"
+    },
+    {
+      "text": "桜",
+      "hint": "樱花",
+      "kind": "phrase",
+      "spell": "sakura"
+    },
+    {
+      "text": "酒",
+      "hint": "酒",
+      "kind": "phrase",
+      "spell": "sake"
+    },
+    {
+      "text": "叫ぶ",
+      "hint": "喊叫",
+      "kind": "phrase",
+      "spell": "sakebu"
+    },
+    {
+      "text": "避ける",
+      "hint": "避开",
+      "kind": "phrase",
+      "spell": "sakeru"
+    },
+    {
+      "text": "支える",
+      "hint": "撑起",
+      "kind": "phrase",
+      "spell": "sasaeru"
+    },
+    {
+      "text": "指す",
+      "hint": "指",
+      "kind": "phrase",
+      "spell": "sasu"
+    },
+    {
+      "text": "座席",
+      "hint": "座位",
+      "kind": "phrase",
+      "spell": "zaseki"
+    },
+    {
+      "text": "誘う",
+      "hint": "邀请",
+      "kind": "phrase",
+      "spell": "sasou"
+    },
+    {
+      "text": "札",
+      "hint": "纸币",
+      "kind": "phrase",
+      "spell": "satsu"
+    },
+    {
+      "text": "作家",
+      "hint": "作家",
+      "kind": "phrase",
+      "spell": "sakka"
+    },
+    {
+      "text": "作曲",
+      "hint": "作曲",
+      "kind": "phrase",
+      "spell": "sakkyoku"
+    },
+    {
+      "text": "ざっと",
+      "hint": "粗略地",
+      "kind": "phrase",
+      "spell": "zatto"
+    },
+    {
+      "text": "さっぱり",
+      "hint": "清爽",
+      "kind": "phrase",
+      "spell": "sappari"
+    },
+    {
+      "text": "さて",
+      "hint": "连接词 那么",
+      "kind": "phrase",
+      "spell": "sate"
+    },
+    {
+      "text": "砂漠",
+      "hint": "沙漠",
+      "kind": "phrase",
+      "spell": "sabaku"
+    },
+    {
+      "text": "差別",
+      "hint": "区别",
+      "kind": "phrase",
+      "spell": "sabetsu"
+    },
+    {
+      "text": "作法",
+      "hint": "作法．做法",
+      "kind": "phrase",
+      "spell": "sahou"
+    },
+    {
+      "text": "様々",
+      "hint": "各种各样",
+      "kind": "phrase",
+      "spell": "samazama"
+    },
+    {
+      "text": "覚ます",
+      "hint": "弄醒",
+      "kind": "phrase",
+      "spell": "samasu"
+    },
+    {
+      "text": "覚める",
+      "hint": "醒来",
+      "kind": "phrase",
+      "spell": "sameru"
+    },
+    {
+      "text": "左右",
+      "hint": "左边和右边",
+      "kind": "phrase",
+      "spell": "sayuu"
+    },
+    {
+      "text": "皿",
+      "hint": "盘子",
+      "kind": "phrase",
+      "spell": "sara"
+    },
+    {
+      "text": "更に",
+      "hint": "更加",
+      "kind": "phrase",
+      "spell": "sarani"
+    },
+    {
+      "text": "猿",
+      "hint": "猴子",
+      "kind": "phrase",
+      "spell": "saru"
+    },
+    {
+      "text": "去る",
+      "hint": "离开",
+      "kind": "phrase",
+      "spell": "saru"
+    },
+    {
+      "text": "騒ぎ",
+      "hint": "吵闹",
+      "kind": "phrase",
+      "spell": "sawagi"
+    },
+    {
+      "text": "参加",
+      "hint": "参加",
+      "kind": "phrase",
+      "spell": "sanka"
+    },
+    {
+      "text": "参考",
+      "hint": "有参考价值",
+      "kind": "phrase",
+      "spell": "sankou"
+    },
+    {
+      "text": "賛成",
+      "hint": "赞成",
+      "kind": "phrase",
+      "spell": "sansei"
+    },
+    {
+      "text": "酸素",
+      "hint": "氧",
+      "kind": "phrase",
+      "spell": "sanso"
+    },
+    {
+      "text": "氏",
+      "hint": "先生",
+      "kind": "phrase",
+      "spell": "shi"
+    },
+    {
+      "text": "詩",
+      "hint": "诗",
+      "kind": "phrase",
+      "spell": "shi"
+    },
+    {
+      "text": "幸せ",
+      "hint": "幸福",
+      "kind": "phrase",
+      "spell": "shiawase"
+    },
+    {
+      "text": "ジーンズ",
+      "hint": "牛仔裤",
+      "kind": "phrase",
+      "spell": "jiinzu"
+    },
+    {
+      "text": "ジェット機",
+      "hint": "喷气式飞机",
+      "kind": "phrase",
+      "spell": "jettoki"
+    },
+    {
+      "text": "直に",
+      "hint": "直接",
+      "kind": "phrase",
+      "spell": "jikani"
+    },
+    {
+      "text": "しかも",
+      "hint": "而且",
+      "kind": "phrase",
+      "spell": "shikamo"
+    },
+    {
+      "text": "叱る",
+      "hint": "责备",
+      "kind": "phrase",
+      "spell": "shikaru"
+    },
+    {
+      "text": "式",
+      "hint": "公式",
+      "kind": "phrase",
+      "spell": "shiki"
+    },
+    {
+      "text": "時期",
+      "hint": "时期",
+      "kind": "phrase",
+      "spell": "jiki"
+    },
+    {
+      "text": "直",
+      "hint": "直接",
+      "kind": "phrase",
+      "spell": "jiki"
+    },
+    {
+      "text": "支給",
+      "hint": "支付",
+      "kind": "phrase",
+      "spell": "shikyuu"
+    },
+    {
+      "text": "しきりに",
+      "hint": "频繁",
+      "kind": "phrase",
+      "spell": "shikirini"
+    },
+    {
+      "text": "刺激",
+      "hint": "（物理的、生理的）刺激",
+      "kind": "phrase",
+      "spell": "shigeki"
+    },
+    {
+      "text": "資源",
+      "hint": "资源",
+      "kind": "phrase",
+      "spell": "shigen"
+    },
+    {
+      "text": "事件",
+      "hint": "事件．案件",
+      "kind": "phrase",
+      "spell": "jiken"
+    },
+    {
+      "text": "時刻",
+      "hint": "时刻",
+      "kind": "phrase",
+      "spell": "jikoku"
+    },
+    {
+      "text": "自殺",
+      "hint": "自杀",
+      "kind": "phrase",
+      "spell": "jisatsu"
+    },
+    {
+      "text": "事実",
+      "hint": "事实",
+      "kind": "phrase",
+      "spell": "jijitsu"
+    },
+    {
+      "text": "支出",
+      "hint": "支出",
+      "kind": "phrase",
+      "spell": "shishutsu"
+    },
+    {
+      "text": "事情",
+      "hint": "情况",
+      "kind": "phrase",
+      "spell": "jijou"
+    },
+    {
+      "text": "詩人",
+      "hint": "诗人",
+      "kind": "phrase",
+      "spell": "shijin"
+    },
+    {
+      "text": "自身",
+      "hint": "自己",
+      "kind": "phrase",
+      "spell": "jishin"
+    },
+    {
+      "text": "沈む",
+      "hint": "落山",
+      "kind": "phrase",
+      "spell": "shizumu"
+    },
+    {
+      "text": "自然",
+      "hint": "大自然",
+      "kind": "phrase",
+      "spell": "shizen"
+    },
+    {
+      "text": "思想",
+      "hint": "思想",
+      "kind": "phrase",
+      "spell": "shisou"
+    },
+    {
+      "text": "舌",
+      "hint": "舌头",
+      "kind": "phrase",
+      "spell": "shita"
+    },
+    {
+      "text": "次第",
+      "hint": "一……就……",
+      "kind": "phrase",
+      "spell": "shidai"
+    },
+    {
+      "text": "事態",
+      "hint": "事情",
+      "kind": "phrase",
+      "spell": "jitai"
+    },
+    {
+      "text": "従う",
+      "hint": "遵守",
+      "kind": "phrase",
+      "spell": "shitagau"
+    },
+    {
+      "text": "したがって",
+      "hint": "因此",
+      "kind": "phrase",
+      "spell": "shitagatte"
+    },
+    {
+      "text": "親しい",
+      "hint": "亲密的",
+      "kind": "phrase",
+      "spell": "shitashii"
+    },
+    {
+      "text": "質",
+      "hint": "质量",
+      "kind": "phrase",
+      "spell": "shitsu"
+    },
+    {
+      "text": "失業",
+      "hint": "失业",
+      "kind": "phrase",
+      "spell": "shitsugyou"
+    },
+    {
+      "text": "実験",
+      "hint": "试验",
+      "kind": "phrase",
+      "spell": "jikken"
+    },
+    {
+      "text": "実現",
+      "hint": "实现",
+      "kind": "phrase",
+      "spell": "jitsugen"
+    },
+    {
+      "text": "実行",
+      "hint": "执行",
+      "kind": "phrase",
+      "spell": "jikkou"
+    },
+    {
+      "text": "実際",
+      "hint": "实际",
+      "kind": "phrase",
+      "spell": "jissai"
+    },
+    {
+      "text": "実施",
+      "hint": "实施",
+      "kind": "phrase",
+      "spell": "jisshi"
+    },
+    {
+      "text": "じっと",
+      "hint": "一动不动",
+      "kind": "phrase",
+      "spell": "jitto"
+    },
+    {
+      "text": "実に",
+      "hint": "实在",
+      "kind": "phrase",
+      "spell": "jitsuni"
+    },
+    {
+      "text": "実は",
+      "hint": "说真的",
+      "kind": "phrase",
+      "spell": "jitsuwa"
+    },
+    {
+      "text": "失望",
+      "hint": "失望",
+      "kind": "phrase",
+      "spell": "shitsubou"
+    },
+    {
+      "text": "支店",
+      "hint": "分店",
+      "kind": "phrase",
+      "spell": "shiten"
+    },
+    {
+      "text": "指導",
+      "hint": "指导",
+      "kind": "phrase",
+      "spell": "shidou"
+    },
+    {
+      "text": "自動",
+      "hint": "自动门",
+      "kind": "phrase",
+      "spell": "jidou"
+    },
+    {
+      "text": "品",
+      "hint": "品",
+      "kind": "phrase",
+      "spell": "shina"
+    },
+    {
+      "text": "支配",
+      "hint": "支配",
+      "kind": "phrase",
+      "spell": "shihai"
+    },
+    {
+      "text": "芝居",
+      "hint": "戏剧",
+      "kind": "phrase",
+      "spell": "shibai"
+    },
+    {
+      "text": "しばしば",
+      "hint": "经常",
+      "kind": "phrase",
+      "spell": "shibashiba"
+    },
+    {
+      "text": "芝生",
+      "hint": "草坪",
+      "kind": "phrase",
+      "spell": "shibafu"
+    },
+    {
+      "text": "支払",
+      "hint": "支付",
+      "kind": "phrase",
+      "spell": "shiharai"
+    },
+    {
+      "text": "支払う",
+      "hint": "支付",
+      "kind": "phrase",
+      "spell": "shiharau"
+    },
+    {
+      "text": "死亡",
+      "hint": "死亡",
+      "kind": "phrase",
+      "spell": "shibou"
+    },
+    {
+      "text": "資本",
+      "hint": "资本",
+      "kind": "phrase",
+      "spell": "shihon"
+    },
+    {
+      "text": "しまい",
+      "hint": "姐妹",
+      "kind": "phrase",
+      "spell": "shimai"
+    },
+    {
+      "text": "しまう",
+      "hint": "做完",
+      "kind": "phrase",
+      "spell": "shimau"
+    },
+    {
+      "text": "しまった",
+      "hint": "糟了",
+      "kind": "phrase",
+      "spell": "shimatta"
+    },
+    {
+      "text": "自慢",
+      "hint": "骄傲",
+      "kind": "phrase",
+      "spell": "jiman"
+    },
+    {
+      "text": "事務",
+      "hint": "事务",
+      "kind": "phrase",
+      "spell": "jimu"
+    },
+    {
+      "text": "示す",
+      "hint": "表现出",
+      "kind": "phrase",
+      "spell": "shimesu"
+    },
+    {
+      "text": "占める",
+      "hint": "占",
+      "kind": "phrase",
+      "spell": "shimeru"
+    },
+    {
+      "text": "霜",
+      "hint": "霜",
+      "kind": "phrase",
+      "spell": "shimo"
+    },
+    {
+      "text": "じゃあ",
+      "hint": "那么",
+      "kind": "phrase",
+      "spell": "jaa"
+    },
+    {
+      "text": "借金",
+      "hint": "借款",
+      "kind": "phrase",
+      "spell": "shakkin"
+    },
+    {
+      "text": "しゃべる",
+      "hint": "说",
+      "kind": "phrase",
+      "spell": "shaberu"
+    },
+    {
+      "text": "州",
+      "hint": "州",
+      "kind": "phrase",
+      "spell": "shuu"
+    },
+    {
+      "text": "週",
+      "hint": "周",
+      "kind": "phrase",
+      "spell": "shuu"
+    },
+    {
+      "text": "銃",
+      "hint": "枪",
+      "kind": "phrase",
+      "spell": "juu"
+    },
+    {
+      "text": "周囲",
+      "hint": "周围",
+      "kind": "phrase",
+      "spell": "shuui"
+    },
+    {
+      "text": "収穫",
+      "hint": "收获",
+      "kind": "phrase",
+      "spell": "shuukaku"
+    },
+    {
+      "text": "週間",
+      "hint": "一周",
+      "kind": "phrase",
+      "spell": "shuukan"
+    },
+    {
+      "text": "宗教",
+      "hint": "宗教",
+      "kind": "phrase",
+      "spell": "shuukyou"
+    },
+    {
+      "text": "重視",
+      "hint": "重视",
+      "kind": "phrase",
+      "spell": "juushi"
+    },
+    {
+      "text": "就職",
+      "hint": "就业",
+      "kind": "phrase",
+      "spell": "shuushoku"
+    },
+    {
+      "text": "ジュース",
+      "hint": "果汁",
+      "kind": "phrase",
+      "spell": "juusu"
+    },
+    {
+      "text": "修正",
+      "hint": "修改",
+      "kind": "phrase",
+      "spell": "shuusei"
+    },
+    {
+      "text": "渋滞",
+      "hint": "（交通）堵塞",
+      "kind": "phrase",
+      "spell": "juutai"
+    },
+    {
+      "text": "重大",
+      "hint": "重大的",
+      "kind": "phrase",
+      "spell": "juudai"
+    },
+    {
+      "text": "住宅",
+      "hint": "住宅",
+      "kind": "phrase",
+      "spell": "juutaku"
+    },
+    {
+      "text": "集団",
+      "hint": "集体",
+      "kind": "phrase",
+      "spell": "shuudan"
+    },
+    {
+      "text": "集中",
+      "hint": "集中",
+      "kind": "phrase",
+      "spell": "shuuchuu"
+    },
+    {
+      "text": "収入",
+      "hint": "收入",
+      "kind": "phrase",
+      "spell": "shuunyuu"
+    },
+    {
+      "text": "住民",
+      "hint": "居民",
+      "kind": "phrase",
+      "spell": "juumin"
+    },
+    {
+      "text": "重要",
+      "hint": "重要",
+      "kind": "phrase",
+      "spell": "juuyou"
+    },
+    {
+      "text": "修理",
+      "hint": "修理",
+      "kind": "phrase",
+      "spell": "shuuri"
+    },
+    {
+      "text": "主義",
+      "hint": "主义",
+      "kind": "phrase",
+      "spell": "shugi"
+    },
+    {
+      "text": "宿泊",
+      "hint": "住宿",
+      "kind": "phrase",
+      "spell": "shukuhaku"
+    },
+    {
+      "text": "手術",
+      "hint": "手术",
+      "kind": "phrase",
+      "spell": "shujutsu"
+    },
+    {
+      "text": "首相",
+      "hint": "首相",
+      "kind": "phrase",
+      "spell": "shushou"
+    },
+    {
+      "text": "手段",
+      "hint": "手段",
+      "kind": "phrase",
+      "spell": "shudan"
+    },
+    {
+      "text": "主張",
+      "hint": "主张",
+      "kind": "phrase",
+      "spell": "shuchou"
+    },
+    {
+      "text": "出身",
+      "hint": "出生地",
+      "kind": "phrase",
+      "spell": "shusshin"
+    },
+    {
+      "text": "出版",
+      "hint": "出版",
+      "kind": "phrase",
+      "spell": "shuppan"
+    },
+    {
+      "text": "首都",
+      "hint": "首都",
+      "kind": "phrase",
+      "spell": "shuto"
+    },
+    {
+      "text": "主婦",
+      "hint": "家庭主妇",
+      "kind": "phrase",
+      "spell": "shufu"
+    },
+    {
+      "text": "主要",
+      "hint": "主要",
+      "kind": "phrase",
+      "spell": "shuyou"
+    },
+    {
+      "text": "需要",
+      "hint": "需要",
+      "kind": "phrase",
+      "spell": "juyou"
+    },
+    {
+      "text": "種類",
+      "hint": "种类",
+      "kind": "phrase",
+      "spell": "shurui"
+    },
+    {
+      "text": "順",
+      "hint": "顺序",
+      "kind": "phrase",
+      "spell": "jun"
+    },
+    {
+      "text": "瞬間",
+      "hint": "瞬间",
+      "kind": "phrase",
+      "spell": "shunkan"
+    },
+    {
+      "text": "順調",
+      "hint": "顺利",
+      "kind": "phrase",
+      "spell": "junchou"
+    },
+    {
+      "text": "順番",
+      "hint": "顺序",
+      "kind": "phrase",
+      "spell": "junban"
+    },
+    {
+      "text": "小",
+      "hint": "小",
+      "kind": "phrase",
+      "spell": "shou"
+    },
+    {
+      "text": "章",
+      "hint": "章",
+      "kind": "phrase",
+      "spell": "shou"
+    },
+    {
+      "text": "賞",
+      "hint": "奖",
+      "kind": "phrase",
+      "spell": "shou"
+    },
+    {
+      "text": "使用",
+      "hint": "使用",
+      "kind": "phrase",
+      "spell": "shiyou"
+    },
+    {
+      "text": "障害",
+      "hint": "残障",
+      "kind": "phrase",
+      "spell": "shougai"
+    },
+    {
+      "text": "奨学金",
+      "hint": "奖学金",
+      "kind": "phrase",
+      "spell": "shougakukin"
+    },
+    {
+      "text": "乗客",
+      "hint": "乘客",
+      "kind": "phrase",
+      "spell": "joukyaku"
+    },
+    {
+      "text": "上京",
+      "hint": "到东京去",
+      "kind": "phrase",
+      "spell": "joukyou"
+    },
+    {
+      "text": "状況",
+      "hint": "情况",
+      "kind": "phrase",
+      "spell": "joukyou"
+    },
+    {
+      "text": "条件",
+      "hint": "条件",
+      "kind": "phrase",
+      "spell": "jouken"
+    },
+    {
+      "text": "正午",
+      "hint": "正午",
+      "kind": "phrase",
+      "spell": "shougo"
+    },
+    {
+      "text": "正直",
+      "hint": "老实",
+      "kind": "phrase",
+      "spell": "shoujiki"
+    },
+    {
+      "text": "常識",
+      "hint": "常识",
+      "kind": "phrase",
+      "spell": "joushiki"
+    },
+    {
+      "text": "少女",
+      "hint": "少女",
+      "kind": "phrase",
+      "spell": "shoujo"
+    },
+    {
+      "text": "少々",
+      "hint": "少许",
+      "kind": "phrase",
+      "spell": "shoushou"
+    },
+    {
+      "text": "症状",
+      "hint": "症状",
+      "kind": "phrase",
+      "spell": "shoujou"
+    },
+    {
+      "text": "生じる",
+      "hint": "生",
+      "kind": "phrase",
+      "spell": "shoujiru"
+    },
+    {
+      "text": "状態",
+      "hint": "状态",
+      "kind": "phrase",
+      "spell": "joutai"
+    },
+    {
+      "text": "上達",
+      "hint": "进步",
+      "kind": "phrase",
+      "spell": "joutatsu"
+    },
+    {
+      "text": "冗談",
+      "hint": "玩笑",
+      "kind": "phrase",
+      "spell": "joudan"
+    },
+    {
+      "text": "上等",
+      "hint": "上等",
+      "kind": "phrase",
+      "spell": "joutou"
+    },
+    {
+      "text": "衝突",
+      "hint": "撞上",
+      "kind": "phrase",
+      "spell": "shoutotsu"
+    },
+    {
+      "text": "商人",
+      "hint": "商人",
+      "kind": "phrase",
+      "spell": "shounin"
+    },
+    {
+      "text": "承認",
+      "hint": "承认",
+      "kind": "phrase",
+      "spell": "shounin"
+    },
+    {
+      "text": "少年",
+      "hint": "少年",
+      "kind": "phrase",
+      "spell": "shounen"
+    },
+    {
+      "text": "商売",
+      "hint": "生意",
+      "kind": "phrase",
+      "spell": "shoubai"
+    },
+    {
+      "text": "消費",
+      "hint": "消费",
+      "kind": "phrase",
+      "spell": "shouhi"
+    },
+    {
+      "text": "商品",
+      "hint": "商品",
+      "kind": "phrase",
+      "spell": "shouhin"
+    },
+    {
+      "text": "消防",
+      "hint": "消防",
+      "kind": "phrase",
+      "spell": "shoubou"
+    },
+    {
+      "text": "情報",
+      "hint": "信息",
+      "kind": "phrase",
+      "spell": "jouhou"
+    },
+    {
+      "text": "証明",
+      "hint": "证明",
+      "kind": "phrase",
+      "spell": "shoumei"
+    },
+    {
+      "text": "女王",
+      "hint": "女王",
+      "kind": "phrase",
+      "spell": "joou"
+    },
+    {
+      "text": "職",
+      "hint": "职务",
+      "kind": "phrase",
+      "spell": "shoku"
+    },
+    {
+      "text": "職業",
+      "hint": "职业",
+      "kind": "phrase",
+      "spell": "shokugyou"
+    },
+    {
+      "text": "食卓",
+      "hint": "餐桌",
+      "kind": "phrase",
+      "spell": "shokutaku"
+    },
+    {
+      "text": "食品",
+      "hint": "食品",
+      "kind": "phrase",
+      "spell": "shokuhin"
+    },
+    {
+      "text": "植物",
+      "hint": "植物",
+      "kind": "phrase",
+      "spell": "shokubutsu"
+    },
+    {
+      "text": "食物",
+      "hint": "食物",
+      "kind": "phrase",
+      "spell": "shokumotsu"
+    },
+    {
+      "text": "食欲",
+      "hint": "食欲",
+      "kind": "phrase",
+      "spell": "shokuyoku"
+    },
+    {
+      "text": "食料",
+      "hint": "食品",
+      "kind": "phrase",
+      "spell": "shokuryou"
+    },
+    {
+      "text": "食糧",
+      "hint": "粮食",
+      "kind": "phrase",
+      "spell": "shokuryou"
+    },
+    {
+      "text": "書斎",
+      "hint": "书房",
+      "kind": "phrase",
+      "spell": "shosai"
+    },
+    {
+      "text": "女子",
+      "hint": "女子．女生",
+      "kind": "phrase",
+      "spell": "joshi"
+    },
+    {
+      "text": "助手",
+      "hint": "手",
+      "kind": "phrase",
+      "spell": "joshu"
+    },
+    {
+      "text": "徐々に",
+      "hint": "渐渐",
+      "kind": "phrase",
+      "spell": "jojoni"
+    },
+    {
+      "text": "署名",
+      "hint": "署名",
+      "kind": "phrase",
+      "spell": "shomei"
+    },
+    {
+      "text": "書物",
+      "hint": "书籍",
+      "kind": "phrase",
+      "spell": "shomotsu"
+    },
+    {
+      "text": "女優",
+      "hint": "女演员",
+      "kind": "phrase",
+      "spell": "joyuu"
+    },
+    {
+      "text": "処理",
+      "hint": "处理",
+      "kind": "phrase",
+      "spell": "shori"
+    },
+    {
+      "text": "書類",
+      "hint": "文件",
+      "kind": "phrase",
+      "spell": "shorui"
+    },
+    {
+      "text": "知らせ",
+      "hint": "消息",
+      "kind": "phrase",
+      "spell": "shirase"
+    },
+    {
+      "text": "尻",
+      "hint": "臀部",
+      "kind": "phrase",
+      "spell": "shiri"
+    },
+    {
+      "text": "印",
+      "hint": "符号",
+      "kind": "phrase",
+      "spell": "shirushi"
+    },
+    {
+      "text": "城",
+      "hint": "城",
+      "kind": "phrase",
+      "spell": "shiro"
+    },
+    {
+      "text": "進学",
+      "hint": "升学",
+      "kind": "phrase",
+      "spell": "shingaku"
+    },
+    {
+      "text": "神経",
+      "hint": "神经",
+      "kind": "phrase",
+      "spell": "shinkei"
+    },
+    {
+      "text": "真剣",
+      "hint": "认真",
+      "kind": "phrase",
+      "spell": "shinken"
+    },
+    {
+      "text": "信仰",
+      "hint": "信仰",
+      "kind": "phrase",
+      "spell": "shinkou"
+    },
+    {
+      "text": "信号",
+      "hint": "信号",
+      "kind": "phrase",
+      "spell": "shingou"
+    },
+    {
+      "text": "人工",
+      "hint": "人工",
+      "kind": "phrase",
+      "spell": "jinkou"
+    },
+    {
+      "text": "深刻",
+      "hint": "严肃",
+      "kind": "phrase",
+      "spell": "shinkoku"
+    },
+    {
+      "text": "診察",
+      "hint": "看病．检查．诊察",
+      "kind": "phrase",
+      "spell": "shinsatsu"
+    },
+    {
+      "text": "人種",
+      "hint": "人种",
+      "kind": "phrase",
+      "spell": "jinshu"
+    },
+    {
+      "text": "信じる",
+      "hint": "相信",
+      "kind": "phrase",
+      "spell": "shinjiru"
+    },
+    {
+      "text": "人生",
+      "hint": "人生",
+      "kind": "phrase",
+      "spell": "jinsei"
+    },
+    {
+      "text": "親戚",
+      "hint": "亲戚",
+      "kind": "phrase",
+      "spell": "shinseki"
+    },
+    {
+      "text": "新鮮",
+      "hint": "新鲜",
+      "kind": "phrase",
+      "spell": "shinsen"
+    },
+    {
+      "text": "心臓",
+      "hint": "心脏",
+      "kind": "phrase",
+      "spell": "shinzou"
+    },
+    {
+      "text": "身体",
+      "hint": "身体",
+      "kind": "phrase",
+      "spell": "shintai"
+    },
+    {
+      "text": "慎重",
+      "hint": "慎重",
+      "kind": "phrase",
+      "spell": "shinchou"
+    },
+    {
+      "text": "身長",
+      "hint": "身高",
+      "kind": "phrase",
+      "spell": "shinchou"
+    },
+    {
+      "text": "審判",
+      "hint": "裁判（员）",
+      "kind": "phrase",
+      "spell": "shinpan"
+    },
+    {
+      "text": "人物",
+      "hint": "人物",
+      "kind": "phrase",
+      "spell": "jinbutsu"
+    },
+    {
+      "text": "進歩",
+      "hint": "进步",
+      "kind": "phrase",
+      "spell": "shinpo"
+    },
+    {
+      "text": "親友",
+      "hint": "好朋友",
+      "kind": "phrase",
+      "spell": "shin'yuu"
+    },
+    {
+      "text": "信用",
+      "hint": "信用",
+      "kind": "phrase",
+      "spell": "shin'you"
+    },
+    {
+      "text": "信頼",
+      "hint": "信赖",
+      "kind": "phrase",
+      "spell": "shinrai"
+    },
+    {
+      "text": "心理",
+      "hint": "心理",
+      "kind": "phrase",
+      "spell": "shinri"
+    },
+    {
+      "text": "人類",
+      "hint": "人类",
+      "kind": "phrase",
+      "spell": "jinrui"
+    },
+    {
+      "text": "巣",
+      "hint": "巢",
+      "kind": "phrase",
+      "spell": "su"
+    },
+    {
+      "text": "図",
+      "hint": "图",
+      "kind": "phrase",
+      "spell": "zu"
+    },
+    {
+      "text": "水準",
+      "hint": "水准",
+      "kind": "phrase",
+      "spell": "suijun"
+    },
+    {
+      "text": "推薦",
+      "hint": "推荐",
+      "kind": "phrase",
+      "spell": "suisen"
+    },
+    {
+      "text": "スイッチ",
+      "hint": "电源开关",
+      "kind": "phrase",
+      "spell": "suitchi"
+    },
+    {
+      "text": "睡眠",
+      "hint": "睡眠",
+      "kind": "phrase",
+      "spell": "suimin"
+    },
+    {
+      "text": "数字",
+      "hint": "数字",
+      "kind": "phrase",
+      "spell": "suuji"
+    },
+    {
+      "text": "スープ",
+      "hint": "（西餐）汤",
+      "kind": "phrase",
+      "spell": "suupu"
+    },
+    {
+      "text": "末",
+      "hint": "结果 积极",
+      "kind": "phrase",
+      "spell": "sue"
+    },
+    {
+      "text": "姿",
+      "hint": "打扮",
+      "kind": "phrase",
+      "spell": "sugata"
+    },
+    {
+      "text": "スキー",
+      "hint": "滑雪",
+      "kind": "phrase",
+      "spell": "sukii"
+    },
+    {
+      "text": "救う",
+      "hint": "救",
+      "kind": "phrase",
+      "spell": "sukuu"
+    },
+    {
+      "text": "優れる",
+      "hint": "优秀",
+      "kind": "phrase",
+      "spell": "sugureru"
+    },
+    {
+      "text": "スケート",
+      "hint": "滑冰",
+      "kind": "phrase",
+      "spell": "sukeeto"
+    },
+    {
+      "text": "少しも",
+      "hint": "一点也（不）",
+      "kind": "phrase",
+      "spell": "sukoshimo"
+    },
+    {
+      "text": "過ごす",
+      "hint": "度过",
+      "kind": "phrase",
+      "spell": "sugosu"
+    },
+    {
+      "text": "筋",
+      "hint": "筋",
+      "kind": "phrase",
+      "spell": "suji"
+    },
+    {
+      "text": "勧める",
+      "hint": "劝告",
+      "kind": "phrase",
+      "spell": "susumeru"
+    },
+    {
+      "text": "進める",
+      "hint": "使⋯⋯前进",
+      "kind": "phrase",
+      "spell": "susumeru"
+    },
+    {
+      "text": "スター",
+      "hint": "明星：星星",
+      "kind": "phrase",
+      "spell": "sutaa"
+    },
+    {
+      "text": "スタイル",
+      "hint": "体型",
+      "kind": "phrase",
+      "spell": "sutairu"
+    },
+    {
+      "text": "スタンド",
+      "hint": "台灯",
+      "kind": "phrase",
+      "spell": "sutando"
+    },
+    {
+      "text": "頭痛",
+      "hint": "头痛",
+      "kind": "phrase",
+      "spell": "zutsuu"
+    },
+    {
+      "text": "ずっと",
+      "hint": "比……得多",
+      "kind": "phrase",
+      "spell": "zutto"
+    },
+    {
+      "text": "すてき",
+      "hint": "极好的",
+      "kind": "phrase",
+      "spell": "suteki"
+    },
+    {
+      "text": "既に",
+      "hint": "已经",
+      "kind": "phrase",
+      "spell": "sudeni"
+    },
+    {
+      "text": "すなわち",
+      "hint": "换言之",
+      "kind": "phrase",
+      "spell": "sunawachi"
+    },
+    {
+      "text": "スピーチ",
+      "hint": "演讲",
+      "kind": "phrase",
+      "spell": "supiichi"
+    },
+    {
+      "text": "全て",
+      "hint": "全部",
+      "kind": "phrase",
+      "spell": "subete"
+    },
+    {
+      "text": "済ませる",
+      "hint": "做完",
+      "kind": "phrase",
+      "spell": "sumaseru"
+    },
+    {
+      "text": "鋭い",
+      "hint": "尖锐的",
+      "kind": "phrase",
+      "spell": "surudoi"
+    },
+    {
+      "text": "せい",
+      "hint": "原因",
+      "kind": "phrase",
+      "spell": "sei"
+    },
+    {
+      "text": "性",
+      "hint": "性",
+      "kind": "phrase",
+      "spell": "sei"
+    },
+    {
+      "text": "正",
+      "hint": "正确",
+      "kind": "phrase",
+      "spell": "sei"
+    },
+    {
+      "text": "背",
+      "hint": "后背",
+      "kind": "phrase",
+      "spell": "sei"
+    },
+    {
+      "text": "税",
+      "hint": "税",
+      "kind": "phrase",
+      "spell": "zei"
+    },
+    {
+      "text": "性格",
+      "hint": "性格",
+      "kind": "phrase",
+      "spell": "seikaku"
+    },
+    {
+      "text": "正確",
+      "hint": "正确",
+      "kind": "phrase",
+      "spell": "seikaku"
+    },
+    {
+      "text": "世紀",
+      "hint": "世纪",
+      "kind": "phrase",
+      "spell": "seiki"
+    },
+    {
+      "text": "請求",
+      "hint": "索要",
+      "kind": "phrase",
+      "spell": "seikyuu"
+    },
+    {
+      "text": "税金",
+      "hint": "税金",
+      "kind": "phrase",
+      "spell": "zeikin"
+    },
+    {
+      "text": "清潔",
+      "hint": "整洁",
+      "kind": "phrase",
+      "spell": "seiketsu"
+    },
+    {
+      "text": "制限",
+      "hint": "限制",
+      "kind": "phrase",
+      "spell": "seigen"
+    },
+    {
+      "text": "成功",
+      "hint": "成功",
+      "kind": "phrase",
+      "spell": "seikou"
+    },
+    {
+      "text": "正式",
+      "hint": "正规",
+      "kind": "phrase",
+      "spell": "seishiki"
+    },
+    {
+      "text": "精神",
+      "hint": "精神",
+      "kind": "phrase",
+      "spell": "seishin"
+    },
+    {
+      "text": "成人",
+      "hint": "成年人",
+      "kind": "phrase",
+      "spell": "seijin"
+    },
+    {
+      "text": "精々",
+      "hint": "尽量",
+      "kind": "phrase",
+      "spell": "seizei"
+    },
+    {
+      "text": "成績",
+      "hint": "成绩",
+      "kind": "phrase",
+      "spell": "seiseki"
+    },
+    {
+      "text": "製造",
+      "hint": "制造",
+      "kind": "phrase",
+      "spell": "seizou"
+    },
+    {
+      "text": "贅沢",
+      "hint": "奢侈",
+      "kind": "phrase",
+      "spell": "zeitaku"
+    },
+    {
+      "text": "成長",
+      "hint": "成长",
+      "kind": "phrase",
+      "spell": "seichou"
+    },
+    {
+      "text": "制度",
+      "hint": "制度",
+      "kind": "phrase",
+      "spell": "seido"
+    },
+    {
+      "text": "青年",
+      "hint": "青年",
+      "kind": "phrase",
+      "spell": "seinen"
+    },
+    {
+      "text": "製品",
+      "hint": "产品",
+      "kind": "phrase",
+      "spell": "seihin"
+    },
+    {
+      "text": "政府",
+      "hint": "政府",
+      "kind": "phrase",
+      "spell": "seifu"
+    },
+    {
+      "text": "生物",
+      "hint": "生的(食品)",
+      "kind": "phrase",
+      "spell": "seibutsu"
+    },
+    {
+      "text": "生命",
+      "hint": "生命",
+      "kind": "phrase",
+      "spell": "seimei"
+    },
+    {
+      "text": "整理",
+      "hint": "整理",
+      "kind": "phrase",
+      "spell": "seiri"
+    },
+    {
+      "text": "咳",
+      "hint": "咳嗽",
+      "kind": "phrase",
+      "spell": "seki"
+    },
+    {
+      "text": "石炭",
+      "hint": "煤",
+      "kind": "phrase",
+      "spell": "sekitan"
+    },
+    {
+      "text": "責任",
+      "hint": "责任",
+      "kind": "phrase",
+      "spell": "sekinin"
+    },
+    {
+      "text": "石油",
+      "hint": "石油",
+      "kind": "phrase",
+      "spell": "sekiyu"
+    },
+    {
+      "text": "世間",
+      "hint": "社会",
+      "kind": "phrase",
+      "spell": "seken"
+    },
+    {
+      "text": "説",
+      "hint": "学说",
+      "kind": "phrase",
+      "spell": "setsu"
+    },
+    {
+      "text": "積極的",
+      "hint": "积极．正面",
+      "kind": "phrase",
+      "spell": "sekkyokuteki"
+    },
+    {
+      "text": "設計",
+      "hint": "设计",
+      "kind": "phrase",
+      "spell": "sekkei"
+    },
+    {
+      "text": "絶対",
+      "hint": "绝对",
+      "kind": "phrase",
+      "spell": "zettai"
+    },
+    {
+      "text": "セット",
+      "hint": "成套",
+      "kind": "phrase",
+      "spell": "setto"
+    },
+    {
+      "text": "設備",
+      "hint": "设备",
+      "kind": "phrase",
+      "spell": "setsubi"
+    },
+    {
+      "text": "絶滅",
+      "hint": "灭绝",
+      "kind": "phrase",
+      "spell": "zetsumetsu"
+    },
+    {
+      "text": "節約",
+      "hint": "节约",
+      "kind": "phrase",
+      "spell": "setsuyaku"
+    },
+    {
+      "text": "責める",
+      "hint": "责备",
+      "kind": "phrase",
+      "spell": "semeru"
+    },
+    {
+      "text": "善",
+      "hint": "善",
+      "kind": "phrase",
+      "spell": "zen"
+    },
+    {
+      "text": "全",
+      "hint": "全～",
+      "kind": "phrase",
+      "spell": "zen"
+    },
+    {
+      "text": "全員",
+      "hint": "全体",
+      "kind": "phrase",
+      "spell": "zen'in"
+    },
+    {
+      "text": "専攻",
+      "hint": "业",
+      "kind": "phrase",
+      "spell": "senkou"
+    },
+    {
+      "text": "全国",
+      "hint": "全国",
+      "kind": "phrase",
+      "spell": "zenkoku"
+    },
+    {
+      "text": "先日",
+      "hint": "前几天",
+      "kind": "phrase",
+      "spell": "senjitsu"
+    },
+    {
+      "text": "前者",
+      "hint": "前者",
+      "kind": "phrase",
+      "spell": "zensha"
+    },
+    {
+      "text": "選手",
+      "hint": "选手",
+      "kind": "phrase",
+      "spell": "senshu"
+    },
+    {
+      "text": "前進",
+      "hint": "进展",
+      "kind": "phrase",
+      "spell": "zenshin"
+    },
+    {
+      "text": "センター",
+      "hint": "中心",
+      "kind": "phrase",
+      "spell": "sentaa"
+    },
+    {
+      "text": "全体",
+      "hint": "全体",
+      "kind": "phrase",
+      "spell": "zentai"
+    },
+    {
+      "text": "選択",
+      "hint": "选择",
+      "kind": "phrase",
+      "spell": "sentaku"
+    },
+    {
+      "text": "象",
+      "hint": "大象",
+      "kind": "phrase",
+      "spell": "zou"
+    },
+    {
+      "text": "騒音",
+      "hint": "噪音",
+      "kind": "phrase",
+      "spell": "souon"
+    },
+    {
+      "text": "増加",
+      "hint": "增加",
+      "kind": "phrase",
+      "spell": "zouka"
+    },
+    {
+      "text": "操作",
+      "hint": "操作",
+      "kind": "phrase",
+      "spell": "sousa"
+    },
+    {
+      "text": "想像",
+      "hint": "想象",
+      "kind": "phrase",
+      "spell": "souzou"
+    },
+    {
+      "text": "相続",
+      "hint": "继承",
+      "kind": "phrase",
+      "spell": "souzoku"
+    },
+    {
+      "text": "装置",
+      "hint": "装置",
+      "kind": "phrase",
+      "spell": "souchi"
+    },
+    {
+      "text": "相当",
+      "hint": "相当",
+      "kind": "phrase",
+      "spell": "soutou"
+    },
+    {
+      "text": "速度",
+      "hint": "速度",
+      "kind": "phrase",
+      "spell": "sokudo"
+    },
+    {
+      "text": "底",
+      "hint": "底部",
+      "kind": "phrase",
+      "spell": "soko"
+    },
+    {
+      "text": "そこで",
+      "hint": "因此",
+      "kind": "phrase",
+      "spell": "sokode"
+    },
+    {
+      "text": "組織",
+      "hint": "组织",
+      "kind": "phrase",
+      "spell": "soshiki"
+    },
+    {
+      "text": "そして",
+      "hint": "而且",
+      "kind": "phrase",
+      "spell": "soshite"
+    },
+    {
+      "text": "注ぐ",
+      "hint": "加入",
+      "kind": "phrase",
+      "spell": "sosogu"
+    },
+    {
+      "text": "育つ",
+      "hint": "发育",
+      "kind": "phrase",
+      "spell": "sodatsu"
+    },
+    {
+      "text": "そっくり",
+      "hint": "一模一样",
+      "kind": "phrase",
+      "spell": "sokkuri"
+    },
+    {
+      "text": "そっと",
+      "hint": "悄悄地",
+      "kind": "phrase",
+      "spell": "sotto"
+    },
+    {
+      "text": "袖",
+      "hint": "袖子",
+      "kind": "phrase",
+      "spell": "sode"
+    },
+    {
+      "text": "備える",
+      "hint": "准备",
+      "kind": "phrase",
+      "spell": "sonaeru"
+    },
+    {
+      "text": "そのうち",
+      "hint": "不久",
+      "kind": "phrase",
+      "spell": "sonouchi"
+    },
+    {
+      "text": "そのまま",
+      "hint": "就照原样",
+      "kind": "phrase",
+      "spell": "sonomama"
+    },
+    {
+      "text": "ソファー",
+      "hint": "沙发",
+      "kind": "phrase",
+      "spell": "sofaa"
+    },
+    {
+      "text": "粗末",
+      "hint": "粗糙",
+      "kind": "phrase",
+      "spell": "somatsu"
+    },
+    {
+      "text": "それぞれ",
+      "hint": "分别．各自",
+      "kind": "phrase",
+      "spell": "sorezore"
+    },
+    {
+      "text": "それでも",
+      "hint": "连接词 即使那样",
+      "kind": "phrase",
+      "spell": "soredemo"
+    },
+    {
+      "text": "それと",
+      "hint": "还有",
+      "kind": "phrase",
+      "spell": "soreto"
+    },
+    {
+      "text": "それとも",
+      "hint": "或者",
+      "kind": "phrase",
+      "spell": "soretomo"
+    },
+    {
+      "text": "損",
+      "hint": "亏损",
+      "kind": "phrase",
+      "spell": "son"
+    },
+    {
+      "text": "損害",
+      "hint": "损害",
+      "kind": "phrase",
+      "spell": "songai"
+    },
+    {
+      "text": "尊敬",
+      "hint": "尊敬",
+      "kind": "phrase",
+      "spell": "sonkei"
+    },
+    {
+      "text": "存在",
+      "hint": "存在",
+      "kind": "phrase",
+      "spell": "sonzai"
+    },
+    {
+      "text": "尊重",
+      "hint": "尊重",
+      "kind": "phrase",
+      "spell": "sonchou"
+    },
+    {
+      "text": "他",
+      "hint": "其他",
+      "kind": "phrase",
+      "spell": "ta"
+    },
+    {
+      "text": "田",
+      "hint": "水田",
+      "kind": "phrase",
+      "spell": "ta"
+    },
+    {
+      "text": "対",
+      "hint": "对",
+      "kind": "phrase",
+      "spell": "tai"
+    },
+    {
+      "text": "台",
+      "hint": "台",
+      "kind": "phrase",
+      "spell": "dai"
+    },
+    {
+      "text": "大",
+      "hint": "大",
+      "kind": "phrase",
+      "spell": "dai"
+    },
+    {
+      "text": "題",
+      "hint": "题",
+      "kind": "phrase",
+      "spell": "dai"
+    },
+    {
+      "text": "体育",
+      "hint": "体育",
+      "kind": "phrase",
+      "spell": "taiiku"
+    },
+    {
+      "text": "体温",
+      "hint": "体温",
+      "kind": "phrase",
+      "spell": "taion"
+    },
+    {
+      "text": "大会",
+      "hint": "大会",
+      "kind": "phrase",
+      "spell": "taikai"
+    },
+    {
+      "text": "大気",
+      "hint": "大气",
+      "kind": "phrase",
+      "spell": "taiki"
+    },
+    {
+      "text": "代金",
+      "hint": "贷款",
+      "kind": "phrase",
+      "spell": "daikin"
+    },
+    {
+      "text": "退屈",
+      "hint": "无聊",
+      "kind": "phrase",
+      "spell": "taikutsu"
+    },
+    {
+      "text": "滞在",
+      "hint": "停留",
+      "kind": "phrase",
+      "spell": "taizai"
+    },
+    {
+      "text": "大使",
+      "hint": "大使",
+      "kind": "phrase",
+      "spell": "taishi"
+    },
+    {
+      "text": "大した",
+      "hint": "大",
+      "kind": "phrase",
+      "spell": "taishita"
+    },
+    {
+      "text": "対象",
+      "hint": "对象",
+      "kind": "phrase",
+      "spell": "taishou"
+    },
+    {
+      "text": "大臣",
+      "hint": "大臣",
+      "kind": "phrase",
+      "spell": "daijin"
+    },
+    {
+      "text": "対する",
+      "hint": "对",
+      "kind": "phrase",
+      "spell": "taisuru"
+    },
+    {
+      "text": "大戦",
+      "hint": "大战",
+      "kind": "phrase",
+      "spell": "taisen"
+    },
+    {
+      "text": "態度",
+      "hint": "态度",
+      "kind": "phrase",
+      "spell": "taido"
+    },
+    {
+      "text": "大統領",
+      "hint": "总统",
+      "kind": "phrase",
+      "spell": "daitouryou"
+    },
+    {
+      "text": "大半",
+      "hint": "大半",
+      "kind": "phrase",
+      "spell": "taihan"
+    },
+    {
+      "text": "代表",
+      "hint": "代表",
+      "kind": "phrase",
+      "spell": "daihyou"
+    },
+    {
+      "text": "大部分",
+      "hint": "大部分",
+      "kind": "phrase",
+      "spell": "daibubun"
+    },
+    {
+      "text": "タイプライター",
+      "hint": "打字机",
+      "kind": "phrase",
+      "spell": "taipuraitaa"
+    },
+    {
+      "text": "逮捕",
+      "hint": "逮捕",
+      "kind": "phrase",
+      "spell": "taiho"
+    },
+    {
+      "text": "ダイヤ",
+      "hint": "运行时刻表",
+      "kind": "phrase",
+      "spell": "daiya"
+    },
+    {
+      "text": "太陽",
+      "hint": "日头",
+      "kind": "phrase",
+      "spell": "taiyou"
+    },
+    {
+      "text": "平ら",
+      "hint": "扁平",
+      "kind": "phrase",
+      "spell": "taira"
+    },
+    {
+      "text": "代理",
+      "hint": "代理",
+      "kind": "phrase",
+      "spell": "dairi"
+    },
+    {
+      "text": "大陸",
+      "hint": "大陆",
+      "kind": "phrase",
+      "spell": "tairiku"
+    },
+    {
+      "text": "倒す",
+      "hint": "推倒",
+      "kind": "phrase",
+      "spell": "taosu"
+    },
+    {
+      "text": "タオル",
+      "hint": "毛巾",
+      "kind": "phrase",
+      "spell": "taoru"
+    },
+    {
+      "text": "だが",
+      "hint": "但是",
+      "kind": "phrase",
+      "spell": "daga"
+    },
+    {
+      "text": "互い",
+      "hint": "互相",
+      "kind": "phrase",
+      "spell": "tagai"
+    },
+    {
+      "text": "宝",
+      "hint": "宝物",
+      "kind": "phrase",
+      "spell": "takara"
+    },
+    {
+      "text": "宅",
+      "hint": "住宅",
+      "kind": "phrase",
+      "spell": "taku"
+    },
+    {
+      "text": "だけど",
+      "hint": "可是",
+      "kind": "phrase",
+      "spell": "dakedo"
+    },
+    {
+      "text": "確かめる",
+      "hint": "弄清",
+      "kind": "phrase",
+      "spell": "tashikameru"
+    },
+    {
+      "text": "多少",
+      "hint": "多少",
+      "kind": "phrase",
+      "spell": "tashou"
+    },
+    {
+      "text": "助ける",
+      "hint": "帮助",
+      "kind": "phrase",
+      "spell": "tasukeru"
+    },
+    {
+      "text": "ただ",
+      "hint": "仅",
+      "kind": "phrase",
+      "spell": "tada"
+    },
+    {
+      "text": "戦い",
+      "hint": "战争",
+      "kind": "phrase",
+      "spell": "tatakai"
+    },
+    {
+      "text": "戦う",
+      "hint": "战斗",
+      "kind": "phrase",
+      "spell": "tatakau"
+    },
+    {
+      "text": "叩く",
+      "hint": "敲",
+      "kind": "phrase",
+      "spell": "tataku"
+    },
+    {
+      "text": "直ちに",
+      "hint": "立刻",
+      "kind": "phrase",
+      "spell": "tadachini"
+    },
+    {
+      "text": "立ち上がる",
+      "hint": "站起来",
+      "kind": "phrase",
+      "spell": "tachiagaru"
+    },
+    {
+      "text": "立場",
+      "hint": "立场",
+      "kind": "phrase",
+      "spell": "tachiba"
+    },
+    {
+      "text": "経つ",
+      "hint": "(时间)过",
+      "kind": "phrase",
+      "spell": "tatsu"
+    },
+    {
+      "text": "達する",
+      "hint": "达到",
+      "kind": "phrase",
+      "spell": "tassuru"
+    },
+    {
+      "text": "だって",
+      "hint": "因为",
+      "kind": "phrase",
+      "spell": "datte"
+    },
+    {
+      "text": "たっぷり",
+      "hint": "足够",
+      "kind": "phrase",
+      "spell": "tappuri"
+    },
+    {
+      "text": "たとえ",
+      "hint": "即使",
+      "kind": "phrase",
+      "spell": "tatoe"
+    },
+    {
+      "text": "谷",
+      "hint": "山谷",
+      "kind": "phrase",
+      "spell": "tani"
+    },
+    {
+      "text": "他人",
+      "hint": "他人",
+      "kind": "phrase",
+      "spell": "tanin"
+    },
+    {
+      "text": "種",
+      "hint": "种子",
+      "kind": "phrase",
+      "spell": "tane"
+    },
+    {
+      "text": "束",
+      "hint": "束",
+      "kind": "phrase",
+      "spell": "taba"
+    },
+    {
+      "text": "度",
+      "hint": "次",
+      "kind": "phrase",
+      "spell": "tabi"
+    },
+    {
+      "text": "旅",
+      "hint": "旅行",
+      "kind": "phrase",
+      "spell": "tabi"
+    },
+    {
+      "text": "たびたび",
+      "hint": "屡次",
+      "kind": "phrase",
+      "spell": "tabitabi"
+    },
+    {
+      "text": "玉",
+      "hint": "玉",
+      "kind": "phrase",
+      "spell": "tama"
+    },
+    {
+      "text": "偶",
+      "hint": "偶尔",
+      "kind": "phrase",
+      "spell": "tama"
+    },
+    {
+      "text": "弾",
+      "hint": "子弹",
+      "kind": "phrase",
+      "spell": "tama"
+    },
+    {
+      "text": "たまたま",
+      "hint": "偶然",
+      "kind": "phrase",
+      "spell": "tamatama"
+    },
+    {
+      "text": "たまらない",
+      "hint": "得不得了",
+      "kind": "phrase",
+      "spell": "tamaranai"
+    },
+    {
+      "text": "黙る",
+      "hint": "不说话",
+      "kind": "phrase",
+      "spell": "damaru"
+    },
+    {
+      "text": "試し",
+      "hint": "尝试",
+      "kind": "phrase",
+      "spell": "tameshi"
+    },
+    {
+      "text": "試す",
+      "hint": "试",
+      "kind": "phrase",
+      "spell": "tamesu"
+    },
+    {
+      "text": "便り",
+      "hint": "消息",
+      "kind": "phrase",
+      "spell": "tayori"
+    },
+    {
+      "text": "頼る",
+      "hint": "依靠",
+      "kind": "phrase",
+      "spell": "tayoru"
+    },
+    {
+      "text": "誰か",
+      "hint": "某人",
+      "kind": "phrase",
+      "spell": "dareka"
+    },
+    {
+      "text": "段",
+      "hint": "台阶",
+      "kind": "phrase",
+      "spell": "dan"
+    },
+    {
+      "text": "単位",
+      "hint": "（数量）单位",
+      "kind": "phrase",
+      "spell": "tan'i"
+    },
+    {
+      "text": "単語",
+      "hint": "词汇",
+      "kind": "phrase",
+      "spell": "tango"
+    },
+    {
+      "text": "男子",
+      "hint": "男性",
+      "kind": "phrase",
+      "spell": "danshi"
+    },
+    {
+      "text": "単純",
+      "hint": "单纯",
+      "kind": "phrase",
+      "spell": "tanjun"
+    },
+    {
+      "text": "誕生",
+      "hint": "诞生",
+      "kind": "phrase",
+      "spell": "tanjou"
+    },
+    {
+      "text": "ダンス",
+      "hint": "跳舞",
+      "kind": "phrase",
+      "spell": "dansu"
+    },
+    {
+      "text": "団体",
+      "hint": "团体",
+      "kind": "phrase",
+      "spell": "dantai"
+    },
+    {
+      "text": "担当",
+      "hint": "担任",
+      "kind": "phrase",
+      "spell": "tantou"
+    },
+    {
+      "text": "単なる",
+      "hint": "仅仅",
+      "kind": "phrase",
+      "spell": "tannaru"
+    },
+    {
+      "text": "単に",
+      "hint": "仅",
+      "kind": "phrase",
+      "spell": "tanni"
+    },
+    {
+      "text": "地",
+      "hint": "地",
+      "kind": "phrase",
+      "spell": "chi"
+    },
+    {
+      "text": "地位",
+      "hint": "地位",
+      "kind": "phrase",
+      "spell": "chii"
+    },
+    {
+      "text": "地域",
+      "hint": "地域",
+      "kind": "phrase",
+      "spell": "chiiki"
+    },
+    {
+      "text": "チーズ",
+      "hint": "茄—子（音）",
+      "kind": "phrase",
+      "spell": "chiizu"
+    },
+    {
+      "text": "チーム",
+      "hint": "队",
+      "kind": "phrase",
+      "spell": "chiimu"
+    },
+    {
+      "text": "知恵",
+      "hint": "智慧",
+      "kind": "phrase",
+      "spell": "chie"
+    },
+    {
+      "text": "地下",
+      "hint": "地下",
+      "kind": "phrase",
+      "spell": "chika"
+    },
+    {
+      "text": "違い",
+      "hint": "不同",
+      "kind": "phrase",
+      "spell": "chigai"
+    },
+    {
+      "text": "違いない",
+      "hint": "没错",
+      "kind": "phrase",
+      "spell": "chigainai"
+    },
+    {
+      "text": "近頃",
+      "hint": "最近",
+      "kind": "phrase",
+      "spell": "chikagoro"
+    },
+    {
+      "text": "地球",
+      "hint": "地球",
+      "kind": "phrase",
+      "spell": "chikyuu"
+    },
+    {
+      "text": "地区",
+      "hint": "地区",
+      "kind": "phrase",
+      "spell": "chiku"
+    },
+    {
+      "text": "遅刻",
+      "hint": "迟到",
+      "kind": "phrase",
+      "spell": "chikoku"
+    },
+    {
+      "text": "知事",
+      "hint": "知事（日本都、道、府、县的长官）",
+      "kind": "phrase",
+      "spell": "chiji"
+    },
+    {
+      "text": "知識",
+      "hint": "知识",
+      "kind": "phrase",
+      "spell": "chishiki"
+    },
+    {
+      "text": "父親",
+      "hint": "父亲",
+      "kind": "phrase",
+      "spell": "chichioya"
+    },
+    {
+      "text": "知能",
+      "hint": "智力",
+      "kind": "phrase",
+      "spell": "chinou"
+    },
+    {
+      "text": "地平線",
+      "hint": "地平线",
+      "kind": "phrase",
+      "spell": "chiheisen"
+    },
+    {
+      "text": "地方",
+      "hint": "地区",
+      "kind": "phrase",
+      "spell": "chihou"
+    },
+    {
+      "text": "茶",
+      "hint": "普洱茶",
+      "kind": "phrase",
+      "spell": "cha"
+    },
+    {
+      "text": "チャンス",
+      "hint": "机会",
+      "kind": "phrase",
+      "spell": "chansu"
+    },
+    {
+      "text": "ちゃんと",
+      "hint": "准确无误地",
+      "kind": "phrase",
+      "spell": "chanto"
+    },
+    {
+      "text": "中",
+      "hint": "里面",
+      "kind": "phrase",
+      "spell": "chuu"
+    },
+    {
+      "text": "注",
+      "hint": "注解",
+      "kind": "phrase",
+      "spell": "chuu"
+    },
+    {
+      "text": "中央",
+      "hint": "中央",
+      "kind": "phrase",
+      "spell": "chuuou"
+    },
+    {
+      "text": "中学",
+      "hint": "初中",
+      "kind": "phrase",
+      "spell": "chuugaku"
+    },
+    {
+      "text": "中古",
+      "hint": "二手",
+      "kind": "phrase",
+      "spell": "chuuko"
+    },
+    {
+      "text": "中止",
+      "hint": "中止",
+      "kind": "phrase",
+      "spell": "chuushi"
+    },
+    {
+      "text": "駐車",
+      "hint": "停车",
+      "kind": "phrase",
+      "spell": "chuusha"
+    },
+    {
+      "text": "昼食",
+      "hint": "午餐",
+      "kind": "phrase",
+      "spell": "chuushoku"
+    },
+    {
+      "text": "中心",
+      "hint": "中心",
+      "kind": "phrase",
+      "spell": "chuushin"
+    },
+    {
+      "text": "注目",
+      "hint": "注目．注视",
+      "kind": "phrase",
+      "spell": "chuumoku"
+    },
+    {
+      "text": "注文",
+      "hint": "订货",
+      "kind": "phrase",
+      "spell": "chuumon"
+    },
+    {
+      "text": "長期",
+      "hint": "长期",
+      "kind": "phrase",
+      "spell": "chouki"
+    },
+    {
+      "text": "調査",
+      "hint": "调查",
+      "kind": "phrase",
+      "spell": "chousa"
+    },
+    {
+      "text": "調子",
+      "hint": "情况",
+      "kind": "phrase",
+      "spell": "choushi"
+    },
+    {
+      "text": "頂上",
+      "hint": "顶峰",
+      "kind": "phrase",
+      "spell": "choujou"
+    },
+    {
+      "text": "ちょうだい",
+      "hint": "（自谦语）领受",
+      "kind": "phrase",
+      "spell": "choudai"
+    },
+    {
+      "text": "貯金",
+      "hint": "存款",
+      "kind": "phrase",
+      "spell": "chokin"
+    },
+    {
+      "text": "直接",
+      "hint": "直接",
+      "kind": "phrase",
+      "spell": "chokusetsu"
+    },
+    {
+      "text": "著者",
+      "hint": "著者",
+      "kind": "phrase",
+      "spell": "chosha"
+    },
+    {
+      "text": "塵",
+      "hint": "灰尘",
+      "kind": "phrase",
+      "spell": "chiri"
+    },
+    {
+      "text": "遂に",
+      "hint": "终于",
+      "kind": "phrase",
+      "spell": "tsuini"
+    },
+    {
+      "text": "通過",
+      "hint": "通过",
+      "kind": "phrase",
+      "spell": "tsuuka"
+    },
+    {
+      "text": "通学",
+      "hint": "上学",
+      "kind": "phrase",
+      "spell": "tsuugaku"
+    },
+    {
+      "text": "通行",
+      "hint": "通行",
+      "kind": "phrase",
+      "spell": "tsuukou"
+    },
+    {
+      "text": "通じる",
+      "hint": "通",
+      "kind": "phrase",
+      "spell": "tsuujiru"
+    },
+    {
+      "text": "通信",
+      "hint": "通信",
+      "kind": "phrase",
+      "spell": "tsuushin"
+    },
+    {
+      "text": "捕まる",
+      "hint": "抓住",
+      "kind": "phrase",
+      "spell": "tsukamaru"
+    },
+    {
+      "text": "掴む",
+      "hint": "抓住",
+      "kind": "phrase",
+      "spell": "tsukamu"
+    },
+    {
+      "text": "疲れ",
+      "hint": "劳累",
+      "kind": "phrase",
+      "spell": "tsukare"
+    },
+    {
+      "text": "付き合い",
+      "hint": "交往",
+      "kind": "phrase",
+      "spell": "tsukiai"
+    },
+    {
+      "text": "次々",
+      "hint": "不断",
+      "kind": "phrase",
+      "spell": "tsugitsugi"
+    },
+    {
+      "text": "就く",
+      "hint": "就座",
+      "kind": "phrase",
+      "spell": "tsuku"
+    },
+    {
+      "text": "付ける",
+      "hint": "附上",
+      "kind": "phrase",
+      "spell": "tsukeru"
+    },
+    {
+      "text": "土",
+      "hint": "土壤",
+      "kind": "phrase",
+      "spell": "tsuchi"
+    },
+    {
+      "text": "続き",
+      "hint": "后续",
+      "kind": "phrase",
+      "spell": "tsuzuki"
+    },
+    {
+      "text": "包み",
+      "hint": "包裹",
+      "kind": "phrase",
+      "spell": "tsutsumi"
+    },
+    {
+      "text": "勤め",
+      "hint": "工作",
+      "kind": "phrase",
+      "spell": "tsutome"
+    },
+    {
+      "text": "務め",
+      "hint": "职责",
+      "kind": "phrase",
+      "spell": "tsutome"
+    },
+    {
+      "text": "繋ぐ",
+      "hint": "系",
+      "kind": "phrase",
+      "spell": "tsunagu"
+    },
+    {
+      "text": "常に",
+      "hint": "总是",
+      "kind": "phrase",
+      "spell": "tsuneni"
+    },
+    {
+      "text": "角",
+      "hint": "角",
+      "kind": "phrase",
+      "spell": "tsuno"
+    },
+    {
+      "text": "翼",
+      "hint": "翅膀",
+      "kind": "phrase",
+      "spell": "tsubasa"
+    },
+    {
+      "text": "つまり",
+      "hint": "就是",
+      "kind": "phrase",
+      "spell": "tsumari"
+    },
+    {
+      "text": "罪",
+      "hint": "犯罪",
+      "kind": "phrase",
+      "spell": "tsumi"
+    },
+    {
+      "text": "詰める",
+      "hint": "装到",
+      "kind": "phrase",
+      "spell": "tsumeru"
+    },
+    {
+      "text": "積もる",
+      "hint": "堆积",
+      "kind": "phrase",
+      "spell": "tsumoru"
+    },
+    {
+      "text": "梅雨",
+      "hint": "梅雨",
+      "kind": "phrase",
+      "spell": "tsuyu"
+    },
+    {
+      "text": "辛い",
+      "hint": "痛苦的",
+      "kind": "phrase",
+      "spell": "tsurai"
+    },
+    {
+      "text": "釣",
+      "hint": "钓鱼",
+      "kind": "phrase",
+      "spell": "tsuri"
+    },
+    {
+      "text": "連れ",
+      "hint": "带着～",
+      "kind": "phrase",
+      "spell": "tsure"
+    },
+    {
+      "text": "で",
+      "hint": "连接词 那么",
+      "kind": "phrase",
+      "spell": "de"
+    },
+    {
+      "text": "出会い",
+      "hint": "相遇",
+      "kind": "phrase",
+      "spell": "deai"
+    },
+    {
+      "text": "出会う",
+      "hint": "遇见",
+      "kind": "phrase",
+      "spell": "deau"
+    },
+    {
+      "text": "提案",
+      "hint": "提案",
+      "kind": "phrase",
+      "spell": "teian"
+    },
+    {
+      "text": "定期",
+      "hint": "定期",
+      "kind": "phrase",
+      "spell": "teiki"
+    },
+    {
+      "text": "抵抗",
+      "hint": "抵抗",
+      "kind": "phrase",
+      "spell": "teikou"
+    },
+    {
+      "text": "提出",
+      "hint": "上交",
+      "kind": "phrase",
+      "spell": "teishutsu"
+    },
+    {
+      "text": "程度",
+      "hint": "程度",
+      "kind": "phrase",
+      "spell": "teido"
+    },
+    {
+      "text": "停留所",
+      "hint": "公交车站",
+      "kind": "phrase",
+      "spell": "teiryuujo"
+    },
+    {
+      "text": "デート",
+      "hint": "异性间的约会",
+      "kind": "phrase",
+      "spell": "deeto"
+    },
+    {
+      "text": "敵",
+      "hint": "敌人",
+      "kind": "phrase",
+      "spell": "teki"
+    },
+    {
+      "text": "出来事",
+      "hint": "事情",
+      "kind": "phrase",
+      "spell": "dekigoto"
+    },
+    {
+      "text": "適する",
+      "hint": "适合",
+      "kind": "phrase",
+      "spell": "tekisuru"
+    },
+    {
+      "text": "適切",
+      "hint": "恰当",
+      "kind": "phrase",
+      "spell": "tekisetsu"
+    },
+    {
+      "text": "適度",
+      "hint": "适度",
+      "kind": "phrase",
+      "spell": "tekido"
+    },
+    {
+      "text": "適用",
+      "hint": "适用",
+      "kind": "phrase",
+      "spell": "tekiyou"
+    },
+    {
+      "text": "できれば",
+      "hint": "如果可以的话",
+      "kind": "phrase",
+      "spell": "dekireba"
+    },
+    {
+      "text": "手品",
+      "hint": "戏法",
+      "kind": "phrase",
+      "spell": "tejina"
+    },
+    {
+      "text": "ですから",
+      "hint": "所以",
+      "kind": "phrase",
+      "spell": "desukara"
+    },
+    {
+      "text": "鉄",
+      "hint": "铁",
+      "kind": "phrase",
+      "spell": "tetsu"
+    },
+    {
+      "text": "哲学",
+      "hint": "哲学",
+      "kind": "phrase",
+      "spell": "tetsugaku"
+    },
+    {
+      "text": "手伝い",
+      "hint": "帮忙",
+      "kind": "phrase",
+      "spell": "tetsudai"
+    },
+    {
+      "text": "徹底",
+      "hint": "彻底",
+      "kind": "phrase",
+      "spell": "tettei"
+    },
+    {
+      "text": "鉄道",
+      "hint": "铁路",
+      "kind": "phrase",
+      "spell": "tetsudou"
+    },
+    {
+      "text": "徹夜",
+      "hint": "通宵",
+      "kind": "phrase",
+      "spell": "tetsuya"
+    },
+    {
+      "text": "手間",
+      "hint": "人力",
+      "kind": "phrase",
+      "spell": "tema"
+    },
+    {
+      "text": "デモ",
+      "hint": "游行示威",
+      "kind": "phrase",
+      "spell": "demo"
+    },
+    {
+      "text": "典型",
+      "hint": "典型",
+      "kind": "phrase",
+      "spell": "tenkei"
+    },
+    {
+      "text": "天候",
+      "hint": "气候",
+      "kind": "phrase",
+      "spell": "tenkou"
+    },
+    {
+      "text": "電子",
+      "hint": "电子",
+      "kind": "phrase",
+      "spell": "denshi"
+    },
+    {
+      "text": "テント",
+      "hint": "帐篷",
+      "kind": "phrase",
+      "spell": "tento"
+    },
+    {
+      "text": "伝統",
+      "hint": "传统",
+      "kind": "phrase",
+      "spell": "dentou"
+    },
+    {
+      "text": "天然",
+      "hint": "天然",
+      "kind": "phrase",
+      "spell": "tennen"
+    },
+    {
+      "text": "問い",
+      "hint": "提问",
+      "kind": "phrase",
+      "spell": "toi"
+    },
+    {
+      "text": "党",
+      "hint": "党",
+      "kind": "phrase",
+      "spell": "tou"
+    },
+    {
+      "text": "塔",
+      "hint": "塔",
+      "kind": "phrase",
+      "spell": "tou"
+    },
+    {
+      "text": "答案",
+      "hint": "答案",
+      "kind": "phrase",
+      "spell": "touan"
+    },
+    {
+      "text": "同一",
+      "hint": "同样",
+      "kind": "phrase",
+      "spell": "douitsu"
+    },
+    {
+      "text": "どうか",
+      "hint": "请",
+      "kind": "phrase",
+      "spell": "douka"
+    },
+    {
+      "text": "当時",
+      "hint": "当时",
+      "kind": "phrase",
+      "spell": "touji"
+    },
+    {
+      "text": "動詞",
+      "hint": "动词",
+      "kind": "phrase",
+      "spell": "doushi"
+    },
+    {
+      "text": "同時",
+      "hint": "同时",
+      "kind": "phrase",
+      "spell": "douji"
+    },
+    {
+      "text": "どうしても",
+      "hint": "无论如何",
+      "kind": "phrase",
+      "spell": "doushitemo"
+    },
+    {
+      "text": "到着",
+      "hint": "到达",
+      "kind": "phrase",
+      "spell": "touchaku"
+    },
+    {
+      "text": "道徳",
+      "hint": "道德",
+      "kind": "phrase",
+      "spell": "doutoku"
+    },
+    {
+      "text": "投票",
+      "hint": "投票",
+      "kind": "phrase",
+      "spell": "touhyou"
+    },
+    {
+      "text": "同様",
+      "hint": "同样",
+      "kind": "phrase",
+      "spell": "douyou"
+    },
+    {
+      "text": "同僚",
+      "hint": "同事",
+      "kind": "phrase",
+      "spell": "douryou"
+    },
+    {
+      "text": "道路",
+      "hint": "道路",
+      "kind": "phrase",
+      "spell": "douro"
+    },
+    {
+      "text": "通す",
+      "hint": "彻底",
+      "kind": "phrase",
+      "spell": "toosu"
+    },
+    {
+      "text": "通り",
+      "hint": "道路",
+      "kind": "phrase",
+      "spell": "toori"
+    },
+    {
+      "text": "通り過ぎる",
+      "hint": "走过",
+      "kind": "phrase",
+      "spell": "toorisugiru"
+    },
+    {
+      "text": "都会",
+      "hint": "都市",
+      "kind": "phrase",
+      "spell": "tokai"
+    },
+    {
+      "text": "時",
+      "hint": "时",
+      "kind": "phrase",
+      "spell": "toki"
+    },
+    {
+      "text": "解く",
+      "hint": "解",
+      "kind": "phrase",
+      "spell": "toku"
+    },
+    {
+      "text": "毒",
+      "hint": "毒",
+      "kind": "phrase",
+      "spell": "doku"
+    },
+    {
+      "text": "得意",
+      "hint": "擅长",
+      "kind": "phrase",
+      "spell": "tokui"
+    },
+    {
+      "text": "読書",
+      "hint": "读书",
+      "kind": "phrase",
+      "spell": "dokusho"
+    },
+    {
+      "text": "独身",
+      "hint": "单身",
+      "kind": "phrase",
+      "spell": "dokushin"
+    },
+    {
+      "text": "特徴",
+      "hint": "特征",
+      "kind": "phrase",
+      "spell": "tokuchou"
+    },
+    {
+      "text": "独特",
+      "hint": "独特",
+      "kind": "phrase",
+      "spell": "dokutoku"
+    },
+    {
+      "text": "独立",
+      "hint": "独立",
+      "kind": "phrase",
+      "spell": "dokuritsu"
+    },
+    {
+      "text": "解ける",
+      "hint": "解开",
+      "kind": "phrase",
+      "spell": "tokeru"
+    },
+    {
+      "text": "どこか",
+      "hint": "（不确定的）某处",
+      "kind": "phrase",
+      "spell": "dokoka"
+    },
+    {
+      "text": "ところが",
+      "hint": "连接词 然而",
+      "kind": "phrase",
+      "spell": "tokoroga"
+    },
+    {
+      "text": "ところで",
+      "hint": "（转换话题）话说",
+      "kind": "phrase",
+      "spell": "tokorode"
+    },
+    {
+      "text": "登山",
+      "hint": "登山",
+      "kind": "phrase",
+      "spell": "tozan"
+    },
+    {
+      "text": "都市",
+      "hint": "城市．都市",
+      "kind": "phrase",
+      "spell": "toshi"
+    },
+    {
+      "text": "年月",
+      "hint": "时间",
+      "kind": "phrase",
+      "spell": "toshitsuki"
+    },
+    {
+      "text": "図書",
+      "hint": "图书",
+      "kind": "phrase",
+      "spell": "tosho"
+    },
+    {
+      "text": "年寄",
+      "hint": "老人",
+      "kind": "phrase",
+      "spell": "toshiyori"
+    },
+    {
+      "text": "閉じる",
+      "hint": "关闭",
+      "kind": "phrase",
+      "spell": "tojiru"
+    },
+    {
+      "text": "途端",
+      "hint": "正当⋯⋯的时候",
+      "kind": "phrase",
+      "spell": "totan"
+    },
+    {
+      "text": "土地",
+      "hint": "土地",
+      "kind": "phrase",
+      "spell": "tochi"
+    },
+    {
+      "text": "突然",
+      "hint": "突然",
+      "kind": "phrase",
+      "spell": "totsuzen"
+    },
+    {
+      "text": "トップ",
+      "hint": "第一位",
+      "kind": "phrase",
+      "spell": "toppu"
+    },
+    {
+      "text": "届く",
+      "hint": "送达",
+      "kind": "phrase",
+      "spell": "todoku"
+    },
+    {
+      "text": "とにかく",
+      "hint": "总之",
+      "kind": "phrase",
+      "spell": "tonikaku"
+    },
+    {
+      "text": "飛ばす",
+      "hint": "使……飞起",
+      "kind": "phrase",
+      "spell": "tobasu"
+    },
+    {
+      "text": "飛び出す",
+      "hint": "跳出",
+      "kind": "phrase",
+      "spell": "tobidasu"
+    },
+    {
+      "text": "留める",
+      "hint": "固定",
+      "kind": "phrase",
+      "spell": "tomeru"
+    },
+    {
+      "text": "友",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "tomo"
+    },
+    {
+      "text": "共に",
+      "hint": "一起",
+      "kind": "phrase",
+      "spell": "tomoni"
+    },
+    {
+      "text": "土曜",
+      "hint": "星期六",
+      "kind": "phrase",
+      "spell": "doyou"
+    },
+    {
+      "text": "虎",
+      "hint": "老虎",
+      "kind": "phrase",
+      "spell": "tora"
+    },
+    {
+      "text": "ドライブ",
+      "hint": "开车兜风",
+      "kind": "phrase",
+      "spell": "doraibu"
+    },
+    {
+      "text": "トラック",
+      "hint": "卡车",
+      "kind": "phrase",
+      "spell": "torakku"
+    },
+    {
+      "text": "ドラマ",
+      "hint": "电视剧",
+      "kind": "phrase",
+      "spell": "dorama"
+    },
+    {
+      "text": "トランプ",
+      "hint": "扑克牌",
+      "kind": "phrase",
+      "spell": "toranpu"
+    },
+    {
+      "text": "取り上げる",
+      "hint": "报道",
+      "kind": "phrase",
+      "spell": "toriageru"
+    },
+    {
+      "text": "努力",
+      "hint": "努力",
+      "kind": "phrase",
+      "spell": "doryoku"
+    },
+    {
+      "text": "ドレス",
+      "hint": "女士礼服",
+      "kind": "phrase",
+      "spell": "doresu"
+    },
+    {
+      "text": "取れる",
+      "hint": "脱落",
+      "kind": "phrase",
+      "spell": "toreru"
+    },
+    {
+      "text": "泥",
+      "hint": "泥",
+      "kind": "phrase",
+      "spell": "doro"
+    },
+    {
+      "text": "トン",
+      "hint": "吨",
+      "kind": "phrase",
+      "spell": "ton"
+    },
+    {
+      "text": "とんでもない",
+      "hint": "意想不到的",
+      "kind": "phrase",
+      "spell": "tondemonai"
+    },
+    {
+      "text": "どんな",
+      "hint": "什么样的～",
+      "kind": "phrase",
+      "spell": "donna"
+    },
+    {
+      "text": "どんなに",
+      "hint": "怎样",
+      "kind": "phrase",
+      "spell": "donnani"
+    },
+    {
+      "text": "トンネル",
+      "hint": "隧道",
+      "kind": "phrase",
+      "spell": "tonneru"
+    },
+    {
+      "text": "名",
+      "hint": "名",
+      "kind": "phrase",
+      "spell": "na"
+    },
+    {
+      "text": "内容",
+      "hint": "内容",
+      "kind": "phrase",
+      "spell": "naiyou"
+    },
+    {
+      "text": "なお",
+      "hint": "连接词 另外",
+      "kind": "phrase",
+      "spell": "nao"
+    },
+    {
+      "text": "仲",
+      "hint": "关系",
+      "kind": "phrase",
+      "spell": "naka"
+    },
+    {
+      "text": "流す",
+      "hint": "冲走",
+      "kind": "phrase",
+      "spell": "nagasu"
+    },
+    {
+      "text": "半ば",
+      "hint": "中间",
+      "kind": "phrase",
+      "spell": "nakaba"
+    },
+    {
+      "text": "仲間",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "nakama"
+    },
+    {
+      "text": "眺め",
+      "hint": "景色",
+      "kind": "phrase",
+      "spell": "nagame"
+    },
+    {
+      "text": "眺める",
+      "hint": "看",
+      "kind": "phrase",
+      "spell": "nagameru"
+    },
+    {
+      "text": "流れ",
+      "hint": "流动",
+      "kind": "phrase",
+      "spell": "nagare"
+    },
+    {
+      "text": "流れる",
+      "hint": "流．流动．流淌",
+      "kind": "phrase",
+      "spell": "nagareru"
+    },
+    {
+      "text": "無し",
+      "hint": "无",
+      "kind": "phrase",
+      "spell": "nashi"
+    },
+    {
+      "text": "なぜなら",
+      "hint": "因为",
+      "kind": "phrase",
+      "spell": "nazenara"
+    },
+    {
+      "text": "謎",
+      "hint": "谜语",
+      "kind": "phrase",
+      "spell": "nazo"
+    },
+    {
+      "text": "納得",
+      "hint": "接受",
+      "kind": "phrase",
+      "spell": "nattoku"
+    },
+    {
+      "text": "何",
+      "hint": "什么",
+      "kind": "phrase",
+      "spell": "nani"
+    },
+    {
+      "text": "何か",
+      "hint": "某事物",
+      "kind": "phrase",
+      "spell": "nanika"
+    },
+    {
+      "text": "なにも",
+      "hint": "什么也（不）",
+      "kind": "phrase",
+      "spell": "nanimo"
+    },
+    {
+      "text": "鍋",
+      "hint": "锅",
+      "kind": "phrase",
+      "spell": "nabe"
+    },
+    {
+      "text": "生",
+      "hint": "生火腿",
+      "kind": "phrase",
+      "spell": "nama"
+    },
+    {
+      "text": "怠ける",
+      "hint": "懒悄",
+      "kind": "phrase",
+      "spell": "namakeru"
+    },
+    {
+      "text": "波",
+      "hint": "波浪",
+      "kind": "phrase",
+      "spell": "nami"
+    },
+    {
+      "text": "涙",
+      "hint": "眼泪",
+      "kind": "phrase",
+      "spell": "namida"
+    },
+    {
+      "text": "悩む",
+      "hint": "烦恼",
+      "kind": "phrase",
+      "spell": "nayamu"
+    },
+    {
+      "text": "縄",
+      "hint": "绳子",
+      "kind": "phrase",
+      "spell": "nawa"
+    },
+    {
+      "text": "何で",
+      "hint": "什么",
+      "kind": "phrase",
+      "spell": "nande"
+    },
+    {
+      "text": "何でも",
+      "hint": "什么",
+      "kind": "phrase",
+      "spell": "nandemo"
+    },
+    {
+      "text": "何とか",
+      "hint": "无论如何",
+      "kind": "phrase",
+      "spell": "nantoka"
+    },
+    {
+      "text": "似合う",
+      "hint": "合适",
+      "kind": "phrase",
+      "spell": "niau"
+    },
+    {
+      "text": "苦手",
+      "hint": "不擅长",
+      "kind": "phrase",
+      "spell": "nigate"
+    },
+    {
+      "text": "握る",
+      "hint": "抓",
+      "kind": "phrase",
+      "spell": "nigiru"
+    },
+    {
+      "text": "日",
+      "hint": "太阳",
+      "kind": "phrase",
+      "spell": "nichi"
+    },
+    {
+      "text": "日常",
+      "hint": "平常．日常",
+      "kind": "phrase",
+      "spell": "nichijou"
+    },
+    {
+      "text": "日曜",
+      "hint": "星期日",
+      "kind": "phrase",
+      "spell": "nichiyou"
+    },
+    {
+      "text": "日光",
+      "hint": "日光",
+      "kind": "phrase",
+      "spell": "nikkou"
+    },
+    {
+      "text": "にっこり",
+      "hint": "莞尔",
+      "kind": "phrase",
+      "spell": "nikkori"
+    },
+    {
+      "text": "日中",
+      "hint": "日中",
+      "kind": "phrase",
+      "spell": "nitchuu"
+    },
+    {
+      "text": "日本",
+      "hint": "日本",
+      "kind": "phrase",
+      "spell": "nippon"
+    },
+    {
+      "text": "入場",
+      "hint": "入场",
+      "kind": "phrase",
+      "spell": "nyuujou"
+    },
+    {
+      "text": "人気",
+      "hint": "有人气",
+      "kind": "phrase",
+      "spell": "ninki"
+    },
+    {
+      "text": "人間",
+      "hint": "人",
+      "kind": "phrase",
+      "spell": "ningen"
+    },
+    {
+      "text": "抜く",
+      "hint": "超过",
+      "kind": "phrase",
+      "spell": "nuku"
+    },
+    {
+      "text": "抜ける",
+      "hint": "脱落",
+      "kind": "phrase",
+      "spell": "nukeru"
+    },
+    {
+      "text": "布",
+      "hint": "布",
+      "kind": "phrase",
+      "spell": "nuno"
+    },
+    {
+      "text": "ね",
+      "hint": "根",
+      "kind": "phrase",
+      "spell": "ne"
+    },
+    {
+      "text": "根",
+      "hint": "根",
+      "kind": "phrase",
+      "spell": "ne"
+    },
+    {
+      "text": "願い",
+      "hint": "愿望",
+      "kind": "phrase",
+      "spell": "negai"
+    },
+    {
+      "text": "願う",
+      "hint": "请求",
+      "kind": "phrase",
+      "spell": "negau"
+    },
+    {
+      "text": "鼠",
+      "hint": "老鼠",
+      "kind": "phrase",
+      "spell": "nezumi"
+    },
+    {
+      "text": "熱帯",
+      "hint": "热带",
+      "kind": "phrase",
+      "spell": "nettai"
+    },
+    {
+      "text": "熱中",
+      "hint": "热衷",
+      "kind": "phrase",
+      "spell": "netchuu"
+    },
+    {
+      "text": "年間",
+      "hint": "一年",
+      "kind": "phrase",
+      "spell": "nenkan"
+    },
+    {
+      "text": "年中",
+      "hint": "全年",
+      "kind": "phrase",
+      "spell": "nenjuu"
+    },
+    {
+      "text": "年代",
+      "hint": "年代",
+      "kind": "phrase",
+      "spell": "nendai"
+    },
+    {
+      "text": "年齢",
+      "hint": "年龄",
+      "kind": "phrase",
+      "spell": "nenrei"
+    },
+    {
+      "text": "野",
+      "hint": "原野",
+      "kind": "phrase",
+      "spell": "no"
+    },
+    {
+      "text": "能",
+      "hint": "能力",
+      "kind": "phrase",
+      "spell": "nou"
+    },
+    {
+      "text": "農家",
+      "hint": "农民",
+      "kind": "phrase",
+      "spell": "nouka"
+    },
+    {
+      "text": "農業",
+      "hint": "农业",
+      "kind": "phrase",
+      "spell": "nougyou"
+    },
+    {
+      "text": "農民",
+      "hint": "农民",
+      "kind": "phrase",
+      "spell": "noumin"
+    },
+    {
+      "text": "能力",
+      "hint": "能力",
+      "kind": "phrase",
+      "spell": "nouryoku"
+    },
+    {
+      "text": "ノー",
+      "hint": "不",
+      "kind": "phrase",
+      "spell": "noo"
+    },
+    {
+      "text": "軒",
+      "hint": "房檐",
+      "kind": "phrase",
+      "spell": "noki"
+    },
+    {
+      "text": "残す",
+      "hint": "留下",
+      "kind": "phrase",
+      "spell": "nokosu"
+    },
+    {
+      "text": "残り",
+      "hint": "剩余",
+      "kind": "phrase",
+      "spell": "nokori"
+    },
+    {
+      "text": "乗せる",
+      "hint": "装载",
+      "kind": "phrase",
+      "spell": "noseru"
+    },
+    {
+      "text": "除く",
+      "hint": "消除",
+      "kind": "phrase",
+      "spell": "nozoku"
+    },
+    {
+      "text": "望み",
+      "hint": "希望",
+      "kind": "phrase",
+      "spell": "nozomi"
+    },
+    {
+      "text": "望む",
+      "hint": "想",
+      "kind": "phrase",
+      "spell": "nozomu"
+    },
+    {
+      "text": "後",
+      "hint": "之后",
+      "kind": "phrase",
+      "spell": "nochi"
+    },
+    {
+      "text": "ノック",
+      "hint": "敲门",
+      "kind": "phrase",
+      "spell": "nokku"
+    },
+    {
+      "text": "伸ばす",
+      "hint": "留（头发）",
+      "kind": "phrase",
+      "spell": "nobasu"
+    },
+    {
+      "text": "伸びる",
+      "hint": "增加",
+      "kind": "phrase",
+      "spell": "nobiru"
+    },
+    {
+      "text": "述べる",
+      "hint": "陈述",
+      "kind": "phrase",
+      "spell": "noberu"
+    },
+    {
+      "text": "昇る",
+      "hint": "升",
+      "kind": "phrase",
+      "spell": "noboru"
+    },
+    {
+      "text": "のんびり",
+      "hint": "放松",
+      "kind": "phrase",
+      "spell": "nonbiri"
+    },
+    {
+      "text": "場",
+      "hint": "场合",
+      "kind": "phrase",
+      "spell": "ba"
+    },
+    {
+      "text": "はあ",
+      "hint": "是",
+      "kind": "phrase",
+      "spell": "haa"
+    },
+    {
+      "text": "パーセント",
+      "hint": "百分比",
+      "kind": "phrase",
+      "spell": "paasento"
+    },
+    {
+      "text": "灰",
+      "hint": "灰",
+      "kind": "phrase",
+      "spell": "hai"
+    },
+    {
+      "text": "バイオリン",
+      "hint": "小提琴",
+      "kind": "phrase",
+      "spell": "baiorin"
+    },
+    {
+      "text": "ハイキング",
+      "hint": "郊游",
+      "kind": "phrase",
+      "spell": "haikingu"
+    },
+    {
+      "text": "配達",
+      "hint": "送",
+      "kind": "phrase",
+      "spell": "haitatsu"
+    },
+    {
+      "text": "パイプ",
+      "hint": "管子",
+      "kind": "phrase",
+      "spell": "paipu"
+    },
+    {
+      "text": "俳優",
+      "hint": "演员",
+      "kind": "phrase",
+      "spell": "haiyuu"
+    },
+    {
+      "text": "パイロット",
+      "hint": "飞行员",
+      "kind": "phrase",
+      "spell": "pairotto"
+    },
+    {
+      "text": "墓",
+      "hint": "坟墓",
+      "kind": "phrase",
+      "spell": "haka"
+    },
+    {
+      "text": "馬鹿",
+      "hint": "傻瓜",
+      "kind": "phrase",
+      "spell": "baka"
+    },
+    {
+      "text": "博士",
+      "hint": "博士",
+      "kind": "phrase",
+      "spell": "hakase"
+    },
+    {
+      "text": "計る",
+      "hint": "合计",
+      "kind": "phrase",
+      "spell": "hakaru"
+    },
+    {
+      "text": "吐く",
+      "hint": "吐出",
+      "kind": "phrase",
+      "spell": "haku"
+    },
+    {
+      "text": "拍手",
+      "hint": "鼓掌",
+      "kind": "phrase",
+      "spell": "hakushu"
+    },
+    {
+      "text": "莫大",
+      "hint": "大量",
+      "kind": "phrase",
+      "spell": "bakudai"
+    },
+    {
+      "text": "爆発",
+      "hint": "爆发",
+      "kind": "phrase",
+      "spell": "bakuhatsu"
+    },
+    {
+      "text": "博物館",
+      "hint": "博物馆",
+      "kind": "phrase",
+      "spell": "hakubutsukan"
+    },
+    {
+      "text": "激しい",
+      "hint": "激烈的",
+      "kind": "phrase",
+      "spell": "hageshii"
+    },
+    {
+      "text": "はさみ",
+      "hint": "剪刀",
+      "kind": "phrase",
+      "spell": "hasami"
+    },
+    {
+      "text": "破産",
+      "hint": "破产",
+      "kind": "phrase",
+      "spell": "hasan"
+    },
+    {
+      "text": "端",
+      "hint": "端",
+      "kind": "phrase",
+      "spell": "hashi"
+    },
+    {
+      "text": "始まり",
+      "hint": "开始",
+      "kind": "phrase",
+      "spell": "hajimari"
+    },
+    {
+      "text": "パス",
+      "hint": "票",
+      "kind": "phrase",
+      "spell": "pasu"
+    },
+    {
+      "text": "外す",
+      "hint": "不在",
+      "kind": "phrase",
+      "spell": "hazusu"
+    },
+    {
+      "text": "パスポート",
+      "hint": "护照",
+      "kind": "phrase",
+      "spell": "pasupooto"
+    },
+    {
+      "text": "旗",
+      "hint": "旗帜",
+      "kind": "phrase",
+      "spell": "hata"
+    },
+    {
+      "text": "肌",
+      "hint": "肌肤",
+      "kind": "phrase",
+      "spell": "hada"
+    },
+    {
+      "text": "裸",
+      "hint": "裸体",
+      "kind": "phrase",
+      "spell": "hadaka"
+    },
+    {
+      "text": "畑",
+      "hint": "旱田",
+      "kind": "phrase",
+      "spell": "hatake"
+    },
+    {
+      "text": "働き",
+      "hint": "作用",
+      "kind": "phrase",
+      "spell": "hataraki"
+    },
+    {
+      "text": "バッグ",
+      "hint": "手提包",
+      "kind": "phrase",
+      "spell": "baggu"
+    },
+    {
+      "text": "発見",
+      "hint": "发现",
+      "kind": "phrase",
+      "spell": "hakken"
+    },
+    {
+      "text": "発行",
+      "hint": "发行（出版物、纸币）",
+      "kind": "phrase",
+      "spell": "hakkou"
+    },
+    {
+      "text": "発車",
+      "hint": "发车",
+      "kind": "phrase",
+      "spell": "hassha"
+    },
+    {
+      "text": "罰する",
+      "hint": "处罚",
+      "kind": "phrase",
+      "spell": "bassuru"
+    },
+    {
+      "text": "発達",
+      "hint": "发达",
+      "kind": "phrase",
+      "spell": "hattatsu"
+    },
+    {
+      "text": "ばったり",
+      "hint": "突然倒下",
+      "kind": "phrase",
+      "spell": "battari"
+    },
+    {
+      "text": "発展",
+      "hint": "发展",
+      "kind": "phrase",
+      "spell": "hatten"
+    },
+    {
+      "text": "発表",
+      "hint": "发表",
+      "kind": "phrase",
+      "spell": "happyou"
+    },
+    {
+      "text": "発明",
+      "hint": "发明",
+      "kind": "phrase",
+      "spell": "hatsumei"
+    },
+    {
+      "text": "話し合う",
+      "hint": "谈",
+      "kind": "phrase",
+      "spell": "hanashiau"
+    },
+    {
+      "text": "放す",
+      "hint": "放开",
+      "kind": "phrase",
+      "spell": "hanasu"
+    },
+    {
+      "text": "離す",
+      "hint": "松开",
+      "kind": "phrase",
+      "spell": "hanasu"
+    },
+    {
+      "text": "離れる",
+      "hint": "相隔",
+      "kind": "phrase",
+      "spell": "hanareru"
+    },
+    {
+      "text": "羽",
+      "hint": "羽毛",
+      "kind": "phrase",
+      "spell": "hane"
+    },
+    {
+      "text": "幅",
+      "hint": "宽度",
+      "kind": "phrase",
+      "spell": "haba"
+    },
+    {
+      "text": "母親",
+      "hint": "母亲",
+      "kind": "phrase",
+      "spell": "hahaoya"
+    },
+    {
+      "text": "省く",
+      "hint": "省",
+      "kind": "phrase",
+      "spell": "habuku"
+    },
+    {
+      "text": "場面",
+      "hint": "场景",
+      "kind": "phrase",
+      "spell": "bamen"
+    },
+    {
+      "text": "原",
+      "hint": "平原",
+      "kind": "phrase",
+      "spell": "hara"
+    },
+    {
+      "text": "腹",
+      "hint": "腹部",
+      "kind": "phrase",
+      "spell": "hara"
+    },
+    {
+      "text": "針",
+      "hint": "针",
+      "kind": "phrase",
+      "spell": "hari"
+    },
+    {
+      "text": "張る",
+      "hint": "伸展",
+      "kind": "phrase",
+      "spell": "haru"
+    },
+    {
+      "text": "バン",
+      "hint": "面包",
+      "kind": "phrase",
+      "spell": "ban"
+    },
+    {
+      "text": "番",
+      "hint": "号",
+      "kind": "phrase",
+      "spell": "ban"
+    },
+    {
+      "text": "範囲",
+      "hint": "范围",
+      "kind": "phrase",
+      "spell": "han'i"
+    },
+    {
+      "text": "反抗",
+      "hint": "反抗",
+      "kind": "phrase",
+      "spell": "hankou"
+    },
+    {
+      "text": "犯罪",
+      "hint": "犯罪",
+      "kind": "phrase",
+      "spell": "hanzai"
+    },
+    {
+      "text": "ハンサム",
+      "hint": "英俊的",
+      "kind": "phrase",
+      "spell": "hansamu"
+    },
+    {
+      "text": "判断",
+      "hint": "判断",
+      "kind": "phrase",
+      "spell": "handan"
+    },
+    {
+      "text": "犯人",
+      "hint": "犯人",
+      "kind": "phrase",
+      "spell": "hannin"
+    },
+    {
+      "text": "販売",
+      "hint": "销售",
+      "kind": "phrase",
+      "spell": "hanbai"
+    },
+    {
+      "text": "灯",
+      "hint": "灯",
+      "kind": "phrase",
+      "spell": "hi"
+    },
+    {
+      "text": "ビール",
+      "hint": "啤酒",
+      "kind": "phrase",
+      "spell": "biiru"
+    },
+    {
+      "text": "被害",
+      "hint": "损失",
+      "kind": "phrase",
+      "spell": "higai"
+    },
+    {
+      "text": "比較",
+      "hint": "比较",
+      "kind": "phrase",
+      "spell": "hikaku"
+    },
+    {
+      "text": "轢く",
+      "hint": "（汽车）轧",
+      "kind": "phrase",
+      "spell": "hiku"
+    },
+    {
+      "text": "ピクニック",
+      "hint": "郊游",
+      "kind": "phrase",
+      "spell": "pikunikku"
+    },
+    {
+      "text": "悲劇",
+      "hint": "悲剧",
+      "kind": "phrase",
+      "spell": "higeki"
+    },
+    {
+      "text": "飛行",
+      "hint": "飞行",
+      "kind": "phrase",
+      "spell": "hikou"
+    },
+    {
+      "text": "膝",
+      "hint": "膝盖",
+      "kind": "phrase",
+      "spell": "hiza"
+    },
+    {
+      "text": "非常",
+      "hint": "非常",
+      "kind": "phrase",
+      "spell": "hijou"
+    },
+    {
+      "text": "美人",
+      "hint": "美人",
+      "kind": "phrase",
+      "spell": "bijin"
+    },
+    {
+      "text": "びっくり",
+      "hint": "吃惊",
+      "kind": "phrase",
+      "spell": "bikkuri"
+    },
+    {
+      "text": "日付",
+      "hint": "日期",
+      "kind": "phrase",
+      "spell": "hizuke"
+    },
+    {
+      "text": "必死",
+      "hint": "拼命",
+      "kind": "phrase",
+      "spell": "hisshi"
+    },
+    {
+      "text": "ぴったり",
+      "hint": "正合适",
+      "kind": "phrase",
+      "spell": "pittari"
+    },
+    {
+      "text": "引っ張る",
+      "hint": "拉",
+      "kind": "phrase",
+      "spell": "hipparu"
+    },
+    {
+      "text": "否定",
+      "hint": "否定",
+      "kind": "phrase",
+      "spell": "hitei"
+    },
+    {
+      "text": "ビデオ",
+      "hint": "录影带",
+      "kind": "phrase",
+      "spell": "bideo"
+    },
+    {
+      "text": "一言",
+      "hint": "一句话",
+      "kind": "phrase",
+      "spell": "hitokoto"
+    },
+    {
+      "text": "人込み",
+      "hint": "人群",
+      "kind": "phrase",
+      "spell": "hitogomi"
+    },
+    {
+      "text": "等しい",
+      "hint": "相等的",
+      "kind": "phrase",
+      "spell": "hitoshii"
+    },
+    {
+      "text": "独り",
+      "hint": "独身",
+      "kind": "phrase",
+      "spell": "hitori"
+    },
+    {
+      "text": "一人一人",
+      "hint": "每个人",
+      "kind": "phrase",
+      "spell": "hitorihitori"
+    },
+    {
+      "text": "批判",
+      "hint": "批判",
+      "kind": "phrase",
+      "spell": "hihan"
+    },
+    {
+      "text": "批評",
+      "hint": "批评",
+      "kind": "phrase",
+      "spell": "hihyou"
+    },
+    {
+      "text": "秘密",
+      "hint": "秘密",
+      "kind": "phrase",
+      "spell": "himitsu"
+    },
+    {
+      "text": "微妙",
+      "hint": "微妙的",
+      "kind": "phrase",
+      "spell": "bimyou"
+    },
+    {
+      "text": "紐",
+      "hint": "带子",
+      "kind": "phrase",
+      "spell": "himo"
+    },
+    {
+      "text": "表",
+      "hint": "日程表",
+      "kind": "phrase",
+      "spell": "hyou"
+    },
+    {
+      "text": "費用",
+      "hint": "费用",
+      "kind": "phrase",
+      "spell": "hiyou"
+    },
+    {
+      "text": "秒",
+      "hint": "秒",
+      "kind": "phrase",
+      "spell": "byou"
+    },
+    {
+      "text": "評価",
+      "hint": "评价",
+      "kind": "phrase",
+      "spell": "hyouka"
+    },
+    {
+      "text": "表現",
+      "hint": "表现",
+      "kind": "phrase",
+      "spell": "hyougen"
+    },
+    {
+      "text": "表情",
+      "hint": "表情",
+      "kind": "phrase",
+      "spell": "hyoujou"
+    },
+    {
+      "text": "平等",
+      "hint": "平等",
+      "kind": "phrase",
+      "spell": "byoudou"
+    },
+    {
+      "text": "評判",
+      "hint": "评论",
+      "kind": "phrase",
+      "spell": "hyouban"
+    },
+    {
+      "text": "表面",
+      "hint": "表面",
+      "kind": "phrase",
+      "spell": "hyoumen"
+    },
+    {
+      "text": "広がる",
+      "hint": "扩展",
+      "kind": "phrase",
+      "spell": "hirogaru"
+    },
+    {
+      "text": "瓶",
+      "hint": "瓶子",
+      "kind": "phrase",
+      "spell": "bin"
+    },
+    {
+      "text": "便",
+      "hint": "航班",
+      "kind": "phrase",
+      "spell": "bin"
+    },
+    {
+      "text": "ピン",
+      "hint": "别针",
+      "kind": "phrase",
+      "spell": "pin"
+    },
+    {
+      "text": "不",
+      "hint": "不～",
+      "kind": "phrase",
+      "spell": "fu"
+    },
+    {
+      "text": "不安",
+      "hint": "担心",
+      "kind": "phrase",
+      "spell": "fuan"
+    },
+    {
+      "text": "風景",
+      "hint": "景象",
+      "kind": "phrase",
+      "spell": "fuukei"
+    },
+    {
+      "text": "夫婦",
+      "hint": "夫妻",
+      "kind": "phrase",
+      "spell": "fuufu"
+    },
+    {
+      "text": "笛",
+      "hint": "笛子",
+      "kind": "phrase",
+      "spell": "fue"
+    },
+    {
+      "text": "不可",
+      "hint": "不可",
+      "kind": "phrase",
+      "spell": "fuka"
+    },
+    {
+      "text": "武器",
+      "hint": "武器",
+      "kind": "phrase",
+      "spell": "buki"
+    },
+    {
+      "text": "服装",
+      "hint": "服装",
+      "kind": "phrase",
+      "spell": "fukusou"
+    },
+    {
+      "text": "含む",
+      "hint": "包含",
+      "kind": "phrase",
+      "spell": "fukumu"
+    },
+    {
+      "text": "袋",
+      "hint": "袋子",
+      "kind": "phrase",
+      "spell": "fukuro"
+    },
+    {
+      "text": "不幸",
+      "hint": "不幸",
+      "kind": "phrase",
+      "spell": "fukou"
+    },
+    {
+      "text": "節",
+      "hint": "时节",
+      "kind": "phrase",
+      "spell": "fushi"
+    },
+    {
+      "text": "無事",
+      "hint": "顺利",
+      "kind": "phrase",
+      "spell": "buji"
+    },
+    {
+      "text": "不思議",
+      "hint": "不可思议",
+      "kind": "phrase",
+      "spell": "fushigi"
+    },
+    {
+      "text": "不自由",
+      "hint": "不自由",
+      "kind": "phrase",
+      "spell": "fujiyuu"
+    },
+    {
+      "text": "夫人",
+      "hint": "夫人",
+      "kind": "phrase",
+      "spell": "fujin"
+    },
+    {
+      "text": "婦人",
+      "hint": "妇女",
+      "kind": "phrase",
+      "spell": "fujin"
+    },
+    {
+      "text": "不正",
+      "hint": "不正当",
+      "kind": "phrase",
+      "spell": "fusei"
+    },
+    {
+      "text": "防ぐ",
+      "hint": "防御",
+      "kind": "phrase",
+      "spell": "fusegu"
+    },
+    {
+      "text": "不足",
+      "hint": "不足",
+      "kind": "phrase",
+      "spell": "fusoku"
+    },
+    {
+      "text": "舞台",
+      "hint": "舞台",
+      "kind": "phrase",
+      "spell": "butai"
+    },
+    {
+      "text": "双子",
+      "hint": "双胞胎",
+      "kind": "phrase",
+      "spell": "futago"
+    },
+    {
+      "text": "再び",
+      "hint": "再次",
+      "kind": "phrase",
+      "spell": "futatabi"
+    },
+    {
+      "text": "普段",
+      "hint": "平时",
+      "kind": "phrase",
+      "spell": "fudan"
+    },
+    {
+      "text": "縁",
+      "hint": "缘分",
+      "kind": "phrase",
+      "spell": "fuchi"
+    },
+    {
+      "text": "打つ",
+      "hint": "敲",
+      "kind": "phrase",
+      "spell": "butsu"
+    },
+    {
+      "text": "物価",
+      "hint": "物价",
+      "kind": "phrase",
+      "spell": "bukka"
+    },
+    {
+      "text": "物質",
+      "hint": "物质",
+      "kind": "phrase",
+      "spell": "busshitsu"
+    },
+    {
+      "text": "物理",
+      "hint": "物理",
+      "kind": "phrase",
+      "spell": "butsuri"
+    },
+    {
+      "text": "筆",
+      "hint": "笔",
+      "kind": "phrase",
+      "spell": "fude"
+    },
+    {
+      "text": "ふと",
+      "hint": "偶然",
+      "kind": "phrase",
+      "spell": "futo"
+    },
+    {
+      "text": "船",
+      "hint": "船",
+      "kind": "phrase",
+      "spell": "fune"
+    },
+    {
+      "text": "部分",
+      "hint": "部分",
+      "kind": "phrase",
+      "spell": "bubun"
+    },
+    {
+      "text": "不平",
+      "hint": "不平",
+      "kind": "phrase",
+      "spell": "fuhei"
+    },
+    {
+      "text": "不満",
+      "hint": "不满",
+      "kind": "phrase",
+      "spell": "fuman"
+    },
+    {
+      "text": "プラス",
+      "hint": "正面",
+      "kind": "phrase",
+      "spell": "purasu"
+    },
+    {
+      "text": "プラン",
+      "hint": "计划",
+      "kind": "phrase",
+      "spell": "puran"
+    },
+    {
+      "text": "不利",
+      "hint": "不利",
+      "kind": "phrase",
+      "spell": "furi"
+    },
+    {
+      "text": "振る",
+      "hint": "挥",
+      "kind": "phrase",
+      "spell": "furu"
+    },
+    {
+      "text": "震える",
+      "hint": "震动",
+      "kind": "phrase",
+      "spell": "furueru"
+    },
+    {
+      "text": "ブレーキ",
+      "hint": "刹车",
+      "kind": "phrase",
+      "spell": "bureeki"
+    },
+    {
+      "text": "触れる",
+      "hint": "触摸",
+      "kind": "phrase",
+      "spell": "fureru"
+    },
+    {
+      "text": "プロ",
+      "hint": "业",
+      "kind": "phrase",
+      "spell": "puro"
+    },
+    {
+      "text": "分",
+      "hint": "份",
+      "kind": "phrase",
+      "spell": "bun"
+    },
+    {
+      "text": "文",
+      "hint": "句子",
+      "kind": "phrase",
+      "spell": "bun"
+    },
+    {
+      "text": "雰囲気",
+      "hint": "气氛",
+      "kind": "phrase",
+      "spell": "fun'iki"
+    },
+    {
+      "text": "分析",
+      "hint": "（化学用语）分析",
+      "kind": "phrase",
+      "spell": "bunseki"
+    },
+    {
+      "text": "文明",
+      "hint": "文明",
+      "kind": "phrase",
+      "spell": "bunmei"
+    },
+    {
+      "text": "分野",
+      "hint": "方面",
+      "kind": "phrase",
+      "spell": "bun'ya"
+    },
+    {
+      "text": "塀",
+      "hint": "墙",
+      "kind": "phrase",
+      "spell": "hei"
+    },
+    {
+      "text": "平均",
+      "hint": "平均",
+      "kind": "phrase",
+      "spell": "heikin"
+    },
+    {
+      "text": "平和",
+      "hint": "和平",
+      "kind": "phrase",
+      "spell": "heiwa"
+    },
+    {
+      "text": "別に",
+      "hint": "分开",
+      "kind": "phrase",
+      "spell": "betsuni"
+    },
+    {
+      "text": "減らす",
+      "hint": "减少",
+      "kind": "phrase",
+      "spell": "herasu"
+    },
+    {
+      "text": "減る",
+      "hint": "减少",
+      "kind": "phrase",
+      "spell": "heru"
+    },
+    {
+      "text": "ベルト",
+      "hint": "皮带",
+      "kind": "phrase",
+      "spell": "beruto"
+    },
+    {
+      "text": "変化",
+      "hint": "变化",
+      "kind": "phrase",
+      "spell": "henka"
+    },
+    {
+      "text": "ペンキ",
+      "hint": "油漆",
+      "kind": "phrase",
+      "spell": "penki"
+    },
+    {
+      "text": "変更",
+      "hint": "改变",
+      "kind": "phrase",
+      "spell": "henkou"
+    },
+    {
+      "text": "ベンチ",
+      "hint": "长椅",
+      "kind": "phrase",
+      "spell": "benchi"
+    },
+    {
+      "text": "弁当",
+      "hint": "盒饭",
+      "kind": "phrase",
+      "spell": "bentou"
+    },
+    {
+      "text": "方",
+      "hint": "方式",
+      "kind": "phrase",
+      "spell": "hou"
+    },
+    {
+      "text": "法",
+      "hint": "法律",
+      "kind": "phrase",
+      "spell": "hou"
+    },
+    {
+      "text": "棒",
+      "hint": "棒",
+      "kind": "phrase",
+      "spell": "bou"
+    },
+    {
+      "text": "冒険",
+      "hint": "冒险",
+      "kind": "phrase",
+      "spell": "bouken"
+    },
+    {
+      "text": "方向",
+      "hint": "方向",
+      "kind": "phrase",
+      "spell": "houkou"
+    },
+    {
+      "text": "報告",
+      "hint": "报告",
+      "kind": "phrase",
+      "spell": "houkoku"
+    },
+    {
+      "text": "宝石",
+      "hint": "宝石",
+      "kind": "phrase",
+      "spell": "houseki"
+    },
+    {
+      "text": "豊富",
+      "hint": "丰富",
+      "kind": "phrase",
+      "spell": "houfu"
+    },
+    {
+      "text": "方法",
+      "hint": "方法",
+      "kind": "phrase",
+      "spell": "houhou"
+    },
+    {
+      "text": "訪問",
+      "hint": "访问",
+      "kind": "phrase",
+      "spell": "houmon"
+    },
+    {
+      "text": "吠える",
+      "hint": "（动物）叫",
+      "kind": "phrase",
+      "spell": "hoeru"
+    },
+    {
+      "text": "ボーイ",
+      "hint": "男孩",
+      "kind": "phrase",
+      "spell": "booi"
+    },
+    {
+      "text": "ボート",
+      "hint": "小船",
+      "kind": "phrase",
+      "spell": "booto"
+    },
+    {
+      "text": "ホーム",
+      "hint": "家",
+      "kind": "phrase",
+      "spell": "hoomu"
+    },
+    {
+      "text": "ボール",
+      "hint": "球",
+      "kind": "phrase",
+      "spell": "booru"
+    },
+    {
+      "text": "誇り",
+      "hint": "骄傲",
+      "kind": "phrase",
+      "spell": "hokori"
+    },
+    {
+      "text": "埃",
+      "hint": "灰尘",
+      "kind": "phrase",
+      "spell": "hokori"
+    },
+    {
+      "text": "保証",
+      "hint": "保证",
+      "kind": "phrase",
+      "spell": "hoshou"
+    },
+    {
+      "text": "保存",
+      "hint": "保存",
+      "kind": "phrase",
+      "spell": "hozon"
+    },
+    {
+      "text": "歩道",
+      "hint": "人行道",
+      "kind": "phrase",
+      "spell": "hodou"
+    },
+    {
+      "text": "仏",
+      "hint": "佛祖",
+      "kind": "phrase",
+      "spell": "hotoke"
+    },
+    {
+      "text": "骨",
+      "hint": "骨头",
+      "kind": "phrase",
+      "spell": "hone"
+    },
+    {
+      "text": "炎",
+      "hint": "火焰",
+      "kind": "phrase",
+      "spell": "honoo"
+    },
+    {
+      "text": "頬",
+      "hint": "脸颊",
+      "kind": "phrase",
+      "spell": "hoho"
+    },
+    {
+      "text": "ほぼ",
+      "hint": "大体上",
+      "kind": "phrase",
+      "spell": "hobo"
+    },
+    {
+      "text": "微笑む",
+      "hint": "微笑",
+      "kind": "phrase",
+      "spell": "hohoemu"
+    },
+    {
+      "text": "濠",
+      "hint": "护城河",
+      "kind": "phrase",
+      "spell": "hori"
+    },
+    {
+      "text": "本人",
+      "hint": "本人",
+      "kind": "phrase",
+      "spell": "honnin"
+    },
+    {
+      "text": "本物",
+      "hint": "真东西",
+      "kind": "phrase",
+      "spell": "honmono"
+    },
+    {
+      "text": "ぼんやり",
+      "hint": "发呆",
+      "kind": "phrase",
+      "spell": "bon'yari"
+    },
+    {
+      "text": "間",
+      "hint": "当中",
+      "kind": "phrase",
+      "spell": "ma"
+    },
+    {
+      "text": "まあ",
+      "hint": "嗯",
+      "kind": "phrase",
+      "spell": "maa"
+    },
+    {
+      "text": "マーケット",
+      "hint": "商场",
+      "kind": "phrase",
+      "spell": "maaketto"
+    },
+    {
+      "text": "マイク",
+      "hint": "麦克风",
+      "kind": "phrase",
+      "spell": "maiku"
+    },
+    {
+      "text": "迷子",
+      "hint": "迷路",
+      "kind": "phrase",
+      "spell": "maigo"
+    },
+    {
+      "text": "任せる",
+      "hint": "委托",
+      "kind": "phrase",
+      "spell": "makaseru"
+    },
+    {
+      "text": "幕",
+      "hint": "帷幕",
+      "kind": "phrase",
+      "spell": "maku"
+    },
+    {
+      "text": "負け",
+      "hint": "输",
+      "kind": "phrase",
+      "spell": "make"
+    },
+    {
+      "text": "孫",
+      "hint": "孙子",
+      "kind": "phrase",
+      "spell": "mago"
+    },
+    {
+      "text": "まさか",
+      "hint": "绝没想到",
+      "kind": "phrase",
+      "spell": "masaka"
+    },
+    {
+      "text": "まさに",
+      "hint": "真正",
+      "kind": "phrase",
+      "spell": "masani"
+    },
+    {
+      "text": "増す",
+      "hint": "（数量）增加",
+      "kind": "phrase",
+      "spell": "masu"
+    },
+    {
+      "text": "貧しい",
+      "hint": "贫穷的",
+      "kind": "phrase",
+      "spell": "mazushii"
+    },
+    {
+      "text": "マスター",
+      "hint": "老板",
+      "kind": "phrase",
+      "spell": "masutaa"
+    },
+    {
+      "text": "ますます",
+      "hint": "越来越",
+      "kind": "phrase",
+      "spell": "masumasu"
+    },
+    {
+      "text": "街",
+      "hint": "街道",
+      "kind": "phrase",
+      "spell": "machi"
+    },
+    {
+      "text": "間違い",
+      "hint": "错误",
+      "kind": "phrase",
+      "spell": "machigai"
+    },
+    {
+      "text": "松",
+      "hint": "松树",
+      "kind": "phrase",
+      "spell": "matsu"
+    },
+    {
+      "text": "真っ赤",
+      "hint": "通红",
+      "kind": "phrase",
+      "spell": "makka"
+    },
+    {
+      "text": "全く",
+      "hint": "完全",
+      "kind": "phrase",
+      "spell": "mattaku"
+    },
+    {
+      "text": "祭",
+      "hint": "节",
+      "kind": "phrase",
+      "spell": "matsuri"
+    },
+    {
+      "text": "学ぶ",
+      "hint": "学习",
+      "kind": "phrase",
+      "spell": "manabu"
+    },
+    {
+      "text": "真似",
+      "hint": "举止",
+      "kind": "phrase",
+      "spell": "mane"
+    },
+    {
+      "text": "招く",
+      "hint": "邀请",
+      "kind": "phrase",
+      "spell": "maneku"
+    },
+    {
+      "text": "ママ",
+      "hint": "妈妈",
+      "kind": "phrase",
+      "spell": "mama"
+    },
+    {
+      "text": "豆",
+      "hint": "豆",
+      "kind": "phrase",
+      "spell": "mame"
+    },
+    {
+      "text": "守る",
+      "hint": "保护",
+      "kind": "phrase",
+      "spell": "mamoru"
+    },
+    {
+      "text": "丸",
+      "hint": "圆",
+      "kind": "phrase",
+      "spell": "maru"
+    },
+    {
+      "text": "まるで",
+      "hint": "好像",
+      "kind": "phrase",
+      "spell": "marude"
+    },
+    {
+      "text": "回す",
+      "hint": "转动",
+      "kind": "phrase",
+      "spell": "mawasu"
+    },
+    {
+      "text": "回り",
+      "hint": "周围",
+      "kind": "phrase",
+      "spell": "mawari"
+    },
+    {
+      "text": "万一",
+      "hint": "万一",
+      "kind": "phrase",
+      "spell": "man'ichi"
+    },
+    {
+      "text": "満足",
+      "hint": "满足",
+      "kind": "phrase",
+      "spell": "manzoku"
+    },
+    {
+      "text": "実",
+      "hint": "种子",
+      "kind": "phrase",
+      "spell": "mi"
+    },
+    {
+      "text": "身",
+      "hint": "身体",
+      "kind": "phrase",
+      "spell": "mi"
+    },
+    {
+      "text": "見送り",
+      "hint": "送行",
+      "kind": "phrase",
+      "spell": "miokuri"
+    },
+    {
+      "text": "味方",
+      "hint": "我方",
+      "kind": "phrase",
+      "spell": "mikata"
+    },
+    {
+      "text": "見事",
+      "hint": "精彩",
+      "kind": "phrase",
+      "spell": "migoto"
+    },
+    {
+      "text": "ミス",
+      "hint": "失误",
+      "kind": "phrase",
+      "spell": "misu"
+    },
+    {
+      "text": "満ちる",
+      "hint": "满",
+      "kind": "phrase",
+      "spell": "michiru"
+    },
+    {
+      "text": "密",
+      "hint": "秘密",
+      "kind": "phrase",
+      "spell": "mitsu"
+    },
+    {
+      "text": "認める",
+      "hint": "承认",
+      "kind": "phrase",
+      "spell": "mitomeru"
+    },
+    {
+      "text": "見舞い",
+      "hint": "探望",
+      "kind": "phrase",
+      "spell": "mimai"
+    },
+    {
+      "text": "土産",
+      "hint": "特产",
+      "kind": "phrase",
+      "spell": "miyage"
+    },
+    {
+      "text": "都",
+      "hint": "都",
+      "kind": "phrase",
+      "spell": "miyako"
+    },
+    {
+      "text": "妙",
+      "hint": "美妙",
+      "kind": "phrase",
+      "spell": "myou"
+    },
+    {
+      "text": "明後日",
+      "hint": "后天",
+      "kind": "phrase",
+      "spell": "myougonichi"
+    },
+    {
+      "text": "未来",
+      "hint": "未来",
+      "kind": "phrase",
+      "spell": "mirai"
+    },
+    {
+      "text": "魅力",
+      "hint": "魅力",
+      "kind": "phrase",
+      "spell": "miryoku"
+    },
+    {
+      "text": "ミルク",
+      "hint": "牛奶",
+      "kind": "phrase",
+      "spell": "miruku"
+    },
+    {
+      "text": "無",
+      "hint": "无～",
+      "kind": "phrase",
+      "spell": "mu"
+    },
+    {
+      "text": "向かい",
+      "hint": "对面",
+      "kind": "phrase",
+      "spell": "mukai"
+    },
+    {
+      "text": "迎え",
+      "hint": "迎接",
+      "kind": "phrase",
+      "spell": "mukae"
+    },
+    {
+      "text": "向く",
+      "hint": "向",
+      "kind": "phrase",
+      "spell": "muku"
+    },
+    {
+      "text": "向ける",
+      "hint": "向",
+      "kind": "phrase",
+      "spell": "mukeru"
+    },
+    {
+      "text": "無視",
+      "hint": "无视",
+      "kind": "phrase",
+      "spell": "mushi"
+    },
+    {
+      "text": "虫歯",
+      "hint": "蛀牙",
+      "kind": "phrase",
+      "spell": "mushiba"
+    },
+    {
+      "text": "寧ろ",
+      "hint": "宁可",
+      "kind": "phrase",
+      "spell": "mushiro"
+    },
+    {
+      "text": "結ぶ",
+      "hint": "系",
+      "kind": "phrase",
+      "spell": "musubu"
+    },
+    {
+      "text": "無駄",
+      "hint": "徒劳",
+      "kind": "phrase",
+      "spell": "muda"
+    },
+    {
+      "text": "夢中",
+      "hint": "着迷",
+      "kind": "phrase",
+      "spell": "muchuu"
+    },
+    {
+      "text": "胸",
+      "hint": "胸",
+      "kind": "phrase",
+      "spell": "mune"
+    },
+    {
+      "text": "無料",
+      "hint": "免费",
+      "kind": "phrase",
+      "spell": "muryou"
+    },
+    {
+      "text": "芽",
+      "hint": "嫩芽",
+      "kind": "phrase",
+      "spell": "me"
+    },
+    {
+      "text": "明確",
+      "hint": "明确",
+      "kind": "phrase",
+      "spell": "meikaku"
+    },
+    {
+      "text": "命じる",
+      "hint": "命令",
+      "kind": "phrase",
+      "spell": "meijiru"
+    },
+    {
+      "text": "名人",
+      "hint": "家",
+      "kind": "phrase",
+      "spell": "meijin"
+    },
+    {
+      "text": "命令",
+      "hint": "命令",
+      "kind": "phrase",
+      "spell": "meirei"
+    },
+    {
+      "text": "迷惑",
+      "hint": "感到麻烦",
+      "kind": "phrase",
+      "spell": "meiwaku"
+    },
+    {
+      "text": "飯",
+      "hint": "饭",
+      "kind": "phrase",
+      "spell": "meshi"
+    },
+    {
+      "text": "滅多に",
+      "hint": "很少",
+      "kind": "phrase",
+      "spell": "mettani"
+    },
+    {
+      "text": "メモ",
+      "hint": "笔记",
+      "kind": "phrase",
+      "spell": "memo"
+    },
+    {
+      "text": "綿",
+      "hint": "棉花",
+      "kind": "phrase",
+      "spell": "men"
+    },
+    {
+      "text": "面",
+      "hint": "脸",
+      "kind": "phrase",
+      "spell": "men"
+    },
+    {
+      "text": "免許",
+      "hint": "驾照",
+      "kind": "phrase",
+      "spell": "menkyo"
+    },
+    {
+      "text": "面倒",
+      "hint": "照料",
+      "kind": "phrase",
+      "spell": "mendou"
+    },
+    {
+      "text": "メンバー",
+      "hint": "成员",
+      "kind": "phrase",
+      "spell": "menbaa"
+    },
+    {
+      "text": "申し込む",
+      "hint": "预约",
+      "kind": "phrase",
+      "spell": "moushikomu"
+    },
+    {
+      "text": "申し訳",
+      "hint": "辩解",
+      "kind": "phrase",
+      "spell": "moushiwake"
+    },
+    {
+      "text": "毛布",
+      "hint": "毯子",
+      "kind": "phrase",
+      "spell": "moufu"
+    },
+    {
+      "text": "燃える",
+      "hint": "燃烧",
+      "kind": "phrase",
+      "spell": "moeru"
+    },
+    {
+      "text": "目的",
+      "hint": "目的",
+      "kind": "phrase",
+      "spell": "mokuteki"
+    },
+    {
+      "text": "目標",
+      "hint": "目标",
+      "kind": "phrase",
+      "spell": "mokuhyou"
+    },
+    {
+      "text": "木曜",
+      "hint": "星期四",
+      "kind": "phrase",
+      "spell": "mokuyou"
+    },
+    {
+      "text": "文字",
+      "hint": "文字",
+      "kind": "phrase",
+      "spell": "moji"
+    },
+    {
+      "text": "もしも",
+      "hint": "或许",
+      "kind": "phrase",
+      "spell": "moshimo"
+    },
+    {
+      "text": "持ち上げる",
+      "hint": "端起",
+      "kind": "phrase",
+      "spell": "mochiageru"
+    },
+    {
+      "text": "用いる",
+      "hint": "使用",
+      "kind": "phrase",
+      "spell": "mochiiru"
+    },
+    {
+      "text": "尤も",
+      "hint": "话虽如此",
+      "kind": "phrase",
+      "spell": "mottomo"
+    },
+    {
+      "text": "基",
+      "hint": "基础",
+      "kind": "phrase",
+      "spell": "moto"
+    },
+    {
+      "text": "元",
+      "hint": "原～",
+      "kind": "phrase",
+      "spell": "moto"
+    },
+    {
+      "text": "素",
+      "hint": "本源",
+      "kind": "phrase",
+      "spell": "moto"
+    },
+    {
+      "text": "戻す",
+      "hint": "返还",
+      "kind": "phrase",
+      "spell": "modosu"
+    },
+    {
+      "text": "基づく",
+      "hint": "依据",
+      "kind": "phrase",
+      "spell": "motozuku"
+    },
+    {
+      "text": "求める",
+      "hint": "追求",
+      "kind": "phrase",
+      "spell": "motomeru"
+    },
+    {
+      "text": "者",
+      "hint": "人",
+      "kind": "phrase",
+      "spell": "mono"
+    },
+    {
+      "text": "物音",
+      "hint": "声音",
+      "kind": "phrase",
+      "spell": "monooto"
+    },
+    {
+      "text": "物語",
+      "hint": "故事",
+      "kind": "phrase",
+      "spell": "monogatari"
+    },
+    {
+      "text": "物事",
+      "hint": "事物",
+      "kind": "phrase",
+      "spell": "monogoto"
+    },
+    {
+      "text": "模様",
+      "hint": "花纹",
+      "kind": "phrase",
+      "spell": "moyou"
+    },
+    {
+      "text": "文句",
+      "hint": "意见",
+      "kind": "phrase",
+      "spell": "monku"
+    },
+    {
+      "text": "やがて",
+      "hint": "后来",
+      "kind": "phrase",
+      "spell": "yagate"
+    },
+    {
+      "text": "役",
+      "hint": "职务",
+      "kind": "phrase",
+      "spell": "yaku"
+    },
+    {
+      "text": "約",
+      "hint": "约～",
+      "kind": "phrase",
+      "spell": "yaku"
+    },
+    {
+      "text": "役割",
+      "hint": "任务",
+      "kind": "phrase",
+      "spell": "yakuwari"
+    },
+    {
+      "text": "家賃",
+      "hint": "房租",
+      "kind": "phrase",
+      "spell": "yachin"
+    },
+    {
+      "text": "厄介",
+      "hint": "麻烦",
+      "kind": "phrase",
+      "spell": "yakkai"
+    },
+    {
+      "text": "宿",
+      "hint": "旅馆",
+      "kind": "phrase",
+      "spell": "yado"
+    },
+    {
+      "text": "雇う",
+      "hint": "雇",
+      "kind": "phrase",
+      "spell": "yatou"
+    },
+    {
+      "text": "屋根",
+      "hint": "屋顶",
+      "kind": "phrase",
+      "spell": "yane"
+    },
+    {
+      "text": "破る",
+      "hint": "破坏",
+      "kind": "phrase",
+      "spell": "yaburu"
+    },
+    {
+      "text": "辞める",
+      "hint": "辞职",
+      "kind": "phrase",
+      "spell": "yameru"
+    },
+    {
+      "text": "やや",
+      "hint": "稍微",
+      "kind": "phrase",
+      "spell": "yaya"
+    },
+    {
+      "text": "唯一",
+      "hint": "唯一",
+      "kind": "phrase",
+      "spell": "yuiitsu"
+    },
+    {
+      "text": "言う",
+      "hint": "说话",
+      "kind": "phrase",
+      "spell": "yuu"
+    },
+    {
+      "text": "勇気",
+      "hint": "勇气",
+      "kind": "phrase",
+      "spell": "yuuki"
+    },
+    {
+      "text": "有効",
+      "hint": "有效",
+      "kind": "phrase",
+      "spell": "yuukou"
+    },
+    {
+      "text": "優秀",
+      "hint": "优秀",
+      "kind": "phrase",
+      "spell": "yuushuu"
+    },
+    {
+      "text": "優勝",
+      "hint": "冠军",
+      "kind": "phrase",
+      "spell": "yuushou"
+    },
+    {
+      "text": "友情",
+      "hint": "友情",
+      "kind": "phrase",
+      "spell": "yuujou"
+    },
+    {
+      "text": "友人",
+      "hint": "朋友",
+      "kind": "phrase",
+      "spell": "yuujin"
+    },
+    {
+      "text": "有能",
+      "hint": "有能干",
+      "kind": "phrase",
+      "spell": "yuunou"
+    },
+    {
+      "text": "郵便",
+      "hint": "邮政",
+      "kind": "phrase",
+      "spell": "yuubin"
+    },
+    {
+      "text": "夕べ",
+      "hint": "昨天晚上",
+      "kind": "phrase",
+      "spell": "yuube"
+    },
+    {
+      "text": "ユーモア",
+      "hint": "幽默",
+      "kind": "phrase",
+      "spell": "yuumoa"
+    },
+    {
+      "text": "有利",
+      "hint": "有利",
+      "kind": "phrase",
+      "spell": "yuuri"
+    },
+    {
+      "text": "床",
+      "hint": "地板",
+      "kind": "phrase",
+      "spell": "yuka"
+    },
+    {
+      "text": "愉快",
+      "hint": "愉快的",
+      "kind": "phrase",
+      "spell": "yukai"
+    },
+    {
+      "text": "譲る",
+      "hint": "让",
+      "kind": "phrase",
+      "spell": "yuzuru"
+    },
+    {
+      "text": "豊か",
+      "hint": "丰富的",
+      "kind": "phrase",
+      "spell": "yutaka"
+    },
+    {
+      "text": "ゆっくり",
+      "hint": "缓慢地",
+      "kind": "phrase",
+      "spell": "yukkuri"
+    },
+    {
+      "text": "許す",
+      "hint": "原谅",
+      "kind": "phrase",
+      "spell": "yurusu"
+    },
+    {
+      "text": "夜明け",
+      "hint": "拂晓",
+      "kind": "phrase",
+      "spell": "yoake"
+    },
+    {
+      "text": "よい",
+      "hint": "好",
+      "kind": "phrase",
+      "spell": "yoi"
+    },
+    {
+      "text": "酔う",
+      "hint": "醉",
+      "kind": "phrase",
+      "spell": "you"
+    },
+    {
+      "text": "様",
+      "hint": "样子",
+      "kind": "phrase",
+      "spell": "you"
+    },
+    {
+      "text": "容易",
+      "hint": "容易的",
+      "kind": "phrase",
+      "spell": "youi"
+    },
+    {
+      "text": "陽気",
+      "hint": "快乐的",
+      "kind": "phrase",
+      "spell": "youki"
+    },
+    {
+      "text": "要求",
+      "hint": "要求",
+      "kind": "phrase",
+      "spell": "youkyuu"
+    },
+    {
+      "text": "用心",
+      "hint": "提防",
+      "kind": "phrase",
+      "spell": "youjin"
+    },
+    {
+      "text": "様子",
+      "hint": "样子",
+      "kind": "phrase",
+      "spell": "yousu"
+    },
+    {
+      "text": "要するに",
+      "hint": "综上所述",
+      "kind": "phrase",
+      "spell": "yousuruni"
+    },
+    {
+      "text": "要素",
+      "hint": "要素",
+      "kind": "phrase",
+      "spell": "youso"
+    },
+    {
+      "text": "要点",
+      "hint": "要点",
+      "kind": "phrase",
+      "spell": "youten"
+    },
+    {
+      "text": "曜日",
+      "hint": "星期",
+      "kind": "phrase",
+      "spell": "youbi"
+    },
+    {
+      "text": "ヨーロッパ",
+      "hint": "欧洲",
+      "kind": "phrase",
+      "spell": "yooroppa"
+    },
+    {
+      "text": "予期",
+      "hint": "预期",
+      "kind": "phrase",
+      "spell": "yoki"
+    },
+    {
+      "text": "横切る",
+      "hint": "横过",
+      "kind": "phrase",
+      "spell": "yokogiru"
+    },
+    {
+      "text": "予算",
+      "hint": "预算",
+      "kind": "phrase",
+      "spell": "yosan"
+    },
+    {
+      "text": "止す",
+      "hint": "停止",
+      "kind": "phrase",
+      "spell": "yosu"
+    },
+    {
+      "text": "予測",
+      "hint": "预测",
+      "kind": "phrase",
+      "spell": "yosoku"
+    },
+    {
+      "text": "ヨット",
+      "hint": "游艇",
+      "kind": "phrase",
+      "spell": "yotto"
+    },
+    {
+      "text": "夜中",
+      "hint": "夜间",
+      "kind": "phrase",
+      "spell": "yonaka"
+    },
+    {
+      "text": "世の中",
+      "hint": "世间",
+      "kind": "phrase",
+      "spell": "yononaka"
+    },
+    {
+      "text": "余分",
+      "hint": "多余",
+      "kind": "phrase",
+      "spell": "yobun"
+    },
+    {
+      "text": "予報",
+      "hint": "预报",
+      "kind": "phrase",
+      "spell": "yohou"
+    },
+    {
+      "text": "予防",
+      "hint": "预防",
+      "kind": "phrase",
+      "spell": "yobou"
+    },
+    {
+      "text": "読み",
+      "hint": "读",
+      "kind": "phrase",
+      "spell": "yomi"
+    },
+    {
+      "text": "嫁",
+      "hint": "新娘",
+      "kind": "phrase",
+      "spell": "yome"
+    },
+    {
+      "text": "余裕",
+      "hint": "富余",
+      "kind": "phrase",
+      "spell": "yoyuu"
+    },
+    {
+      "text": "よると",
+      "hint": "据（说）",
+      "kind": "phrase",
+      "spell": "yoruto"
+    },
+    {
+      "text": "喜び",
+      "hint": "喜悦",
+      "kind": "phrase",
+      "spell": "yorokobi"
+    },
+    {
+      "text": "よろしく",
+      "hint": "请多关照",
+      "kind": "phrase",
+      "spell": "yoroshiku"
+    },
+    {
+      "text": "来",
+      "hint": "下（一年）",
+      "kind": "phrase",
+      "spell": "rai"
+    },
+    {
+      "text": "ライター",
+      "hint": "打火机",
+      "kind": "phrase",
+      "spell": "raitaa"
+    },
+    {
+      "text": "楽",
+      "hint": "（精神、身体）快乐",
+      "kind": "phrase",
+      "spell": "raku"
+    },
+    {
+      "text": "ラケット",
+      "hint": "球拍",
+      "kind": "phrase",
+      "spell": "raketto"
+    },
+    {
+      "text": "利益",
+      "hint": "利益",
+      "kind": "phrase",
+      "spell": "rieki"
+    },
+    {
+      "text": "理解",
+      "hint": "理解",
+      "kind": "phrase",
+      "spell": "rikai"
+    },
+    {
+      "text": "陸",
+      "hint": "陆地",
+      "kind": "phrase",
+      "spell": "riku"
+    },
+    {
+      "text": "利口",
+      "hint": "聪明的",
+      "kind": "phrase",
+      "spell": "rikou"
+    },
+    {
+      "text": "離婚",
+      "hint": "离婚",
+      "kind": "phrase",
+      "spell": "rikon"
+    },
+    {
+      "text": "理想",
+      "hint": "理想",
+      "kind": "phrase",
+      "spell": "risou"
+    },
+    {
+      "text": "率",
+      "hint": "率",
+      "kind": "phrase",
+      "spell": "ritsu"
+    },
+    {
+      "text": "留学",
+      "hint": "留学",
+      "kind": "phrase",
+      "spell": "ryuugaku"
+    },
+    {
+      "text": "流行",
+      "hint": "流行",
+      "kind": "phrase",
+      "spell": "ryuukou"
+    },
+    {
+      "text": "量",
+      "hint": "量",
+      "kind": "phrase",
+      "spell": "ryou"
+    },
+    {
+      "text": "両替",
+      "hint": "兑换",
+      "kind": "phrase",
+      "spell": "ryougae"
+    },
+    {
+      "text": "料金",
+      "hint": "费用",
+      "kind": "phrase",
+      "spell": "ryoukin"
+    },
+    {
+      "text": "例",
+      "hint": "例",
+      "kind": "phrase",
+      "spell": "rei"
+    },
+    {
+      "text": "礼",
+      "hint": "谢意",
+      "kind": "phrase",
+      "spell": "rei"
+    },
+    {
+      "text": "礼儀",
+      "hint": "礼仪",
+      "kind": "phrase",
+      "spell": "reigi"
+    },
+    {
+      "text": "冷静",
+      "hint": "冷静",
+      "kind": "phrase",
+      "spell": "reisei"
+    },
+    {
+      "text": "列",
+      "hint": "队",
+      "kind": "phrase",
+      "spell": "retsu"
+    },
+    {
+      "text": "列車",
+      "hint": "列车",
+      "kind": "phrase",
+      "spell": "ressha"
+    },
+    {
+      "text": "連想",
+      "hint": "联想",
+      "kind": "phrase",
+      "spell": "rensou"
+    },
+    {
+      "text": "連続",
+      "hint": "连续",
+      "kind": "phrase",
+      "spell": "renzoku"
+    },
+    {
+      "text": "老人",
+      "hint": "老人",
+      "kind": "phrase",
+      "spell": "roujin"
+    },
+    {
+      "text": "労働",
+      "hint": "劳动",
+      "kind": "phrase",
+      "spell": "roudou"
+    },
+    {
+      "text": "ロケット",
+      "hint": "火箭",
+      "kind": "phrase",
+      "spell": "roketto"
+    },
+    {
+      "text": "論じる",
+      "hint": "论述",
+      "kind": "phrase",
+      "spell": "ronjiru"
+    },
+    {
+      "text": "論争",
+      "hint": "争论",
+      "kind": "phrase",
+      "spell": "ronsou"
+    },
+    {
+      "text": "論文",
+      "hint": "论文",
+      "kind": "phrase",
+      "spell": "ronbun"
+    },
+    {
+      "text": "輪",
+      "hint": "环",
+      "kind": "phrase",
+      "spell": "wa"
+    },
+    {
+      "text": "ワイン",
+      "hint": "葡萄酒",
+      "kind": "phrase",
+      "spell": "wain"
+    },
+    {
+      "text": "わがまま",
+      "hint": "任性",
+      "kind": "phrase",
+      "spell": "wagamama"
+    },
+    {
+      "text": "別れ",
+      "hint": "其他",
+      "kind": "phrase",
+      "spell": "wakare"
+    },
+    {
+      "text": "脇",
+      "hint": "腋下",
+      "kind": "phrase",
+      "spell": "waki"
+    },
+    {
+      "text": "分ける",
+      "hint": "分",
+      "kind": "phrase",
+      "spell": "wakeru"
+    },
+    {
+      "text": "わざと",
+      "hint": "故意",
+      "kind": "phrase",
+      "spell": "wazato"
+    },
+    {
+      "text": "僅か",
+      "hint": "仅仅",
+      "kind": "phrase",
+      "spell": "wazuka"
+    },
+    {
+      "text": "話題",
+      "hint": "成为热门话题．成为谈资",
+      "kind": "phrase",
+      "spell": "wadai"
+    },
+    {
+      "text": "笑い",
+      "hint": "笑",
+      "kind": "phrase",
+      "spell": "warai"
+    },
+    {
+      "text": "割る",
+      "hint": "弄碎",
+      "kind": "phrase",
+      "spell": "waru"
+    },
+    {
+      "text": "悪口",
+      "hint": "坏话",
+      "kind": "phrase",
+      "spell": "warukuchi"
+    },
+    {
+      "text": "我々",
+      "hint": "我们",
+      "kind": "phrase",
+      "spell": "wareware"
+    },
+    {
+      "text": "湾",
+      "hint": "海湾",
+      "kind": "phrase",
+      "spell": "wan"
+    }
+  ]
+}

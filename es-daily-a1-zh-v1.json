@@ -2,12 +2,12 @@
   "manifest": {
     "id": "es-daily-a1-zh",
     "title": "西语日常 A1",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "lang": "es",
     "glossLang": "zh",
     "source": "curated-a1",
-    "lemmaCount": 64,
-    "description": "西班牙语入门词句 · 中文释义"
+    "lemmaCount": 174,
+    "description": "西班牙语入门词句 · 中文释义（加厚日常场景）"
   },
   "items": [
     {
@@ -393,6 +393,666 @@
       "hint": "明天见",
       "kind": "sentence",
       "spell": "Hasta manana"
+    },
+    {
+      "text": "hotel",
+      "hint": "酒店",
+      "kind": "phrase",
+      "spell": "hotel"
+    },
+    {
+      "text": "aeropuerto",
+      "hint": "机场",
+      "kind": "phrase",
+      "spell": "aeropuerto"
+    },
+    {
+      "text": "billete",
+      "hint": "票",
+      "kind": "phrase",
+      "spell": "billete"
+    },
+    {
+      "text": "pasaporte",
+      "hint": "护照",
+      "kind": "phrase",
+      "spell": "pasaporte"
+    },
+    {
+      "text": "maleta",
+      "hint": "行李箱",
+      "kind": "phrase",
+      "spell": "maleta"
+    },
+    {
+      "text": "taxi",
+      "hint": "出租车",
+      "kind": "phrase",
+      "spell": "taxi"
+    },
+    {
+      "text": "metro",
+      "hint": "地铁",
+      "kind": "phrase",
+      "spell": "metro"
+    },
+    {
+      "text": "autobús",
+      "hint": "公交车",
+      "kind": "phrase",
+      "spell": "autobus"
+    },
+    {
+      "text": "calle",
+      "hint": "街道",
+      "kind": "phrase",
+      "spell": "calle"
+    },
+    {
+      "text": "plaza",
+      "hint": "广场",
+      "kind": "phrase",
+      "spell": "plaza"
+    },
+    {
+      "text": "tienda",
+      "hint": "商店",
+      "kind": "phrase",
+      "spell": "tienda"
+    },
+    {
+      "text": "supermercado",
+      "hint": "超市",
+      "kind": "phrase",
+      "spell": "supermercado"
+    },
+    {
+      "text": "farmacia",
+      "hint": "药店",
+      "kind": "phrase",
+      "spell": "farmacia"
+    },
+    {
+      "text": "hospital",
+      "hint": "医院",
+      "kind": "phrase",
+      "spell": "hospital"
+    },
+    {
+      "text": "médico",
+      "hint": "医生",
+      "kind": "phrase",
+      "spell": "medico"
+    },
+    {
+      "text": "enfermo",
+      "hint": "生病的",
+      "kind": "phrase",
+      "spell": "enfermo"
+    },
+    {
+      "text": "dinero",
+      "hint": "钱",
+      "kind": "phrase",
+      "spell": "dinero"
+    },
+    {
+      "text": "tarjeta",
+      "hint": "卡",
+      "kind": "phrase",
+      "spell": "tarjeta"
+    },
+    {
+      "text": "precio",
+      "hint": "价格",
+      "kind": "phrase",
+      "spell": "precio"
+    },
+    {
+      "text": "barato",
+      "hint": "便宜的",
+      "kind": "phrase",
+      "spell": "barato"
+    },
+    {
+      "text": "caro",
+      "hint": "贵的",
+      "kind": "phrase",
+      "spell": "caro"
+    },
+    {
+      "text": "abrir",
+      "hint": "打开",
+      "kind": "phrase",
+      "spell": "abrir"
+    },
+    {
+      "text": "cerrar",
+      "hint": "关闭",
+      "kind": "phrase",
+      "spell": "cerrar"
+    },
+    {
+      "text": "entrar",
+      "hint": "进入",
+      "kind": "phrase",
+      "spell": "entrar"
+    },
+    {
+      "text": "salir",
+      "hint": "出去；离开",
+      "kind": "phrase",
+      "spell": "salir"
+    },
+    {
+      "text": "esperar",
+      "hint": "等待",
+      "kind": "phrase",
+      "spell": "esperar"
+    },
+    {
+      "text": "llamar",
+      "hint": "打电话；叫",
+      "kind": "phrase",
+      "spell": "llamar"
+    },
+    {
+      "text": "necesitar",
+      "hint": "需要",
+      "kind": "phrase",
+      "spell": "necesitar"
+    },
+    {
+      "text": "querer",
+      "hint": "想要",
+      "kind": "phrase",
+      "spell": "querer"
+    },
+    {
+      "text": "poder",
+      "hint": "能够",
+      "kind": "phrase",
+      "spell": "poder"
+    },
+    {
+      "text": "saber",
+      "hint": "知道",
+      "kind": "phrase",
+      "spell": "saber"
+    },
+    {
+      "text": "entender",
+      "hint": "明白",
+      "kind": "phrase",
+      "spell": "entender"
+    },
+    {
+      "text": "comprar",
+      "hint": "买",
+      "kind": "phrase",
+      "spell": "comprar"
+    },
+    {
+      "text": "vender",
+      "hint": "卖",
+      "kind": "phrase",
+      "spell": "vender"
+    },
+    {
+      "text": "pagar",
+      "hint": "付钱",
+      "kind": "phrase",
+      "spell": "pagar"
+    },
+    {
+      "text": "reservar",
+      "hint": "预订",
+      "kind": "phrase",
+      "spell": "reservar"
+    },
+    {
+      "text": "desayuno",
+      "hint": "早餐",
+      "kind": "phrase",
+      "spell": "desayuno"
+    },
+    {
+      "text": "almuerzo",
+      "hint": "午餐",
+      "kind": "phrase",
+      "spell": "almuerzo"
+    },
+    {
+      "text": "cena",
+      "hint": "晚餐",
+      "kind": "phrase",
+      "spell": "cena"
+    },
+    {
+      "text": "cerveza",
+      "hint": "啤酒",
+      "kind": "phrase",
+      "spell": "cerveza"
+    },
+    {
+      "text": "vino",
+      "hint": "葡萄酒",
+      "kind": "phrase",
+      "spell": "vino"
+    },
+    {
+      "text": "fruta",
+      "hint": "水果",
+      "kind": "phrase",
+      "spell": "fruta"
+    },
+    {
+      "text": "carne",
+      "hint": "肉",
+      "kind": "phrase",
+      "spell": "carne"
+    },
+    {
+      "text": "pescado",
+      "hint": "鱼",
+      "kind": "phrase",
+      "spell": "pescado"
+    },
+    {
+      "text": "vegetales",
+      "hint": "蔬菜",
+      "kind": "phrase",
+      "spell": "vegetales"
+    },
+    {
+      "text": "pan",
+      "hint": "面包",
+      "kind": "phrase",
+      "spell": "pan"
+    },
+    {
+      "text": "leche",
+      "hint": "牛奶",
+      "kind": "phrase",
+      "spell": "leche"
+    },
+    {
+      "text": "azúcar",
+      "hint": "糖",
+      "kind": "phrase",
+      "spell": "azucar"
+    },
+    {
+      "text": "sal",
+      "hint": "盐",
+      "kind": "phrase",
+      "spell": "sal"
+    },
+    {
+      "text": "grande",
+      "hint": "大的",
+      "kind": "phrase",
+      "spell": "grande"
+    },
+    {
+      "text": "pequeño",
+      "hint": "小的",
+      "kind": "phrase",
+      "spell": "pequeno"
+    },
+    {
+      "text": "nuevo",
+      "hint": "新的",
+      "kind": "phrase",
+      "spell": "nuevo"
+    },
+    {
+      "text": "viejo",
+      "hint": "旧的；老的",
+      "kind": "phrase",
+      "spell": "viejo"
+    },
+    {
+      "text": "bonito",
+      "hint": "漂亮的",
+      "kind": "phrase",
+      "spell": "bonito"
+    },
+    {
+      "text": "fácil",
+      "hint": "简单的",
+      "kind": "phrase",
+      "spell": "facil"
+    },
+    {
+      "text": "difícil",
+      "hint": "难的",
+      "kind": "phrase",
+      "spell": "dificil"
+    },
+    {
+      "text": "cerca",
+      "hint": "附近",
+      "kind": "phrase",
+      "spell": "cerca"
+    },
+    {
+      "text": "lejos",
+      "hint": "远",
+      "kind": "phrase",
+      "spell": "lejos"
+    },
+    {
+      "text": "izquierda",
+      "hint": "左边",
+      "kind": "phrase",
+      "spell": "izquierda"
+    },
+    {
+      "text": "derecha",
+      "hint": "右边",
+      "kind": "phrase",
+      "spell": "derecha"
+    },
+    {
+      "text": "aquí",
+      "hint": "这里",
+      "kind": "phrase",
+      "spell": "aqui"
+    },
+    {
+      "text": "allí",
+      "hint": "那里",
+      "kind": "phrase",
+      "spell": "alli"
+    },
+    {
+      "text": "ahora",
+      "hint": "现在",
+      "kind": "phrase",
+      "spell": "ahora"
+    },
+    {
+      "text": "luego",
+      "hint": "然后；稍后",
+      "kind": "phrase",
+      "spell": "luego"
+    },
+    {
+      "text": "siempre",
+      "hint": "总是",
+      "kind": "phrase",
+      "spell": "siempre"
+    },
+    {
+      "text": "nunca",
+      "hint": "从不",
+      "kind": "phrase",
+      "spell": "nunca"
+    },
+    {
+      "text": "también",
+      "hint": "也",
+      "kind": "phrase",
+      "spell": "tambien"
+    },
+    {
+      "text": "muy",
+      "hint": "很",
+      "kind": "phrase",
+      "spell": "muy"
+    },
+    {
+      "text": "más",
+      "hint": "更多",
+      "kind": "phrase",
+      "spell": "mas"
+    },
+    {
+      "text": "menos",
+      "hint": "更少",
+      "kind": "phrase",
+      "spell": "menos"
+    },
+    {
+      "text": "Necesito un taxi",
+      "hint": "我需要一辆出租车",
+      "kind": "phrase",
+      "spell": "Necesito un taxi"
+    },
+    {
+      "text": "¿Cuánto cuesta esto?",
+      "hint": "这个多少钱？",
+      "kind": "phrase",
+      "spell": "Cuanto cuesta esto?"
+    },
+    {
+      "text": "Quiero reservar una habitación",
+      "hint": "我想订一间房",
+      "kind": "phrase",
+      "spell": "Quiero reservar una habitacion"
+    },
+    {
+      "text": "¿Dónde está el baño?",
+      "hint": "厕所在哪里？",
+      "kind": "phrase",
+      "spell": "Donde esta el bano?"
+    },
+    {
+      "text": "Estoy perdido",
+      "hint": "我迷路了",
+      "kind": "phrase",
+      "spell": "Estoy perdido"
+    },
+    {
+      "text": "¿Habla inglés?",
+      "hint": "你会说英语吗？",
+      "kind": "phrase",
+      "spell": "Habla ingles?"
+    },
+    {
+      "text": "No hablo español muy bien",
+      "hint": "我西班牙语说得不太好",
+      "kind": "phrase",
+      "spell": "No hablo espanol muy bien"
+    },
+    {
+      "text": "¿Puede ayudarme?",
+      "hint": "您能帮我吗？",
+      "kind": "phrase",
+      "spell": "Puede ayudarme?"
+    },
+    {
+      "text": "Voy al aeropuerto",
+      "hint": "我去机场",
+      "kind": "phrase",
+      "spell": "Voy al aeropuerto"
+    },
+    {
+      "text": "El tren sale a las tres",
+      "hint": "火车三点发车",
+      "kind": "phrase",
+      "spell": "El tren sale a las tres"
+    },
+    {
+      "text": "Me duele la cabeza",
+      "hint": "我头疼",
+      "kind": "phrase",
+      "spell": "Me duele la cabeza"
+    },
+    {
+      "text": "Necesito ver a un médico",
+      "hint": "我需要看医生",
+      "kind": "phrase",
+      "spell": "Necesito ver a un medico"
+    },
+    {
+      "text": "¿Está lejos?",
+      "hint": "远吗？",
+      "kind": "phrase",
+      "spell": "Esta lejos?"
+    },
+    {
+      "text": "Está a la derecha",
+      "hint": "在右边",
+      "kind": "phrase",
+      "spell": "Esta a la derecha"
+    },
+    {
+      "text": "Quiero pagar con tarjeta",
+      "hint": "我想用卡支付",
+      "kind": "phrase",
+      "spell": "Quiero pagar con tarjeta"
+    },
+    {
+      "text": "¿Aceptan efectivo?",
+      "hint": "收现金吗？",
+      "kind": "phrase",
+      "spell": "Aceptan efectivo?"
+    },
+    {
+      "text": "Una mesa para dos, por favor",
+      "hint": "请给我两人桌",
+      "kind": "phrase",
+      "spell": "Una mesa para dos, por favor"
+    },
+    {
+      "text": "Está delicioso",
+      "hint": "很好吃",
+      "kind": "phrase",
+      "spell": "Esta delicioso"
+    },
+    {
+      "text": "No como carne",
+      "hint": "我不吃肉",
+      "kind": "phrase",
+      "spell": "No como carne"
+    },
+    {
+      "text": "¿Tiene wifi?",
+      "hint": "有无线网吗？",
+      "kind": "phrase",
+      "spell": "Tiene wifi?"
+    },
+    {
+      "text": "La contraseña, por favor",
+      "hint": "请告诉我密码",
+      "kind": "phrase",
+      "spell": "La contrasena, por favor"
+    },
+    {
+      "text": "Voy de compras",
+      "hint": "我去购物",
+      "kind": "phrase",
+      "spell": "Voy de compras"
+    },
+    {
+      "text": "Busco una camisa",
+      "hint": "我在找一件衬衫",
+      "kind": "phrase",
+      "spell": "Busco una camisa"
+    },
+    {
+      "text": "¿Puedo cambiarlo?",
+      "hint": "可以换吗？",
+      "kind": "phrase",
+      "spell": "Puedo cambiarlo?"
+    },
+    {
+      "text": "Tengo una reserva",
+      "hint": "我有预订",
+      "kind": "phrase",
+      "spell": "Tengo una reserva"
+    },
+    {
+      "text": "A qué hora abre?",
+      "hint": "几点开门？",
+      "kind": "phrase",
+      "spell": "A que hora abre?"
+    },
+    {
+      "text": "Cierra a las nueve",
+      "hint": "九点关门",
+      "kind": "phrase",
+      "spell": "Cierra a las nueve"
+    },
+    {
+      "text": "Hace frío hoy",
+      "hint": "今天很冷",
+      "kind": "phrase",
+      "spell": "Hace frio hoy"
+    },
+    {
+      "text": "Hace calor",
+      "hint": "很热",
+      "kind": "phrase",
+      "spell": "Hace calor"
+    },
+    {
+      "text": "Llueve mucho",
+      "hint": "雨下得很大",
+      "kind": "phrase",
+      "spell": "Llueve mucho"
+    },
+    {
+      "text": "Me llamo Ana",
+      "hint": "我叫 Ana",
+      "kind": "phrase",
+      "spell": "Me llamo Ana"
+    },
+    {
+      "text": "Soy de China",
+      "hint": "我来自中国",
+      "kind": "phrase",
+      "spell": "Soy de China"
+    },
+    {
+      "text": "Vivo en Madrid",
+      "hint": "我住在马德里",
+      "kind": "phrase",
+      "spell": "Vivo en Madrid"
+    },
+    {
+      "text": "Trabajo en una oficina",
+      "hint": "我在办公室工作",
+      "kind": "phrase",
+      "spell": "Trabajo en una oficina"
+    },
+    {
+      "text": "Estudio español",
+      "hint": "我学西班牙语",
+      "kind": "phrase",
+      "spell": "Estudio espanol"
+    },
+    {
+      "text": "Nos vemos luego",
+      "hint": "回头见",
+      "kind": "phrase",
+      "spell": "Nos vemos luego"
+    },
+    {
+      "text": "Feliz cumpleaños",
+      "hint": "生日快乐",
+      "kind": "phrase",
+      "spell": "Feliz cumpleanos"
+    },
+    {
+      "text": "Buena suerte",
+      "hint": "祝你好运",
+      "kind": "phrase",
+      "spell": "Buena suerte"
+    },
+    {
+      "text": "Que te mejores",
+      "hint": "祝你早日康复",
+      "kind": "phrase",
+      "spell": "Que te mejores"
+    },
+    {
+      "text": "Con permiso",
+      "hint": "借过；不好意思",
+      "kind": "phrase",
+      "spell": "Con permiso"
     }
   ]
 }

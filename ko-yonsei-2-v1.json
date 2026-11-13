@@ -1,0 +1,5246 @@
+{
+  "manifest": {
+    "id": "ko-yonsei-2",
+    "title": "韩语延世 2",
+    "version": "1.0.0",
+    "lang": "ko",
+    "glossLang": "zh",
+    "source": "open-yonsei-vol2",
+    "lemmaCount": 872,
+    "description": "韩语进阶词 · 中文释义（《延世韩国语》第2册开源词表）"
+  },
+  "items": [
+    {
+      "text": "무역",
+      "hint": "贸易",
+      "kind": "phrase",
+      "spell": "muyeok"
+    },
+    {
+      "text": "부탁하다",
+      "hint": "拜托",
+      "kind": "phrase",
+      "spell": "butakhada"
+    },
+    {
+      "text": "도움",
+      "hint": "帮助",
+      "kind": "phrase",
+      "spell": "doum"
+    },
+    {
+      "text": "필요하다",
+      "hint": "需要",
+      "kind": "phrase",
+      "spell": "piryohada"
+    },
+    {
+      "text": "무역 회사",
+      "hint": "贸易公司",
+      "kind": "phrase",
+      "spell": "muyeok hoesa"
+    },
+    {
+      "text": "신문사",
+      "hint": "新闻社",
+      "kind": "phrase",
+      "spell": "sinmunsa"
+    },
+    {
+      "text": "여행사",
+      "hint": "旅行社",
+      "kind": "phrase",
+      "spell": "yeohaengsa"
+    },
+    {
+      "text": "증권 회사",
+      "hint": "证券公司",
+      "kind": "phrase",
+      "spell": "jeunggwon hoesa"
+    },
+    {
+      "text": "항공사",
+      "hint": "航空公司",
+      "kind": "phrase",
+      "spell": "hanggongsa"
+    },
+    {
+      "text": "잡지사",
+      "hint": "杂志社",
+      "kind": "phrase",
+      "spell": "japjisa"
+    },
+    {
+      "text": "앞으로",
+      "hint": "以后",
+      "kind": "phrase",
+      "spell": "apeuro"
+    },
+    {
+      "text": "움직이다",
+      "hint": "动",
+      "kind": "phrase",
+      "spell": "umjigida"
+    },
+    {
+      "text": "졸업하다",
+      "hint": "毕业",
+      "kind": "phrase",
+      "spell": "joreophada"
+    },
+    {
+      "text": "전공",
+      "hint": "专业",
+      "kind": "phrase",
+      "spell": "jeongong"
+    },
+    {
+      "text": "경영학",
+      "hint": "经营学",
+      "kind": "phrase",
+      "spell": "gyeongyeonghak"
+    },
+    {
+      "text": "국어국문학",
+      "hint": "国语国文学",
+      "kind": "phrase",
+      "spell": "gugeogukmunhak"
+    },
+    {
+      "text": "천문우주학과",
+      "hint": "天文宇宙学",
+      "kind": "phrase",
+      "spell": "cheonmunujuhakgwa"
+    },
+    {
+      "text": "의학",
+      "hint": "医学",
+      "kind": "phrase",
+      "spell": "uihak"
+    },
+    {
+      "text": "역사학",
+      "hint": "历史学",
+      "kind": "phrase",
+      "spell": "yeoksahak"
+    },
+    {
+      "text": "신문방송학",
+      "hint": "新闻广播学",
+      "kind": "phrase",
+      "spell": "sinmunbangsonghak"
+    },
+    {
+      "text": "경제학",
+      "hint": "经济学",
+      "kind": "phrase",
+      "spell": "gyeongjehak"
+    },
+    {
+      "text": "국적",
+      "hint": "国籍",
+      "kind": "phrase",
+      "spell": "gukjeok"
+    },
+    {
+      "text": "통일되다",
+      "hint": "统一",
+      "kind": "phrase",
+      "spell": "tongildoeda"
+    },
+    {
+      "text": "오래간만",
+      "hint": "隔了好久",
+      "kind": "phrase",
+      "spell": "oraeganman"
+    },
+    {
+      "text": "지내다",
+      "hint": "过",
+      "kind": "phrase",
+      "spell": "jinaeda"
+    },
+    {
+      "text": "사귀다",
+      "hint": "交（朋友）",
+      "kind": "phrase",
+      "spell": "sagwida"
+    },
+    {
+      "text": "힘들다",
+      "hint": "费力/难/辛苦",
+      "kind": "phrase",
+      "spell": "himdeulda"
+    },
+    {
+      "text": "익숙하다",
+      "hint": "习惯",
+      "kind": "phrase",
+      "spell": "iksukhada"
+    },
+    {
+      "text": "큰아버지",
+      "hint": "伯父",
+      "kind": "phrase",
+      "spell": "keunabeoji"
+    },
+    {
+      "text": "큰어머니",
+      "hint": "伯母",
+      "kind": "phrase",
+      "spell": "keuneomeoni"
+    },
+    {
+      "text": "작은아버지",
+      "hint": "叔叔",
+      "kind": "phrase",
+      "spell": "jageunabeoji"
+    },
+    {
+      "text": "작은어머니",
+      "hint": "婶婶",
+      "kind": "phrase",
+      "spell": "jageuneomeoni"
+    },
+    {
+      "text": "고모",
+      "hint": "姑姑",
+      "kind": "phrase",
+      "spell": "gomo"
+    },
+    {
+      "text": "고모부",
+      "hint": "姑父",
+      "kind": "phrase",
+      "spell": "gomobu"
+    },
+    {
+      "text": "사촌",
+      "hint": "四寸/伯叔兄弟姐妹",
+      "kind": "phrase",
+      "spell": "sachon"
+    },
+    {
+      "text": "조카",
+      "hint": "侄子",
+      "kind": "phrase",
+      "spell": "joka"
+    },
+    {
+      "text": "외할아버지",
+      "hint": "外公",
+      "kind": "phrase",
+      "spell": "oeharabeoji"
+    },
+    {
+      "text": "외할머니",
+      "hint": "外婆",
+      "kind": "phrase",
+      "spell": "oehalmeoni"
+    },
+    {
+      "text": "이모",
+      "hint": "姨母",
+      "kind": "phrase",
+      "spell": "imo"
+    },
+    {
+      "text": "이모부",
+      "hint": "姨夫",
+      "kind": "phrase",
+      "spell": "imobu"
+    },
+    {
+      "text": "외숙부",
+      "hint": "舅舅",
+      "kind": "phrase",
+      "spell": "oesukbu"
+    },
+    {
+      "text": "외숙모",
+      "hint": "舅妈",
+      "kind": "phrase",
+      "spell": "oesukmo"
+    },
+    {
+      "text": "디자인",
+      "hint": "设计",
+      "kind": "phrase",
+      "spell": "dijain"
+    },
+    {
+      "text": "성격",
+      "hint": "性格",
+      "kind": "phrase",
+      "spell": "seonggyeok"
+    },
+    {
+      "text": "멋있다",
+      "hint": "帅",
+      "kind": "phrase",
+      "spell": "meositda"
+    },
+    {
+      "text": "풍경",
+      "hint": "风景",
+      "kind": "phrase",
+      "spell": "punggyeong"
+    },
+    {
+      "text": "모으다",
+      "hint": "攒",
+      "kind": "phrase",
+      "spell": "moeuda"
+    },
+    {
+      "text": "다녀오다",
+      "hint": "去 去一趟",
+      "kind": "phrase",
+      "spell": "danyeooda"
+    },
+    {
+      "text": "시골",
+      "hint": "乡村",
+      "kind": "phrase",
+      "spell": "sigol"
+    },
+    {
+      "text": "경치",
+      "hint": "景色",
+      "kind": "phrase",
+      "spell": "gyeongchi"
+    },
+    {
+      "text": "도시",
+      "hint": "城市",
+      "kind": "phrase",
+      "spell": "dosi"
+    },
+    {
+      "text": "섬",
+      "hint": "岛",
+      "kind": "phrase",
+      "spell": "seom"
+    },
+    {
+      "text": "관광지",
+      "hint": "旅游胜地",
+      "kind": "phrase",
+      "spell": "gwangwangji"
+    },
+    {
+      "text": "유적지",
+      "hint": "历史遗迹",
+      "kind": "phrase",
+      "spell": "yujeokji"
+    },
+    {
+      "text": "바닷가",
+      "hint": "海边",
+      "kind": "phrase",
+      "spell": "badatga"
+    },
+    {
+      "text": "호주",
+      "hint": "澳大利亚",
+      "kind": "phrase",
+      "spell": "hoju"
+    },
+    {
+      "text": "습기",
+      "hint": "湿气 潮湿",
+      "kind": "phrase",
+      "spell": "seupgi"
+    },
+    {
+      "text": "항상",
+      "hint": "总是",
+      "kind": "phrase",
+      "spell": "hangsang"
+    },
+    {
+      "text": "금",
+      "hint": "金",
+      "kind": "phrase",
+      "spell": "geum"
+    },
+    {
+      "text": "숲",
+      "hint": "森林",
+      "kind": "phrase",
+      "spell": "sup"
+    },
+    {
+      "text": "캥거루",
+      "hint": "袋鼠",
+      "kind": "phrase",
+      "spell": "kaenggeoru"
+    },
+    {
+      "text": "새",
+      "hint": "鸟",
+      "kind": "phrase",
+      "spell": "sae"
+    },
+    {
+      "text": "위치",
+      "hint": "位置",
+      "kind": "phrase",
+      "spell": "wichi"
+    },
+    {
+      "text": "관심",
+      "hint": "关心",
+      "kind": "phrase",
+      "spell": "gwansim"
+    },
+    {
+      "text": "관계",
+      "hint": "关系",
+      "kind": "phrase",
+      "spell": "gwangye"
+    },
+    {
+      "text": "촌수",
+      "hint": "辈分",
+      "kind": "phrase",
+      "spell": "chonsu"
+    },
+    {
+      "text": "방법",
+      "hint": "方法",
+      "kind": "phrase",
+      "spell": "bangbeop"
+    },
+    {
+      "text": "숫자",
+      "hint": "数字",
+      "kind": "phrase",
+      "spell": "sutja"
+    },
+    {
+      "text": "계산하다",
+      "hint": "计算",
+      "kind": "phrase",
+      "spell": "gyesanhada"
+    },
+    {
+      "text": "반대로",
+      "hint": "相反 反而",
+      "kind": "phrase",
+      "spell": "bandaero"
+    },
+    {
+      "text": "설렁탕",
+      "hint": "牛杂碎汤",
+      "kind": "phrase",
+      "spell": "seolreongtang"
+    },
+    {
+      "text": "파",
+      "hint": "葱",
+      "kind": "phrase",
+      "spell": "pa"
+    },
+    {
+      "text": "말다",
+      "hint": "泡",
+      "kind": "phrase",
+      "spell": "malda"
+    },
+    {
+      "text": "반찬",
+      "hint": "菜",
+      "kind": "phrase",
+      "spell": "banchan"
+    },
+    {
+      "text": "접시",
+      "hint": "碟子",
+      "kind": "phrase",
+      "spell": "jeopsi"
+    },
+    {
+      "text": "덜다",
+      "hint": "减 盛",
+      "kind": "phrase",
+      "spell": "deolda"
+    },
+    {
+      "text": "넣다",
+      "hint": "放",
+      "kind": "phrase",
+      "spell": "neota"
+    },
+    {
+      "text": "뿌리다",
+      "hint": "撒",
+      "kind": "phrase",
+      "spell": "ppurida"
+    },
+    {
+      "text": "비비다",
+      "hint": "拌",
+      "kind": "phrase",
+      "spell": "bibida"
+    },
+    {
+      "text": "찍다",
+      "hint": "蘸",
+      "kind": "phrase",
+      "spell": "jjikda"
+    },
+    {
+      "text": "담다",
+      "hint": "盛",
+      "kind": "phrase",
+      "spell": "damda"
+    },
+    {
+      "text": "나물",
+      "hint": "野菜",
+      "kind": "phrase",
+      "spell": "namul"
+    },
+    {
+      "text": "놓다",
+      "hint": "放",
+      "kind": "phrase",
+      "spell": "nota"
+    },
+    {
+      "text": "계란프라이",
+      "hint": "煎鸡蛋",
+      "kind": "phrase",
+      "spell": "gyeranpeurai"
+    },
+    {
+      "text": "참기름",
+      "hint": "香油",
+      "kind": "phrase",
+      "spell": "chamgireum"
+    },
+    {
+      "text": "고추장",
+      "hint": "辣椒酱",
+      "kind": "phrase",
+      "spell": "gochujang"
+    },
+    {
+      "text": "샤브샤브",
+      "hint": "火锅",
+      "kind": "phrase",
+      "spell": "syabeusyabeu"
+    },
+    {
+      "text": "한복",
+      "hint": "韩服",
+      "kind": "phrase",
+      "spell": "hanbok"
+    },
+    {
+      "text": "끝내다",
+      "hint": "结束",
+      "kind": "phrase",
+      "spell": "kkeutnaeda"
+    },
+    {
+      "text": "밝다",
+      "hint": "明亮",
+      "kind": "phrase",
+      "spell": "bakda"
+    },
+    {
+      "text": "유명하다",
+      "hint": "有名",
+      "kind": "phrase",
+      "spell": "yumyeonghada"
+    },
+    {
+      "text": "닭고기",
+      "hint": "鸡肉",
+      "kind": "phrase",
+      "spell": "dakgogi"
+    },
+    {
+      "text": "채소",
+      "hint": "蔬菜",
+      "kind": "phrase",
+      "spell": "chaeso"
+    },
+    {
+      "text": "좀",
+      "hint": "一点儿",
+      "kind": "phrase",
+      "spell": "jom"
+    },
+    {
+      "text": "비빔밥",
+      "hint": "拌饭",
+      "kind": "phrase",
+      "spell": "bibimbap"
+    },
+    {
+      "text": "회",
+      "hint": "生鱼片 生肉片",
+      "kind": "phrase",
+      "spell": "hoe"
+    },
+    {
+      "text": "탕수육",
+      "hint": "糖醋肉",
+      "kind": "phrase",
+      "spell": "tangsuyuk"
+    },
+    {
+      "text": "스파게티",
+      "hint": "意大利面",
+      "kind": "phrase",
+      "spell": "seupageti"
+    },
+    {
+      "text": "짬뽕",
+      "hint": "什锦面",
+      "kind": "phrase",
+      "spell": "jjamppong"
+    },
+    {
+      "text": "샐러드",
+      "hint": "沙拉",
+      "kind": "phrase",
+      "spell": "saelreodeu"
+    },
+    {
+      "text": "우동",
+      "hint": "乌冬面",
+      "kind": "phrase",
+      "spell": "udong"
+    },
+    {
+      "text": "피자",
+      "hint": "披萨",
+      "kind": "phrase",
+      "spell": "pija"
+    },
+    {
+      "text": "튀김",
+      "hint": "油炸食物",
+      "kind": "phrase",
+      "spell": "twigim"
+    },
+    {
+      "text": "잡채",
+      "hint": "炒粉丝",
+      "kind": "phrase",
+      "spell": "japchae"
+    },
+    {
+      "text": "낫토",
+      "hint": "纳豆",
+      "kind": "phrase",
+      "spell": "natto"
+    },
+    {
+      "text": "콩",
+      "hint": "大豆",
+      "kind": "phrase",
+      "spell": "kong"
+    },
+    {
+      "text": "건강",
+      "hint": "健康",
+      "kind": "phrase",
+      "spell": "geongang"
+    },
+    {
+      "text": "후추",
+      "hint": "胡椒",
+      "kind": "phrase",
+      "spell": "huchu"
+    },
+    {
+      "text": "무용",
+      "hint": "舞蹈",
+      "kind": "phrase",
+      "spell": "muyong"
+    },
+    {
+      "text": "우선",
+      "hint": "首先",
+      "kind": "phrase",
+      "spell": "useon"
+    },
+    {
+      "text": "끓이다",
+      "hint": "煮 水或汤",
+      "kind": "phrase",
+      "spell": "kkeurida"
+    },
+    {
+      "text": "돼지고기",
+      "hint": "猪肉",
+      "kind": "phrase",
+      "spell": "dwaejigogi"
+    },
+    {
+      "text": "썰다",
+      "hint": "切",
+      "kind": "phrase",
+      "spell": "sseolda"
+    },
+    {
+      "text": "간",
+      "hint": "咸淡",
+      "kind": "phrase",
+      "spell": "gan"
+    },
+    {
+      "text": "맞추다",
+      "hint": "调 配",
+      "kind": "phrase",
+      "spell": "matchuda"
+    },
+    {
+      "text": "굽다",
+      "hint": "烤",
+      "kind": "phrase",
+      "spell": "gupda"
+    },
+    {
+      "text": "튀기다",
+      "hint": "炸",
+      "kind": "phrase",
+      "spell": "twigida"
+    },
+    {
+      "text": "볶다",
+      "hint": "炒",
+      "kind": "phrase",
+      "spell": "bokda"
+    },
+    {
+      "text": "삶다",
+      "hint": "煮 炖食物",
+      "kind": "phrase",
+      "spell": "samda"
+    },
+    {
+      "text": "찌다",
+      "hint": "蒸",
+      "kind": "phrase",
+      "spell": "jjida"
+    },
+    {
+      "text": "다지다",
+      "hint": "剁",
+      "kind": "phrase",
+      "spell": "dajida"
+    },
+    {
+      "text": "젓다",
+      "hint": "搅拌",
+      "kind": "phrase",
+      "spell": "jeotda"
+    },
+    {
+      "text": "요리법",
+      "hint": "烹饪方法",
+      "kind": "phrase",
+      "spell": "yoribeop"
+    },
+    {
+      "text": "설명하다",
+      "hint": "说明",
+      "kind": "phrase",
+      "spell": "seolmyeonghada"
+    },
+    {
+      "text": "고기",
+      "hint": "肉",
+      "kind": "phrase",
+      "spell": "gogi"
+    },
+    {
+      "text": "카레",
+      "hint": "咖喱",
+      "kind": "phrase",
+      "spell": "kare"
+    },
+    {
+      "text": "토마토",
+      "hint": "西红柿",
+      "kind": "phrase",
+      "spell": "tomato"
+    },
+    {
+      "text": "요구르트",
+      "hint": "酸奶",
+      "kind": "phrase",
+      "spell": "yogureuteu"
+    },
+    {
+      "text": "면",
+      "hint": "面",
+      "kind": "phrase",
+      "spell": "myeon"
+    },
+    {
+      "text": "돈가스",
+      "hint": "炸猪排",
+      "kind": "phrase",
+      "spell": "dongaseu"
+    },
+    {
+      "text": "부드럽다",
+      "hint": "松软 柔软 细腻",
+      "kind": "phrase",
+      "spell": "budeureopda"
+    },
+    {
+      "text": "오리",
+      "hint": "鸭子",
+      "kind": "phrase",
+      "spell": "ori"
+    },
+    {
+      "text": "전병",
+      "hint": "煎饼",
+      "kind": "phrase",
+      "spell": "jeonbyeong"
+    },
+    {
+      "text": "껍질",
+      "hint": "皮",
+      "kind": "phrase",
+      "spell": "kkeopjil"
+    },
+    {
+      "text": "갈비찜",
+      "hint": "炖排骨",
+      "kind": "phrase",
+      "spell": "galbijjim"
+    },
+    {
+      "text": "전통",
+      "hint": "传统",
+      "kind": "phrase",
+      "spell": "jeontong"
+    },
+    {
+      "text": "벽",
+      "hint": "墙",
+      "kind": "phrase",
+      "spell": "byeok"
+    },
+    {
+      "text": "편안하다",
+      "hint": "舒服",
+      "kind": "phrase",
+      "spell": "pyeonanhada"
+    },
+    {
+      "text": "윗사람",
+      "hint": "长辈",
+      "kind": "phrase",
+      "spell": "witsaram"
+    },
+    {
+      "text": "다른",
+      "hint": "别的 其他的",
+      "kind": "phrase",
+      "spell": "dareun"
+    },
+    {
+      "text": "예절",
+      "hint": "礼节",
+      "kind": "phrase",
+      "spell": "yejeol"
+    },
+    {
+      "text": "들다",
+      "hint": "提 拿",
+      "kind": "phrase",
+      "spell": "deulda"
+    },
+    {
+      "text": "양손",
+      "hint": "双手",
+      "kind": "phrase",
+      "spell": "yangson"
+    },
+    {
+      "text": "내려놓다",
+      "hint": "放下",
+      "kind": "phrase",
+      "spell": "naeryeonota"
+    },
+    {
+      "text": "냄비",
+      "hint": "锅",
+      "kind": "phrase",
+      "spell": "naembi"
+    },
+    {
+      "text": "식탁",
+      "hint": "饭桌",
+      "kind": "phrase",
+      "spell": "siktak"
+    },
+    {
+      "text": "숟가락",
+      "hint": "勺子",
+      "kind": "phrase",
+      "spell": "sutgarak"
+    },
+    {
+      "text": "젓가락",
+      "hint": "筷子",
+      "kind": "phrase",
+      "spell": "jeotgarak"
+    },
+    {
+      "text": "국그릇",
+      "hint": "汤碗",
+      "kind": "phrase",
+      "spell": "gukgeureut"
+    },
+    {
+      "text": "코",
+      "hint": "鼻子",
+      "kind": "phrase",
+      "spell": "ko"
+    },
+    {
+      "text": "풀다",
+      "hint": "解开 擤",
+      "kind": "phrase",
+      "spell": "pulda"
+    },
+    {
+      "text": "소리",
+      "hint": "声音",
+      "kind": "phrase",
+      "spell": "sori"
+    },
+    {
+      "text": "내다",
+      "hint": "出",
+      "kind": "phrase",
+      "spell": "naeda"
+    },
+    {
+      "text": "마치다",
+      "hint": "完 结束",
+      "kind": "phrase",
+      "spell": "machida"
+    },
+    {
+      "text": "실수",
+      "hint": "错误 失误",
+      "kind": "phrase",
+      "spell": "silsu"
+    },
+    {
+      "text": "피우다",
+      "hint": "吸",
+      "kind": "phrase",
+      "spell": "piuda"
+    },
+    {
+      "text": "주차하다",
+      "hint": "停车",
+      "kind": "phrase",
+      "spell": "juchahada"
+    },
+    {
+      "text": "지나다",
+      "hint": "过",
+      "kind": "phrase",
+      "spell": "jinada"
+    },
+    {
+      "text": "불",
+      "hint": "火 灯光",
+      "kind": "phrase",
+      "spell": "bul"
+    },
+    {
+      "text": "인상적",
+      "hint": "印象深刻的",
+      "kind": "phrase",
+      "spell": "insangjeok"
+    },
+    {
+      "text": "곳",
+      "hint": "地方 场所",
+      "kind": "phrase",
+      "spell": "got"
+    },
+    {
+      "text": "이유",
+      "hint": "理由",
+      "kind": "phrase",
+      "spell": "iyu"
+    },
+    {
+      "text": "미안하다",
+      "hint": "对不起 抱歉",
+      "kind": "phrase",
+      "spell": "mianhada"
+    },
+    {
+      "text": "된장",
+      "hint": "大酱",
+      "kind": "phrase",
+      "spell": "doenjang"
+    },
+    {
+      "text": "장독",
+      "hint": "酱缸",
+      "kind": "phrase",
+      "spell": "jangdok"
+    },
+    {
+      "text": "냄새",
+      "hint": "味儿",
+      "kind": "phrase",
+      "spell": "naemsae"
+    },
+    {
+      "text": "없애다",
+      "hint": "除去 消除",
+      "kind": "phrase",
+      "spell": "eopsaeda"
+    },
+    {
+      "text": "찹쌀가루",
+      "hint": "糯米粉",
+      "kind": "phrase",
+      "spell": "chapssalgaru"
+    },
+    {
+      "text": "구수하다",
+      "hint": "（味道）香",
+      "kind": "phrase",
+      "spell": "gusuhada"
+    },
+    {
+      "text": "발효 식품",
+      "hint": "发酵食品",
+      "kind": "phrase",
+      "spell": "balhyo sikpum"
+    },
+    {
+      "text": "행사",
+      "hint": "活动",
+      "kind": "phrase",
+      "spell": "haengsa"
+    },
+    {
+      "text": "정장",
+      "hint": "正装",
+      "kind": "phrase",
+      "spell": "jeongjang"
+    },
+    {
+      "text": "고르다",
+      "hint": "选",
+      "kind": "phrase",
+      "spell": "goreuda"
+    },
+    {
+      "text": "식당가",
+      "hint": "美食街",
+      "kind": "phrase",
+      "spell": "sikdangga"
+    },
+    {
+      "text": "가전제품",
+      "hint": "家电产品",
+      "kind": "phrase",
+      "spell": "gajeonjepum"
+    },
+    {
+      "text": "아동복",
+      "hint": "儿童服装",
+      "kind": "phrase",
+      "spell": "adongbok"
+    },
+    {
+      "text": "스포츠용품",
+      "hint": "运动用品",
+      "kind": "phrase",
+      "spell": "seupocheuyongpum"
+    },
+    {
+      "text": "남성복",
+      "hint": "男装",
+      "kind": "phrase",
+      "spell": "namseongbok"
+    },
+    {
+      "text": "여성복",
+      "hint": "女装",
+      "kind": "phrase",
+      "spell": "yeoseongbok"
+    },
+    {
+      "text": "패션 잡화",
+      "hint": "时尚百货",
+      "kind": "phrase",
+      "spell": "paesyeon japhwa"
+    },
+    {
+      "text": "배낭",
+      "hint": "背包 行囊",
+      "kind": "phrase",
+      "spell": "baenang"
+    },
+    {
+      "text": "서류 가방",
+      "hint": "公文包",
+      "kind": "phrase",
+      "spell": "seoryu gabang"
+    },
+    {
+      "text": "매장",
+      "hint": "专柜 卖场",
+      "kind": "phrase",
+      "spell": "maejang"
+    },
+    {
+      "text": "재료",
+      "hint": "材料",
+      "kind": "phrase",
+      "spell": "jaeryo"
+    },
+    {
+      "text": "질",
+      "hint": "质量",
+      "kind": "phrase",
+      "spell": "jil"
+    },
+    {
+      "text": "학원",
+      "hint": "培训班",
+      "kind": "phrase",
+      "spell": "hagwon"
+    },
+    {
+      "text": "하늘색",
+      "hint": "天蓝色",
+      "kind": "phrase",
+      "spell": "haneulsaek"
+    },
+    {
+      "text": "하얗다",
+      "hint": "白色",
+      "kind": "phrase",
+      "spell": "hayata"
+    },
+    {
+      "text": "어울리다",
+      "hint": "合适",
+      "kind": "phrase",
+      "spell": "eoulrida"
+    },
+    {
+      "text": "갈아입다",
+      "hint": "换（衣服）",
+      "kind": "phrase",
+      "spell": "garaipda"
+    },
+    {
+      "text": "치수",
+      "hint": "（衣服 鞋等）号码",
+      "kind": "phrase",
+      "spell": "chisu"
+    },
+    {
+      "text": "양복",
+      "hint": "西装",
+      "kind": "phrase",
+      "spell": "yangbok"
+    },
+    {
+      "text": "원피스",
+      "hint": "连衣裙",
+      "kind": "phrase",
+      "spell": "wonpiseu"
+    },
+    {
+      "text": "꽃무늬",
+      "hint": "花纹",
+      "kind": "phrase",
+      "spell": "kkotmunui"
+    },
+    {
+      "text": "줄무늬",
+      "hint": "条纹",
+      "kind": "phrase",
+      "spell": "julmunui"
+    },
+    {
+      "text": "체크무늬",
+      "hint": "格子纹",
+      "kind": "phrase",
+      "spell": "chekeumunui"
+    },
+    {
+      "text": "물방울무늬",
+      "hint": "水珠纹",
+      "kind": "phrase",
+      "spell": "mulbangulmunui"
+    },
+    {
+      "text": "분홍색",
+      "hint": "粉红色",
+      "kind": "phrase",
+      "spell": "bunhongsaek"
+    },
+    {
+      "text": "이상하다",
+      "hint": "奇怪",
+      "kind": "phrase",
+      "spell": "isanghada"
+    },
+    {
+      "text": "계산",
+      "hint": "结账 计算",
+      "kind": "phrase",
+      "spell": "gyesan"
+    },
+    {
+      "text": "봉투",
+      "hint": "信封 文件袋",
+      "kind": "phrase",
+      "spell": "bongtu"
+    },
+    {
+      "text": "서명하다",
+      "hint": "签字",
+      "kind": "phrase",
+      "spell": "seomyeonghada"
+    },
+    {
+      "text": "직접",
+      "hint": "直接",
+      "kind": "phrase",
+      "spell": "jikjeop"
+    },
+    {
+      "text": "배달하다",
+      "hint": "送货",
+      "kind": "phrase",
+      "spell": "baedalhada"
+    },
+    {
+      "text": "냉동식품",
+      "hint": "冷冻食品",
+      "kind": "phrase",
+      "spell": "naengdongsikpum"
+    },
+    {
+      "text": "주방용품",
+      "hint": "厨房用品",
+      "kind": "phrase",
+      "spell": "jubangyongpum"
+    },
+    {
+      "text": "유제품",
+      "hint": "乳制品",
+      "kind": "phrase",
+      "spell": "yujepum"
+    },
+    {
+      "text": "곡물",
+      "hint": "谷物",
+      "kind": "phrase",
+      "spell": "gokmul"
+    },
+    {
+      "text": "음료",
+      "hint": "饮料",
+      "kind": "phrase",
+      "spell": "eumryo"
+    },
+    {
+      "text": "식료품",
+      "hint": "食品",
+      "kind": "phrase",
+      "spell": "sikryopum"
+    },
+    {
+      "text": "생활용품",
+      "hint": "生活用品",
+      "kind": "phrase",
+      "spell": "saenghwaryongpum"
+    },
+    {
+      "text": "노인",
+      "hint": "老人",
+      "kind": "phrase",
+      "spell": "noin"
+    },
+    {
+      "text": "세일하다",
+      "hint": "打折",
+      "kind": "phrase",
+      "spell": "seilhada"
+    },
+    {
+      "text": "대표",
+      "hint": "代表",
+      "kind": "phrase",
+      "spell": "daepyo"
+    },
+    {
+      "text": "싫증이 나다",
+      "hint": "厌倦",
+      "kind": "phrase",
+      "spell": "silcheungi nada"
+    },
+    {
+      "text": "기념품",
+      "hint": "纪念品",
+      "kind": "phrase",
+      "spell": "ginyeompum"
+    },
+    {
+      "text": "바구니",
+      "hint": "篮子",
+      "kind": "phrase",
+      "spell": "baguni"
+    },
+    {
+      "text": "광고",
+      "hint": "广告",
+      "kind": "phrase",
+      "spell": "gwanggo"
+    },
+    {
+      "text": "마음에 들다",
+      "hint": "满意 称心 喜欢",
+      "kind": "phrase",
+      "spell": "maeume deulda"
+    },
+    {
+      "text": "와인",
+      "hint": "红酒",
+      "kind": "phrase",
+      "spell": "wain"
+    },
+    {
+      "text": "반지",
+      "hint": "戒指",
+      "kind": "phrase",
+      "spell": "banji"
+    },
+    {
+      "text": "손수건",
+      "hint": "手绢",
+      "kind": "phrase",
+      "spell": "sonsugeon"
+    },
+    {
+      "text": "목도리",
+      "hint": "围巾",
+      "kind": "phrase",
+      "spell": "mokdori"
+    },
+    {
+      "text": "장갑",
+      "hint": "手套",
+      "kind": "phrase",
+      "spell": "janggap"
+    },
+    {
+      "text": "군만두",
+      "hint": "煎饺 锅贴",
+      "kind": "phrase",
+      "spell": "gunmandu"
+    },
+    {
+      "text": "서비스",
+      "hint": "服务",
+      "kind": "phrase",
+      "spell": "seobiseu"
+    },
+    {
+      "text": "콤비네이션 피자",
+      "hint": "拼盘披萨",
+      "kind": "phrase",
+      "spell": "kombineisyeon pija"
+    },
+    {
+      "text": "감자",
+      "hint": "土豆",
+      "kind": "phrase",
+      "spell": "gamja"
+    },
+    {
+      "text": "비누",
+      "hint": "肥皂",
+      "kind": "phrase",
+      "spell": "binu"
+    },
+    {
+      "text": "햄",
+      "hint": "火腿",
+      "kind": "phrase",
+      "spell": "haem"
+    },
+    {
+      "text": "생수",
+      "hint": "矿泉水",
+      "kind": "phrase",
+      "spell": "saengsu"
+    },
+    {
+      "text": "디지털 카메라",
+      "hint": "数码相机",
+      "kind": "phrase",
+      "spell": "dijiteol kamera"
+    },
+    {
+      "text": "전자사전",
+      "hint": "电子词典",
+      "kind": "phrase",
+      "spell": "jeonjasajeon"
+    },
+    {
+      "text": "MP3 플레이어",
+      "hint": "MP3播放器",
+      "kind": "phrase",
+      "spell": "mp3 peulreieo"
+    },
+    {
+      "text": "스팀 청소기",
+      "hint": "蒸汽吸尘器",
+      "kind": "phrase",
+      "spell": "seutim cheongsogi"
+    },
+    {
+      "text": "핸드백",
+      "hint": "手提包",
+      "kind": "phrase",
+      "spell": "haendeubaek"
+    },
+    {
+      "text": "튼튼하다",
+      "hint": "结实",
+      "kind": "phrase",
+      "spell": "teunteunhada"
+    },
+    {
+      "text": "찢어지다",
+      "hint": "破",
+      "kind": "phrase",
+      "spell": "jjijeojida"
+    },
+    {
+      "text": "더러워지다",
+      "hint": "变脏",
+      "kind": "phrase",
+      "spell": "deoreowojida"
+    },
+    {
+      "text": "가죽",
+      "hint": "皮革",
+      "kind": "phrase",
+      "spell": "gajuk"
+    },
+    {
+      "text": "깎다",
+      "hint": "杀价",
+      "kind": "phrase",
+      "spell": "kkakda"
+    },
+    {
+      "text": "제품",
+      "hint": "产品",
+      "kind": "phrase",
+      "spell": "jepum"
+    },
+    {
+      "text": "광경",
+      "hint": "光景 景色",
+      "kind": "phrase",
+      "spell": "gwanggyeong"
+    },
+    {
+      "text": "주차장",
+      "hint": "停车场",
+      "kind": "phrase",
+      "spell": "juchajang"
+    },
+    {
+      "text": "신선하다",
+      "hint": "新鲜",
+      "kind": "phrase",
+      "spell": "sinseonhada"
+    },
+    {
+      "text": "특별하다",
+      "hint": "特别",
+      "kind": "phrase",
+      "spell": "teukbyeolhada"
+    },
+    {
+      "text": "한약",
+      "hint": "韩药 中药",
+      "kind": "phrase",
+      "spell": "hanyak"
+    },
+    {
+      "text": "농수산물",
+      "hint": "农产品和水产品",
+      "kind": "phrase",
+      "spell": "nongsusanmul"
+    },
+    {
+      "text": "보석",
+      "hint": "宝石 珠宝",
+      "kind": "phrase",
+      "spell": "boseok"
+    },
+    {
+      "text": "악기",
+      "hint": "乐器",
+      "kind": "phrase",
+      "spell": "akgi"
+    },
+    {
+      "text": "파티",
+      "hint": "派对",
+      "kind": "phrase",
+      "spell": "pati"
+    },
+    {
+      "text": "초대하다",
+      "hint": "邀请",
+      "kind": "phrase",
+      "spell": "chodaehada"
+    },
+    {
+      "text": "잊다",
+      "hint": "忘记",
+      "kind": "phrase",
+      "spell": "itda"
+    },
+    {
+      "text": "꼭",
+      "hint": "一定",
+      "kind": "phrase",
+      "spell": "kkok"
+    },
+    {
+      "text": "폭죽",
+      "hint": "爆竹",
+      "kind": "phrase",
+      "spell": "pokjuk"
+    },
+    {
+      "text": "터뜨리다",
+      "hint": "使爆裂",
+      "kind": "phrase",
+      "spell": "teotteurida"
+    },
+    {
+      "text": "촛불",
+      "hint": "蜡烛",
+      "kind": "phrase",
+      "spell": "chotbul"
+    },
+    {
+      "text": "불다",
+      "hint": "吹",
+      "kind": "phrase",
+      "spell": "bulda"
+    },
+    {
+      "text": "자르다",
+      "hint": "切",
+      "kind": "phrase",
+      "spell": "jareuda"
+    },
+    {
+      "text": "박수를 치다",
+      "hint": "鼓掌",
+      "kind": "phrase",
+      "spell": "baksureul chida"
+    },
+    {
+      "text": "이해하다",
+      "hint": "了解 理解",
+      "kind": "phrase",
+      "spell": "ihaehada"
+    },
+    {
+      "text": "모든",
+      "hint": "所有",
+      "kind": "phrase",
+      "spell": "modeun"
+    },
+    {
+      "text": "뷔페",
+      "hint": "自助餐",
+      "kind": "phrase",
+      "spell": "bwipe"
+    },
+    {
+      "text": "별일 없다",
+      "hint": "没别的事",
+      "kind": "phrase",
+      "spell": "byeoril eopda"
+    },
+    {
+      "text": "집들이",
+      "hint": "乔迁宴",
+      "kind": "phrase",
+      "spell": "jipdeuri"
+    },
+    {
+      "text": "동료",
+      "hint": "同事",
+      "kind": "phrase",
+      "spell": "dongryo"
+    },
+    {
+      "text": "적다",
+      "hint": "写",
+      "kind": "phrase",
+      "spell": "jeokda"
+    },
+    {
+      "text": "따로",
+      "hint": "不在一块儿 另外",
+      "kind": "phrase",
+      "spell": "ttaro"
+    },
+    {
+      "text": "결정하다",
+      "hint": "决定",
+      "kind": "phrase",
+      "spell": "gyeoljeonghada"
+    },
+    {
+      "text": "서재",
+      "hint": "书房",
+      "kind": "phrase",
+      "spell": "seojae"
+    },
+    {
+      "text": "욕실",
+      "hint": "浴室",
+      "kind": "phrase",
+      "spell": "yoksil"
+    },
+    {
+      "text": "부엌",
+      "hint": "厨房",
+      "kind": "phrase",
+      "spell": "bueok"
+    },
+    {
+      "text": "현관",
+      "hint": "玄关",
+      "kind": "phrase",
+      "spell": "hyeongwan"
+    },
+    {
+      "text": "창고",
+      "hint": "仓库",
+      "kind": "phrase",
+      "spell": "changgo"
+    },
+    {
+      "text": "방",
+      "hint": "卧室",
+      "kind": "phrase",
+      "spell": "bang"
+    },
+    {
+      "text": "거실",
+      "hint": "客厅",
+      "kind": "phrase",
+      "spell": "geosil"
+    },
+    {
+      "text": "베란다",
+      "hint": "阳台",
+      "kind": "phrase",
+      "spell": "beranda"
+    },
+    {
+      "text": "고민",
+      "hint": "苦恼 烦恼",
+      "kind": "phrase",
+      "spell": "gomin"
+    },
+    {
+      "text": "커튼",
+      "hint": "窗帘",
+      "kind": "phrase",
+      "spell": "keoteun"
+    },
+    {
+      "text": "블라인드",
+      "hint": "百叶窗",
+      "kind": "phrase",
+      "spell": "beulraindeu"
+    },
+    {
+      "text": "외식",
+      "hint": "在外吃饭",
+      "kind": "phrase",
+      "spell": "oesik"
+    },
+    {
+      "text": "자유롭다",
+      "hint": "自由",
+      "kind": "phrase",
+      "spell": "jayuropda"
+    },
+    {
+      "text": "의논하다",
+      "hint": "商量",
+      "kind": "phrase",
+      "spell": "uinonhada"
+    },
+    {
+      "text": "대학원",
+      "hint": "研究生院",
+      "kind": "phrase",
+      "spell": "daehagwon"
+    },
+    {
+      "text": "후배",
+      "hint": "后辈 晚辈",
+      "kind": "phrase",
+      "spell": "hubae"
+    },
+    {
+      "text": "청첩장",
+      "hint": "请柬",
+      "kind": "phrase",
+      "spell": "cheongcheopjang"
+    },
+    {
+      "text": "연세",
+      "hint": "年龄（敬）",
+      "kind": "phrase",
+      "spell": "yeonse"
+    },
+    {
+      "text": "서두르다",
+      "hint": "着急",
+      "kind": "phrase",
+      "spell": "seodureuda"
+    },
+    {
+      "text": "별로",
+      "hint": "不怎么 没什么 不太",
+      "kind": "phrase",
+      "spell": "byeolro"
+    },
+    {
+      "text": "축의금",
+      "hint": "礼金",
+      "kind": "phrase",
+      "spell": "chuguigeum"
+    },
+    {
+      "text": "예물",
+      "hint": "信物",
+      "kind": "phrase",
+      "spell": "yemul"
+    },
+    {
+      "text": "교환하다",
+      "hint": "交换",
+      "kind": "phrase",
+      "spell": "gyohwanhada"
+    },
+    {
+      "text": "축가",
+      "hint": "祝歌",
+      "kind": "phrase",
+      "spell": "chukga"
+    },
+    {
+      "text": "부케",
+      "hint": "捧花",
+      "kind": "phrase",
+      "spell": "buke"
+    },
+    {
+      "text": "던지다",
+      "hint": "扔",
+      "kind": "phrase",
+      "spell": "deonjida"
+    },
+    {
+      "text": "촬영을 하다",
+      "hint": "拍照",
+      "kind": "phrase",
+      "spell": "chwaryeongeul hada"
+    },
+    {
+      "text": "피로연",
+      "hint": "宴会",
+      "kind": "phrase",
+      "spell": "piroyeon"
+    },
+    {
+      "text": "휴게실",
+      "hint": "休息室",
+      "kind": "phrase",
+      "spell": "hyugesil"
+    },
+    {
+      "text": "음악회",
+      "hint": "音乐会",
+      "kind": "phrase",
+      "spell": "eumakhoe"
+    },
+    {
+      "text": "동창",
+      "hint": "同学",
+      "kind": "phrase",
+      "spell": "dongchang"
+    },
+    {
+      "text": "뒤풀이",
+      "hint": "余兴（活动结束后进行的非正式聚会）",
+      "kind": "phrase",
+      "spell": "dwipuri"
+    },
+    {
+      "text": "기대가 되다",
+      "hint": "期待",
+      "kind": "phrase",
+      "spell": "gidaega doeda"
+    },
+    {
+      "text": "동아리",
+      "hint": "社团",
+      "kind": "phrase",
+      "spell": "dongari"
+    },
+    {
+      "text": "동호회",
+      "hint": "同好会",
+      "kind": "phrase",
+      "spell": "donghohoe"
+    },
+    {
+      "text": "반상회",
+      "hint": "例会",
+      "kind": "phrase",
+      "spell": "bansanghoe"
+    },
+    {
+      "text": "동창회",
+      "hint": "同学会",
+      "kind": "phrase",
+      "spell": "dongchanghoe"
+    },
+    {
+      "text": "환영회",
+      "hint": "欢迎会",
+      "kind": "phrase",
+      "spell": "hwanyeonghoe"
+    },
+    {
+      "text": "송별회",
+      "hint": "送别会",
+      "kind": "phrase",
+      "spell": "songbyeolhoe"
+    },
+    {
+      "text": "모임",
+      "hint": "集会",
+      "kind": "phrase",
+      "spell": "moim"
+    },
+    {
+      "text": "포기하다",
+      "hint": "放弃",
+      "kind": "phrase",
+      "spell": "pogihada"
+    },
+    {
+      "text": "세제",
+      "hint": "洗衣粉",
+      "kind": "phrase",
+      "spell": "seje"
+    },
+    {
+      "text": "낚시하다",
+      "hint": "钓鱼",
+      "kind": "phrase",
+      "spell": "naksihada"
+    },
+    {
+      "text": "종일",
+      "hint": "整天",
+      "kind": "phrase",
+      "spell": "jongil"
+    },
+    {
+      "text": "토끼",
+      "hint": "兔子",
+      "kind": "phrase",
+      "spell": "tokki"
+    },
+    {
+      "text": "잡다",
+      "hint": "抓住",
+      "kind": "phrase",
+      "spell": "japda"
+    },
+    {
+      "text": "살아나다",
+      "hint": "复活 复苏 复兴",
+      "kind": "phrase",
+      "spell": "saranada"
+    },
+    {
+      "text": "돌잔치",
+      "hint": "周岁庆宴",
+      "kind": "phrase",
+      "spell": "doljanchi"
+    },
+    {
+      "text": "승진",
+      "hint": "升职",
+      "kind": "phrase",
+      "spell": "seungjin"
+    },
+    {
+      "text": "금반지",
+      "hint": "金戒指",
+      "kind": "phrase",
+      "spell": "geumbanji"
+    },
+    {
+      "text": "거품",
+      "hint": "泡儿",
+      "kind": "phrase",
+      "spell": "geopum"
+    },
+    {
+      "text": "의미",
+      "hint": "意义 意思",
+      "kind": "phrase",
+      "spell": "uimi"
+    },
+    {
+      "text": "시험에 붙다",
+      "hint": "考上 考试合格",
+      "kind": "phrase",
+      "spell": "siheome butda"
+    },
+    {
+      "text": "놀이 공원",
+      "hint": "游乐场",
+      "kind": "phrase",
+      "spell": "nori gongwon"
+    },
+    {
+      "text": "번",
+      "hint": "次",
+      "kind": "phrase",
+      "spell": "beon"
+    },
+    {
+      "text": "충무로",
+      "hint": "忠武路（地名）",
+      "kind": "phrase",
+      "spell": "chungmuro"
+    },
+    {
+      "text": "호선",
+      "hint": "号线",
+      "kind": "phrase",
+      "spell": "hoseon"
+    },
+    {
+      "text": "갈아타다",
+      "hint": "换乘",
+      "kind": "phrase",
+      "spell": "garatada"
+    },
+    {
+      "text": "개인택시",
+      "hint": "个人出租车",
+      "kind": "phrase",
+      "spell": "gaeintaeksi"
+    },
+    {
+      "text": "무궁화호",
+      "hint": "木槿花号",
+      "kind": "phrase",
+      "spell": "mugunghwaho"
+    },
+    {
+      "text": "새마을호",
+      "hint": "新村号",
+      "kind": "phrase",
+      "spell": "saemaeulho"
+    },
+    {
+      "text": "KTX(케이티엑스)",
+      "hint": "韩国高速列车",
+      "kind": "phrase",
+      "spell": "ktx(keitiekseu)"
+    },
+    {
+      "text": "서울 타워",
+      "hint": "首尔塔",
+      "kind": "phrase",
+      "spell": "seoul tawo"
+    },
+    {
+      "text": "남산 도서관",
+      "hint": "南山图书馆",
+      "kind": "phrase",
+      "spell": "namsan doseogwan"
+    },
+    {
+      "text": "점",
+      "hint": "～处",
+      "kind": "phrase",
+      "spell": "jeom"
+    },
+    {
+      "text": "마음씨",
+      "hint": "心地",
+      "kind": "phrase",
+      "spell": "maeumssi"
+    },
+    {
+      "text": "짜리",
+      "hint": "（钱的）面额",
+      "kind": "phrase",
+      "spell": "jjari"
+    },
+    {
+      "text": "경복궁역",
+      "hint": "景福宫站",
+      "kind": "phrase",
+      "spell": "gyeongbokgungyeok"
+    },
+    {
+      "text": "한",
+      "hint": "左右 大概 大约",
+      "kind": "phrase",
+      "spell": "han"
+    },
+    {
+      "text": "보통",
+      "hint": "一般 普通",
+      "kind": "phrase",
+      "spell": "botong"
+    },
+    {
+      "text": "출퇴근",
+      "hint": "上下班",
+      "kind": "phrase",
+      "spell": "chultoegeun"
+    },
+    {
+      "text": "정도",
+      "hint": "程度 左右",
+      "kind": "phrase",
+      "spell": "jeongdo"
+    },
+    {
+      "text": "노선도",
+      "hint": "路线图",
+      "kind": "phrase",
+      "spell": "noseondo"
+    },
+    {
+      "text": "하차",
+      "hint": "下车",
+      "kind": "phrase",
+      "spell": "hacha"
+    },
+    {
+      "text": "승차",
+      "hint": "上车",
+      "kind": "phrase",
+      "spell": "seungcha"
+    },
+    {
+      "text": "벨",
+      "hint": "铃",
+      "kind": "phrase",
+      "spell": "bel"
+    },
+    {
+      "text": "거스름돈",
+      "hint": "零钱",
+      "kind": "phrase",
+      "spell": "geoseureumdon"
+    },
+    {
+      "text": "단말기",
+      "hint": "刷卡机",
+      "kind": "phrase",
+      "spell": "danmalgi"
+    },
+    {
+      "text": "교통카드",
+      "hint": "交通卡",
+      "kind": "phrase",
+      "spell": "gyotongkadeu"
+    },
+    {
+      "text": "노약자석",
+      "hint": "老弱坐席",
+      "kind": "phrase",
+      "spell": "noyakjaseok"
+    },
+    {
+      "text": "분당",
+      "hint": "盆唐（地名）",
+      "kind": "phrase",
+      "spell": "bundang"
+    },
+    {
+      "text": "여러분",
+      "hint": "大家 各位",
+      "kind": "phrase",
+      "spell": "yeoreobun"
+    },
+    {
+      "text": "종합 운동장",
+      "hint": "综合运动场",
+      "kind": "phrase",
+      "spell": "jonghap undongjang"
+    },
+    {
+      "text": "지각하다",
+      "hint": "迟到",
+      "kind": "phrase",
+      "spell": "jigakhada"
+    },
+    {
+      "text": "과천",
+      "hint": "果川（地名）",
+      "kind": "phrase",
+      "spell": "gwacheon"
+    },
+    {
+      "text": "반대",
+      "hint": "相反",
+      "kind": "phrase",
+      "spell": "bandae"
+    },
+    {
+      "text": "승강장",
+      "hint": "站台",
+      "kind": "phrase",
+      "spell": "seunggangjang"
+    },
+    {
+      "text": "요금",
+      "hint": "收费 自费 费",
+      "kind": "phrase",
+      "spell": "yogeum"
+    },
+    {
+      "text": "역무원",
+      "hint": "站内服务员",
+      "kind": "phrase",
+      "spell": "yeokmuwon"
+    },
+    {
+      "text": "안전선",
+      "hint": "安全线",
+      "kind": "phrase",
+      "spell": "anjeonseon"
+    },
+    {
+      "text": "스크린 도어",
+      "hint": "屏蔽门",
+      "kind": "phrase",
+      "spell": "seukeurin doeo"
+    },
+    {
+      "text": "열차",
+      "hint": "列车",
+      "kind": "phrase",
+      "spell": "yeolcha"
+    },
+    {
+      "text": "구간",
+      "hint": "区间 区域",
+      "kind": "phrase",
+      "spell": "gugan"
+    },
+    {
+      "text": "방송",
+      "hint": "广播",
+      "kind": "phrase",
+      "spell": "bangsong"
+    },
+    {
+      "text": "주의하다",
+      "hint": "注意",
+      "kind": "phrase",
+      "spell": "juuihada"
+    },
+    {
+      "text": "양보하다",
+      "hint": "让步，谦让，迁就",
+      "kind": "phrase",
+      "spell": "yangbohada"
+    },
+    {
+      "text": "벗다",
+      "hint": "脱",
+      "kind": "phrase",
+      "spell": "beotda"
+    },
+    {
+      "text": "약도",
+      "hint": "简图 略图",
+      "kind": "phrase",
+      "spell": "yakdo"
+    },
+    {
+      "text": "보이다",
+      "hint": "看得见",
+      "kind": "phrase",
+      "spell": "boida"
+    },
+    {
+      "text": "똑바로",
+      "hint": "（正前方）一直",
+      "kind": "phrase",
+      "spell": "ttokbaro"
+    },
+    {
+      "text": "사거리",
+      "hint": "十字路口",
+      "kind": "phrase",
+      "spell": "sageori"
+    },
+    {
+      "text": "쭉",
+      "hint": "一直",
+      "kind": "phrase",
+      "spell": "jjuk"
+    },
+    {
+      "text": "어린이 보호",
+      "hint": "保护儿童",
+      "kind": "phrase",
+      "spell": "eorini boho"
+    },
+    {
+      "text": "유턴",
+      "hint": "掉头",
+      "kind": "phrase",
+      "spell": "yuteon"
+    },
+    {
+      "text": "버스 전용차로",
+      "hint": "公共汽车专用道",
+      "kind": "phrase",
+      "spell": "beoseu jeonyongcharo"
+    },
+    {
+      "text": "일방통행",
+      "hint": "单行线",
+      "kind": "phrase",
+      "spell": "ilbangtonghaeng"
+    },
+    {
+      "text": "보행자 통행금지",
+      "hint": "禁止行人通过",
+      "kind": "phrase",
+      "spell": "bohaengja tonghaenggeumji"
+    },
+    {
+      "text": "주차금지",
+      "hint": "禁止停车",
+      "kind": "phrase",
+      "spell": "juchageumji"
+    },
+    {
+      "text": "볼링장",
+      "hint": "保龄球场",
+      "kind": "phrase",
+      "spell": "bolringjang"
+    },
+    {
+      "text": "경찰서",
+      "hint": "警察局",
+      "kind": "phrase",
+      "spell": "gyeongchalseo"
+    },
+    {
+      "text": "놀이터",
+      "hint": "游乐场",
+      "kind": "phrase",
+      "spell": "noriteo"
+    },
+    {
+      "text": "그리다",
+      "hint": "画",
+      "kind": "phrase",
+      "spell": "geurida"
+    },
+    {
+      "text": "어리다",
+      "hint": "幼 小",
+      "kind": "phrase",
+      "spell": "eorida"
+    },
+    {
+      "text": "청바지",
+      "hint": "牛仔裤",
+      "kind": "phrase",
+      "spell": "cheongbaji"
+    },
+    {
+      "text": "똑똑하다",
+      "hint": "聪明",
+      "kind": "phrase",
+      "spell": "ttokttokhada"
+    },
+    {
+      "text": "깨다",
+      "hint": "醒",
+      "kind": "phrase",
+      "spell": "kkaeda"
+    },
+    {
+      "text": "느리다",
+      "hint": "慢",
+      "kind": "phrase",
+      "spell": "neurida"
+    },
+    {
+      "text": "연결하다",
+      "hint": "连接",
+      "kind": "phrase",
+      "spell": "yeongyeolhada"
+    },
+    {
+      "text": "단점",
+      "hint": "短处",
+      "kind": "phrase",
+      "spell": "danjeom"
+    },
+    {
+      "text": "계단",
+      "hint": "楼梯",
+      "kind": "phrase",
+      "spell": "gyedan"
+    },
+    {
+      "text": "거꾸로",
+      "hint": "反过来 颠倒",
+      "kind": "phrase",
+      "spell": "geokkuro"
+    },
+    {
+      "text": "중간",
+      "hint": "中间",
+      "kind": "phrase",
+      "spell": "junggan"
+    },
+    {
+      "text": "제일",
+      "hint": "最 第一",
+      "kind": "phrase",
+      "spell": "jeil"
+    },
+    {
+      "text": "정확하다",
+      "hint": "正确",
+      "kind": "phrase",
+      "spell": "jeonghwakhada"
+    },
+    {
+      "text": "정문",
+      "hint": "正门",
+      "kind": "phrase",
+      "spell": "jeongmun"
+    },
+    {
+      "text": "언덕",
+      "hint": "坡 丘陵",
+      "kind": "phrase",
+      "spell": "eondeok"
+    },
+    {
+      "text": "해저",
+      "hint": "海底",
+      "kind": "phrase",
+      "spell": "haejeo"
+    },
+    {
+      "text": "동네",
+      "hint": "小区",
+      "kind": "phrase",
+      "spell": "dongne"
+    },
+    {
+      "text": "주변",
+      "hint": "周围 周边",
+      "kind": "phrase",
+      "spell": "jubyeon"
+    },
+    {
+      "text": "고유하다",
+      "hint": "原有 特有",
+      "kind": "phrase",
+      "spell": "goyuhada"
+    },
+    {
+      "text": "지역",
+      "hint": "地区",
+      "kind": "phrase",
+      "spell": "jiyeok"
+    },
+    {
+      "text": "녹색",
+      "hint": "绿色",
+      "kind": "phrase",
+      "spell": "noksaek"
+    },
+    {
+      "text": "일부",
+      "hint": "一部分",
+      "kind": "phrase",
+      "spell": "ilbu"
+    },
+    {
+      "text": "종교",
+      "hint": "宗教",
+      "kind": "phrase",
+      "spell": "jonggyo"
+    },
+    {
+      "text": "알아보다",
+      "hint": "了解 打听",
+      "kind": "phrase",
+      "spell": "araboda"
+    },
+    {
+      "text": "보고서",
+      "hint": "报告（书）",
+      "kind": "phrase",
+      "spell": "bogoseo"
+    },
+    {
+      "text": "자료",
+      "hint": "资料",
+      "kind": "phrase",
+      "spell": "jaryo"
+    },
+    {
+      "text": "연체료",
+      "hint": "滞纳金",
+      "kind": "phrase",
+      "spell": "yeoncheryo"
+    },
+    {
+      "text": "학생증",
+      "hint": "学生证",
+      "kind": "phrase",
+      "spell": "haksaengjeung"
+    },
+    {
+      "text": "자료를 찾다",
+      "hint": "查资料",
+      "kind": "phrase",
+      "spell": "jaryoreul chatda"
+    },
+    {
+      "text": "대출하다",
+      "hint": "借出",
+      "kind": "phrase",
+      "spell": "daechulhada"
+    },
+    {
+      "text": "반납하다",
+      "hint": "返还",
+      "kind": "phrase",
+      "spell": "bannaphada"
+    },
+    {
+      "text": "열람실",
+      "hint": "阅览室",
+      "kind": "phrase",
+      "spell": "yeolramsil"
+    },
+    {
+      "text": "신청하다",
+      "hint": "申请",
+      "kind": "phrase",
+      "spell": "sincheonghada"
+    },
+    {
+      "text": "만화",
+      "hint": "漫画",
+      "kind": "phrase",
+      "spell": "manhwa"
+    },
+    {
+      "text": "출판사",
+      "hint": "出版社",
+      "kind": "phrase",
+      "spell": "chulpansa"
+    },
+    {
+      "text": "반납일",
+      "hint": "归还日期",
+      "kind": "phrase",
+      "spell": "bannabil"
+    },
+    {
+      "text": "환경 문제",
+      "hint": "环境问题",
+      "kind": "phrase",
+      "spell": "hwangyeong munje"
+    },
+    {
+      "text": "학기말 시험",
+      "hint": "期末考试",
+      "kind": "phrase",
+      "spell": "hakgimal siheom"
+    },
+    {
+      "text": "참석하다",
+      "hint": "参加",
+      "kind": "phrase",
+      "spell": "chamseokhada"
+    },
+    {
+      "text": "제시간",
+      "hint": "按时",
+      "kind": "phrase",
+      "spell": "jesigan"
+    },
+    {
+      "text": "환전",
+      "hint": "还钱",
+      "kind": "phrase",
+      "spell": "hwanjeon"
+    },
+    {
+      "text": "환율",
+      "hint": "汇率",
+      "kind": "phrase",
+      "spell": "hwanyul"
+    },
+    {
+      "text": "떨어지다",
+      "hint": "下降（汇率） 下跌",
+      "kind": "phrase",
+      "spell": "tteoreojida"
+    },
+    {
+      "text": "서류",
+      "hint": "证件 文件",
+      "kind": "phrase",
+      "spell": "seoryu"
+    },
+    {
+      "text": "처리하다",
+      "hint": "处理 办理",
+      "kind": "phrase",
+      "spell": "cheorihada"
+    },
+    {
+      "text": "창구",
+      "hint": "窗口",
+      "kind": "phrase",
+      "spell": "changgu"
+    },
+    {
+      "text": "돈을 찾다",
+      "hint": "取款",
+      "kind": "phrase",
+      "spell": "doneul chatda"
+    },
+    {
+      "text": "예금하다",
+      "hint": "存款",
+      "kind": "phrase",
+      "spell": "yegeumhada"
+    },
+    {
+      "text": "줄을 서다",
+      "hint": "排队",
+      "kind": "phrase",
+      "spell": "jureul seoda"
+    },
+    {
+      "text": "비밀번호",
+      "hint": "密码",
+      "kind": "phrase",
+      "spell": "bimilbeonho"
+    },
+    {
+      "text": "번호표를 뽑다",
+      "hint": "取号",
+      "kind": "phrase",
+      "spell": "beonhopyoreul ppopda"
+    },
+    {
+      "text": "통장",
+      "hint": "存折",
+      "kind": "phrase",
+      "spell": "tongjang"
+    },
+    {
+      "text": "거리",
+      "hint": "距离",
+      "kind": "phrase",
+      "spell": "geori"
+    },
+    {
+      "text": "이자",
+      "hint": "利息",
+      "kind": "phrase",
+      "spell": "ija"
+    },
+    {
+      "text": "송금",
+      "hint": "汇款 寄钱",
+      "kind": "phrase",
+      "spell": "songgeum"
+    },
+    {
+      "text": "수수료",
+      "hint": "手续费",
+      "kind": "phrase",
+      "spell": "susuryo"
+    },
+    {
+      "text": "공과금",
+      "hint": "税金 公共事业费",
+      "kind": "phrase",
+      "spell": "gonggwageum"
+    },
+    {
+      "text": "전기",
+      "hint": "电",
+      "kind": "phrase",
+      "spell": "jeongi"
+    },
+    {
+      "text": "가스",
+      "hint": "煤气",
+      "kind": "phrase",
+      "spell": "gaseu"
+    },
+    {
+      "text": "도장",
+      "hint": "印章",
+      "kind": "phrase",
+      "spell": "dojang"
+    },
+    {
+      "text": "신분증",
+      "hint": "身份证",
+      "kind": "phrase",
+      "spell": "sinbunjeung"
+    },
+    {
+      "text": "운전 면허증",
+      "hint": "驾驶证",
+      "kind": "phrase",
+      "spell": "unjeon myeonheojeung"
+    },
+    {
+      "text": "계좌 번호",
+      "hint": "账号",
+      "kind": "phrase",
+      "spell": "gyejwa beonho"
+    },
+    {
+      "text": "메모",
+      "hint": "笔记",
+      "kind": "phrase",
+      "spell": "memo"
+    },
+    {
+      "text": "소포",
+      "hint": "包裹",
+      "kind": "phrase",
+      "spell": "sopo"
+    },
+    {
+      "text": "저울",
+      "hint": "秤",
+      "kind": "phrase",
+      "spell": "jeoul"
+    },
+    {
+      "text": "이상",
+      "hint": "异常 反常",
+      "kind": "phrase",
+      "spell": "isang"
+    },
+    {
+      "text": "생기다",
+      "hint": "发生",
+      "kind": "phrase",
+      "spell": "saenggida"
+    },
+    {
+      "text": "보험에 들다",
+      "hint": "买保险",
+      "kind": "phrase",
+      "spell": "boheome deulda"
+    },
+    {
+      "text": "항공편",
+      "hint": "航空件",
+      "kind": "phrase",
+      "spell": "hanggongpyeon"
+    },
+    {
+      "text": "택배",
+      "hint": "快递",
+      "kind": "phrase",
+      "spell": "taekbae"
+    },
+    {
+      "text": "특급 우편",
+      "hint": "特快件",
+      "kind": "phrase",
+      "spell": "teukgeup upyeon"
+    },
+    {
+      "text": "배편",
+      "hint": "水路件",
+      "kind": "phrase",
+      "spell": "baepyeon"
+    },
+    {
+      "text": "국제 특급",
+      "hint": "国际特快",
+      "kind": "phrase",
+      "spell": "gukje teukgeup"
+    },
+    {
+      "text": "등기",
+      "hint": "挂号",
+      "kind": "phrase",
+      "spell": "deunggi"
+    },
+    {
+      "text": "부치다",
+      "hint": "寄",
+      "kind": "phrase",
+      "spell": "buchida"
+    },
+    {
+      "text": "결석",
+      "hint": "缺席",
+      "kind": "phrase",
+      "spell": "gyeolseok"
+    },
+    {
+      "text": "낙제",
+      "hint": "不及格",
+      "kind": "phrase",
+      "spell": "nakje"
+    },
+    {
+      "text": "메일",
+      "hint": "电子邮件",
+      "kind": "phrase",
+      "spell": "meil"
+    },
+    {
+      "text": "연장",
+      "hint": "延长 延期",
+      "kind": "phrase",
+      "spell": "yeonjang"
+    },
+    {
+      "text": "신청서",
+      "hint": "申请书",
+      "kind": "phrase",
+      "spell": "sincheongseo"
+    },
+    {
+      "text": "놓이다",
+      "hint": "放（着）",
+      "kind": "phrase",
+      "spell": "noida"
+    },
+    {
+      "text": "재학 증명서",
+      "hint": "在读证明",
+      "kind": "phrase",
+      "spell": "jaehak jeungmyeongseo"
+    },
+    {
+      "text": "비자 기간 연장",
+      "hint": "延长签证期",
+      "kind": "phrase",
+      "spell": "bija gigan yeonjang"
+    },
+    {
+      "text": "입국",
+      "hint": "入境",
+      "kind": "phrase",
+      "spell": "ipguk"
+    },
+    {
+      "text": "유효 기간",
+      "hint": "有效期",
+      "kind": "phrase",
+      "spell": "yuhyo gigan"
+    },
+    {
+      "text": "외국인등록증",
+      "hint": "外国人身份证",
+      "kind": "phrase",
+      "spell": "oegugindeungrokjeung"
+    },
+    {
+      "text": "출국",
+      "hint": "出境",
+      "kind": "phrase",
+      "spell": "chulguk"
+    },
+    {
+      "text": "출입국관리 사무소",
+      "hint": "出入境管理局",
+      "kind": "phrase",
+      "spell": "churipgukgwanri samuso"
+    },
+    {
+      "text": "사증(비자)",
+      "hint": "签证",
+      "kind": "phrase",
+      "spell": "sajeung(bija)"
+    },
+    {
+      "text": "법무부",
+      "hint": "法务部",
+      "kind": "phrase",
+      "spell": "beopmubu"
+    },
+    {
+      "text": "성별",
+      "hint": "性别",
+      "kind": "phrase",
+      "spell": "seongbyeol"
+    },
+    {
+      "text": "직위",
+      "hint": "职位",
+      "kind": "phrase",
+      "spell": "jigwi"
+    },
+    {
+      "text": "본국",
+      "hint": "本国",
+      "kind": "phrase",
+      "spell": "bonguk"
+    },
+    {
+      "text": "사유",
+      "hint": "事由 理由",
+      "kind": "phrase",
+      "spell": "sayu"
+    },
+    {
+      "text": "신청인",
+      "hint": "申请人",
+      "kind": "phrase",
+      "spell": "sincheongin"
+    },
+    {
+      "text": "벤치",
+      "hint": "长椅",
+      "kind": "phrase",
+      "spell": "benchi"
+    },
+    {
+      "text": "본인",
+      "hint": "本人",
+      "kind": "phrase",
+      "spell": "bonin"
+    },
+    {
+      "text": "옛날",
+      "hint": "古时候 很久以前",
+      "kind": "phrase",
+      "spell": "yetnal"
+    },
+    {
+      "text": "마을",
+      "hint": "村子",
+      "kind": "phrase",
+      "spell": "maeul"
+    },
+    {
+      "text": "밭",
+      "hint": "旱田",
+      "kind": "phrase",
+      "spell": "bat"
+    },
+    {
+      "text": "집안일",
+      "hint": "家务",
+      "kind": "phrase",
+      "spell": "jibanil"
+    },
+    {
+      "text": "도둑",
+      "hint": "小偷",
+      "kind": "phrase",
+      "spell": "doduk"
+    },
+    {
+      "text": "경찰",
+      "hint": "警察",
+      "kind": "phrase",
+      "spell": "gyeongchal"
+    },
+    {
+      "text": "달라지다",
+      "hint": "改变",
+      "kind": "phrase",
+      "spell": "dalrajida"
+    },
+    {
+      "text": "닫히다",
+      "hint": "关(닫다的被动词）",
+      "kind": "phrase",
+      "spell": "dathida"
+    },
+    {
+      "text": "열리다",
+      "hint": "开（열다的被动词）",
+      "kind": "phrase",
+      "spell": "yeolrida"
+    },
+    {
+      "text": "헤어지다",
+      "hint": "告别 分手",
+      "kind": "phrase",
+      "spell": "heeojida"
+    },
+    {
+      "text": "수입인지",
+      "hint": "印花税票",
+      "kind": "phrase",
+      "spell": "suibinji"
+    },
+    {
+      "text": "접수하다",
+      "hint": "接受 受理",
+      "kind": "phrase",
+      "spell": "jeopsuhada"
+    },
+    {
+      "text": "금방",
+      "hint": "刚 马上",
+      "kind": "phrase",
+      "spell": "geumbang"
+    },
+    {
+      "text": "웬일",
+      "hint": "什么事",
+      "kind": "phrase",
+      "spell": "wenil"
+    },
+    {
+      "text": "연극",
+      "hint": "话剧",
+      "kind": "phrase",
+      "spell": "yeongeuk"
+    },
+    {
+      "text": "초대권",
+      "hint": "招待券",
+      "kind": "phrase",
+      "spell": "chodaegwon"
+    },
+    {
+      "text": "무료",
+      "hint": "免费",
+      "kind": "phrase",
+      "spell": "muryo"
+    },
+    {
+      "text": "국립극장",
+      "hint": "国立剧场",
+      "kind": "phrase",
+      "spell": "gukripgeukjang"
+    },
+    {
+      "text": "매표소",
+      "hint": "售票处",
+      "kind": "phrase",
+      "spell": "maepyoso"
+    },
+    {
+      "text": "전화가 오다",
+      "hint": "来电话",
+      "kind": "phrase",
+      "spell": "jeonhwaga oda"
+    },
+    {
+      "text": "(전화를)바꿔 주다",
+      "hint": "转接电话",
+      "kind": "phrase",
+      "spell": "(jeonhwareul)bakkwo juda"
+    },
+    {
+      "text": "통화 중이다",
+      "hint": "通话中",
+      "kind": "phrase",
+      "spell": "tonghwa jungida"
+    },
+    {
+      "text": "언어 교환",
+      "hint": "语言交换",
+      "kind": "phrase",
+      "spell": "eoneo gyohwan"
+    },
+    {
+      "text": "전화를 잘못 걸다",
+      "hint": "打错电话",
+      "kind": "phrase",
+      "spell": "jeonhwareul jalmot geolda"
+    },
+    {
+      "text": "천천히",
+      "hint": "慢慢地",
+      "kind": "phrase",
+      "spell": "cheoncheonhi"
+    },
+    {
+      "text": "막히다",
+      "hint": "堵",
+      "kind": "phrase",
+      "spell": "makhida"
+    },
+    {
+      "text": "할 일",
+      "hint": "要做的事",
+      "kind": "phrase",
+      "spell": "hal il"
+    },
+    {
+      "text": "곧",
+      "hint": "就 马上",
+      "kind": "phrase",
+      "spell": "got"
+    },
+    {
+      "text": "확인하다",
+      "hint": "确认",
+      "kind": "phrase",
+      "spell": "hwaginhada"
+    },
+    {
+      "text": "밀리다",
+      "hint": "堆积 积压 拥挤",
+      "kind": "phrase",
+      "spell": "milrida"
+    },
+    {
+      "text": "벌써",
+      "hint": "已经",
+      "kind": "phrase",
+      "spell": "beolsseo"
+    },
+    {
+      "text": "물어보다",
+      "hint": "问一问",
+      "kind": "phrase",
+      "spell": "mureoboda"
+    },
+    {
+      "text": "음성 메시지",
+      "hint": "语音留言",
+      "kind": "phrase",
+      "spell": "eumseong mesiji"
+    },
+    {
+      "text": "문자 메시지",
+      "hint": "短信",
+      "kind": "phrase",
+      "spell": "munja mesiji"
+    },
+    {
+      "text": "발신자",
+      "hint": "打电话的人",
+      "kind": "phrase",
+      "spell": "balsinja"
+    },
+    {
+      "text": "수신자",
+      "hint": "接电话的人",
+      "kind": "phrase",
+      "spell": "susinja"
+    },
+    {
+      "text": "지역 번호",
+      "hint": "区号",
+      "kind": "phrase",
+      "spell": "jiyeok beonho"
+    },
+    {
+      "text": "단축 번호",
+      "hint": "快速拨号",
+      "kind": "phrase",
+      "spell": "danchuk beonho"
+    },
+    {
+      "text": "진동",
+      "hint": "震动",
+      "kind": "phrase",
+      "spell": "jindong"
+    },
+    {
+      "text": "나중에",
+      "hint": "以后 过一会儿",
+      "kind": "phrase",
+      "spell": "najunge"
+    },
+    {
+      "text": "문제",
+      "hint": "问题",
+      "kind": "phrase",
+      "spell": "munje"
+    },
+    {
+      "text": "유행하다",
+      "hint": "流行",
+      "kind": "phrase",
+      "spell": "yuhaenghada"
+    },
+    {
+      "text": "모델",
+      "hint": "模特",
+      "kind": "phrase",
+      "spell": "model"
+    },
+    {
+      "text": "죄송하다",
+      "hint": "对不起 抱歉",
+      "kind": "phrase",
+      "spell": "joesonghada"
+    },
+    {
+      "text": "급하다",
+      "hint": "急",
+      "kind": "phrase",
+      "spell": "geuphada"
+    },
+    {
+      "text": "깜빡",
+      "hint": "一时",
+      "kind": "phrase",
+      "spell": "kkamppak"
+    },
+    {
+      "text": "잊어버리다",
+      "hint": "忘记",
+      "kind": "phrase",
+      "spell": "ijeobeorida"
+    },
+    {
+      "text": "선약이 있다",
+      "hint": "事先约好了",
+      "kind": "phrase",
+      "spell": "seonyagi itda"
+    },
+    {
+      "text": "약속을 미루다",
+      "hint": "推迟约定",
+      "kind": "phrase",
+      "spell": "yaksogeul miruda"
+    },
+    {
+      "text": "약속을 취소하다",
+      "hint": "取消约定",
+      "kind": "phrase",
+      "spell": "yaksogeul chwisohada"
+    },
+    {
+      "text": "새벽",
+      "hint": "早晨 清晨",
+      "kind": "phrase",
+      "spell": "saebyeok"
+    },
+    {
+      "text": "선배",
+      "hint": "前辈 学长 师兄师姐",
+      "kind": "phrase",
+      "spell": "seonbae"
+    },
+    {
+      "text": "다치다",
+      "hint": "伤",
+      "kind": "phrase",
+      "spell": "dachida"
+    },
+    {
+      "text": "콘서트",
+      "hint": "音乐会",
+      "kind": "phrase",
+      "spell": "konseoteu"
+    },
+    {
+      "text": "사고",
+      "hint": "事故",
+      "kind": "phrase",
+      "spell": "sago"
+    },
+    {
+      "text": "고장나다",
+      "hint": "坏",
+      "kind": "phrase",
+      "spell": "gojangnada"
+    },
+    {
+      "text": "서비스센터",
+      "hint": "售后服务中心",
+      "kind": "phrase",
+      "spell": "seobiseusenteo"
+    },
+    {
+      "text": "돌아오다",
+      "hint": "回来",
+      "kind": "phrase",
+      "spell": "doraoda"
+    },
+    {
+      "text": "전하다",
+      "hint": "转达 转告",
+      "kind": "phrase",
+      "spell": "jeonhada"
+    },
+    {
+      "text": "그렇게",
+      "hint": "那样",
+      "kind": "phrase",
+      "spell": "geureoke"
+    },
+    {
+      "text": "별표",
+      "hint": "星号",
+      "kind": "phrase",
+      "spell": "byeolpyo"
+    },
+    {
+      "text": "우물 정자",
+      "hint": "井号",
+      "kind": "phrase",
+      "spell": "umul jeongja"
+    },
+    {
+      "text": "녹음하다",
+      "hint": "录音",
+      "kind": "phrase",
+      "spell": "nogeumhada"
+    },
+    {
+      "text": "누르다",
+      "hint": "拨号",
+      "kind": "phrase",
+      "spell": "nureuda"
+    },
+    {
+      "text": "회비",
+      "hint": "会费",
+      "kind": "phrase",
+      "spell": "hoebi"
+    },
+    {
+      "text": "농구공",
+      "hint": "篮球",
+      "kind": "phrase",
+      "spell": "nonggugong"
+    },
+    {
+      "text": "가난하다",
+      "hint": "贫穷",
+      "kind": "phrase",
+      "spell": "gananhada"
+    },
+    {
+      "text": "빌려주다",
+      "hint": "借给",
+      "kind": "phrase",
+      "spell": "bilryeojuda"
+    },
+    {
+      "text": "당나귀",
+      "hint": "驴",
+      "kind": "phrase",
+      "spell": "dangnagwi"
+    },
+    {
+      "text": "끌다",
+      "hint": "牵 引",
+      "kind": "phrase",
+      "spell": "kkeulda"
+    },
+    {
+      "text": "바보",
+      "hint": "傻瓜",
+      "kind": "phrase",
+      "spell": "babo"
+    },
+    {
+      "text": "태우다",
+      "hint": "载 使乘坐",
+      "kind": "phrase",
+      "spell": "taeuda"
+    },
+    {
+      "text": "야단을 치다",
+      "hint": "责备",
+      "kind": "phrase",
+      "spell": "yadaneul chida"
+    },
+    {
+      "text": "불쌍하다",
+      "hint": "可怜",
+      "kind": "phrase",
+      "spell": "bulssanghada"
+    },
+    {
+      "text": "떨어뜨리다",
+      "hint": "弄掉",
+      "kind": "phrase",
+      "spell": "tteoreotteurida"
+    },
+    {
+      "text": "고치다",
+      "hint": "修理",
+      "kind": "phrase",
+      "spell": "gochida"
+    },
+    {
+      "text": "심하다",
+      "hint": "严重 过分",
+      "kind": "phrase",
+      "spell": "simhada"
+    },
+    {
+      "text": "짐",
+      "hint": "行李",
+      "kind": "phrase",
+      "spell": "jim"
+    },
+    {
+      "text": "이삿짐센터",
+      "hint": "搬家公司",
+      "kind": "phrase",
+      "spell": "isatjimsenteo"
+    },
+    {
+      "text": "칙칙폭폭",
+      "hint": "轰隆隆",
+      "kind": "phrase",
+      "spell": "chikchikpokpok"
+    },
+    {
+      "text": "구이",
+      "hint": "烧烤（肉 鱼）",
+      "kind": "phrase",
+      "spell": "gui"
+    },
+    {
+      "text": "부동산",
+      "hint": "不动产",
+      "kind": "phrase",
+      "spell": "budongsan"
+    },
+    {
+      "text": "천사",
+      "hint": "天使",
+      "kind": "phrase",
+      "spell": "cheonsa"
+    },
+    {
+      "text": "사이",
+      "hint": "关系 （人与人）之间",
+      "kind": "phrase",
+      "spell": "sai"
+    },
+    {
+      "text": "버튼",
+      "hint": "按钮",
+      "kind": "phrase",
+      "spell": "beoteun"
+    },
+    {
+      "text": "알파벳",
+      "hint": "字母表",
+      "kind": "phrase",
+      "spell": "alpabet"
+    },
+    {
+      "text": "진찰",
+      "hint": "看病 诊查 检查",
+      "kind": "phrase",
+      "spell": "jinchal"
+    },
+    {
+      "text": "식중독",
+      "hint": "食物中毒",
+      "kind": "phrase",
+      "spell": "sikjungdok"
+    },
+    {
+      "text": "해물",
+      "hint": "海鲜",
+      "kind": "phrase",
+      "spell": "haemul"
+    },
+    {
+      "text": "낫다",
+      "hint": "(病）好",
+      "kind": "phrase",
+      "spell": "natda"
+    },
+    {
+      "text": "이틀",
+      "hint": "两天",
+      "kind": "phrase",
+      "spell": "iteul"
+    },
+    {
+      "text": "소화가 안 되다",
+      "hint": "消化不良",
+      "kind": "phrase",
+      "spell": "sohwaga an doeda"
+    },
+    {
+      "text": "배탈이 나가",
+      "hint": "闹肚子",
+      "kind": "phrase",
+      "spell": "baetari naga"
+    },
+    {
+      "text": "설사를 하다",
+      "hint": "腹泻",
+      "kind": "phrase",
+      "spell": "seolsareul hada"
+    },
+    {
+      "text": "토하다",
+      "hint": "吐",
+      "kind": "phrase",
+      "spell": "tohada"
+    },
+    {
+      "text": "속이 쓰리다",
+      "hint": "肚子难受",
+      "kind": "phrase",
+      "spell": "sogi sseurida"
+    },
+    {
+      "text": "변비가 있다",
+      "hint": "便秘",
+      "kind": "phrase",
+      "spell": "byeonbiga itda"
+    },
+    {
+      "text": "운동화",
+      "hint": "运动鞋",
+      "kind": "phrase",
+      "spell": "undonghwa"
+    },
+    {
+      "text": "끈",
+      "hint": "带子",
+      "kind": "phrase",
+      "spell": "kkeun"
+    },
+    {
+      "text": "선",
+      "hint": "线",
+      "kind": "phrase",
+      "spell": "seon"
+    },
+    {
+      "text": "긋다",
+      "hint": "画（线）",
+      "kind": "phrase",
+      "spell": "geutda"
+    },
+    {
+      "text": "넘어지다",
+      "hint": "跌倒 摔倒",
+      "kind": "phrase",
+      "spell": "neomeojida"
+    },
+    {
+      "text": "붓다",
+      "hint": "肿",
+      "kind": "phrase",
+      "spell": "butda"
+    },
+    {
+      "text": "검사",
+      "hint": "检查",
+      "kind": "phrase",
+      "spell": "geomsa"
+    },
+    {
+      "text": "붕대",
+      "hint": "绷带",
+      "kind": "phrase",
+      "spell": "bungdae"
+    },
+    {
+      "text": "감다",
+      "hint": "缠",
+      "kind": "phrase",
+      "spell": "gamda"
+    },
+    {
+      "text": "수첩",
+      "hint": "记事本",
+      "kind": "phrase",
+      "spell": "sucheop"
+    },
+    {
+      "text": "짓다",
+      "hint": "盖",
+      "kind": "phrase",
+      "spell": "jitda"
+    },
+    {
+      "text": "증세",
+      "hint": "症状",
+      "kind": "phrase",
+      "spell": "jeungse"
+    },
+    {
+      "text": "콧물",
+      "hint": "鼻涕",
+      "kind": "phrase",
+      "spell": "kotmul"
+    },
+    {
+      "text": "점점",
+      "hint": "越来越",
+      "kind": "phrase",
+      "spell": "jeomjeom"
+    },
+    {
+      "text": "몸살감기",
+      "hint": "重感冒",
+      "kind": "phrase",
+      "spell": "momsalgamgi"
+    },
+    {
+      "text": "과로하다",
+      "hint": "过度疲劳",
+      "kind": "phrase",
+      "spell": "gwarohada"
+    },
+    {
+      "text": "푹",
+      "hint": "多 充分",
+      "kind": "phrase",
+      "spell": "puk"
+    },
+    {
+      "text": "기침을 하다",
+      "hint": "咳嗽",
+      "kind": "phrase",
+      "spell": "gichimeul hada"
+    },
+    {
+      "text": "두통이 심하다",
+      "hint": "头疼的厉害",
+      "kind": "phrase",
+      "spell": "dutongi simhada"
+    },
+    {
+      "text": "목이 쉬다",
+      "hint": "嗓子干哑",
+      "kind": "phrase",
+      "spell": "mogi swida"
+    },
+    {
+      "text": "몸이 떨리다",
+      "hint": "发抖",
+      "kind": "phrase",
+      "spell": "momi tteolrida"
+    },
+    {
+      "text": "열이 나다",
+      "hint": "发烧",
+      "kind": "phrase",
+      "spell": "yeori nada"
+    },
+    {
+      "text": "코가 막히다",
+      "hint": "鼻子不通",
+      "kind": "phrase",
+      "spell": "koga makhida"
+    },
+    {
+      "text": "처방",
+      "hint": "处方",
+      "kind": "phrase",
+      "spell": "cheobang"
+    },
+    {
+      "text": "가래",
+      "hint": "痰",
+      "kind": "phrase",
+      "spell": "garae"
+    },
+    {
+      "text": "주사",
+      "hint": "注射 针",
+      "kind": "phrase",
+      "spell": "jusa"
+    },
+    {
+      "text": "사업",
+      "hint": "事业",
+      "kind": "phrase",
+      "spell": "saeop"
+    },
+    {
+      "text": "행복하다",
+      "hint": "幸福",
+      "kind": "phrase",
+      "spell": "haengbokhada"
+    },
+    {
+      "text": "입맛",
+      "hint": "胃口",
+      "kind": "phrase",
+      "spell": "ipmat"
+    },
+    {
+      "text": "나다",
+      "hint": "流出 有 出现",
+      "kind": "phrase",
+      "spell": "nada"
+    },
+    {
+      "text": "처방전",
+      "hint": "处方",
+      "kind": "phrase",
+      "spell": "cheobangjeon"
+    },
+    {
+      "text": "종합",
+      "hint": "综合",
+      "kind": "phrase",
+      "spell": "jonghap"
+    },
+    {
+      "text": "소화제",
+      "hint": "消化药",
+      "kind": "phrase",
+      "spell": "sohwaje"
+    },
+    {
+      "text": "진통제",
+      "hint": "止疼药",
+      "kind": "phrase",
+      "spell": "jintongje"
+    },
+    {
+      "text": "영양제",
+      "hint": "营养药",
+      "kind": "phrase",
+      "spell": "yeongyangje"
+    },
+    {
+      "text": "피부 연고",
+      "hint": "皮肤软膏",
+      "kind": "phrase",
+      "spell": "pibu yeongo"
+    },
+    {
+      "text": "소독약",
+      "hint": "消毒药",
+      "kind": "phrase",
+      "spell": "sodogyak"
+    },
+    {
+      "text": "수면제",
+      "hint": "安眠药",
+      "kind": "phrase",
+      "spell": "sumyeonje"
+    },
+    {
+      "text": "비타민",
+      "hint": "维他命",
+      "kind": "phrase",
+      "spell": "bitamin"
+    },
+    {
+      "text": "머리카락",
+      "hint": "头发",
+      "kind": "phrase",
+      "spell": "meorikarak"
+    },
+    {
+      "text": "살이 빠지다",
+      "hint": "掉肉",
+      "kind": "phrase",
+      "spell": "sari ppajida"
+    },
+    {
+      "text": "여드름",
+      "hint": "粉刺 青春痘",
+      "kind": "phrase",
+      "spell": "yeodeureum"
+    },
+    {
+      "text": "무릎",
+      "hint": "膝盖",
+      "kind": "phrase",
+      "spell": "mureup"
+    },
+    {
+      "text": "학비",
+      "hint": "学费",
+      "kind": "phrase",
+      "spell": "hakbi"
+    },
+    {
+      "text": "싸우다",
+      "hint": "战斗",
+      "kind": "phrase",
+      "spell": "ssauda"
+    },
+    {
+      "text": "성공",
+      "hint": "成功",
+      "kind": "phrase",
+      "spell": "seonggong"
+    },
+    {
+      "text": "진료",
+      "hint": "看病",
+      "kind": "phrase",
+      "spell": "jinryo"
+    },
+    {
+      "text": "환자",
+      "hint": "患者",
+      "kind": "phrase",
+      "spell": "hwanja"
+    },
+    {
+      "text": "환절기",
+      "hint": "换季期",
+      "kind": "phrase",
+      "spell": "hwanjeolgi"
+    },
+    {
+      "text": "건강 보험",
+      "hint": "健康保险",
+      "kind": "phrase",
+      "spell": "geongang boheom"
+    },
+    {
+      "text": "치료",
+      "hint": "治疗",
+      "kind": "phrase",
+      "spell": "chiryo"
+    },
+    {
+      "text": "입원",
+      "hint": "住院",
+      "kind": "phrase",
+      "spell": "ibwon"
+    },
+    {
+      "text": "수술",
+      "hint": "手术",
+      "kind": "phrase",
+      "spell": "susul"
+    },
+    {
+      "text": "퇴원",
+      "hint": "出院",
+      "kind": "phrase",
+      "spell": "toewon"
+    },
+    {
+      "text": "진단서",
+      "hint": "诊断书",
+      "kind": "phrase",
+      "spell": "jindanseo"
+    },
+    {
+      "text": "무섭다",
+      "hint": "害怕",
+      "kind": "phrase",
+      "spell": "museopda"
+    },
+    {
+      "text": "부자",
+      "hint": "富翁",
+      "kind": "phrase",
+      "spell": "buja"
+    },
+    {
+      "text": "떡",
+      "hint": "糕",
+      "kind": "phrase",
+      "spell": "tteok"
+    },
+    {
+      "text": "내과",
+      "hint": "内科",
+      "kind": "phrase",
+      "spell": "naegwa"
+    },
+    {
+      "text": "외과",
+      "hint": "外科",
+      "kind": "phrase",
+      "spell": "oegwa"
+    },
+    {
+      "text": "치과",
+      "hint": "牙科",
+      "kind": "phrase",
+      "spell": "chigwa"
+    },
+    {
+      "text": "이비인후과",
+      "hint": "耳鼻咽喉科",
+      "kind": "phrase",
+      "spell": "ibiinhugwa"
+    },
+    {
+      "text": "피부과",
+      "hint": "皮肤科",
+      "kind": "phrase",
+      "spell": "pibugwa"
+    },
+    {
+      "text": "정신과",
+      "hint": "精神科",
+      "kind": "phrase",
+      "spell": "jeongsingwa"
+    },
+    {
+      "text": "안과",
+      "hint": "眼科",
+      "kind": "phrase",
+      "spell": "angwa"
+    },
+    {
+      "text": "부러지다",
+      "hint": "折 断",
+      "kind": "phrase",
+      "spell": "bureojida"
+    },
+    {
+      "text": "피",
+      "hint": "血",
+      "kind": "phrase",
+      "spell": "pi"
+    },
+    {
+      "text": "교정하다",
+      "hint": "矫正",
+      "kind": "phrase",
+      "spell": "gyojeonghada"
+    },
+    {
+      "text": "썩다",
+      "hint": "腐烂",
+      "kind": "phrase",
+      "spell": "sseokda"
+    },
+    {
+      "text": "코피",
+      "hint": "鼻血",
+      "kind": "phrase",
+      "spell": "kopi"
+    },
+    {
+      "text": "가렵다",
+      "hint": "痒",
+      "kind": "phrase",
+      "spell": "garyeopda"
+    },
+    {
+      "text": "우울하다",
+      "hint": "忧郁",
+      "kind": "phrase",
+      "spell": "uulhada"
+    },
+    {
+      "text": "불안하다",
+      "hint": "不安",
+      "kind": "phrase",
+      "spell": "buranhada"
+    },
+    {
+      "text": "따갑다",
+      "hint": "火辣辣",
+      "kind": "phrase",
+      "spell": "ttagapda"
+    },
+    {
+      "text": "충혈이 되다",
+      "hint": "充血",
+      "kind": "phrase",
+      "spell": "chunghyeori doeda"
+    },
+    {
+      "text": "병문안",
+      "hint": "探病 探视",
+      "kind": "phrase",
+      "spell": "byeongmunan"
+    },
+    {
+      "text": "문병",
+      "hint": "探病",
+      "kind": "phrase",
+      "spell": "munbyeong"
+    },
+    {
+      "text": "깁스",
+      "hint": "石膏",
+      "kind": "phrase",
+      "spell": "gipseu"
+    },
+    {
+      "text": "답답해하다",
+      "hint": "闷",
+      "kind": "phrase",
+      "spell": "dapdaphaehada"
+    },
+    {
+      "text": "호두",
+      "hint": "核桃",
+      "kind": "phrase",
+      "spell": "hodu"
+    },
+    {
+      "text": "뼈",
+      "hint": "骨",
+      "kind": "phrase",
+      "spell": "ppyeo"
+    },
+    {
+      "text": "알레르기",
+      "hint": "过敏性反应",
+      "kind": "phrase",
+      "spell": "alrereugi"
+    },
+    {
+      "text": "멋지다",
+      "hint": "帅",
+      "kind": "phrase",
+      "spell": "meotjida"
+    },
+    {
+      "text": "해외",
+      "hint": "海外",
+      "kind": "phrase",
+      "spell": "haeoe"
+    },
+    {
+      "text": "동해",
+      "hint": "东海",
+      "kind": "phrase",
+      "spell": "donghae"
+    },
+    {
+      "text": "기억에 남다",
+      "hint": "留下印象",
+      "kind": "phrase",
+      "spell": "gieoge namda"
+    },
+    {
+      "text": "일출",
+      "hint": "日出",
+      "kind": "phrase",
+      "spell": "ilchul"
+    },
+    {
+      "text": "장면",
+      "hint": "场景",
+      "kind": "phrase",
+      "spell": "jangmyeon"
+    },
+    {
+      "text": "국내 여행",
+      "hint": "国内旅行",
+      "kind": "phrase",
+      "spell": "guknae yeohaeng"
+    },
+    {
+      "text": "해외 여행",
+      "hint": "海外旅行",
+      "kind": "phrase",
+      "spell": "haeoe yeohaeng"
+    },
+    {
+      "text": "배낭 여행",
+      "hint": "背包旅行",
+      "kind": "phrase",
+      "spell": "baenang yeohaeng"
+    },
+    {
+      "text": "신혼 여행",
+      "hint": "新婚旅行",
+      "kind": "phrase",
+      "spell": "sinhon yeohaeng"
+    },
+    {
+      "text": "수학 여행",
+      "hint": "见学旅行",
+      "kind": "phrase",
+      "spell": "suhak yeohaeng"
+    },
+    {
+      "text": "단체 관광",
+      "hint": "团体游",
+      "kind": "phrase",
+      "spell": "danche gwangwang"
+    },
+    {
+      "text": "물에 빠지다",
+      "hint": "掉在水里 溺水",
+      "kind": "phrase",
+      "spell": "mure ppajida"
+    },
+    {
+      "text": "한글",
+      "hint": "韩文",
+      "kind": "phrase",
+      "spell": "hangeul"
+    },
+    {
+      "text": "키스",
+      "hint": "吻",
+      "kind": "phrase",
+      "spell": "kiseu"
+    },
+    {
+      "text": "민박",
+      "hint": "投宿民家",
+      "kind": "phrase",
+      "spell": "minbak"
+    },
+    {
+      "text": "여관",
+      "hint": "旅馆",
+      "kind": "phrase",
+      "spell": "yeogwan"
+    },
+    {
+      "text": "춘천",
+      "hint": "春川（地名）",
+      "kind": "phrase",
+      "spell": "chuncheon"
+    },
+    {
+      "text": "소양 댐",
+      "hint": "昭阳水库",
+      "kind": "phrase",
+      "spell": "soyang daem"
+    },
+    {
+      "text": "청평사",
+      "hint": "清平寺",
+      "kind": "phrase",
+      "spell": "cheongpyeongsa"
+    },
+    {
+      "text": "분위기",
+      "hint": "气氛 氛围",
+      "kind": "phrase",
+      "spell": "bunwigi"
+    },
+    {
+      "text": "푸르다",
+      "hint": "青翠 碧绿 绿",
+      "kind": "phrase",
+      "spell": "pureuda"
+    },
+    {
+      "text": "공장",
+      "hint": "工厂",
+      "kind": "phrase",
+      "spell": "gongjang"
+    },
+    {
+      "text": "꼬마",
+      "hint": "小孩",
+      "kind": "phrase",
+      "spell": "kkoma"
+    },
+    {
+      "text": "처녀",
+      "hint": "姑娘",
+      "kind": "phrase",
+      "spell": "cheonyeo"
+    },
+    {
+      "text": "수도",
+      "hint": "首都",
+      "kind": "phrase",
+      "spell": "sudo"
+    },
+    {
+      "text": "역사적",
+      "hint": "历史性的",
+      "kind": "phrase",
+      "spell": "yeoksajeok"
+    },
+    {
+      "text": "볼거리",
+      "hint": "值得看的东西 景点",
+      "kind": "phrase",
+      "spell": "bolgeori"
+    },
+    {
+      "text": "숙박 시설",
+      "hint": "住宿设施",
+      "kind": "phrase",
+      "spell": "sukbak siseol"
+    },
+    {
+      "text": "교통편",
+      "hint": "交通工具",
+      "kind": "phrase",
+      "spell": "gyotongpyeon"
+    },
+    {
+      "text": "여행 안내서",
+      "hint": "旅行指南",
+      "kind": "phrase",
+      "spell": "yeohaeng annaeseo"
+    },
+    {
+      "text": "여해 경비",
+      "hint": "旅行经费",
+      "kind": "phrase",
+      "spell": "yeohae gyeongbi"
+    },
+    {
+      "text": "여행자 보험",
+      "hint": "游客保险",
+      "kind": "phrase",
+      "spell": "yeohaengja boheom"
+    },
+    {
+      "text": "~박~일",
+      "hint": "～天～夜",
+      "kind": "phrase",
+      "spell": "~bak~il"
+    },
+    {
+      "text": "왕",
+      "hint": "王",
+      "kind": "phrase",
+      "spell": "wang"
+    },
+    {
+      "text": "왕비",
+      "hint": "王妃",
+      "kind": "phrase",
+      "spell": "wangbi"
+    },
+    {
+      "text": "왕자",
+      "hint": "王子",
+      "kind": "phrase",
+      "spell": "wangja"
+    },
+    {
+      "text": "공주",
+      "hint": "公主",
+      "kind": "phrase",
+      "spell": "gongju"
+    },
+    {
+      "text": "기간",
+      "hint": "期间",
+      "kind": "phrase",
+      "spell": "gigan"
+    },
+    {
+      "text": "일정",
+      "hint": "日程",
+      "kind": "phrase",
+      "spell": "iljeong"
+    },
+    {
+      "text": "해운대",
+      "hint": "海云台地名",
+      "kind": "phrase",
+      "spell": "haeundae"
+    },
+    {
+      "text": "범어사",
+      "hint": "梵鱼寺",
+      "kind": "phrase",
+      "spell": "beomeosa"
+    },
+    {
+      "text": "태종대",
+      "hint": "太宗台地名",
+      "kind": "phrase",
+      "spell": "taejongdae"
+    },
+    {
+      "text": "목소리",
+      "hint": "声音",
+      "kind": "phrase",
+      "spell": "moksori"
+    },
+    {
+      "text": "들리다",
+      "hint": "听到",
+      "kind": "phrase",
+      "spell": "deulrida"
+    },
+    {
+      "text": "자갈치 시장",
+      "hint": "札嘎其水产市场",
+      "kind": "phrase",
+      "spell": "jagalchi sijang"
+    },
+    {
+      "text": "품질",
+      "hint": "质量",
+      "kind": "phrase",
+      "spell": "pumjil"
+    },
+    {
+      "text": "우수하다",
+      "hint": "优秀",
+      "kind": "phrase",
+      "spell": "usuhada"
+    },
+    {
+      "text": "독도",
+      "hint": "独岛",
+      "kind": "phrase",
+      "spell": "dokdo"
+    },
+    {
+      "text": "경상북도",
+      "hint": "庆尚北道",
+      "kind": "phrase",
+      "spell": "gyeongsangbukdo"
+    },
+    {
+      "text": "세월",
+      "hint": "岁月",
+      "kind": "phrase",
+      "spell": "sewol"
+    },
+    {
+      "text": "가까이",
+      "hint": "近处 靠近",
+      "kind": "phrase",
+      "spell": "gakkai"
+    },
+    {
+      "text": "특실",
+      "hint": "特等间 豪华间",
+      "kind": "phrase",
+      "spell": "teuksil"
+    },
+    {
+      "text": "일반실",
+      "hint": "标准间",
+      "kind": "phrase",
+      "spell": "ilbansil"
+    },
+    {
+      "text": "원하다",
+      "hint": "愿 希望",
+      "kind": "phrase",
+      "spell": "wonhada"
+    },
+    {
+      "text": "묵다",
+      "hint": "住",
+      "kind": "phrase",
+      "spell": "mukda"
+    },
+    {
+      "text": "전망",
+      "hint": "远望 展望 瞭望",
+      "kind": "phrase",
+      "spell": "jeonmang"
+    },
+    {
+      "text": "성함",
+      "hint": "姓名（이름敬语）",
+      "kind": "phrase",
+      "spell": "seongham"
+    },
+    {
+      "text": "연락처",
+      "hint": "联络方式",
+      "kind": "phrase",
+      "spell": "yeonrakcheo"
+    },
+    {
+      "text": "결제",
+      "hint": "结账",
+      "kind": "phrase",
+      "spell": "gyeolje"
+    },
+    {
+      "text": "상품",
+      "hint": "商品 货品",
+      "kind": "phrase",
+      "spell": "sangpum"
+    },
+    {
+      "text": "항공",
+      "hint": "航空",
+      "kind": "phrase",
+      "spell": "hanggong"
+    },
+    {
+      "text": "렌터카",
+      "hint": "租赁车",
+      "kind": "phrase",
+      "spell": "renteoka"
+    },
+    {
+      "text": "예정",
+      "hint": "预定",
+      "kind": "phrase",
+      "spell": "yejeong"
+    },
+    {
+      "text": "체크인",
+      "hint": "入住手续",
+      "kind": "phrase",
+      "spell": "chekeuin"
+    },
+    {
+      "text": "항공권",
+      "hint": "飞机票",
+      "kind": "phrase",
+      "spell": "hanggonggwon"
+    },
+    {
+      "text": "여정",
+      "hint": "旅程",
+      "kind": "phrase",
+      "spell": "yeojeong"
+    },
+    {
+      "text": "왕복",
+      "hint": "往返",
+      "kind": "phrase",
+      "spell": "wangbok"
+    },
+    {
+      "text": "편도",
+      "hint": "单程",
+      "kind": "phrase",
+      "spell": "pyeondo"
+    },
+    {
+      "text": "일반석",
+      "hint": "经济舱",
+      "kind": "phrase",
+      "spell": "ilbanseok"
+    },
+    {
+      "text": "비즈니스석",
+      "hint": "商务舱",
+      "kind": "phrase",
+      "spell": "bijeuniseuseok"
+    },
+    {
+      "text": "대여",
+      "hint": "出租",
+      "kind": "phrase",
+      "spell": "daeyeo"
+    },
+    {
+      "text": "소형차",
+      "hint": "小型车",
+      "kind": "phrase",
+      "spell": "sohyeongcha"
+    },
+    {
+      "text": "중형차",
+      "hint": "中型车",
+      "kind": "phrase",
+      "spell": "junghyeongcha"
+    },
+    {
+      "text": "대형차",
+      "hint": "大型车",
+      "kind": "phrase",
+      "spell": "daehyeongcha"
+    },
+    {
+      "text": "승합차",
+      "hint": "公共汽车 巴士",
+      "kind": "phrase",
+      "spell": "seunghapcha"
+    },
+    {
+      "text": "기사",
+      "hint": "司机",
+      "kind": "phrase",
+      "spell": "gisa"
+    },
+    {
+      "text": "포함",
+      "hint": "包括",
+      "kind": "phrase",
+      "spell": "poham"
+    },
+    {
+      "text": "여부",
+      "hint": "与否",
+      "kind": "phrase",
+      "spell": "yeobu"
+    },
+    {
+      "text": "애인",
+      "hint": "恋人",
+      "kind": "phrase",
+      "spell": "aein"
+    },
+    {
+      "text": "고래",
+      "hint": "鲸鱼",
+      "kind": "phrase",
+      "spell": "gorae"
+    },
+    {
+      "text": "동물",
+      "hint": "动物",
+      "kind": "phrase",
+      "spell": "dongmul"
+    },
+    {
+      "text": "후반",
+      "hint": "后期",
+      "kind": "phrase",
+      "spell": "huban"
+    },
+    {
+      "text": "발전하다",
+      "hint": "发展",
+      "kind": "phrase",
+      "spell": "baljeonhada"
+    },
+    {
+      "text": "빼놓지",
+      "hint": "遗漏（除外）",
+      "kind": "phrase",
+      "spell": "ppaenochi"
+    },
+    {
+      "text": "추천하다",
+      "hint": "推荐",
+      "kind": "phrase",
+      "spell": "chucheonhada"
+    },
+    {
+      "text": "로마",
+      "hint": "罗马",
+      "kind": "phrase",
+      "spell": "roma"
+    },
+    {
+      "text": "시대",
+      "hint": "时代",
+      "kind": "phrase",
+      "spell": "sidae"
+    },
+    {
+      "text": "호수",
+      "hint": "湖水",
+      "kind": "phrase",
+      "spell": "hosu"
+    },
+    {
+      "text": "폭포",
+      "hint": "瀑布",
+      "kind": "phrase",
+      "spell": "pokpo"
+    },
+    {
+      "text": "강",
+      "hint": "江",
+      "kind": "phrase",
+      "spell": "gang"
+    },
+    {
+      "text": "해변",
+      "hint": "海边",
+      "kind": "phrase",
+      "spell": "haebyeon"
+    },
+    {
+      "text": "온천",
+      "hint": "温泉",
+      "kind": "phrase",
+      "spell": "oncheon"
+    },
+    {
+      "text": "화산",
+      "hint": "火山",
+      "kind": "phrase",
+      "spell": "hwasan"
+    },
+    {
+      "text": "오페라 하우스",
+      "hint": "悉尼歌剧院",
+      "kind": "phrase",
+      "spell": "opera hauseu"
+    },
+    {
+      "text": "졸리다",
+      "hint": "困",
+      "kind": "phrase",
+      "spell": "jolrida"
+    },
+    {
+      "text": "청소",
+      "hint": "扫除",
+      "kind": "phrase",
+      "spell": "cheongso"
+    },
+    {
+      "text": "화장",
+      "hint": "化妆",
+      "kind": "phrase",
+      "spell": "hwajang"
+    },
+    {
+      "text": "엽서",
+      "hint": "明信片",
+      "kind": "phrase",
+      "spell": "yeopseo"
+    },
+    {
+      "text": "하와이",
+      "hint": "夏威夷",
+      "kind": "phrase",
+      "spell": "hawai"
+    },
+    {
+      "text": "알프스",
+      "hint": "阿尔卑斯",
+      "kind": "phrase",
+      "spell": "alpeuseu"
+    },
+    {
+      "text": "신주쿠",
+      "hint": "新宿地名",
+      "kind": "phrase",
+      "spell": "sinjuku"
+    },
+    {
+      "text": "나이아가라 폭포",
+      "hint": "尼亚加拉瀑布",
+      "kind": "phrase",
+      "spell": "naiagara pokpo"
+    },
+    {
+      "text": "도쿄",
+      "hint": "东京",
+      "kind": "phrase",
+      "spell": "dokyo"
+    },
+    {
+      "text": "느낌",
+      "hint": "感觉",
+      "kind": "phrase",
+      "spell": "neukkim"
+    },
+    {
+      "text": "구경거리",
+      "hint": "可看的",
+      "kind": "phrase",
+      "spell": "gugyeonggeori"
+    },
+    {
+      "text": "세계 문화 유산",
+      "hint": "世界文化遗产",
+      "kind": "phrase",
+      "spell": "segye munhwa yusan"
+    },
+    {
+      "text": "축제",
+      "hint": "节庆",
+      "kind": "phrase",
+      "spell": "chukje"
+    },
+    {
+      "text": "과학",
+      "hint": "科学",
+      "kind": "phrase",
+      "spell": "gwahak"
+    },
+    {
+      "text": "해산물",
+      "hint": "海产品",
+      "kind": "phrase",
+      "spell": "haesanmul"
+    },
+    {
+      "text": "설경",
+      "hint": "雪景",
+      "kind": "phrase",
+      "spell": "seolgyeong"
+    },
+    {
+      "text": "유물",
+      "hint": "遗物 古迹",
+      "kind": "phrase",
+      "spell": "yumul"
+    },
+    {
+      "text": "불국사",
+      "hint": "佛国寺",
+      "kind": "phrase",
+      "spell": "bulguksa"
+    },
+    {
+      "text": "석굴암",
+      "hint": "石窟庵",
+      "kind": "phrase",
+      "spell": "seokguram"
+    },
+    {
+      "text": "귤",
+      "hint": "橘子",
+      "kind": "phrase",
+      "spell": "gyul"
+    },
+    {
+      "text": "한라산",
+      "hint": "汉拿山",
+      "kind": "phrase",
+      "spell": "hanrasan"
+    },
+    {
+      "text": "첨성대",
+      "hint": "瞻星台",
+      "kind": "phrase",
+      "spell": "cheomseongdae"
+    },
+    {
+      "text": "전세",
+      "hint": "传贳房",
+      "kind": "phrase",
+      "spell": "jeonse"
+    },
+    {
+      "text": "월세",
+      "hint": "月租房",
+      "kind": "phrase",
+      "spell": "wolse"
+    },
+    {
+      "text": "보증금",
+      "hint": "押金",
+      "kind": "phrase",
+      "spell": "bojeunggeum"
+    },
+    {
+      "text": "원룸",
+      "hint": "开间",
+      "kind": "phrase",
+      "spell": "wonrum"
+    },
+    {
+      "text": "시설",
+      "hint": "设施",
+      "kind": "phrase",
+      "spell": "siseol"
+    },
+    {
+      "text": "부동산 소개소",
+      "hint": "房地产中介",
+      "kind": "phrase",
+      "spell": "budongsan sogaeso"
+    },
+    {
+      "text": "계약을 하다",
+      "hint": "签约",
+      "kind": "phrase",
+      "spell": "gyeyageul hada"
+    },
+    {
+      "text": "소개비",
+      "hint": "中介费",
+      "kind": "phrase",
+      "spell": "sogaebi"
+    },
+    {
+      "text": "이사를 하다",
+      "hint": "搬家",
+      "kind": "phrase",
+      "spell": "isareul hada"
+    },
+    {
+      "text": "조언을 하다",
+      "hint": "提建议",
+      "kind": "phrase",
+      "spell": "joeoneul hada"
+    },
+    {
+      "text": "난방비",
+      "hint": "取暖费",
+      "kind": "phrase",
+      "spell": "nanbangbi"
+    },
+    {
+      "text": "자연 환경",
+      "hint": "自然环境",
+      "kind": "phrase",
+      "spell": "jayeon hwangyeong"
+    },
+    {
+      "text": "관리비",
+      "hint": "管理费",
+      "kind": "phrase",
+      "spell": "gwanribi"
+    },
+    {
+      "text": "공동 화장실",
+      "hint": "公共卫生间",
+      "kind": "phrase",
+      "spell": "gongdong hwajangsil"
+    },
+    {
+      "text": "독방",
+      "hint": "单间",
+      "kind": "phrase",
+      "spell": "dokbang"
+    },
+    {
+      "text": "소파",
+      "hint": "沙发",
+      "kind": "phrase",
+      "spell": "sopa"
+    },
+    {
+      "text": "자식",
+      "hint": "孩子",
+      "kind": "phrase",
+      "spell": "jasik"
+    },
+    {
+      "text": "그래도",
+      "hint": "还是",
+      "kind": "phrase",
+      "spell": "geuraedo"
+    },
+    {
+      "text": "그래서",
+      "hint": "所以",
+      "kind": "phrase",
+      "spell": "geuraeseo"
+    },
+    {
+      "text": "연기하다",
+      "hint": "延期",
+      "kind": "phrase",
+      "spell": "yeongihada"
+    },
+    {
+      "text": "진학하다",
+      "hint": "升学",
+      "kind": "phrase",
+      "spell": "jinhakhada"
+    },
+    {
+      "text": "그러나",
+      "hint": "但是",
+      "kind": "phrase",
+      "spell": "geureona"
+    },
+    {
+      "text": "합격하다",
+      "hint": "合格",
+      "kind": "phrase",
+      "spell": "hapgyeokhada"
+    },
+    {
+      "text": "그러니까",
+      "hint": "所以",
+      "kind": "phrase",
+      "spell": "geureonikka"
+    },
+    {
+      "text": "그런데",
+      "hint": "然而",
+      "kind": "phrase",
+      "spell": "geureonde"
+    },
+    {
+      "text": "그렇지만",
+      "hint": "但是",
+      "kind": "phrase",
+      "spell": "geureochiman"
+    },
+    {
+      "text": "무리하다",
+      "hint": "无理 过分",
+      "kind": "phrase",
+      "spell": "murihada"
+    },
+    {
+      "text": "그리고",
+      "hint": "而且",
+      "kind": "phrase",
+      "spell": "geurigo"
+    },
+    {
+      "text": "포장 이사",
+      "hint": "包装搬家",
+      "kind": "phrase",
+      "spell": "pojang isa"
+    },
+    {
+      "text": "참다",
+      "hint": "忍耐",
+      "kind": "phrase",
+      "spell": "chamda"
+    },
+    {
+      "text": "옮기다",
+      "hint": "搬运",
+      "kind": "phrase",
+      "spell": "omgida"
+    },
+    {
+      "text": "엄살(을) 부리다",
+      "hint": "夸张（严重程度）",
+      "kind": "phrase",
+      "spell": "eomsal(eul) burida"
+    },
+    {
+      "text": "정리하다",
+      "hint": "整理",
+      "kind": "phrase",
+      "spell": "jeongrihada"
+    },
+    {
+      "text": "비용",
+      "hint": "费用",
+      "kind": "phrase",
+      "spell": "biyong"
+    },
+    {
+      "text": "사다리차",
+      "hint": "云梯车",
+      "kind": "phrase",
+      "spell": "sadaricha"
+    },
+    {
+      "text": "이웃집",
+      "hint": "邻居家 隔壁",
+      "kind": "phrase",
+      "spell": "iutjip"
+    },
+    {
+      "text": "배치",
+      "hint": "布置",
+      "kind": "phrase",
+      "spell": "baechi"
+    },
+    {
+      "text": "전학가다",
+      "hint": "转学",
+      "kind": "phrase",
+      "spell": "jeonhakgada"
+    },
+    {
+      "text": "다정하다",
+      "hint": "亲密",
+      "kind": "phrase",
+      "spell": "dajeonghada"
+    },
+    {
+      "text": "걸레",
+      "hint": "抹布",
+      "kind": "phrase",
+      "spell": "geolre"
+    },
+    {
+      "text": "깔끔하다",
+      "hint": "干净利落",
+      "kind": "phrase",
+      "spell": "kkalkkeumhada"
+    },
+    {
+      "text": "룸메이트",
+      "hint": "同屋 室友",
+      "kind": "phrase",
+      "spell": "rummeiteu"
+    },
+    {
+      "text": "재활용",
+      "hint": "再利用",
+      "kind": "phrase",
+      "spell": "jaehwaryong"
+    },
+    {
+      "text": "상자",
+      "hint": "箱子",
+      "kind": "phrase",
+      "spell": "sangja"
+    },
+    {
+      "text": "설거지를 하다",
+      "hint": "洗碗",
+      "kind": "phrase",
+      "spell": "seolgeojireul hada"
+    },
+    {
+      "text": "화분",
+      "hint": "花盆",
+      "kind": "phrase",
+      "spell": "hwabun"
+    },
+    {
+      "text": "강아지",
+      "hint": "小狗",
+      "kind": "phrase",
+      "spell": "gangaji"
+    },
+    {
+      "text": "돌보다",
+      "hint": "照顾",
+      "kind": "phrase",
+      "spell": "dolboda"
+    },
+    {
+      "text": "먼지를 털다",
+      "hint": "掸尘",
+      "kind": "phrase",
+      "spell": "meonjireul teolda"
+    },
+    {
+      "text": "걸레질을 하다",
+      "hint": "擦灰尘",
+      "kind": "phrase",
+      "spell": "geolrejireul hada"
+    },
+    {
+      "text": "마당을 쓸다",
+      "hint": "扫院子",
+      "kind": "phrase",
+      "spell": "madangeul sseulda"
+    },
+    {
+      "text": "세차하다",
+      "hint": "洗车",
+      "kind": "phrase",
+      "spell": "sechahada"
+    },
+    {
+      "text": "콧노래",
+      "hint": "哼歌",
+      "kind": "phrase",
+      "spell": "kotnorae"
+    },
+    {
+      "text": "스카프",
+      "hint": "围巾",
+      "kind": "phrase",
+      "spell": "seukapeu"
+    },
+    {
+      "text": "얼룩",
+      "hint": "斑点 污渍",
+      "kind": "phrase",
+      "spell": "eolruk"
+    },
+    {
+      "text": "빼다",
+      "hint": "去除",
+      "kind": "phrase",
+      "spell": "ppaeda"
+    },
+    {
+      "text": "빠지다",
+      "hint": "洗掉",
+      "kind": "phrase",
+      "spell": "ppajida"
+    },
+    {
+      "text": "드라이클리닝",
+      "hint": "干洗",
+      "kind": "phrase",
+      "spell": "deuraikeulrining"
+    },
+    {
+      "text": "옷걸이",
+      "hint": "衣架",
+      "kind": "phrase",
+      "spell": "otgeori"
+    },
+    {
+      "text": "말리다",
+      "hint": "晾",
+      "kind": "phrase",
+      "spell": "malrida"
+    },
+    {
+      "text": "다림질하다",
+      "hint": "熨烫",
+      "kind": "phrase",
+      "spell": "darimjilhada"
+    },
+    {
+      "text": "표백하다",
+      "hint": "漂白",
+      "kind": "phrase",
+      "spell": "pyobaekhada"
+    },
+    {
+      "text": "짜다",
+      "hint": "拧",
+      "kind": "phrase",
+      "spell": "jjada"
+    },
+    {
+      "text": "털",
+      "hint": "毛",
+      "kind": "phrase",
+      "spell": "teol"
+    },
+    {
+      "text": "점퍼",
+      "hint": "运动服 工作服",
+      "kind": "phrase",
+      "spell": "jeompeo"
+    },
+    {
+      "text": "양말",
+      "hint": "袜子",
+      "kind": "phrase",
+      "spell": "yangmal"
+    },
+    {
+      "text": "운동복",
+      "hint": "运动服",
+      "kind": "phrase",
+      "spell": "undongbok"
+    },
+    {
+      "text": "블라우스",
+      "hint": "宽松女罩衫 女衬衣",
+      "kind": "phrase",
+      "spell": "beulrauseu"
+    },
+    {
+      "text": "속옷",
+      "hint": "内衣",
+      "kind": "phrase",
+      "spell": "sogot"
+    },
+    {
+      "text": "스타킹",
+      "hint": "长统袜",
+      "kind": "phrase",
+      "spell": "seutaking"
+    },
+    {
+      "text": "면바지",
+      "hint": "棉料裤子",
+      "kind": "phrase",
+      "spell": "myeonbaji"
+    },
+    {
+      "text": "수건",
+      "hint": "手巾",
+      "kind": "phrase",
+      "spell": "sugeon"
+    },
+    {
+      "text": "수영복",
+      "hint": "泳衣",
+      "kind": "phrase",
+      "spell": "suyeongbok"
+    },
+    {
+      "text": "재킷",
+      "hint": "夹克",
+      "kind": "phrase",
+      "spell": "jaekit"
+    },
+    {
+      "text": "스웨터",
+      "hint": "针织衫 羊毛衫",
+      "kind": "phrase",
+      "spell": "seuweteo"
+    },
+    {
+      "text": "니트",
+      "hint": "针织品",
+      "kind": "phrase",
+      "spell": "niteu"
+    },
+    {
+      "text": "조끼",
+      "hint": "坎肩",
+      "kind": "phrase",
+      "spell": "jokki"
+    },
+    {
+      "text": "실크",
+      "hint": "丝绸",
+      "kind": "phrase",
+      "spell": "silkeu"
+    },
+    {
+      "text": "아기",
+      "hint": "小孩儿",
+      "kind": "phrase",
+      "spell": "agi"
+    },
+    {
+      "text": "손빨래",
+      "hint": "手洗（衣服）",
+      "kind": "phrase",
+      "spell": "sonppalrae"
+    },
+    {
+      "text": "구멍이 나다",
+      "hint": "出了洞",
+      "kind": "phrase",
+      "spell": "gumeongi nada"
+    },
+    {
+      "text": "맡기다",
+      "hint": "委托",
+      "kind": "phrase",
+      "spell": "matgida"
+    },
+    {
+      "text": "잉크",
+      "hint": "墨水",
+      "kind": "phrase",
+      "spell": "ingkeu"
+    },
+    {
+      "text": "껌",
+      "hint": "口香糖",
+      "kind": "phrase",
+      "spell": "kkeom"
+    },
+    {
+      "text": "바르다",
+      "hint": "抹 擦",
+      "kind": "phrase",
+      "spell": "bareuda"
+    },
+    {
+      "text": "크레파스",
+      "hint": "蜡粉笔 蜡笔 彩色粉笔",
+      "kind": "phrase",
+      "spell": "keurepaseu"
+    },
+    {
+      "text": "지워지다",
+      "hint": "消除/去掉（지우다的被动词）",
+      "kind": "phrase",
+      "spell": "jiwojida"
+    },
+    {
+      "text": "지하",
+      "hint": "地下",
+      "kind": "phrase",
+      "spell": "jiha"
+    },
+    {
+      "text": "접속사",
+      "hint": "接续词",
+      "kind": "phrase",
+      "spell": "jeopsoksa"
+    },
+    {
+      "text": "벽지",
+      "hint": "墙纸",
+      "kind": "phrase",
+      "spell": "byeokji"
+    },
+    {
+      "text": "칠하다",
+      "hint": "添，涂",
+      "kind": "phrase",
+      "spell": "chilhada"
+    },
+    {
+      "text": "천장",
+      "hint": "天花板，天棚",
+      "kind": "phrase",
+      "spell": "cheonjang"
+    },
+    {
+      "text": "상담하다",
+      "hint": "商量 商谈",
+      "kind": "phrase",
+      "spell": "sangdamhada"
+    },
+    {
+      "text": "정보",
+      "hint": "信息",
+      "kind": "phrase",
+      "spell": "jeongbo"
+    },
+    {
+      "text": "분리",
+      "hint": "分开 分类",
+      "kind": "phrase",
+      "spell": "bunri"
+    },
+    {
+      "text": "종류",
+      "hint": "种类",
+      "kind": "phrase",
+      "spell": "jongryu"
+    },
+    {
+      "text": "플라스틱",
+      "hint": "塑料",
+      "kind": "phrase",
+      "spell": "peulraseutik"
+    },
+    {
+      "text": "줄다",
+      "hint": "减少",
+      "kind": "phrase",
+      "spell": "julda"
+    }
+  ]
+}

@@ -22,8 +22,12 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_IDS = [
     "zh-hsk-1-3",
     "ja-jlpt-n5n4",
+    "ja-jlpt-n3",
     "ko-core-beginner",
+    "ko-yonsei-2",
+    "ko-yonsei-3",
     "es-core-a1-zh",
+    "de-core-a1-zh",
     "zh-daily-a1",
     "ja-daily-a1",
     "ko-daily-a1-zh",

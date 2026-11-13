@@ -116,11 +116,11 @@
     {
       "id": "fr-daily-a1-zh",
       "title": "法语日常 A1",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "lang": "fr",
       "glossLang": "zh",
-      "lemmaCount": 64,
-      "description": "法语入门词句 · 中文释义（配合核心词表）",
+      "lemmaCount": 173,
+      "description": "法语入门词句 · 中文释义（加厚日常场景，配合核心词表）",
       "asset": "fr-daily-a1-zh-v1.json"
     },
     {
@@ -136,12 +136,22 @@
     {
       "id": "es-daily-a1-zh",
       "title": "西语日常 A1",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "lang": "es",
       "glossLang": "zh",
-      "lemmaCount": 64,
-      "description": "西班牙语入门词句 · 中文释义",
+      "lemmaCount": 174,
+      "description": "西班牙语入门词句 · 中文释义（加厚日常场景）",
       "asset": "es-daily-a1-zh-v1.json"
+    },
+    {
+      "id": "de-core-a1-zh",
+      "title": "德语 A1 核心",
+      "version": "1.0.1",
+      "lang": "de",
+      "glossLang": "zh",
+      "lemmaCount": 670,
+      "description": "德语入门核心词 · 中文释义（CEFR/Goethe A1）",
+      "asset": "de-core-a1-zh-v1.json"
     },
     {
       "id": "zh-daily-a1",
@@ -184,6 +194,16 @@
       "asset": "ja-jlpt-n5n4-v1.json"
     },
     {
+      "id": "ja-jlpt-n3",
+      "title": "日语 JLPT N3",
+      "version": "1.0.0",
+      "lang": "ja",
+      "glossLang": "zh",
+      "lemmaCount": 1659,
+      "description": "JLPT N3 常用词 · 中文释义（罗马字拼写）",
+      "asset": "ja-jlpt-n3-v1.json"
+    },
+    {
       "id": "ko-daily-a1-zh",
       "title": "韩语日常 A1",
       "version": "1.0.0",
@@ -202,6 +222,26 @@
       "lemmaCount": 973,
       "description": "韩语入门高频词 · 中文释义（《延世韩国语》第一册开源词表）",
       "asset": "ko-core-beginner-v1.json"
+    },
+    {
+      "id": "ko-yonsei-2",
+      "title": "韩语延世 2",
+      "version": "1.0.0",
+      "lang": "ko",
+      "glossLang": "zh",
+      "lemmaCount": 872,
+      "description": "韩语进阶词 · 中文释义（《延世韩国语》第2册开源词表）",
+      "asset": "ko-yonsei-2-v1.json"
+    },
+    {
+      "id": "ko-yonsei-3",
+      "title": "韩语延世 3",
+      "version": "1.0.0",
+      "lang": "ko",
+      "glossLang": "zh",
+      "lemmaCount": 604,
+      "description": "韩语进阶词 · 中文释义（《延世韩国语》第3册开源词表）",
+      "asset": "ko-yonsei-3-v1.json"
     }
   ]
 }

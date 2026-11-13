@@ -2,12 +2,12 @@
   "manifest": {
     "id": "fr-daily-a1-zh",
     "title": "法语日常 A1",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "lang": "fr",
     "glossLang": "zh",
     "source": "curated-a1",
-    "lemmaCount": 64,
-    "description": "法语入门词句 · 中文释义（配合核心词表）"
+    "lemmaCount": 173,
+    "description": "法语入门词句 · 中文释义（加厚日常场景，配合核心词表）"
   },
   "items": [
     {
@@ -393,6 +393,660 @@
       "hint": "明天见",
       "kind": "sentence",
       "spell": "A demain"
+    },
+    {
+      "text": "hôtel",
+      "hint": "酒店",
+      "kind": "phrase",
+      "spell": "hotel"
+    },
+    {
+      "text": "aéroport",
+      "hint": "机场",
+      "kind": "phrase",
+      "spell": "aeroport"
+    },
+    {
+      "text": "billet",
+      "hint": "票",
+      "kind": "phrase",
+      "spell": "billet"
+    },
+    {
+      "text": "passeport",
+      "hint": "护照",
+      "kind": "phrase",
+      "spell": "passeport"
+    },
+    {
+      "text": "valise",
+      "hint": "行李箱",
+      "kind": "phrase",
+      "spell": "valise"
+    },
+    {
+      "text": "taxi",
+      "hint": "出租车",
+      "kind": "phrase",
+      "spell": "taxi"
+    },
+    {
+      "text": "métro",
+      "hint": "地铁",
+      "kind": "phrase",
+      "spell": "metro"
+    },
+    {
+      "text": "bus",
+      "hint": "公交车",
+      "kind": "phrase",
+      "spell": "bus"
+    },
+    {
+      "text": "rue",
+      "hint": "街道",
+      "kind": "phrase",
+      "spell": "rue"
+    },
+    {
+      "text": "place",
+      "hint": "广场；地方",
+      "kind": "phrase",
+      "spell": "place"
+    },
+    {
+      "text": "magasin",
+      "hint": "商店",
+      "kind": "phrase",
+      "spell": "magasin"
+    },
+    {
+      "text": "supermarché",
+      "hint": "超市",
+      "kind": "phrase",
+      "spell": "supermarche"
+    },
+    {
+      "text": "pharmacie",
+      "hint": "药店",
+      "kind": "phrase",
+      "spell": "pharmacie"
+    },
+    {
+      "text": "hôpital",
+      "hint": "医院",
+      "kind": "phrase",
+      "spell": "hopital"
+    },
+    {
+      "text": "médecin",
+      "hint": "医生",
+      "kind": "phrase",
+      "spell": "medecin"
+    },
+    {
+      "text": "malade",
+      "hint": "生病的",
+      "kind": "phrase",
+      "spell": "malade"
+    },
+    {
+      "text": "argent",
+      "hint": "钱",
+      "kind": "phrase",
+      "spell": "argent"
+    },
+    {
+      "text": "carte",
+      "hint": "卡；地图",
+      "kind": "phrase",
+      "spell": "carte"
+    },
+    {
+      "text": "prix",
+      "hint": "价格",
+      "kind": "phrase",
+      "spell": "prix"
+    },
+    {
+      "text": "bon marché",
+      "hint": "便宜",
+      "kind": "phrase",
+      "spell": "bon marche"
+    },
+    {
+      "text": "cher",
+      "hint": "贵的",
+      "kind": "phrase",
+      "spell": "cher"
+    },
+    {
+      "text": "ouvrir",
+      "hint": "打开",
+      "kind": "phrase",
+      "spell": "ouvrir"
+    },
+    {
+      "text": "fermer",
+      "hint": "关闭",
+      "kind": "phrase",
+      "spell": "fermer"
+    },
+    {
+      "text": "entrer",
+      "hint": "进入",
+      "kind": "phrase",
+      "spell": "entrer"
+    },
+    {
+      "text": "sortir",
+      "hint": "出去",
+      "kind": "phrase",
+      "spell": "sortir"
+    },
+    {
+      "text": "attendre",
+      "hint": "等待",
+      "kind": "phrase",
+      "spell": "attendre"
+    },
+    {
+      "text": "appeler",
+      "hint": "打电话；叫",
+      "kind": "phrase",
+      "spell": "appeler"
+    },
+    {
+      "text": "avoir besoin",
+      "hint": "需要",
+      "kind": "phrase",
+      "spell": "avoir besoin"
+    },
+    {
+      "text": "vouloir",
+      "hint": "想要",
+      "kind": "phrase",
+      "spell": "vouloir"
+    },
+    {
+      "text": "pouvoir",
+      "hint": "能够",
+      "kind": "phrase",
+      "spell": "pouvoir"
+    },
+    {
+      "text": "savoir",
+      "hint": "知道",
+      "kind": "phrase",
+      "spell": "savoir"
+    },
+    {
+      "text": "comprendre",
+      "hint": "明白",
+      "kind": "phrase",
+      "spell": "comprendre"
+    },
+    {
+      "text": "acheter",
+      "hint": "买",
+      "kind": "phrase",
+      "spell": "acheter"
+    },
+    {
+      "text": "vendre",
+      "hint": "卖",
+      "kind": "phrase",
+      "spell": "vendre"
+    },
+    {
+      "text": "payer",
+      "hint": "付钱",
+      "kind": "phrase",
+      "spell": "payer"
+    },
+    {
+      "text": "réserver",
+      "hint": "预订",
+      "kind": "phrase",
+      "spell": "reserver"
+    },
+    {
+      "text": "petit-déjeuner",
+      "hint": "早餐",
+      "kind": "phrase",
+      "spell": "petit-dejeuner"
+    },
+    {
+      "text": "déjeuner",
+      "hint": "午餐",
+      "kind": "phrase",
+      "spell": "dejeuner"
+    },
+    {
+      "text": "dîner",
+      "hint": "晚餐",
+      "kind": "phrase",
+      "spell": "diner"
+    },
+    {
+      "text": "bière",
+      "hint": "啤酒",
+      "kind": "phrase",
+      "spell": "biere"
+    },
+    {
+      "text": "vin",
+      "hint": "葡萄酒",
+      "kind": "phrase",
+      "spell": "vin"
+    },
+    {
+      "text": "fruit",
+      "hint": "水果",
+      "kind": "phrase",
+      "spell": "fruit"
+    },
+    {
+      "text": "viande",
+      "hint": "肉",
+      "kind": "phrase",
+      "spell": "viande"
+    },
+    {
+      "text": "poisson",
+      "hint": "鱼",
+      "kind": "phrase",
+      "spell": "poisson"
+    },
+    {
+      "text": "légume",
+      "hint": "蔬菜",
+      "kind": "phrase",
+      "spell": "legume"
+    },
+    {
+      "text": "lait",
+      "hint": "牛奶",
+      "kind": "phrase",
+      "spell": "lait"
+    },
+    {
+      "text": "sucre",
+      "hint": "糖",
+      "kind": "phrase",
+      "spell": "sucre"
+    },
+    {
+      "text": "sel",
+      "hint": "盐",
+      "kind": "phrase",
+      "spell": "sel"
+    },
+    {
+      "text": "grand",
+      "hint": "大的",
+      "kind": "phrase",
+      "spell": "grand"
+    },
+    {
+      "text": "petit",
+      "hint": "小的",
+      "kind": "phrase",
+      "spell": "petit"
+    },
+    {
+      "text": "nouveau",
+      "hint": "新的",
+      "kind": "phrase",
+      "spell": "nouveau"
+    },
+    {
+      "text": "vieux",
+      "hint": "旧的；老的",
+      "kind": "phrase",
+      "spell": "vieux"
+    },
+    {
+      "text": "beau",
+      "hint": "漂亮的",
+      "kind": "phrase",
+      "spell": "beau"
+    },
+    {
+      "text": "facile",
+      "hint": "简单的",
+      "kind": "phrase",
+      "spell": "facile"
+    },
+    {
+      "text": "difficile",
+      "hint": "难的",
+      "kind": "phrase",
+      "spell": "difficile"
+    },
+    {
+      "text": "près",
+      "hint": "附近",
+      "kind": "phrase",
+      "spell": "pres"
+    },
+    {
+      "text": "loin",
+      "hint": "远",
+      "kind": "phrase",
+      "spell": "loin"
+    },
+    {
+      "text": "gauche",
+      "hint": "左边",
+      "kind": "phrase",
+      "spell": "gauche"
+    },
+    {
+      "text": "droite",
+      "hint": "右边",
+      "kind": "phrase",
+      "spell": "droite"
+    },
+    {
+      "text": "ici",
+      "hint": "这里",
+      "kind": "phrase",
+      "spell": "ici"
+    },
+    {
+      "text": "là",
+      "hint": "那里",
+      "kind": "phrase",
+      "spell": "la"
+    },
+    {
+      "text": "maintenant",
+      "hint": "现在",
+      "kind": "phrase",
+      "spell": "maintenant"
+    },
+    {
+      "text": "après",
+      "hint": "之后",
+      "kind": "phrase",
+      "spell": "apres"
+    },
+    {
+      "text": "toujours",
+      "hint": "总是",
+      "kind": "phrase",
+      "spell": "toujours"
+    },
+    {
+      "text": "jamais",
+      "hint": "从不",
+      "kind": "phrase",
+      "spell": "jamais"
+    },
+    {
+      "text": "aussi",
+      "hint": "也",
+      "kind": "phrase",
+      "spell": "aussi"
+    },
+    {
+      "text": "très",
+      "hint": "很",
+      "kind": "phrase",
+      "spell": "tres"
+    },
+    {
+      "text": "plus",
+      "hint": "更多",
+      "kind": "phrase",
+      "spell": "plus"
+    },
+    {
+      "text": "moins",
+      "hint": "更少",
+      "kind": "phrase",
+      "spell": "moins"
+    },
+    {
+      "text": "J'ai besoin d'un taxi",
+      "hint": "我需要一辆出租车",
+      "kind": "phrase",
+      "spell": "J'ai besoin d'un taxi"
+    },
+    {
+      "text": "Ça coûte combien ?",
+      "hint": "这个多少钱？",
+      "kind": "phrase",
+      "spell": "Ca coute combien ?"
+    },
+    {
+      "text": "Je voudrais réserver une chambre",
+      "hint": "我想订一间房",
+      "kind": "phrase",
+      "spell": "Je voudrais reserver une chambre"
+    },
+    {
+      "text": "Où sont les toilettes ?",
+      "hint": "厕所在哪里？",
+      "kind": "phrase",
+      "spell": "Ou sont les toilettes ?"
+    },
+    {
+      "text": "Je suis perdu",
+      "hint": "我迷路了",
+      "kind": "phrase",
+      "spell": "Je suis perdu"
+    },
+    {
+      "text": "Parlez-vous anglais ?",
+      "hint": "你会说英语吗？",
+      "kind": "phrase",
+      "spell": "Parlez-vous anglais ?"
+    },
+    {
+      "text": "Je ne parle pas très bien français",
+      "hint": "我法语说得不太好",
+      "kind": "phrase",
+      "spell": "Je ne parle pas tres bien francais"
+    },
+    {
+      "text": "Pouvez-vous m'aider ?",
+      "hint": "您能帮我吗？",
+      "kind": "phrase",
+      "spell": "Pouvez-vous m'aider ?"
+    },
+    {
+      "text": "Je vais à l'aéroport",
+      "hint": "我去机场",
+      "kind": "phrase",
+      "spell": "Je vais a l'aeroport"
+    },
+    {
+      "text": "Le train part à trois heures",
+      "hint": "火车三点发车",
+      "kind": "phrase",
+      "spell": "Le train part a trois heures"
+    },
+    {
+      "text": "J'ai mal à la tête",
+      "hint": "我头疼",
+      "kind": "phrase",
+      "spell": "J'ai mal a la tete"
+    },
+    {
+      "text": "Je dois voir un médecin",
+      "hint": "我需要看医生",
+      "kind": "phrase",
+      "spell": "Je dois voir un medecin"
+    },
+    {
+      "text": "C'est loin ?",
+      "hint": "远吗？",
+      "kind": "phrase",
+      "spell": "C'est loin ?"
+    },
+    {
+      "text": "C'est à droite",
+      "hint": "在右边",
+      "kind": "phrase",
+      "spell": "C'est a droite"
+    },
+    {
+      "text": "Je veux payer par carte",
+      "hint": "我想用卡支付",
+      "kind": "phrase",
+      "spell": "Je veux payer par carte"
+    },
+    {
+      "text": "Vous acceptez les espèces ?",
+      "hint": "收现金吗？",
+      "kind": "phrase",
+      "spell": "Vous acceptez les especes ?"
+    },
+    {
+      "text": "Une table pour deux, s'il vous plaît",
+      "hint": "请给我两人桌",
+      "kind": "phrase",
+      "spell": "Une table pour deux, s'il vous plait"
+    },
+    {
+      "text": "C'est délicieux",
+      "hint": "很好吃",
+      "kind": "phrase",
+      "spell": "C'est delicieux"
+    },
+    {
+      "text": "Je ne mange pas de viande",
+      "hint": "我不吃肉",
+      "kind": "phrase",
+      "spell": "Je ne mange pas de viande"
+    },
+    {
+      "text": "Vous avez le wifi ?",
+      "hint": "有无线网吗？",
+      "kind": "phrase",
+      "spell": "Vous avez le wifi ?"
+    },
+    {
+      "text": "Le mot de passe, s'il vous plaît",
+      "hint": "请告诉我密码",
+      "kind": "phrase",
+      "spell": "Le mot de passe, s'il vous plait"
+    },
+    {
+      "text": "Je vais faire des courses",
+      "hint": "我去购物",
+      "kind": "phrase",
+      "spell": "Je vais faire des courses"
+    },
+    {
+      "text": "Je cherche une chemise",
+      "hint": "我在找一件衬衫",
+      "kind": "phrase",
+      "spell": "Je cherche une chemise"
+    },
+    {
+      "text": "Je peux l'échanger ?",
+      "hint": "可以换吗？",
+      "kind": "phrase",
+      "spell": "Je peux l'echanger ?"
+    },
+    {
+      "text": "J'ai une réservation",
+      "hint": "我有预订",
+      "kind": "phrase",
+      "spell": "J'ai une reservation"
+    },
+    {
+      "text": "À quelle heure ouvrez-vous ?",
+      "hint": "几点开门？",
+      "kind": "phrase",
+      "spell": "A quelle heure ouvrez-vous ?"
+    },
+    {
+      "text": "Ça ferme à neuf heures",
+      "hint": "九点关门",
+      "kind": "phrase",
+      "spell": "Ca ferme a neuf heures"
+    },
+    {
+      "text": "Il fait froid aujourd'hui",
+      "hint": "今天很冷",
+      "kind": "phrase",
+      "spell": "Il fait froid aujourd'hui"
+    },
+    {
+      "text": "Il fait chaud",
+      "hint": "很热",
+      "kind": "phrase",
+      "spell": "Il fait chaud"
+    },
+    {
+      "text": "Il pleut beaucoup",
+      "hint": "雨下得很大",
+      "kind": "phrase",
+      "spell": "Il pleut beaucoup"
+    },
+    {
+      "text": "Je m'appelle Marie",
+      "hint": "我叫 Marie",
+      "kind": "phrase",
+      "spell": "Je m'appelle Marie"
+    },
+    {
+      "text": "Je viens de Chine",
+      "hint": "我来自中国",
+      "kind": "phrase",
+      "spell": "Je viens de Chine"
+    },
+    {
+      "text": "J'habite à Paris",
+      "hint": "我住在巴黎",
+      "kind": "phrase",
+      "spell": "J'habite a Paris"
+    },
+    {
+      "text": "Je travaille dans un bureau",
+      "hint": "我在办公室工作",
+      "kind": "phrase",
+      "spell": "Je travaille dans un bureau"
+    },
+    {
+      "text": "J'apprends le français",
+      "hint": "我学法语",
+      "kind": "phrase",
+      "spell": "J'apprends le francais"
+    },
+    {
+      "text": "À tout à l'heure",
+      "hint": "回头见",
+      "kind": "phrase",
+      "spell": "A tout a l'heure"
+    },
+    {
+      "text": "Joyeux anniversaire",
+      "hint": "生日快乐",
+      "kind": "phrase",
+      "spell": "Joyeux anniversaire"
+    },
+    {
+      "text": "Bonne chance",
+      "hint": "祝你好运",
+      "kind": "phrase",
+      "spell": "Bonne chance"
+    },
+    {
+      "text": "Prompt rétablissement",
+      "hint": "祝你早日康复",
+      "kind": "phrase",
+      "spell": "Prompt retablissement"
+    },
+    {
+      "text": "Pardon, excusez-moi",
+      "hint": "借过；不好意思",
+      "kind": "phrase",
+      "spell": "Pardon, excusez-moi"
     }
   ]
 }
