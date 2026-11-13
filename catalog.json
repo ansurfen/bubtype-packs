@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "https://github.com/ansurfen/bubtype-packs",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "books": [
     {
       "id": "oxford-3000-zh",
@@ -124,6 +124,26 @@
       "asset": "fr-daily-a1-zh-v1.json"
     },
     {
+      "id": "es-core-a1-zh",
+      "title": "西语 A1 核心",
+      "version": "1.1.0",
+      "lang": "es",
+      "glossLang": "zh",
+      "lemmaCount": 443,
+      "description": "西班牙语入门核心词 · 中文释义（CEFR A1 × 西语常用词中文表）",
+      "asset": "es-core-a1-zh-v1.json"
+    },
+    {
+      "id": "es-daily-a1-zh",
+      "title": "西语日常 A1",
+      "version": "1.0.0",
+      "lang": "es",
+      "glossLang": "zh",
+      "lemmaCount": 64,
+      "description": "西班牙语入门词句 · 中文释义",
+      "asset": "es-daily-a1-zh-v1.json"
+    },
+    {
       "id": "zh-daily-a1",
       "title": "中文日常 A1",
       "version": "1.1.0",
@@ -156,11 +176,11 @@
     {
       "id": "ja-jlpt-n5n4",
       "title": "日语 JLPT N5–N4",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "lang": "ja",
-      "glossLang": "en",
+      "glossLang": "zh",
       "lemmaCount": 1302,
-      "description": "JLPT N5+N4 常用词 · 英文释义（罗马字拼写）",
+      "description": "JLPT N5+N4 常用词 · 中文释义（罗马字拼写）",
       "asset": "ja-jlpt-n5n4-v1.json"
     },
     {
@@ -176,22 +196,12 @@
     {
       "id": "ko-core-beginner",
       "title": "韩语入门核心",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "lang": "ko",
-      "glossLang": "en",
-      "lemmaCount": 966,
-      "description": "韩语入门高频词 · 英文释义（罗马音拼写）",
-      "asset": "ko-core-beginner-v1.json"
-    },
-    {
-      "id": "es-daily-a1-zh",
-      "title": "西语日常 A1",
-      "version": "1.0.0",
-      "lang": "es",
       "glossLang": "zh",
-      "lemmaCount": 64,
-      "description": "西班牙语入门词句 · 中文释义",
-      "asset": "es-daily-a1-zh-v1.json"
+      "lemmaCount": 973,
+      "description": "韩语入门高频词 · 中文释义（《延世韩国语》第一册开源词表）",
+      "asset": "ko-core-beginner-v1.json"
     }
   ]
 }

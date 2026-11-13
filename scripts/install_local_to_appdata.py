@@ -23,6 +23,7 @@ DEFAULT_IDS = [
     "zh-hsk-1-3",
     "ja-jlpt-n5n4",
     "ko-core-beginner",
+    "es-core-a1-zh",
     "zh-daily-a1",
     "ja-daily-a1",
     "ko-daily-a1-zh",
